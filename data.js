@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   meta: {
-    version: 1,
-    updatedAt: "24/08/2026, 11h00 (BRT)",
-    updatedISO: "2026-08-24",
+    version: 2,
+    updatedAt: "28/08/2026, 16h45 (BRT)",
+    updatedISO: "2026-08-28",
     nextUpdate: "diária, ~9h (BRT)",
     festivalStart: "2026-09-04",
     festivalDays: ["2026-09-04","2026-09-05","2026-09-06","2026-09-07","2026-09-11","2026-09-12","2026-09-13"]
@@ -61,7 +61,7 @@ window.RADAR = {
       }
     },
     {
-      id: "d4", date: "seg · 7/set (feriado)", title: "Dia 4 — Despedida de Elton John · 89 anos da Ipiranga", soldOut: true,
+      id: "d4", date: "seg · 7/set (feriado)", title: "Dia 4 — Despedida de Elton John · 89 anos da Ipiranga", soldOut: false,
       headliner: "Elton John",
       ipiranga: true,
       stages: {
@@ -74,7 +74,7 @@ window.RADAR = {
       }
     },
     {
-      id: "d5", date: "sex · 11/set", title: "Dia 5 — K-pop day (maior encontro da América Latina)", soldOut: false,
+      id: "d5", date: "sex · 11/set", title: "Dia 5 — K-pop day (maior encontro da América Latina)", soldOut: true,
       headliner: "Stray Kids",
       stages: {
         "Palco Mundo": [["16h40","NEXZ"],["19h00","HWASA"],["21h20","Alok (Keep Art Human)"],["00h05","Stray Kids"]],
@@ -113,6 +113,111 @@ window.RADAR = {
 
   /* ---------------- EDIÇÕES DIÁRIAS (mais recente primeiro) ---------------- */
   editions: [
+    {
+      date: "28/08/2026", dateISO: "2026-08-28", weekday: "sexta-feira", edition: 2,
+      phase: "pré-evento",
+
+      pulse: [
+        "⏳ <b>Faltam 7 dias</b>: a Cidade do Rock abre na próxima sexta (4/set), com Foo Fighters puxando a noite do rock alternativo.",
+        "🎟️ <b>Alerta de ingresso</b>: 6, 11 e 12/set esgotados e a organização sinaliza \"últimos ingressos\" para 7/set — justamente o dia da despedida de Elton John e dos 89 anos da Ipiranga. 4, 5 e 13/set seguem à venda (R$ 870 / meia R$ 435).",
+        "📲 <b>A pauta virou operação</b>: ingresso 100% digital no app Quentro (print não passa na catraca), metrô 24h no Jardim Oceânico e BRT Expresso a R$ 29 — a semana T-7 é dominada por conteúdo de utilidade."
+      ],
+
+      news: [
+        { t: "\"Últimos ingressos\" para 7/set — o dia de Elton John (e da Ipiranga) é o próximo a esgotar", src: "Igor Miranda", when: "28/ago",
+          s: "Levantamento desta sexta aponta o 7/set na reta final de vendas (R$ 870 inteira / R$ 435 meia, máx. 4 por comprador, Ticketmaster). Depois da venda extraordinária de 6/ago, os dias voltaram a esgotar um a um — o feriado com Elton + Gil deve ser o próximo \"sold out\".",
+          u: "https://igormiranda.com.br/2026/08/rock-in-rio-2026-proximo-dia-deve-ter-ingressos-esgotados/" },
+        { t: "Balanço de ingressos: 6, 11 e 12/set esgotados; quatro dias seguiam à venda", src: "O Reporter", when: "21/ago",
+          s: "Calvin Harris (6), Stray Kids (11) e Maroon 5 (12) já não têm entradas. Restavam 4/set (Foo Fighters), 5/set (Avenged Sevenfold), 7/set (Elton John) e 13/set (Twenty One Pilots). A grade da aba Shows reflete o status atualizado.",
+          u: "https://oreporter.com/rock-in-rio/rock-in-rio-2026-ingressos-dias-disponiveis" },
+        { t: "Guia oficial da reta final: ingresso só no app Quentro, lockers com USB e The Flight com 756 fogos", src: "Assessoria RiR / Visite Brasília", when: "20/ago",
+          s: "Ingresso é 100% digital via app Quentro (captura de tela e impresso não passam na catraca). Pode entrar: água até 500 ml, protetor até 100 ml, carregador portátil, até 5 itens de alimento. Novidades: lockers com recarga USB, compra antecipada de bebidas, ECCO by LightWire imersivo e The Flight com 756 disparos de fogos diurnos.",
+          u: "https://visitebrasilia.com.br/noticias/faltam-15-dias-rock-in-rio-entra-na-reta-final-e-reune-tudo-o-que-o-publico-precisa-saber-para-viver-o-festival-ao-maximo" },
+        { t: "Esquema de mobilidade: metrô 24h e BRT Expresso a R$ 29", src: "Semana Pop", when: "21/ago",
+          s: "Estação Jardim Oceânico funciona 24h nos dias de evento (tarifa R$ 7,90); BRT Expresso Rock in Rio a R$ 29 por trecho via app Jaé (combo ida e volta metrô+BRT: R$ 44,80). Serviço Primeira Classe tem ônibus executivos com 20+ pontos de embarque na cidade.",
+          u: "https://www.semanapop.com.br/rock-in-rio-2026-entra-na-reta-final-no-rio/" },
+        { t: "90+ marcas, 100+ ativações e ~1 milhão de brindes na Cidade do Rock", src: "propmark", when: "18/ago",
+          s: "Edição 2026 terá mais de 90 marcas, 100+ ativações, cerca de 400 produtos licenciados e 8 mil horas de experiências. Projeção de ~1 milhão de brindes distribuídos nos 7 dias — o maior 'shopping de marcas' da história do festival.",
+          u: "https://propmark.com.br/mercado/rock-in-rio-2026-tera-mais-de-90-marcas-e-100-ativacoes/" },
+        { t: "Estudo Kantar: o que o público quer das marcas em festival", src: "Mundo do Marketing", when: "18/ago",
+          s: "Music Festival Brand Evaluator: 46% valorizam \"momentos divertidos e memoráveis\", 40% benefícios úteis e 39% experiências exclusivas. Das ativações desta edição, 36% apostam em brindes, 33% em benefícios exclusivos e 32% em experiências memoráveis.",
+          u: "https://mundodomarketing.com.br/rock-in-rio-2026-amplia-disputa-das-marcas-por-atencao-e-experiencias-na-cidade-do-rock" }
+      ],
+
+      ipiranga: [
+        { t: "Imprensa detalha o Espaço Ipiranga renovado", src: "Terra", when: "21/ago",
+          s: "Matéria de ativações confirma: espaço \"completamente renovado, com ativações abertas ao público e uma área exclusiva para convidados\", brindes de pochete e leque e experiência fotográfica com Glambot. É a descrição pública mais recente do que o visitante vai encontrar.",
+          u: "https://www.terra.com.br/diversao/musica/meu-sonora/rock/ativacoes-do-rock-in-rio-2026-confira-que-cada-patrocinador-prepara-para-a-edicao,6339eb8ee0dcb937a8aec29a1bb062c3yjw477g5.html" },
+        { t: "Atenção: C&A anuncia \"primeira Glambot da Cidade do Rock\"", src: "Terra", when: "21/ago",
+          s: "Na mesma matéria, a C&A (50 anos) reivindica a \"primeira Glambot na Cidade do Rock\" — sobreposição direta com a experiência fotográfica do nosso espaço. Itaú leva pavilhão de 3 andares com Listening Club e roda-gigante; Heineken estreia a linha Ultimate com tirolesa; Philco monta estande-caixa de som com game.",
+          u: "https://www.terra.com.br/diversao/musica/meu-sonora/rock/ativacoes-do-rock-in-rio-2026-confira-que-cada-patrocinador-prepara-para-a-edicao,6339eb8ee0dcb937a8aec29a1bb062c3yjw477g5.html" },
+        { t: "7/set caminha para esgotar de novo — e é o dia dos 89 anos", src: "Igor Miranda", when: "28/ago",
+          s: "O alerta de \"últimos ingressos\" transforma o dia do aniversário no mais disputado do momento. Quando o esgotamento for anunciado, a pauta espontânea (\"dia mais desejado do festival\") se conecta direto à celebração da marca.",
+          u: "https://igormiranda.com.br/2026/08/rock-in-rio-2026-proximo-dia-deve-ter-ingressos-esgotados/" },
+        { t: "Dado que valida a tese da jornada: benefício útil move 40% do público", src: "Mundo do Marketing (Kantar)", when: "18/ago",
+          s: "O 2º maior driver de lembrança de marca em festival é oferecer benefício útil (40%) — exatamente o território da \"parada completa\" (rota, abastecimento, AmPm, apoio ao fã). Argumento pronto para sustentar a estratégia junto ao cliente.",
+          u: "https://mundodomarketing.com.br/rock-in-rio-2026-amplia-disputa-das-marcas-por-atencao-e-experiencias-na-cidade-do-rock" }
+      ],
+
+      shows: {
+        status: "A primeira noite é em 4/set — sexta que vem. A partir da manhã seguinte, a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        reperc: []
+      },
+
+      trends: {
+        x: [
+          { t: "\"Últimos ingressos\" para o dia Elton John", s: "O alerta da organização para 7/set reacende a corrida por ingresso e o FOMO da despedida — assunto dominante da conversa de festival nesta sexta.", u: "https://igormiranda.com.br/2026/08/rock-in-rio-2026-proximo-dia-deve-ter-ingressos-esgotados/" },
+          { t: "Modo checklist (T-7)", s: "Perfis de fã e imprensa viram guia de sobrevivência: app Quentro, o que pode levar, BRT vs carro. Logística superou line-up como pauta do pré-evento.", u: "https://visitebrasilia.com.br/noticias/faltam-15-dias-rock-in-rio-entra-na-reta-final-e-reune-tudo-o-que-o-publico-precisa-saber-para-viver-o-festival-ao-maximo" },
+          { t: "STAY em mobilização pelo 11/set esgotado", s: "Caravanas e projetos de fã seguem ativos para o K-pop day — primeiro da história do festival com lightstick liberado; ingresso esgotado só aumenta a ansiedade do fandom.", u: "https://rollingstone.com.br/musica/rock-in-rio-2026-tera-o-maior-encontro-de-k-pop-da-america-latina-em-11-de-setembro/" }
+        ],
+        tiktok: [
+          { t: "Looks segmentados por dia e artista", s: "A trend de outfit evoluiu: páginas de descoberta já separam \"outfit Calvin\", \"outfits Laufey\" e looks masculinos por data — o público está planejando visual show a show.", u: "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026" },
+          { t: "Hacks de logística e \"o que levar\"", s: "Vídeos de como chegar, ingresso no app e itens permitidos ganham tração na semana da reta final — utilidade é o formato que mais cresce agora.", u: "https://www.tiktok.com/discover/rock-in-rio" },
+          { t: "Esquenta dos fandoms", s: "Edits de Foo Fighters (abertura), do metal do dia 5 e fancams pré-álbum de Stray Kids alimentam a contagem regressiva.", u: "https://www.tiktok.com/discover/rock-in-rio-2026-outfits-masculino" }
+        ],
+        instagram: [
+          { t: "Perfil oficial em modo serviço", s: "Posts de mobilidade, ingresso digital e mapa da Cidade do Rock dividem espaço com expectativa dos headliners; comentários concentram dúvidas de logística — território aberto para marcas úteis.", u: "https://www.instagram.com/rockinrio/" },
+          { t: "Artistas em preparação", s: "Ensaios e teasers dos shows brasileiros (Ivete, Gil, Capital Inicial) e posts da despedida de Elton John puxam o UGC de expectativa.", u: "https://www.instagram.com/rockinrio/" }
+        ],
+        sounds: [
+          { t: "Stray Kids — esquenta do álbum (17 faixas)", s: "Fancams e edits pré-lançamento seguem dominando o recorte K-pop rumo ao 11/set." },
+          { t: "Clássicos de Elton John", s: "\"Rocket Man\", \"Your Song\" e \"Tiny Dancer\" em trilhas de vídeo de expectativa — tendência de alta até 7/set." },
+          { t: "Foo Fighters e o esquenta da abertura", s: "\"Everlong\" e \"The Pretender\" aparecem em edits de contagem regressiva para a primeira noite (4/set)." }
+        ],
+        note: "Fase pré-evento: leitura editorial a partir de imprensa e páginas públicas das plataformas — sem dado quantitativo de plataforma disponível nesta data. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+
+      direcionais: {
+        leitura: "A uma semana da abertura, a conversa migrou de line-up para operação (ingresso digital, mobilidade, o que levar) — e o alerta de \"últimos ingressos\" para 7/set coloca o dia da Ipiranga no centro do noticiário. O estudo Kantar dá o número que sustenta a tese da marca: benefício útil é o 2º maior driver de lembrança em festival (40%).",
+        dirs: [
+          { t: "Surfar o \"últimos ingressos\" de 7/set sem vender ingresso", s: "O dia do aniversário caminha para esgotar de novo. Quando o esgotamento oficial sair, a marca entra com celebração — 89 anos no dia mais disputado do festival — nunca com call de compra: quem vende é a organização; a Ipiranga capitaliza o símbolo." },
+          { t: "Dominar a pauta de utilidade da semana T-7", s: "App Quentro, BRT/metrô 24h, checklist do que levar: são as dúvidas reais do público agora, e utilidade é o território validado pela Kantar (40%). Conteúdo de serviço com selo Ipiranga/AmPm nesta janela rende mais que teaser de espaço." },
+          { t: "Diferenciar a Glambot antes que a C&A tome a narrativa", s: "A C&A reivindica a \"primeira Glambot da Cidade do Rock\". Amarrar a nossa experiência fotográfica ao ritual dos 89 anos (moldura/motion exclusivo do aniversário) e comunicar antes — a disputa é por quem define a referência." },
+          { t: "Brinde não é diferencial, é aposta da maioria", s: "36% das 100+ ativações apostam em brinde e o festival projeta ~1 milhão de itens. Pochete e leque precisam carregar uma história — kit de jornada do fã — para não virarem commodity de sacola." },
+          { t: "Tratar a semana 1 como ensaio geral do dia-pilar", s: "A abertura (4/set) é o teste de fluxo do war room antes de 7/set: monitoramento, cortes e aprovação rodando desde a primeira noite, com ajuste fino aplicado no dia do aniversário." }
+        ],
+        acion: [
+          "Deixar pronto (texto + arte + press) o disparo de celebração para o momento em que a organização anunciar o esgotamento de 7/set — monitorar Ticketmaster e canais oficiais diariamente.",
+          "Publicar até 1/set o guia Ipiranga de chegada: rota de carro, estacionamento, postos e AmPm no caminho do Parque Olímpico, integrado ao esquema oficial (metrô 24h, BRT R$ 29, app Jaé).",
+          "Briefar a Glambot do espaço com assinatura visual dos 89 anos e antecipar o anúncio antes da comunicação da C&A.",
+          "Transformar pochete + leque em \"kit de sobrevivência da Cidade do Rock\" no seeding com creators convidados (roteiro de uso real: fila, sol, pertences).",
+          "Rodar dry run do war room na noite de 4/set com relatório-relâmpago na manhã de 5/set, calibrando o fluxo para o dia 7."
+        ]
+      },
+
+      sources: [
+        ["Igor Miranda — próximo dia a esgotar (28/08)", "https://igormiranda.com.br/2026/08/rock-in-rio-2026-proximo-dia-deve-ter-ingressos-esgotados/"],
+        ["O Reporter — status de ingressos por dia", "https://oreporter.com/rock-in-rio/rock-in-rio-2026-ingressos-dias-disponiveis"],
+        ["Visite Brasília — guia oficial da reta final", "https://visitebrasilia.com.br/noticias/faltam-15-dias-rock-in-rio-entra-na-reta-final-e-reune-tudo-o-que-o-publico-precisa-saber-para-viver-o-festival-ao-maximo"],
+        ["Semana Pop — mobilidade e ingresso digital", "https://www.semanapop.com.br/rock-in-rio-2026-entra-na-reta-final-no-rio/"],
+        ["propmark — 90+ marcas e 100+ ativações", "https://propmark.com.br/mercado/rock-in-rio-2026-tera-mais-de-90-marcas-e-100-ativacoes/"],
+        ["Mundo do Marketing — estudo Kantar", "https://mundodomarketing.com.br/rock-in-rio-2026-amplia-disputa-das-marcas-por-atencao-e-experiencias-na-cidade-do-rock"],
+        ["Terra — ativações dos patrocinadores (Ipiranga, C&A, Itaú...)", "https://www.terra.com.br/diversao/musica/meu-sonora/rock/ativacoes-do-rock-in-rio-2026-confira-que-cada-patrocinador-prepara-para-a-edicao,6339eb8ee0dcb937a8aec29a1bb062c3yjw477g5.html"],
+        ["Estado de Minas — venda extraordinária (contexto)", "https://www.em.com.br/cultura/2026/08/7472038-rock-in-rio-disponibiliza-novos-ingressos-para-a-edicao-de-2026.html"],
+        ["Kiss FM — montagem da Cidade do Rock", "https://kissfm.com.br/rock-in-rio-2026-entra-na-reta-final-com-cidade-do-rock-em-montagem-acelerada-e-line-up-completo-confirmado/"],
+        ["TikTok — looks para o Rock in Rio 2026", "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026"]
+      ]
+    },
     {
       date: "24/08/2026", dateISO: "2026-08-24", weekday: "segunda-feira", edition: 1,
       phase: "pré-evento",
