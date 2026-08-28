@@ -11,8 +11,8 @@ Rotina executada todo dia ~9h BRT por uma sessão agendada do Claude. Este arqui
 
 ## Passos
 
-1. **Baixar o `data.js` atual** (traz também o `sha` p/ o update):
-   `GET https://api.github.com/repos/IzaMutato/radar-rock-in-rio/contents/data.js` (Authorization: Bearer TOKEN; campo `content` em base64). No sandbox do Claude, usar `curl --noproxy '*'` — o proxy da sessão bloqueia chamadas a repos não vinculados.
+1. **Baixar o `data.js` atual** (traz também o `sha` p/ o update). O branch publicado pelo GitHub Pages é **`gh-pages`** — todo o fluxo diário acontece nele:
+   `GET https://api.github.com/repos/igormutato/radar-rock-in-rio/contents/data.js?ref=gh-pages` (Authorization: Bearer TOKEN; campo `content` em base64). No sandbox do Claude, usar `curl --noproxy '*'` — o proxy da sessão bloqueia chamadas a repos não vinculados.
 2. **Pesquisar o dia** (WebSearch/WebFetch):
    - Notícias das últimas 24h sobre o festival (imprensa musical + trade de marketing) e sobre Ipiranga/patrocinadores no RiR.
    - **Durante o festival (4–7 e 11–13/set):** repercussão da noite anterior — melhores shows, momentos virais, críticas (g1, Rolling Stone, Terra, Billboard, Splash/UOL, Popline) → preencher `shows.reperc`.
@@ -21,8 +21,8 @@ Rotina executada todo dia ~9h BRT por uma sessão agendada do Claude. Este arqui
 4. **Atualizar `meta`:** `version` +1, `updatedAt`, `updatedISO`.
 5. **Corrigir `schedule`** apenas se a organização anunciou mudança de grade (com fonte).
 6. **Publicar:**
-   `PUT https://api.github.com/repos/IzaMutato/radar-rock-in-rio/contents/data.js` com `{message, content(base64), sha}`.
-7. **Verificar** https://izamutato.github.io/radar-rock-in-rio/ após ~1–2 min (build do Pages) — conferir data/versão no rodapé.
+   `PUT https://api.github.com/repos/igormutato/radar-rock-in-rio/contents/data.js` com `{message, content(base64), sha, "branch":"gh-pages"}`.
+7. **Verificar** https://igormutato.github.io/radar-rock-in-rio/ após ~1–2 min (build do Pages) — conferir data/versão (github.io não responde ao curl do sandbox; usar WebFetch).
 
 ## Calendário
 
