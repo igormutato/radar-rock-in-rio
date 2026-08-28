@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Rock in Rio 2026 · Ipiranga</title>
+<meta name="description" content="Monitoramento diário do Rock in Rio 2026 para Ipiranga: notícias, shows, trends e direcionais.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0d0e12; --bg2:#12141a; --card:#171923; --card2:#1c1f2b;
+    --line:#272b38; --line2:#323848;
+    --ink:#f2f3f6; --ink2:#b9bfca; --mut:#8a909c;
+    --yellow:#ffc400; --yellow2:#ffd75e; --blue:#4ea3ff; --blue2:#2d7dd2;
+    --red:#ff5d5d; --green:#41d99a;
+    --r:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:'Inter',system-ui,-apple-system,sans-serif;
+    font-size:15px; line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--blue); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+  /* ---------- header ---------- */
+  header{
+    background:
+      radial-gradient(1200px 400px at 15% -10%, rgba(255,196,0,.14), transparent 60%),
+      radial-gradient(900px 380px at 90% -20%, rgba(45,125,210,.18), transparent 60%),
+      var(--bg2);
+    border-bottom:1px solid var(--line);
+    padding:34px 0 0;
+  }
+  .kicker{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .brand-dot{width:10px;height:10px;border-radius:50%;background:var(--yellow);box-shadow:0 0 12px rgba(255,196,0,.8)}
+  .kicker span{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);font-weight:600}
+  h1{
+    font-family:'Archivo',sans-serif;font-weight:900;
+    font-size:clamp(30px,5vw,46px);line-height:1.04;letter-spacing:-.01em;
+    margin:10px 0 6px;
+  }
+  h1 .hl{color:var(--yellow)}
+  .sub{color:var(--ink2);max-width:760px}
+  .meta-line{display:flex;gap:14px;flex-wrap:wrap;margin-top:14px;font-size:13px;color:var(--mut)}
+  .meta-line b{color:var(--ink2);font-weight:600}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:22px 0}
+  .tile{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px}
+  .tile .n{font-family:'Archivo',sans-serif;font-weight:800;font-size:26px;line-height:1.1}
+  .tile .l{font-size:12px;color:var(--mut);margin-top:3px}
+  .tile.acc .n{color:var(--yellow)}
+
+  nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:0;margin-top:6px}
+  nav button{
+    appearance:none;border:0;background:transparent;color:var(--ink2);
+    font:600 14px 'Inter',sans-serif;padding:12px 16px;cursor:pointer;
+    border-bottom:3px solid transparent;white-space:nowrap;border-radius:8px 8px 0 0;
+  }
+  nav button:hover{color:var(--ink);background:rgba(255,255,255,.03)}
+  nav button.on{color:var(--yellow);border-bottom-color:var(--yellow)}
+
+  main{padding:30px 0 10px}
+  .tab{display:none}
+  .tab.on{display:block;animation:fade .25s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+
+  h2{font-family:'Archivo',sans-serif;font-weight:800;font-size:22px;margin:26px 0 4px}
+  h2:first-child{margin-top:0}
+  .h2sub{color:var(--mut);font-size:13.5px;margin-bottom:14px}
+  .numtag{color:var(--yellow);font-weight:800;margin-right:8px}
+
+  /* ---------- pulse ---------- */
+  .pulse{
+    background:linear-gradient(135deg, rgba(255,196,0,.10), rgba(45,125,210,.08));
+    border:1px solid rgba(255,196,0,.35);border-radius:var(--r);
+    padding:18px 20px;margin-bottom:8px;
+  }
+  .pulse .tag{font-size:11px;letter-spacing:.14em;font-weight:700;color:var(--yellow);text-transform:uppercase}
+  .pulse ul{list-style:none;margin-top:10px;display:grid;gap:9px}
+  .pulse li{padding-left:2px;color:var(--ink)}
+  .pulse b{color:var(--yellow2)}
+
+  /* ---------- cards ---------- */
+  .grid{display:grid;gap:12px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px}
+  .card:hover{border-color:var(--line2)}
+  .card .top{display:flex;justify-content:space-between;gap:12px;align-items:baseline;flex-wrap:wrap}
+  .card h3{font-size:15.5px;font-weight:700;line-height:1.35}
+  .card h3 a{color:var(--ink)}
+  .card h3 a:hover{color:var(--yellow2);text-decoration:none}
+  .when{font-size:12px;color:var(--mut);white-space:nowrap}
+  .card p{color:var(--ink2);font-size:14px;margin-top:6px}
+  .src{font-size:12px;color:var(--mut);margin-top:8px}
+  .src a{color:var(--mut)}
+  .card.ipi{border-left:3px solid var(--yellow)}
+
+  /* ---------- shows ---------- */
+  .daychips{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 18px}
+  .daychips button{
+    appearance:none;cursor:pointer;background:var(--card);border:1px solid var(--line);
+    color:var(--ink2);border-radius:999px;padding:8px 14px;font:600 13px 'Inter',sans-serif;
+  }
+  .daychips button:hover{border-color:var(--line2);color:var(--ink)}
+  .daychips button.on{background:var(--yellow);border-color:var(--yellow);color:#14151a}
+  .day-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:4px}
+  .day-head h3{font-family:'Archivo',sans-serif;font-size:19px;font-weight:800}
+  .badge{font-size:11px;font-weight:700;letter-spacing:.08em;padding:3px 9px;border-radius:999px;text-transform:uppercase}
+  .badge.out{background:rgba(255,93,93,.15);color:var(--red);border:1px solid rgba(255,93,93,.4)}
+  .badge.ipi{background:rgba(255,196,0,.15);color:var(--yellow);border:1px solid rgba(255,196,0,.4)}
+  .tbl-scroll{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);margin-top:12px}
+  table{width:100%;border-collapse:collapse;min-width:520px}
+  th,td{text-align:left;padding:10px 14px;font-size:13.5px}
+  thead th{
+    background:var(--card2);color:var(--mut);font-size:11.5px;letter-spacing:.1em;
+    text-transform:uppercase;font-weight:700;border-bottom:1px solid var(--line)
+  }
+  tbody tr{border-bottom:1px solid var(--line)}
+  tbody tr:last-child{border-bottom:0}
+  td.time{color:var(--yellow);font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;width:76px}
+  td.stage{color:var(--mut);font-size:12.5px;white-space:nowrap}
+  tr.head-liner td{background:rgba(255,196,0,.05)}
+  tr.head-liner td:not(.time){font-weight:700}
+
+  .empty{
+    border:1px dashed var(--line2);border-radius:var(--r);padding:18px 20px;
+    color:var(--mut);font-size:14px;background:rgba(255,255,255,.015)
+  }
+
+  /* ---------- trends ---------- */
+  .tcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  .tcol{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px}
+  .tcol .th{display:flex;align-items:center;gap:8px;font-weight:800;font-family:'Archivo',sans-serif;font-size:15px;margin-bottom:12px}
+  .titem{padding:10px 0;border-top:1px solid var(--line)}
+  .titem:first-of-type{border-top:0;padding-top:0}
+  .titem .tt{font-weight:600;font-size:14px}
+  .titem .tt a{color:var(--ink)}
+  .titem .tt a:hover{color:var(--yellow2);text-decoration:none}
+  .titem p{color:var(--ink2);font-size:13px;margin-top:3px}
+  .note{margin-top:14px;font-size:12.5px;color:var(--mut);border-left:2px solid var(--line2);padding-left:12px}
+
+  /* ---------- direcionais ---------- */
+  .leitura{
+    background:var(--card);border:1px solid var(--line);border-left:3px solid var(--blue2);
+    border-radius:var(--r);padding:16px 18px;color:var(--ink2);margin-bottom:14px
+  }
+  .leitura b{color:var(--ink)}
+  .dir{border-left:3px solid var(--yellow)}
+  .dir h3{color:var(--yellow2)}
+  ol.acion{list-style:none;counter-reset:a;display:grid;gap:8px;margin-top:12px}
+  ol.acion li{
+    counter-increment:a;background:var(--card);border:1px solid var(--line);
+    border-radius:12px;padding:12px 14px 12px 46px;position:relative;color:var(--ink2);font-size:14px
+  }
+  ol.acion li::before{
+    content:counter(a,decimal-leading-zero);position:absolute;left:14px;top:12px;
+    font-family:'Archivo',sans-serif;font-weight:800;color:var(--yellow);font-size:13px
+  }
+  details.hist{background:var(--card);border:1px solid var(--line);border-radius:var(--r);margin-top:10px}
+  details.hist summary{
+    cursor:pointer;padding:14px 18px;font-weight:700;list-style:none;
+    display:flex;justify-content:space-between;align-items:center;gap:10px
+  }
+  details.hist summary::-webkit-details-marker{display:none}
+  details.hist summary .chev{color:var(--mut);transition:transform .2s}
+  details.hist[open] summary .chev{transform:rotate(90deg)}
+  details.hist .body{padding:0 18px 16px;border-top:1px solid var(--line)}
+  details.hist .body h4{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);margin:14px 0 8px}
+  details.hist .body ul{list-style:none;display:grid;gap:8px}
+  details.hist .body li{color:var(--ink2);font-size:13.5px;padding-left:14px;position:relative}
+  details.hist .body li::before{content:"›";position:absolute;left:0;color:var(--yellow)}
+
+  /* ---------- footer ---------- */
+  footer{border-top:1px solid var(--line);margin-top:44px;padding:26px 0 40px;color:var(--mut);font-size:13px}
+  footer .srcs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:4px 18px;margin:10px 0 18px}
+  footer .srcs a{color:var(--mut)}
+  footer .srcs a:hover{color:var(--ink2)}
+  .stamp{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .stamp .v{color:var(--yellow);font-weight:700}
+
+  @media (max-width:640px){
+    .tiles{grid-template-columns:repeat(2,1fr)}
+    th,td{padding:9px 10px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="kicker"><span class="brand-dot"></span><span>Radar diário · Ipiranga × Rock in Rio Brasil 2026 · uso interno</span></div>
+    <h1>RADAR <span class="hl">ROCK IN RIO</span> 2026</h1>
+    <p class="sub">Varredura de notícias, repercussão dos shows, trends nas redes e direcionais para a Ipiranga — atualizado todo dia de manhã.</p>
+    <div class="meta-line" id="metaLine"></div>
+    <div class="tiles" id="tiles"></div>
+    <nav id="nav">
+      <button data-tab="noticias" class="on">📰 Notícias</button>
+      <button data-tab="shows">🎸 Shows &amp; Horários</button>
+      <button data-tab="trends">📈 Trends</button>
+      <button data-tab="dir">🧭 Direcionais Ipiranga</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ================= ABA 1 · NOTÍCIAS ================= -->
+  <section class="tab on" id="tab-noticias">
+    <div class="pulse">
+      <div class="tag">⚡ Pulso do dia</div>
+      <ul id="pulseList"></ul>
+    </div>
+    <h2><span class="numtag">01</span>Principais matérias</h2>
+    <p class="h2sub">O que a imprensa está dizendo sobre o festival.</p>
+    <div class="grid" id="newsList"></div>
+
+    <h2><span class="numtag">02</span>Ipiranga &amp; marcas na Cidade do Rock</h2>
+    <p class="h2sub">Patrocínio, ativações e movimentos da concorrência de atenção.</p>
+    <div class="grid" id="ipiList"></div>
+  </section>
+
+  <!-- ================= ABA 2 · SHOWS ================= -->
+  <section class="tab" id="tab-shows">
+    <h2><span class="numtag">01</span>Repercussão dos shows</h2>
+    <p class="h2sub">Leitura da manhã seguinte: melhores momentos, críticas e virais de cada noite.</p>
+    <div id="repercBox"></div>
+
+    <h2><span class="numtag">02</span>Grade de horários</h2>
+    <p class="h2sub">Todos os palcos, todos os dias. Fonte: Rolling Stone Brasil / organização do festival.</p>
+    <div class="daychips" id="dayChips"></div>
+    <div id="dayView"></div>
+  </section>
+
+  <!-- ================= ABA 3 · TRENDS ================= -->
+  <section class="tab" id="tab-trends">
+    <h2><span class="numtag">01</span>O que está bombando</h2>
+    <p class="h2sub" id="trendsSub"></p>
+    <div class="tcols" id="trendCols"></div>
+    <p class="note" id="trendNote"></p>
+  </section>
+
+  <!-- ================= ABA 4 · DIRECIONAIS ================= -->
+  <section class="tab" id="tab-dir">
+    <h2><span class="numtag">01</span>Direcionais do dia</h2>
+    <p class="h2sub" id="dirDate"></p>
+    <div class="leitura" id="dirLeitura"></div>
+    <div class="grid" id="dirList"></div>
+
+    <h2><span class="numtag">02</span>Acionáveis — hoje</h2>
+    <p class="h2sub">Tarefas objetivas derivadas dos direcionais acima.</p>
+    <ol class="acion" id="acionList"></ol>
+
+    <h2><span class="numtag">03</span>Histórico de direcionais</h2>
+    <p class="h2sub">Edições anteriores do radar, com os direcionais e acionáveis de cada dia.</p>
+    <div id="histBox"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <b style="color:var(--ink2)">Fontes desta edição</b>
+    <div class="srcs" id="srcList"></div>
+    <div class="stamp">
+      <span class="v" id="stampV"></span>
+      <span id="stampUpd"></span>
+      <span>Próxima atualização: <b id="stampNext" style="color:var(--ink2)"></b></span>
+    </div>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  const R = window.RADAR, ed = R.editions[0];
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s??"");
+
+  /* ---------- header meta + tiles ---------- */
+  const soldOut = R.schedule.filter(d=>d.soldOut).length;
+  const today = new Date(); today.setHours(0,0,0,0);
+  const start = new Date(R.meta.festivalStart+"T00:00:00");
+  const end   = new Date(R.meta.festivalDays[R.meta.festivalDays.length-1]+"T00:00:00");
+  const diff  = Math.round((start-today)/86400000);
+  let cd, cdl;
+  if (diff>0){ cd=diff; cdl="dias para a abertura (4/set)"; }
+  else if (today<=end){
+    const idx = R.meta.festivalDays.findIndex(d=>new Date(d+"T00:00:00").getTime()===today.getTime());
+    cd = idx>=0 ? "É HOJE" : "—"; cdl = idx>=0 ? "dia "+(idx+1)+" de 7 da Cidade do Rock" : "intervalo entre semanas";
+  } else { cd="✔"; cdl="edição 2026 encerrada"; }
+
+  $("metaLine").innerHTML =
+    `<span>📅 <b>${ed.date}</b> (${ed.weekday})</span>` +
+    `<span>🎪 Cidade do Rock · Parque Olímpico · RJ</span>` +
+    `<span>🗓️ 4–7 e 11–13 de setembro</span>`;
+
+  $("tiles").innerHTML = [
+    ['<span style="font-size:22px">'+cd+"</span>", cdl, true],
+    ["7", "dias de festival · 6 palcos", false],
+    [soldOut, "dias esgotados (6, 7 e 12/set)", false],
+    ["90+", "marcas ativando no evento", false],
+    ["89", "anos da Ipiranga em 7/set", true]
+  ].map(([n,l,a])=>`<div class="tile${a?" acc":""}"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
+
+  /* ---------- tabs ---------- */
+  const nav=$("nav");
+  nav.addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b) return;
+    nav.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));
+    document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));
+    $("tab-"+b.dataset.tab).classList.add("on");
+    window.scrollTo({top:0});
+  });
+
+  /* ---------- aba 1: notícias ---------- */
+  $("pulseList").innerHTML = ed.pulse.map(p=>`<li>${p}</li>`).join("");
+  const newsCard = (n,ipi)=>`
+    <article class="card${ipi?" ipi":""}">
+      <div class="top"><h3><a href="${n.u}" target="_blank" rel="noopener">${esc(n.t)} ↗</a></h3><span class="when">${esc(n.when)}</span></div>
+      <p>${n.s}</p>
+      <div class="src">Fonte: ${esc(n.src)}</div>
+    </article>`;
+  $("newsList").innerHTML = ed.news.map(n=>newsCard(n,false)).join("");
+  $("ipiList").innerHTML  = ed.ipiranga.map(n=>newsCard(n,true)).join("");
+
+  /* ---------- aba 2: shows ---------- */
+  const rb = $("repercBox");
+  if (!ed.shows.reperc || !ed.shows.reperc.length){
+    rb.innerHTML = `<div class="empty">🎤 ${esc(ed.shows.status)}</div>`;
+  } else {
+    rb.innerHTML = ed.shows.reperc.map(r=>`
+      <article class="card" style="margin-bottom:10px">
+        <div class="top"><h3>${esc(r.date)} — ${esc(r.headline)}</h3></div>
+        ${(r.artists||[]).map(a=>`<p><b style="color:var(--yellow2)">${esc(a.name)}:</b> ${a.verdict}${(a.links||[]).map(l=>` <a href="${l[1]}" target="_blank" rel="noopener">${esc(l[0])} ↗</a>`).join("")}</p>`).join("")}
+      </article>`).join("");
+  }
+
+  const chips=$("dayChips"), view=$("dayView");
+  // dia padrão: hoje se for dia de festival; senão o próximo dia; senão o último
+  let defIdx = R.meta.festivalDays.findIndex(d=>new Date(d+"T00:00:00")>=today);
+  if (defIdx<0) defIdx=R.schedule.length-1;
+  chips.innerHTML = R.schedule.map((d,i)=>`<button data-i="${i}"${i===defIdx?' class="on"':''}>${d.date.replace(" · "," ")}${d.soldOut?" 🔴":""}</button>`).join("");
+  function renderDay(i){
+    const d=R.schedule[i];
+    const rows=[];
+    for (const [stage,acts] of Object.entries(d.stages))
+      for (const [time,artist] of acts) rows.push({stage,time,artist});
+    // ordena por horário dentro do dia (madrugada depois de 12h+)
+    const mins=t=>{const[a,b]=t.split("h");let m=+a*60+(+b||0);if(+a<10)m+=1440;return m};
+    rows.sort((a,b)=>mins(a.time)-mins(b.time));
+    view.innerHTML = `
+      <div class="day-head">
+        <h3>${esc(d.date)} · ${esc(d.title)}</h3>
+        ${d.soldOut?'<span class="badge out">Esgotado</span>':""}
+        ${d.ipiranga?'<span class="badge ipi">⛽ 89 anos Ipiranga</span>':""}
+      </div>
+      <div class="tbl-scroll"><table>
+        <thead><tr><th>Horário</th><th>Artista</th><th>Palco</th></tr></thead>
+        <tbody>${rows.map(r=>`
+          <tr${r.artist===d.headliner?' class="head-liner"':""}>
+            <td class="time">${r.time}</td><td>${esc(r.artist)}${r.artist===d.headliner?" 👑":""}</td><td class="stage">${esc(r.stage)}</td>
+          </tr>`).join("")}
+        </tbody>
+      </table></div>`;
+  }
+  chips.addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b) return;
+    chips.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));
+    renderDay(+b.dataset.i);
+  });
+  renderDay(defIdx);
+
+  /* ---------- aba 3: trends ---------- */
+  $("trendsSub").textContent = "Leitura do dia "+ed.date+" · fase: "+ed.phase+".";
+  const tcol=(icon,name,items)=>`
+    <div class="tcol"><div class="th">${icon} ${name}</div>
+      ${items.map(t=>`<div class="titem"><div class="tt">${t.u?`<a href="${t.u}" target="_blank" rel="noopener">${esc(t.t)} ↗</a>`:esc(t.t)}</div><p>${t.s}</p></div>`).join("")}
+    </div>`;
+  $("trendCols").innerHTML =
+    tcol("𝕏","Trending no X", ed.trends.x) +
+    tcol("🎵","TikTok", ed.trends.tiktok) +
+    tcol("📸","Instagram", ed.trends.instagram) +
+    tcol("🎧","Sons & tendências em alta", ed.trends.sounds);
+  $("trendNote").textContent = "ℹ️ " + ed.trends.note;
+
+  /* ---------- aba 4: direcionais ---------- */
+  $("dirDate").textContent = "Edição de "+ed.date+" ("+ed.weekday+") · tom interno de agência.";
+  $("dirLeitura").innerHTML = "<b>Leitura do dia:</b> "+ed.direcionais.leitura;
+  $("dirList").innerHTML = ed.direcionais.dirs.map(d=>`
+    <article class="card dir"><h3>${esc(d.t)}</h3><p>${d.s}</p></article>`).join("");
+  $("acionList").innerHTML = ed.direcionais.acion.map(a=>`<li>${a}</li>`).join("");
+
+  const past = R.editions.slice(1);
+  $("histBox").innerHTML = past.length ? past.map(p=>`
+    <details class="hist">
+      <summary><span>📁 ${p.date} (${p.weekday}) — edição #${p.edition}</span><span class="chev">›</span></summary>
+      <div class="body">
+        ${p.direcionais.leitura?`<h4>Leitura do dia</h4><p style="color:var(--ink2);font-size:13.5px">${p.direcionais.leitura}</p>`:""}
+        <h4>Direcionais</h4><ul>${p.direcionais.dirs.map(d=>`<li><b>${esc(d.t)}.</b> ${d.s}</li>`).join("")}</ul>
+        <h4>Acionáveis</h4><ul>${p.direcionais.acion.map(a=>`<li>${a}</li>`).join("")}</ul>
+      </div>
+    </details>`).join("")
+    : `<div class="empty">🗂️ Esta é a primeira edição do radar. A partir de amanhã, os direcionais de hoje ficam arquivados aqui — um dossiê por dia, sempre a um clique.</div>`;
+
+  /* ---------- footer ---------- */
+  $("srcList").innerHTML = ed.sources.map(s=>`<a href="${s[1]}" target="_blank" rel="noopener">↗ ${esc(s[0])}</a>`).join("");
+  $("stampV").textContent = "Radar v"+R.meta.version;
+  $("stampUpd").textContent = "Atualizado em "+R.meta.updatedAt;
+  $("stampNext").textContent = R.meta.nextUpdate;
+})();
+</script>
+</body>
+</html>
