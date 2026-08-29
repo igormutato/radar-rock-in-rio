@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 5,
-    "updatedAt": "28/08/2026, 16h44 (BRT)",
-    "updatedISO": "2026-08-28",
+    "version": 6,
+    "updatedAt": "29/08/2026, 09h15 (BRT)",
+    "updatedISO": "2026-08-29",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,240 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "29/08/2026",
+      "dateISO": "2026-08-29",
+      "weekday": "sábado",
+      "edition": 6,
+      "phase": "pré-evento",
+      "pulse": [
+        "⏳ <b>Faltam 6 dias</b>: sábado de contagem regressiva, com a pauta pública dominada pela megaoperação de segurança anunciada ontem — 7.680 agentes, drones e reconhecimento facial na Cidade do Rock.",
+        "🎟️ <b>\"Últimos ingressos\" para 7/set agora é oficial</b>: a organização anunciou na sexta a reta final de vendas do dia Elton John + Gil — o dia dos 89 anos da Ipiranga pode esgotar a qualquer momento do fim de semana. 6, 11 e 12/set seguem esgotados; 4, 5 e 13/set à venda.",
+        "🌦️ <b>Clima entra no radar</b>: primeiras previsões indicam primeiro fim de semana com instabilidade e possibilidade de chuva na área aberta da Cidade do Rock — capa de chuva (guarda-chuva é proibido) entra no checklist do fã."
+      ],
+      "news": [
+        {
+          "t": "Governo do RJ detalha megaoperação: 7.680 agentes, drones e reconhecimento facial",
+          "src": "Super Rádio Tupi",
+          "when": "28/ago",
+          "s": "Esquema reúne PM (4.500 agentes, 177 viaturas, 8 torres), Polícia Civil (1.700, sendo 725 dentro do recinto), Bombeiros (600), Lei Seca (700) e Segurança Presente (140). Drones inéditos no espaço aéreo, câmeras com reconhecimento facial e leitura de placas nos acessos, 6 pontos de bloqueio e Centro Integrado de Comando móvel no BRT Parque Olímpico. Público estimado: 700 mil+ nos 7 dias.",
+          "u": "https://www.tupi.fm/rio/rock-in-rio-2026-megaoperacao-tera-drones-e-reconhecimento-facial/"
+        },
+        {
+          "t": "Delegacia dentro da Cidade do Rock e Juizado do Torcedor no local",
+          "src": "A Onça / Agência Brasil",
+          "when": "28/ago",
+          "s": "A 16ª DP funcionará dentro do evento com Juizado Especial do Torcedor e Grandes Eventos e equipes especializadas (DEAM, Delegacia da Criança e do Adolescente, DEAT e DECRADI) — estrutura de atendimento ao público inédita nesta escala.",
+          "u": "https://www.aonca.com.br/rock-in-rio-seguranca-tera-mais-de-7-mil-agentes-alem-de-drones/"
+        },
+        {
+          "t": "Organização anuncia oficialmente os últimos ingressos para 7/set (Elton John)",
+          "src": "ABC do ABC",
+          "when": "28/ago",
+          "s": "Comunicado da sexta de manhã confirma a reta final de vendas do feriado: Elton John encerra o Palco Mundo em seu único show no Brasil pós-aposentadoria das grandes turnês, com Gilberto Gil, Jon Batiste, Luísa Sonza, Laufey, Péricles, Roupa Nova e Fatboy Slim no mesmo dia. 6 e 12/set seguem esgotados.",
+          "u": "https://www.abcdoabc.com.br/rock-in-rio-libera-ultimos-ingressos-elton-john/"
+        },
+        {
+          "t": "Previsão preliminar: primeiro fim de semana com instabilidade e chance de chuva",
+          "src": "Rock Notícias",
+          "when": "26/ago",
+          "s": "Primeiras projeções para 4–7/set apontam tempo instável, com possibilidade de chuva em alguns momentos na Cidade do Rock — área aberta, sem cobertura para o público do gramado. Sem números consolidados ainda; a previsão fecha mais perto do evento.",
+          "u": "https://www.rocknoticias.com.br/rock-in-rio-2026-previsao-do-tempo-e-o-que-vestir-no-primeiro-fim-de-semana-173881.html"
+        },
+        {
+          "t": "Promoview cria reconhecimento editorial das melhores ativações de marca do RiR 2026",
+          "src": "Promoview",
+          "when": "27/ago",
+          "s": "Redação do portal de brand experience vai eleger destaques em 20 categorias (Melhor Ativação, Brinde Disputado, Brinde Criativo, Ativação Mais Querida, Gamificação, Influenciadores etc.), sem vínculo com a organização do festival. Marcas que integram a cobertura oficial do veículo entram no radar — janela até 1/set.",
+          "u": "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+        },
+        {
+          "t": "Esquenta do headliner: Foo Fighters faz show raro com orquestra dias antes do RiR",
+          "src": "The Hollywood Reporter",
+          "when": "23/ago",
+          "s": "A banda que abre o Palco Mundo em 4/set estreou no Hollywood Bowl (22/ago) ao lado da Filarmônica de Los Angeles regida por Gustavo Dudamel — show único que reacendeu o hype internacional da banda na semana em que embarca para o Brasil.",
+          "u": "https://www.hollywoodreporter.com/music/music-news/foo-fighters-rock-hollywood-bowl-debut-gustavo-dudamel-1236680241/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "Pauta de segurança pede ajuste de tom: jornada tranquila, nunca estética policial",
+          "src": "Super Rádio Tupi",
+          "when": "28/ago",
+          "s": "Com 7.680 agentes, drones e reconhecimento facial dominando o noticiário, o espaço da marca é o lado do fã: chegar cedo, planejar a volta, pontos de apoio na rota. Evitar qualquer associação visual com operação policial nas peças de jornada.",
+          "u": "https://www.tupi.fm/rio/rock-in-rio-2026-megaoperacao-tera-drones-e-reconhecimento-facial/"
+        },
+        {
+          "t": "Lei Seca com 700 agentes: território legítimo para mensagem de direção responsável",
+          "src": "Super Rádio Tupi",
+          "when": "28/ago",
+          "s": "A operação Lei Seca em escala inédita conversa direto com quem vai de carro. \"Quem dirige não bebe + rota de volta segura (metrô 24h, AmPm aberta)\" é mensagem que só uma marca de combustível entrega com naturalidade — e blinda a marca na pauta.",
+          "u": "https://www.tupi.fm/rio/rock-in-rio-2026-megaoperacao-tera-drones-e-reconhecimento-facial/"
+        },
+        {
+          "t": "Chuva possível no 1º fim de semana reabre a discussão do brinde-herói",
+          "src": "Rock Notícias",
+          "when": "26/ago",
+          "s": "Se a instabilidade se confirmar, capa de chuva/poncho vira o item mais desejado da Cidade do Rock (guarda-chuva é proibido). Pochete e leque resolvem sol e pertences; um poncho assinado \"89 anos\" resolveria o cenário de chuva — decisão precisa sair até 1/set por logística.",
+          "u": "https://www.rocknoticias.com.br/rock-in-rio-2026-previsao-do-tempo-e-o-que-vestir-no-primeiro-fim-de-semana-173881.html"
+        },
+        {
+          "t": "Atrito no resgate de ingressos no app Quentro é espaço de utilidade para a marca",
+          "src": "Reclame Aqui",
+          "when": "ago/26",
+          "s": "Relatos recorrentes no Reclame Aqui de ingressos que não aparecem no app após compra/resgate na Ticketmaster. A organização resolve o problema; a marca pode ser a aliada que orienta (\"resgate hoje, não deixe para a porta\") — conteúdo de serviço com alto potencial de gratidão do fã.",
+          "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        },
+        {
+          "t": "Placar do trade definido: Promoview vai eleger as melhores ativações",
+          "src": "Promoview",
+          "when": "27/ago",
+          "s": "Categorias como \"Brinde Disputado\", \"Ativação Mais Querida\" e \"Influenciadores/Creators\" são exatamente os territórios do Espaço Ipiranga. Estar na cobertura oficial do veículo (janela até 1/set) é o que garante disputar a narrativa pós-festival no trade.",
+          "u": "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é em 4/set — próxima sexta. A partir da manhã seguinte, a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "Corrida final pelo ingresso de 7/set",
+            "s": "O anúncio oficial de \"últimos ingressos\" para o dia Elton John transformou o fim de semana em plantão de FOMO — fãs compartilham prints de setores sumindo na Ticketmaster e cobram aviso de esgotamento.",
+            "u": "https://www.abcdoabc.com.br/rock-in-rio-libera-ultimos-ingressos-elton-john/"
+          },
+          {
+            "t": "Megaoperação de segurança em debate",
+            "s": "Drones e reconhecimento facial repercutem em dois tons: sensação de segurança para quem vai e discussão sobre vigilância — conversa de imprensa e público, sem lado dominante ainda.",
+            "u": "https://www.tupi.fm/rio/rock-in-rio-2026-megaoperacao-tera-drones-e-reconhecimento-facial/"
+          },
+          {
+            "t": "Ingresso sumido no Quentro",
+            "s": "Relatos de ingressos que não aparecem no app após o resgate viram tópico recorrente entre fãs (e no Reclame Aqui) — ansiedade operacional cresce à medida que a abertura se aproxima.",
+            "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "Checklist agora inclui capa de chuva",
+            "s": "Com a previsão de instabilidade circulando, vídeos de \"o que levar\" incorporam capa de chuva e calçado fechado ao lado do carregador portátil e da garrafa de 500 ml — utilidade segue como formato dominante da reta final.",
+            "u": "https://www.tiktok.com/discover/rock-in-rio"
+          },
+          {
+            "t": "Looks por dia e por artista",
+            "s": "A trend de outfits segmentados (\"look Calvin\", \"outfits Laufey\", looks masculinos por data) segue crescendo nas páginas de descoberta — planejamento visual show a show.",
+            "u": "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026"
+          },
+          {
+            "t": "Foo Fighters com orquestra alimenta o esquenta",
+            "s": "Cortes do show com a Filarmônica de LA no Hollywood Bowl (22/ago) entram nos edits de contagem regressiva da abertura — \"Everlong\" sinfônico é o clipe do momento entre fãs.",
+            "u": "https://www.youtube.com/watch?v=oWyvNipcMfw"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "Perfil oficial entre serviço e FOMO",
+            "s": "Contagem regressiva, posts de mobilidade/ingresso digital e o alerta de últimos ingressos de 7/set dividem o feed; comentários seguem concentrando dúvidas de logística — território aberto para marcas úteis.",
+            "u": "https://www.instagram.com/rockinrio/"
+          },
+          {
+            "t": "Ensaios dos shows brasileiros",
+            "s": "Ivete (recordista de apresentações no festival), Capital Inicial e os encontros do Sunset publicam bastidores de ensaio — UGC de expectativa puxado pelos próprios artistas.",
+            "u": "https://www.bahianoticias.com.br/holofote/noticia/85341-ivete-sangalo-inicia-ensaios-para-novo-show-no-rock-in-rio-baiana-e-artista-que-mais-se-apresentou-no-festival"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Foo Fighters sinfônico",
+            "s": "Áudios do show com a LA Phil (22/ago) e \"Everlong\"/\"The Pretender\" seguem como trilha padrão dos edits de contagem regressiva para 4/set."
+          },
+          {
+            "t": "Stray Kids — THIS & THAT",
+            "s": "O mini-álbum lançado em 7/ago (com versão de festival de \"RUN IT\") domina o recorte K-pop rumo ao 11/set; fancams de ensaio alimentam o fandom."
+          },
+          {
+            "t": "Clássicos de Elton John",
+            "s": "\"Rocket Man\", \"Your Song\" e \"Tiny Dancer\" em alta nos vídeos de expectativa — tendência que se intensifica com o alerta de últimos ingressos."
+          }
+        ],
+        "note": "Fase pré-evento: leitura editorial a partir de imprensa, Reclame Aqui e páginas públicas das plataformas — sem dado quantitativo de plataforma disponível nesta data. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+      "direcionais": {
+        "leitura": "A 6 dias da abertura, o noticiário virou operação de verdade: megaoperação de segurança (7.680 agentes, drones, reconhecimento facial), \"últimos ingressos\" oficiais para o dia da Ipiranga (7/set) e primeiras previsões de chuva para o 1º fim de semana. O fã está entre o FOMO do ingresso e a ansiedade logística (Quentro, o que levar, como voltar) — e é nessa fresta de utilidade que a marca joga.",
+        "dirs": [
+          {
+            "t": "Ocupar o lado do fã na pauta de segurança",
+            "s": "A cobertura do fim de semana é policial (drones, bloqueios, reconhecimento facial). A marca não comenta a operação: traduz o que muda para o fã — chegue cedo, 6 bloqueios viários, planeje a volta. Zero estética de segurança pública nas peças."
+          },
+          {
+            "t": "Direção responsável como extensão natural da jornada",
+            "s": "Lei Seca com 700 agentes é fato novo e conversa com o core da marca: \"quem dirige não bebe\" + rota de volta (metrô 24h, AmPm na madrugada) é mensagem que a Ipiranga entrega com legitimidade única entre os patrocinadores — e antecipa risco reputacional zero."
+          },
+          {
+            "t": "Clima instável muda a hierarquia do brinde",
+            "s": "Se chover no 1º fim de semana, o item mais fotografado da Cidade do Rock será quem resolver a chuva (guarda-chuva é proibido). Avaliar poncho/capa dos 89 anos antes que outro patrocinador ocupe esse espaço — decisão até 1/set, ou perder a janela logística."
+          },
+          {
+            "t": "O atrito do Quentro é a dor real da semana — e ninguém a resolveu em conteúdo",
+            "s": "Enquanto os patrocinadores falam de ativação, o fã está brigando com o resgate do ingresso. Tutorial claro e empático nos canais da marca (sem criticar a organização) captura gratidão num momento de ansiedade máxima."
+          },
+          {
+            "t": "Entrar no placar do trade antes de 1/set",
+            "s": "O reconhecimento editorial do Promoview (20 categorias) vai definir quem \"ganhou\" o Rock in Rio na narrativa do mercado. Brinde Disputado, Ativação Mais Querida e Creators são categorias em que o Espaço Ipiranga tem tese — desde que a marca esteja na cobertura oficial."
+          }
+        ],
+        "acion": [
+          "Publicar até 1/set o tutorial \"resgate seu ingresso no Quentro hoje\" (stories + CRM KMV/AmPm), com monitoramento de Reclame Aqui e comentários oficiais no war room.",
+          "Decidir até 1/set se capa de chuva/poncho dos 89 anos entra no kit de brinde ou no seeding de creators do 1º fim de semana, travando produção e frete ainda nesta janela.",
+          "Garantir até 1/set a presença do Espaço Ipiranga na cobertura oficial do Promoview e briefar o time do espaço sobre as 20 categorias (foco: Brinde Disputado, Ativação Mais Querida, Creators).",
+          "Adaptar o guia de chegada (em produção desde ontem) com o fato novo da segurança: 6 pontos de bloqueio, revista nos acessos e recomendação de chegada cedo — sem imagens de policiamento.",
+          "Manter plantão de fim de semana para o esgotamento de 7/set: o aviso oficial de \"últimos ingressos\" saiu sexta; o disparo de celebração dos 89 anos (pronto desde a edição #5) pode ser acionado a qualquer momento."
+        ]
+      },
+      "sources": [
+        [
+          "Super Rádio Tupi — megaoperação de segurança (28/08)",
+          "https://www.tupi.fm/rio/rock-in-rio-2026-megaoperacao-tera-drones-e-reconhecimento-facial/"
+        ],
+        [
+          "A Onça — 7.680 agentes e estrutura policial (28/08)",
+          "https://www.aonca.com.br/rock-in-rio-seguranca-tera-mais-de-7-mil-agentes-alem-de-drones/"
+        ],
+        [
+          "ABC do ABC — últimos ingressos para 7/set (28/08)",
+          "https://www.abcdoabc.com.br/rock-in-rio-libera-ultimos-ingressos-elton-john/"
+        ],
+        [
+          "Rock Notícias — previsão do tempo do 1º fim de semana",
+          "https://www.rocknoticias.com.br/rock-in-rio-2026-previsao-do-tempo-e-o-que-vestir-no-primeiro-fim-de-semana-173881.html"
+        ],
+        [
+          "Promoview — reconhecimento das melhores ativações (24–27/08)",
+          "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+        ],
+        [
+          "The Hollywood Reporter — Foo Fighters no Hollywood Bowl (23/08)",
+          "https://www.hollywoodreporter.com/music/music-news/foo-fighters-rock-hollywood-bowl-debut-gustavo-dudamel-1236680241/"
+        ],
+        [
+          "Reclame Aqui — relatos de ingresso não exibido no app Quentro",
+          "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        ],
+        [
+          "Terra — Stray Kids, mini-álbum THIS & THAT (contexto)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-revela-tracklist-de-this-that-novo-mini-album-que-trarao-ao-rock-in-rio-2026,64061a7033a3c72d8bfc7d1396e11715ds45p5kp.html"
+        ],
+        [
+          "Bahia Notícias — Ivete inicia ensaios (contexto)",
+          "https://www.bahianoticias.com.br/holofote/noticia/85341-ivete-sangalo-inicia-ensaios-para-novo-show-no-rock-in-rio-baiana-e-artista-que-mais-se-apresentou-no-festival"
+        ],
+        [
+          "YouTube — Foo Fighters c/ orquestra no Hollywood Bowl (22/08)",
+          "https://www.youtube.com/watch?v=oWyvNipcMfw"
+        ]
+      ]
+    },
     {
       "date": "28/08/2026",
       "dateISO": "2026-08-28",
