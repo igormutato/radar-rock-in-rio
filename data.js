@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 6,
-    "updatedAt": "29/08/2026, 09h15 (BRT)",
-    "updatedISO": "2026-08-29",
+    "version": 7,
+    "updatedAt": "30/08/2026, 09h20 (BRT)",
+    "updatedISO": "2026-08-30",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,240 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "30/08/2026",
+      "dateISO": "2026-08-30",
+      "weekday": "domingo",
+      "edition": 7,
+      "phase": "pré-evento",
+      "pulse": [
+        "🚨 <b>7/set ESGOTOU</b>: a organização confirmou no sábado o esgotamento do dia Elton John + Gilberto Gil — o dia dos 89 anos da Ipiranga agora tem lotação máxima garantida. Já são 4 dias esgotados (6, 7, 11 e 12/set); restam só as noites de rock: 4, 5 e 13/set.",
+        "⏳ <b>Faltam 5 dias</b>: reta final de montagem vira pauta — novo Palco Mundo de 107 m com 2.400 m² de LED, espetáculo ECCO em 5 sessões diárias e ~1 milhão de brindes prometidos pelas marcas na Cidade do Rock.",
+        "🎫 <b>Mercado paralelo esquenta</b>: com 4 dias esgotados, plataformas de revenda ganham manchete e o risco de golpe de ingresso entra no radar da semana — espaço aberto para conteúdo de serviço \"compre certo\"."
+      ],
+      "news": [
+        {
+          "t": "Esgotou: 7/set (Elton John + Gil) é o quarto dia com ingressos zerados",
+          "src": "Sopa Cultural / CNN Brasil",
+          "when": "29/ago",
+          "s": "A organização anunciou no sábado o esgotamento do dia 7/set — Elton John em seu único show no Brasil pós-aposentadoria das grandes turnês, com Gilberto Gil, Jon Batiste e Luísa Sonza + Roberto Menescal no feriado da Independência. Com 6, 11 e 12/set já esgotados, restam apenas 4, 5 e 13/set à venda na Ticketmaster.",
+          "u": "https://sopacultural.com/rock-in-rio-2026-elton-john-ingressos-esgotados/"
+        },
+        {
+          "t": "Leitura do mercado: só restam as noites de rock — e a Comfort Zone a R$ 1.950",
+          "src": "Terra",
+          "when": "29/ago",
+          "s": "Com o pop esgotado, sobram as noites de headliners de rock: Foo Fighters (4), Avenged Sevenfold (5) e Twenty One Pilots (13, dia que mistura Halsey, Marina Sena e Zara Larsson). Gramado segue a R$ 870 (inteira); a nova Comfort Zone custa R$ 1.950, e clientes Itaú têm 15% de desconto.",
+          "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-elton-john-esgota-e-so-restam-ingressos-para-os-headliners-de-rock,f55cd65d51bbe64d7f0ad80e24ff07f7uywp9z1n.html"
+        },
+        {
+          "t": "Reta final na Cidade do Rock: ECCO, Gourmet Square e Babilônia 30 anos",
+          "src": "Semana Pop",
+          "when": "29/ago",
+          "s": "Balanço da reta final destaca o espetáculo ECCO (parceria com a LightWire: luz, dança, holografia e projeções), a Gourmet Square com curadoria do chef Pedro Siqueira, a Babilônia Feira Hype celebrando 30 anos e a promessa de 100+ ativações e ~1 milhão de brindes distribuídos pelas marcas.",
+          "u": "https://www.semanapop.com.br/rock-in-rio-entra-na-reta-final-para-edicao-2026/"
+        },
+        {
+          "t": "Novo Palco Mundo em números: 107 m de largura e 3,2 milhões de watts",
+          "src": "Jornal Expresso Carioca",
+          "when": "28/ago",
+          "s": "A estrutura mais fotografada do festival chega com 107 m de largura, 31,5 m de altura, painel de LED de 2.400 m², 3,2 milhões de watts de potência sonora e 200 amplificadores — além de pirotecnia sincronizada no fim de cada noite e apresentações aéreas do The Flight.",
+          "u": "https://www.expressocarioca.com.br/rock-in-rio-2026-entra-na-reta-final-e-cidade-do-rock-ganha-os-ultimos-ajustes-antes-da-abertura/"
+        },
+        {
+          "t": "Prefeitura detalha o plano operacional: BRT a R$ 29 no app Jaé e bloqueios a partir das 14h",
+          "src": "COR / Prefeitura do Rio",
+          "when": "27/ago",
+          "s": "O plano municipal soma-se à megaoperação estadual: BRT Expresso Rock in Rio a R$ 29 (compra pelo app Jaé, 3 rotas expressas, 18–40 min), embarque 24h no metrô Jardim Oceânico, VLT na madrugada, interdições na Av. Abelardo Bueno das 14h às 5h, 210 agentes de trânsito, 400+ guardas municipais/dia e monitoramento com 800 câmeras e drones do COR.",
+          "u": "https://cor.rio/prefeitura-divulga-plano-operacional-para-o-rock-in-rio-2026-saiba-como-chegar-ao-festival/"
+        },
+        {
+          "t": "Movimento de patrocinador: AXIA Energia ocupa área VIP, Global Village e a playlist oficial no Spotify",
+          "src": "Promoview",
+          "when": "ago/26",
+          "s": "A parceira de energia ativa grid imersivo de LED e espelhos na área VIP, game estilo infinite-runner na Global Village (jaqueta refletiva para 2.100+ pontos), patrocínio da playlist oficial no Spotify (20/ago–20/set), VLT envelopado circulando desde 18/ago e squad de creators (Didi Wagner, Diego Hypólito, Isabelle Nogueira). Execução da Sherpa42.",
+          "u": "https://www.promoview.com.br/axia-energia-rock-in-rio-2026/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "7/set esgotado muda o KPI do dia-pilar: de venda para experiência e amplificação",
+          "src": "Sopa Cultural",
+          "when": "29/ago",
+          "s": "Com lotação máxima garantida no dia dos 89 anos, a comunicação não precisa mais empurrar ingresso: o jogo agora é maximizar a jornada de quem estará lá (Espaço Ipiranga, brinde, rota) e alcançar quem ficou de fora — CRM KMV, conteúdo ao vivo e AmPm como extensão da festa fora da Cidade do Rock.",
+          "u": "https://sopacultural.com/rock-in-rio-2026-elton-john-ingressos-esgotados/"
+        },
+        {
+          "t": "Revenda em alta com 4 dias esgotados: pauta anti-golpe é serviço que protege o fã",
+          "src": "Ego Brazil",
+          "when": "20/ago",
+          "s": "Plataformas de revenda já disputam manchete oferecendo datas esgotadas — e onde há FOMO e revenda, golpe de ingresso vira pauta policial na semana do evento. A marca pode chegar antes: conteúdo \"compre só nos canais oficiais\" para 4, 5 e 13/set, com o KMV (que teve resgate oficial de ingressos) como prova de legitimidade.",
+          "u": "https://egobrazil.com.br/rock-in-rio-2026-plataforma-de-revenda-garante-ingressos-para-datas-esgotadas/"
+        },
+        {
+          "t": "AXIA avança sobre mobilidade urbana e 'energia' — território adjacente ao da Ipiranga",
+          "src": "Promoview",
+          "when": "ago/26",
+          "s": "VLT envelopado, playlist oficial no Spotify e narrativa de 'energia além dos megawatts' colocam a AXIA na conversa de como o fã chega e se energiza. O contraponto natural da Ipiranga é o asfalto: postos na rota, AmPm na madrugada e transfer/benefício KMV — jornada física que só ela entrega.",
+          "u": "https://www.promoview.com.br/axia-energia-rock-in-rio-2026/"
+        },
+        {
+          "t": "Plano da Prefeitura é a matéria-prima que faltava para o guia de chegada da marca",
+          "src": "COR / Prefeitura do Rio",
+          "when": "27/ago",
+          "s": "BRT a R$ 29 comprado no app Jaé, bloqueios a partir das 14h, metrô 24h e VLT na madrugada: dados oficiais e estáveis para fechar o guia de chegada/volta (em produção desde a edição #5) — agora com a camada municipal além da estadual, sempre no tom de utilidade, sem estética de operação.",
+          "u": "https://cor.rio/prefeitura-divulga-plano-operacional-para-o-rock-in-rio-2026-saiba-como-chegar-ao-festival/"
+        },
+        {
+          "t": "Reta final de montagem é janela de bastidor para o Espaço Ipiranga",
+          "src": "Semana Pop",
+          "when": "29/ago",
+          "s": "A imprensa está em modo 'últimos ajustes da Cidade do Rock' — pauta perfeita para mostrar o Espaço Ipiranga sendo montado ('tour antes de abrir'): humaniza a operação, antecipa o mapa mental do fã (onde fica, o que tem) e disputa espaço na cobertura de reta final sem depender de porta-voz.",
+          "u": "https://www.semanapop.com.br/rock-in-rio-entra-na-reta-final-para-edicao-2026/"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é em 4/set — próxima sexta. A partir da manhã seguinte, a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "Luto e FOMO pelo 7/set esgotado",
+            "s": "O anúncio de sábado transformou o FOMO em lamento: quem esperou o fim de semana para comprar ficou de fora do dia Elton John + Gil, e a conversa se divide entre prints de 'esgotado', busca por revenda e alertas de golpe entre fãs.",
+            "u": "https://sopacultural.com/rock-in-rio-2026-elton-john-ingressos-esgotados/"
+          },
+          {
+            "t": "\"Sobrou só o rock\"",
+            "s": "A leitura de que o pop esgotou primeiro (6, 7, 11, 12) e as noites de rock seguem à venda vira provocação recorrente entre tribos — rockeiros celebram o line-up 'raiz' disponível, fãs de pop rebatem com a velocidade dos sell-outs.",
+            "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-elton-john-esgota-e-so-restam-ingressos-para-os-headliners-de-rock,f55cd65d51bbe64d7f0ad80e24ff07f7uywp9z1n.html"
+          },
+          {
+            "t": "Madrugada na planilha do fã",
+            "s": "Os horários de 00h05 dos headliners (Foo Fighters na sexta, Avenged no sábado) alimentam a conversa de logística: como voltar às 2h da manhã, cochilo estratégico e memes de 'quem trabalha na segunda'.",
+            "u": "https://whiplash.net/materias/news_668/382002-foofighters.html"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "Checklist T-5: capa de chuva consolidada no kit",
+            "s": "Os vídeos de 'o que levar' seguem dominantes e a capa de chuva virou item fixo ao lado de carregador portátil e calçado fechado, com a previsão instável do 1º fim de semana ainda circulando nas páginas de descoberta.",
+            "u": "https://www.tiktok.com/discover/rock-in-rio"
+          },
+          {
+            "t": "Looks por dia ganham urgência",
+            "s": "Com 4 dias esgotados, a trend de outfits segmentados ('look Elton', 'look Stray Kids', looks por noite) acelera — agora com tom de contagem regressiva e vídeos de prova de look final.",
+            "u": "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026"
+          },
+          {
+            "t": "Cidade do Rock em construção",
+            "s": "Imagens aéreas e cortes da montagem do novo Palco Mundo (107 m, 2.400 m² de LED) entram nos edits de expectativa — o 'tour pela obra' vira formato de esquenta na reta final.",
+            "u": "https://www.expressocarioca.com.br/rock-in-rio-2026-entra-na-reta-final-e-cidade-do-rock-ganha-os-ultimos-ajustes-antes-da-abertura/"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "Perfil oficial em pico de FOMO",
+            "s": "O post de esgotamento de 7/set coroa a semana de 'últimos ingressos'; comentários misturam celebração de quem garantiu, desespero de quem ficou de fora e dúvidas de logística — atenção máxima da base no perfil.",
+            "u": "https://www.instagram.com/rockinrio/"
+          },
+          {
+            "t": "Websérie ECCO, a jornada do som",
+            "s": "A série oficial em 4 episódios sobre a criação do espetáculo ECCO (figurinos com 1.500 pixels de LED e 1.000 m de fibra óptica) roda no Instagram do festival como o grande conteúdo de bastidor da reta final.",
+            "u": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/rock-in-rio-abre-bastidor-do-ecco-e-revela-figurino-com-1-500-leds/"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Clássicos de Elton John em pico",
+            "s": "\"Rocket Man\", \"Your Song\" e \"Tiny Dancer\" ganham nova onda nos vídeos após o esgotamento de 7/set — trilha padrão tanto da celebração de quem vai quanto do lamento de quem ficou de fora."
+          },
+          {
+            "t": "Foo Fighters sinfônico",
+            "s": "Áudios do show com a Filarmônica de LA seguem como trilha dos edits de contagem regressiva para a abertura de 4/set — dia que ainda tem ingresso."
+          },
+          {
+            "t": "Stray Kids — THIS & THAT",
+            "s": "O mini-álbum com a versão de festival de \"RUN IT\" segue dominando o recorte K-pop rumo ao 11/set esgotado; fancams de ensaio mantêm o fandom mobilizado."
+          }
+        ],
+        "note": "Fase pré-evento: leitura editorial a partir de imprensa e páginas públicas das plataformas — sem dado quantitativo de plataforma disponível nesta data. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+      "direcionais": {
+        "leitura": "O fato do dia é o esgotamento de 7/set: o dia dos 89 anos da Ipiranga agora tem lotação máxima garantida, e a comunicação muda de eixo — de conversão para experiência, amplificação e proteção do fã (revenda e golpe entram no radar). Enquanto isso, a reta final de montagem vira vitrine editorial (Palco Mundo, ECCO) e a AXIA avança sobre mobilidade urbana e 'energia', território vizinho ao da marca.",
+        "dirs": [
+          {
+            "t": "Dia-pilar esgotado pede novo KPI",
+            "s": "Não há mais ingresso para vender em 7/set: a régua do dia dos 89 anos passa a ser experiência de quem está dentro (Espaço Ipiranga, brinde, rota) e alcance de quem ficou de fora (conteúdo ao vivo, CRM KMV, AmPm como ponto da 'festa estendida'). Ajustar metas e mensagens já nesta segunda."
+          },
+          {
+            "t": "Ser o escudo do fã contra o golpe do ingresso",
+            "s": "4 dias esgotados + revenda em manchete = semana de golpes. Conteúdo de serviço 'compre só nos canais oficiais' (para 4, 5 e 13/set) posiciona a marca como aliada antes de a pauta virar caso de polícia — e conversa com a credencial do KMV, que teve resgate oficial de ingressos."
+          },
+          {
+            "t": "Responder à AXIA no asfalto, não na playlist",
+            "s": "A AXIA ocupou VLT, Spotify e 'energia' como narrativa. O contra-ataque da Ipiranga é o território que ninguém mais entrega: rota física do fã — postos no caminho, AmPm na madrugada, benefício KMV na volta. Mobilidade urbana é deles no discurso; a estrada e a rua são da Ipiranga."
+          },
+          {
+            "t": "Últimas 3 noites à venda = última janela de conversão",
+            "s": "4, 5 e 13/set (noites de rock) ainda têm ingresso. Se sobrou verba de mídia ou benefício KMV atrelado a ingresso, o público dessas datas está decidindo agora — depois disso, toda a comunicação do festival vira awareness e experiência."
+          },
+          {
+            "t": "Bastidor é a pauta da semana — entrar nela antes da abertura",
+            "s": "Imprensa e feeds estão em modo 'últimos ajustes' (Palco Mundo, ECCO, montagem). O Espaço Ipiranga montando é conteúdo que a marca controla 100%: mostra escala, gera expectativa e antecipa o mapa mental do fã sem depender de pauta externa."
+          }
+        ],
+        "acion": [
+          "Acionar hoje o disparo de celebração do esgotamento de 7/set (peça pronta desde a edição #5), no tom '89 anos com casa cheia' — celebração e experiência, sem tom de venda.",
+          "Produzir e publicar até 2/set o conteúdo anti-golpe 'compre só nos canais oficiais' para 4, 5 e 13/set (stories + CRM), monitorando menções a revenda no war room.",
+          "Atualizar o guia de chegada com a camada municipal do COR: BRT R$ 29 comprado no app Jaé, bloqueios a partir das 14h, metrô 24h e VLT na madrugada — publicar até 3/set, véspera da abertura.",
+          "Agendar captação de bastidor da montagem do Espaço Ipiranga para 2–3/set ('tour antes de abrir', stories + TikTok), aproveitando a pauta de reta final da imprensa.",
+          "Fechar amanhã (1/set) o go/no-go das três pendências herdadas: poncho/capa dos 89 anos no kit de brinde, presença na cobertura oficial do Promoview e tutorial de resgate no Quentro."
+        ]
+      },
+      "sources": [
+        [
+          "Sopa Cultural — 7/set esgotado (29/08)",
+          "https://sopacultural.com/rock-in-rio-2026-elton-john-ingressos-esgotados/"
+        ],
+        [
+          "CNN Brasil — quatro dias esgotados (6, 7, 11 e 12/set)",
+          "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-esgota-ingressos-para-dia-em-que-elton-john-se-apresenta/"
+        ],
+        [
+          "Terra — só restam as noites de rock; Comfort Zone R$ 1.950 (29/08)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-elton-john-esgota-e-so-restam-ingressos-para-os-headliners-de-rock,f55cd65d51bbe64d7f0ad80e24ff07f7uywp9z1n.html"
+        ],
+        [
+          "Semana Pop — reta final: ECCO, Gourmet Square, ~1 milhão de brindes (29/08)",
+          "https://www.semanapop.com.br/rock-in-rio-entra-na-reta-final-para-edicao-2026/"
+        ],
+        [
+          "Jornal Expresso Carioca — novo Palco Mundo em números (28/08)",
+          "https://www.expressocarioca.com.br/rock-in-rio-2026-entra-na-reta-final-e-cidade-do-rock-ganha-os-ultimos-ajustes-antes-da-abertura/"
+        ],
+        [
+          "COR / Prefeitura do Rio — plano operacional de mobilidade (27/08)",
+          "https://cor.rio/prefeitura-divulga-plano-operacional-para-o-rock-in-rio-2026-saiba-como-chegar-ao-festival/"
+        ],
+        [
+          "Promoview — ativações da AXIA Energia (ago/26)",
+          "https://www.promoview.com.br/axia-energia-rock-in-rio-2026/"
+        ],
+        [
+          "Ego Brazil — plataforma de revenda para datas esgotadas (20/08)",
+          "https://egobrazil.com.br/rock-in-rio-2026-plataforma-de-revenda-garante-ingressos-para-datas-esgotadas/"
+        ],
+        [
+          "Whiplash — headliners à 00h05 (horários oficiais)",
+          "https://whiplash.net/materias/news_668/382002-foofighters.html"
+        ],
+        [
+          "Jornal de Brasília — websérie ECCO e figurinos de LED (10/08)",
+          "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/rock-in-rio-abre-bastidor-do-ecco-e-revela-figurino-com-1-500-leds/"
+        ]
+      ]
+    },
     {
       "date": "29/08/2026",
       "dateISO": "2026-08-29",
