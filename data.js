@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 7,
-    "updatedAt": "30/08/2026, 09h20 (BRT)",
-    "updatedISO": "2026-08-30",
+    "version": 8,
+    "updatedAt": "31/08/2026, 09h35 (BRT)",
+    "updatedISO": "2026-08-31",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,252 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "31/08/2026",
+      "dateISO": "2026-08-31",
+      "weekday": "segunda-feira",
+      "edition": 8,
+      "phase": "pré-evento",
+      "pulse": [
+        "⏳ <b>Faltam 4 dias — começou a semana do festival.</b> Sem fato novo da organização no fim de semana; a pauta é do trade e da TV: Globo confirma 160+ horas de transmissão ao vivo (~120 shows) e Elton John ao vivo na TV aberta às 23h45 de 7/set — o dia dos 89 anos da Ipiranga terá audiência nacional além da Cidade do Rock.",
+        "🎁 <b>A disputa de atenção virou logística de brinde e de fila.</b> Propmark publica o placar oficial (Ipiranga: ~30 mil leques amarelos + pochetes com pins; Itaú: 100 mil copos), guias de 'brindes mais disputados' premiam eletrônicos e roupa, e a fila virtual (Dropfila) entra nas ativações de KitKat, TIM, LATAM e Coca-Cola — 15 minutos é o teto de espera antes de a percepção da marca cair.",
+        "🚗 <b>Side shows em SP redesenham o fluxo de gente:</b> MGK, Nova Twins, Maroon 5, Laufey e Jamiroquai tocam em São Paulo antes/depois do Rio, mas os 6 headliners são exclusivos da Cidade do Rock — o êxodo rodoviário SP/MG→RJ nas quintas 3 e 10/set segue garantido."
+      ],
+      "news": [
+        {
+          "t": "Globo confirma 160+ horas ao vivo e Elton John na TV aberta às 23h45 de 7/set",
+          "src": "Tela Viva / O Universo da TV",
+          "when": "28/ago",
+          "s": "TV Globo, Multishow, Canal Bis e Globoplay transmitem ~120 shows dos 5 palcos: Multishow a partir das 15h15 (Mundo e Sunset), Bis das 15h50 (Favela, New Dance Order e Supernova), Globoplay com sinal aberto alternado a cada 30 min e 4K para assinantes. Na TV Globo, boletins diários com Kenya Sade, especiais após Globo Repórter/Altas Horas e o show de Elton John ao vivo em 7/set. Time Multishow: Laura Vicente, Dedé Teicher, Guilherme Guedes, Gominho e outros.",
+          "u": "https://telaviva.com.br/28/08/2026/tv-globo-globoplay-multishow-e-canal-bis-terao-transmissao-multiplataforma-do-rock-in-rio/"
+        },
+        {
+          "t": "Fila virtual chega às ativações: KitKat, TIM, LATAM e Coca-Cola adotam o Dropfila",
+          "src": "Promoview",
+          "when": "28/ago",
+          "s": "Para atacar a maior dor das ativações — a fila —, marcas passam a usar fila virtual (Dropfila/Branch77): o fã escaneia um QR code, recebe o horário pelo WhatsApp e circula livre; o gestor acompanha tempo de espera e capacidade em painel. Coca-Cola já testou o modelo no Lollapalooza 2026. Estudos citados apontam que esperas acima de ~15 min derrubam a percepção da marca. Itaú (roda gigante) e iFood (montanha-russa) usam agendamento pelo app.",
+          "u": "https://www.promoview.com.br/fila-virtual-ativacoes-rock-in-rio-2026/"
+        },
+        {
+          "t": "Placar oficial dos brindes: Ipiranga com ~30 mil leques e pochetes; Itaú com 100 mil copos",
+          "src": "propmark",
+          "when": "28/ago",
+          "s": "Levantamento do trade consolida o que cada patrocinadora vai distribuir entre os ~1 milhão de brindes de 50+ empresas: Ipiranga (~30 mil leques amarelos e pochetes customizáveis com pins), Itaú (~100 mil copos colecionáveis + cashback), Heineken (pulseiras/copos 'The Clinker'), Coca-Cola (mini CD), Natura (pouches laranja, gloss-charm, minis), C&A (mini câmeras, leques, jaquetas customizáveis), KitKat (Break Charm Bar), iFood (pins e mini câmeras), TIM (shoulder bags, charms, pulseiras).",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        },
+        {
+          "t": "Guias de 'brindes mais disputados' elegem eletrônicos e roupa — e avisam: estoque diário acaba cedo",
+          "src": "Embarque na Viagem / GKPB",
+          "when": "26–28/ago",
+          "s": "Os rankings de 'caça aos brindes' destacam ring lights, corta-ventos e mini câmeras (AXIA), caixinhas de som (Philco, Superbet), corta-vento e bucket hat (Tic Tac) e jaquetas jeans customizadas (C&A); Ipiranga aparece de passagem ('leques e pochetes'). Recomendação recorrente ao fã: chegar cedo aos estandes, porque itens com estoque diário limitado somem nas primeiras horas.",
+          "u": "https://embarquenaviagem.com/2026/08/26/brindes-rock-in-rio-2026/"
+        },
+        {
+          "t": "Side shows em São Paulo: quem toca fora do Rio e quem é exclusivo da Cidade do Rock",
+          "src": "Rock on Board",
+          "when": "27/ago",
+          "s": "Nova Twins e MGK (6/set), Maroon 5 (8/set), Laufey (9/set), Jamiroquai e PJ Morton (13/set), Milo J (13 e 15/set) e Demi Lovato (15–16/set) fazem shows em SP no entorno do festival. Elton John, Foo Fighters, Avenged Sevenfold, Stray Kids, Calvin Harris e Twenty One Pilots têm contrato de exclusividade com o Rio — o que sustenta o turismo musical em dois fins de semana consecutivos.",
+          "u": "https://www.rockonboard.com.br/2026/08/side-shows-2026-as-atracoes-do-rock-in.html"
+        },
+        {
+          "t": "Arquibancada Globoplay: hub de conteúdo da Globo com acesso por slot de horário e Creator Space",
+          "src": "Portal TV e Streaming",
+          "when": "ago/26",
+          "s": "A ativação da Globo estreia em formato arquibancada, com vista privilegiada para o Palco Mundo, túnel imersivo + quiz musical, brinde exclusivo (microfone) para quem cria conteúdo, Multishow Lounge com DJs e um Creator Space para influenciadores (Brino, Doarda, Jenny Prioli, Mizael, Natty Hills, Samantha Alves, TetTrem). Acesso por reserva de horário; assinantes Globoplay Premium têm fast-pass.",
+          "u": "https://www.portaltvstreaming.com.br/2026/08/voce-no-melhor-lugar-do-show.html"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "No placar do trade, o brinde da Ipiranga é utilitário — e os rankings premiam eletrônico e roupa",
+          "src": "propmark / Embarque na Viagem",
+          "when": "26–28/ago",
+          "s": "A marca entra na lista oficial com ~30 mil leques amarelos e pochetes com pins, mas os guias de 'mais disputados' falam de ring light, caixinha de som, corta-vento e jaqueta jeans. Leque e pochete resolvem sol e fila (utilidade real, tese da Kantar), porém sem camada de história viram commodity: a assinatura dos 89 anos e uma mecânica de coleção (pins por dia) são o que transforma o item em troféu.",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        },
+        {
+          "t": "Fila virtual virou padrão de mercado: o Espaço Ipiranga precisa de um modelo de acesso declarado",
+          "src": "Promoview",
+          "when": "28/ago",
+          "s": "KitKat, TIM, LATAM e Coca-Cola usam Dropfila; Itaú, iFood e Globoplay usam agendamento por slot. O fã vai comparar. Se o Espaço Ipiranga opera por fluxo livre, isso precisa ser dito como vantagem ('sem fila, sem app'); se há fila, medir e sinalizar tempo de espera — o teto de ~15 min citado pelo trade vira KPI interno do war room.",
+          "u": "https://www.promoview.com.br/fila-virtual-ativacoes-rock-in-rio-2026/"
+        },
+        {
+          "t": "7/set na TV aberta: o dia dos 89 anos ganha uma segunda tela nacional",
+          "src": "Tela Viva",
+          "when": "28/ago",
+          "s": "Elton John ao vivo na TV Globo às 23h45 de 7/set, mais 160 horas no Multishow/Globoplay desde as 15h15: quem não conseguiu ingresso (dia esgotado) vai assistir de casa, de bar e de posto. A marca fora da Cidade do Rock — AmPm, postos, CRM KMV — pode sincronizar conteúdo e ofertas com a grade da transmissão, falando de experiência e jornada (nunca do show em si, cujos direitos são da emissora e do artista).",
+          "u": "https://telaviva.com.br/28/08/2026/tv-globo-globoplay-multishow-e-canal-bis-terao-transmissao-multiplataforma-do-rock-in-rio/"
+        },
+        {
+          "t": "Side shows tiram gente de SP do Rio? Não dos headliners — e a estrada segue sendo território exclusivo da Ipiranga",
+          "src": "Rock on Board",
+          "when": "27/ago",
+          "s": "Quem quer MGK, Maroon 5 ou Laufey pode ficar em SP; quem quer Foo Fighters, Elton, Stray Kids ou Twenty One Pilots precisa vir ao Rio. Com 55% dos compradores de fora do estado (dado da organização), o fluxo Dutra/Fernão Dias/BR-040 nas quintas 3 e 10/set é o momento em que só a Ipiranga tem presença física na jornada — AXIA ocupa VLT e playlist, ninguém ocupa a estrada.",
+          "u": "https://www.rockonboard.com.br/2026/08/side-shows-2026-as-atracoes-do-rock-in.html"
+        },
+        {
+          "t": "Creator Space da Globo concentra influenciadores no local — atalho para o roteiro de creators da marca",
+          "src": "Portal TV e Streaming",
+          "when": "ago/26",
+          "s": "Brino, Doarda, Jenny Prioli, Mizael, Natty Hills, Samantha Alves e TetTrem estarão na Arquibancada Globoplay produzindo 'In Real Life' para YouTube e redes. Cruzar essa lista com os creators convidados da Ipiranga e com os roteiros de 'tour pela Cidade do Rock' permite garantir que o Espaço Ipiranga apareça já na primeira noite, sem custo adicional de mídia.",
+          "u": "https://www.portaltvstreaming.com.br/2026/08/voce-no-melhor-lugar-do-show.html"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é em 4/set — nesta sexta. A partir da manhã de sábado (5/set), a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "\"Semana do Rock in Rio\" — a contagem virou rotina",
+            "s": "Segunda-feira de T-4: a conversa migra do 'vou/não vou' para a planilha — quem vai a que dia, horário dos headliners (00h05), como voltar de madrugada e o que ainda falta comprar; 4, 5 e 13/set seguem à venda e alimentam o 'última chance' entre fãs de rock.",
+            "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-elton-john-esgota-e-so-restam-ingressos-para-os-headliners-de-rock,f55cd65d51bbe64d7f0ad80e24ff07f7uywp9z1n.html"
+          },
+          {
+            "t": "\"Onde assistir\" e Elton na Globo",
+            "s": "O anúncio da transmissão (160h, Multishow desde 15h15, Elton ao vivo na TV aberta às 23h45 de 7/set) gera a onda de 'quem ficou de fora assiste de casa' — com humor sobre a madrugada de feriado e pedidos de setlist na TV.",
+            "u": "https://telaviva.com.br/28/08/2026/tv-globo-globoplay-multishow-e-canal-bis-terao-transmissao-multiplataforma-do-rock-in-rio/"
+          },
+          {
+            "t": "Rio x SP: o debate dos side shows",
+            "s": "A lista de side shows em São Paulo (MGK, Maroon 5, Laufey, Jamiroquai) reacende a provocação 'pra que ir ao Rio?' — respondida com a exclusividade dos 6 headliners e com memes de estrada, Dutra e 'caravana pro Rock in Rio'.",
+            "u": "https://www.rockonboard.com.br/2026/08/side-shows-2026-as-atracoes-do-rock-in.html"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "Caça aos brindes: rankings e 'como conseguir'",
+            "s": "Com o placar oficial publicado, vídeos de 'brindes mais legais do Rock in Rio 2026' e 'ordem certa para pegar tudo' ganham tração — eletrônicos e jaquetas no topo, com o conselho de chegar cedo porque o estoque diário acaba.",
+            "u": "https://embarquenaviagem.com/2026/08/26/brindes-rock-in-rio-2026/"
+          },
+          {
+            "t": "Looks por dia e por artista",
+            "s": "As páginas de descoberta seguem dominadas por 'look para o Rock in Rio 2026' (incluindo recortes masculinos e 'outfit Laufey'); na semana do evento, o formato vira prova final de look e 'o que NÃO levar' (mochila grande, garrafa de vidro, guarda-chuva).",
+            "u": "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026"
+          },
+          {
+            "t": "Palco Mundo pronto vira cenário de edit",
+            "s": "Fotos e drones do novo Palco Mundo (107 m, 2.400 m² de LED) já montado circulam como fundo dos edits de contagem regressiva — o 'tour pela obra' segue como formato de esquenta até sexta.",
+            "u": "https://www.rockonboard.com.br/2026/08/rock-in-rio-2026-palco-mundo-cidade-do-rock.html"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "Perfil oficial em modo 'semana do festival'",
+            "s": "Depois do pico de FOMO do esgotamento de 7/set, o feed oficial entra em modo serviço + esquenta: horários, regras de entrada, ECCO e bastidores da Cidade do Rock, com comentários dominados por dúvidas de logística e de brinde.",
+            "u": "https://www.instagram.com/rockinrio/"
+          },
+          {
+            "t": "Globo/Multishow anunciam time e influenciadores",
+            "s": "Os perfis da Globo e do Multishow apresentam apresentadores (Kenya Sade, Laura Vicente, Dedé Teicher, Gominho) e o squad de creators da Arquibancada Globoplay — sinal de que a cobertura de influência do festival terá um polo forte fora das marcas patrocinadoras.",
+            "u": "https://www.portaltvstreaming.com.br/2026/08/voce-no-melhor-lugar-do-show.html"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Foo Fighters — abertura de sexta",
+            "s": "\"Everlong\", \"The Pretender\" e \"Best of You\" seguem como trilha dos edits de contagem regressiva para 4/set, dia que ainda tem ingresso."
+          },
+          {
+            "t": "Elton John — do FOMO à segunda tela",
+            "s": "\"Rocket Man\" e \"Your Song\" permanecem em alta após o esgotamento de 7/set, agora com o subtexto 'assisto pela Globo'."
+          },
+          {
+            "t": "Twenty One Pilots e Halsey — o 13/set entra na conversa",
+            "s": "Com o último dia ainda à venda, áudios de \"Stressed Out\" e \"Without Me\" aparecem nos vídeos de 'quem vai no encerramento'."
+          }
+        ],
+        "note": "Fase pré-evento: leitura editorial a partir de imprensa, páginas públicas de descoberta e perfis oficiais — sem dado quantitativo de plataforma disponível nesta data. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+      "direcionais": {
+        "leitura": "Semana do festival, sem fato novo da organização no fim de semana: a pauta é do trade e da TV. Três movimentos importam para a Ipiranga hoje: (1) o placar oficial de brindes coloca a marca com item utilitário enquanto os rankings do fã premiam eletrônico e roupa — o leque precisa de história; (2) fila virtual e acesso por slot viraram padrão de mercado, e o fã vai comparar; (3) 7/set terá Elton John ao vivo na TV aberta, o que dá ao dia dos 89 anos uma segunda tela nacional. Side shows em SP não tiram os headliners do Rio — a estrada segue sendo o território que só a Ipiranga ocupa. Amanhã (1/set) segue valendo o go/no-go das pendências herdadas (poncho, Promoview, tutorial Quentro).",
+        "dirs": [
+          {
+            "t": "Brinde utilitário só vira troféu com história",
+            "s": "Leque e pochete entregam utilidade (sol, fila, pertences), mas o fã ranqueia brinde por desejo, não por função. A camada que falta é narrativa: assinatura visível dos 89 anos e uma mecânica de coleção (pin diferente por dia) que justifique voltar ao espaço e postar. Não é trocar o brinde — é dar motivo para ele aparecer no vídeo de 'o que peguei'."
+          },
+          {
+            "t": "Fila é a métrica invisível do espaço — declare o modelo",
+            "s": "Com KitKat, TIM, LATAM e Coca em fila virtual e Itaú/iFood/Globoplay em slot, 'como entro no Espaço Ipiranga?' vira pergunta. Fluxo livre é vantagem competitiva se comunicada ('sem fila, sem app'); fila física é aceitável até ~15 min e precisa ser medida e sinalizada. Definir agora evita improviso na sexta."
+          },
+          {
+            "t": "7/set tem segunda tela: planejar a festa fora da Cidade do Rock",
+            "s": "Dia esgotado + Elton ao vivo na Globo às 23h45 = maior audiência nacional do festival no dia dos 89 anos. AmPm, postos e CRM KMV podem sincronizar com a grade (15h15 Multishow → 23h45 Globo) falando de experiência, jornada e celebração — nunca do show, cuja imagem e direitos não são da marca."
+          },
+          {
+            "t": "A estrada é o único território sem concorrente",
+            "s": "Side shows em SP não afetam os 6 headliners exclusivos; com maioria do público vindo de fora do estado, as quintas 3 e 10/set concentram o fluxo Dutra/Fernão Dias/BR-040. AXIA está no VLT e no Spotify; ninguém está no posto da estrada às 6h da manhã — esse conteúdo e essa oferta são da Ipiranga por definição."
+          },
+          {
+            "t": "Creators: usar o mapa da Globo como atalho",
+            "s": "O Creator Space da Arquibancada Globoplay concentra influenciadores com agenda pública na Cidade do Rock. Cruzar com a lista de convidados da marca e com os roteiros 'tour pela Cidade do Rock' garante o Espaço Ipiranga na primeira noite sem depender de mídia paga."
+          }
+        ],
+        "acion": [
+          "Até 2/set: definir e comunicar o modelo de acesso do Espaço Ipiranga (fluxo livre × slot × fila virtual), com sinalização de tempo de espera no local e meta interna ≤15 min; incluir 'tempo de fila por hora' no relatório-relâmpago do war room a partir de 4/set.",
+          "Até 3/set: aprovar a camada de história do brinde — pins dos 89 anos como colecionáveis por dia do festival (um por noite), leque com assinatura visível para aparecer nos vídeos de 'o que peguei', e roteiro de creators mostrando o uso real (sol, fila, pertences).",
+          "Até 4/set: fechar a grade de segunda tela de 7/set — posts, stories e CRM KMV/AmPm sincronizados com a transmissão (15h15 Multishow, 23h45 TV Globo), em tom de experiência e celebração dos 89 anos, sem imagem, nome ou trecho de show.",
+          "Até 3/set: publicar o conteúdo 'rota para o Rio' — postos Ipiranga e AmPm na Dutra, Fernão Dias e BR-040, com dicas de saída para as quintas 3 e 10/set e o benefício KMV na volta; integrar ao guia de chegada já em produção.",
+          "Hoje: cruzar a lista de creators da Arquibancada Globoplay (Brino, Doarda, Jenny Prioli, Mizael, Natty Hills, Samantha Alves, TetTrem) com os creators convidados da marca e com os roteiros de 'tour pela Cidade do Rock'; onde houver sobreposição, garantir passagem pelo Espaço Ipiranga em 4/set."
+        ]
+      },
+      "sources": [
+        [
+          "Tela Viva — Globo, Multishow, Bis e Globoplay: transmissão multiplataforma (28/08)",
+          "https://telaviva.com.br/28/08/2026/tv-globo-globoplay-multishow-e-canal-bis-terao-transmissao-multiplataforma-do-rock-in-rio/"
+        ],
+        [
+          "O Universo da TV — 160+ horas ao vivo; Elton John na Globo às 23h45 (28/08)",
+          "https://www.ouniversodatv.com/2026/08/rock-in-rio-tera-mais-de-160-horas-de.html"
+        ],
+        [
+          "Billboard Brasil — detalhes da transmissão ao vivo (26/08)",
+          "https://billboard.com.br/rock-in-rio-2026-transmissao-ao-vivo/"
+        ],
+        [
+          "Portal TV e Streaming — Arquibancada Globoplay e Creator Space (ago/26)",
+          "https://www.portaltvstreaming.com.br/2026/08/voce-no-melhor-lugar-do-show.html"
+        ],
+        [
+          "Promoview — fila virtual (Dropfila) nas ativações (28/08)",
+          "https://www.promoview.com.br/fila-virtual-ativacoes-rock-in-rio-2026/"
+        ],
+        [
+          "propmark — quais são os brindes de cada patrocinadora (28/08)",
+          "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        ],
+        [
+          "Embarque na Viagem — caça aos brindes: os mais disputados (26/08)",
+          "https://embarquenaviagem.com/2026/08/26/brindes-rock-in-rio-2026/"
+        ],
+        [
+          "GKPB — brindes das marcas na Cidade do Rock (26/08, atualizado 28/08)",
+          "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+        ],
+        [
+          "Rock on Board — side shows 2026 em São Paulo (27/08)",
+          "https://www.rockonboard.com.br/2026/08/side-shows-2026-as-atracoes-do-rock-in.html"
+        ],
+        [
+          "Rock on Board — novo Palco Mundo já está de pé (19/08)",
+          "https://www.rockonboard.com.br/2026/08/rock-in-rio-2026-palco-mundo-cidade-do-rock.html"
+        ],
+        [
+          "Terra — só restam as noites de rock: 4, 5 e 13/set (29/08)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-elton-john-esgota-e-so-restam-ingressos-para-os-headliners-de-rock,f55cd65d51bbe64d7f0ad80e24ff07f7uywp9z1n.html"
+        ],
+        [
+          "Promoview — hub de benefícios: 55% dos compradores de fora do RJ (dez/25)",
+          "https://www.promoview.com.br/rock-in-rio-hub-beneficios-como-resgatar/"
+        ],
+        [
+          "TikTok — página de descoberta 'looks para o Rock in Rio 2026'",
+          "https://www.tiktok.com/discover/looks-para-o-rock-in-rio-2026"
+        ]
+      ]
+    },
     {
       "date": "30/08/2026",
       "dateISO": "2026-08-30",
