@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 8,
-    "updatedAt": "31/08/2026, 09h35 (BRT)",
-    "updatedISO": "2026-08-31",
+    "version": 9,
+    "updatedAt": "01/09/2026, 10h08 (BRT)",
+    "updatedISO": "2026-09-01",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,268 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "01/09/2026",
+      "dateISO": "2026-09-01",
+      "weekday": "terça-feira",
+      "edition": 9,
+      "phase": "pré-evento",
+      "pulse": [
+        "🟡 <b>Faltam 3 dias — e a Ipiranga entra em campo hoje.</b> Das 9h às 12h, o posto da Av. das Américas 10.495 (Barra) entrega 300 ingressos de gramado aos primeiros clientes que abastecerem R$ 200 em Ipimax; ao meio-dia começa o concurso no Instagram (100 pares de gramado para frases com 'Ipiranga' e 'Parada Completa', até 17h de amanhã). É o primeiro fato próprio da marca na semana do festival — e o primeiro teste real de fila, pico de menções e war room antes da sexta.",
+        "🌧️ <b>A previsão virou: sexta de calor, frente fria no sábado.</b> Alerta Rio projeta 4/set sem chuva e com 34°C; Climatempo coloca chuva rápida e 20–23°C no sábado 5, e a imprensa fala em rajadas de até 60 km/h, lama e chuva intermitente até 7/set. O dia dos 89 anos pode ser dia de capa de chuva (guarda-chuva é proibido) — a decisão do poncho, pendente desde a edição #6, precisa sair hoje.",
+        "🏁 <b>O trade publicou o mapa final das ativações — e o Espaço Ipiranga aparece com 'fila em ambiente climatizado'.</b> Meio & Mensagem (hoje) descreve o espaço com corredor instagramável, Glambot cujo vídeo vai para a fachada de LED, Bar AmPm (chope, água, refrigerante) e Recarga KMV; a pergunta de ontem ('qual o modelo de acesso?') tem resposta pública. No entorno, C&A volta como copatrocinadora do Sunset com Glambot própria e a Iguá coloca 100 aguadeiros/vaporizadores das 9h às 17h."
+      ],
+      "news": [
+        {
+          "t": "Meio & Mensagem publica o mapa final: o que cada marca leva à Cidade do Rock",
+          "src": "Meio & Mensagem",
+          "when": "1/set",
+          "s": "Roteiro consolidado das 100+ ativações a três dias da abertura: Ipiranga (corredor instagramável, fila em ambiente climatizado, Glambot com exibição na fachada de LED, Bar AmPm, Recarga KMV, ~30 mil leques e pochetes com pins para clientes KMV cadastrados), Itaú (pavilhão de 1.000 m² em 3 andares, 25 anos de parceria, roda-gigante, 100 mil copos, Listening Club), Heineken (15 anos, 700 mil litros de chope, The Clinker), Coca-Cola (fila digital, MiniCD com NFC, copos que dão acesso à área VIP), Natura (estande 'organismo vivo' de Marko Brajovic), TIM (TIM House + estande de 3 andares), iFood (4 espaços + montanha-russa), AXIA (Immersive Grid), KitKat (Breakômetro + agendamento por QR), C&A e Globoplay.",
+          "u": "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        },
+        {
+          "t": "Frente fria chega no sábado: sexta com 34°C, chuva e vento a partir de 5/set, instabilidade até 7/set",
+          "src": "Climatempo / Alerta Rio / Brasil em Folhas",
+          "when": "1/set",
+          "s": "A previsão estendida do Alerta Rio indica 4/set parcialmente nublado, sem chuva, 16–34°C. A Climatempo projeta para sábado 5 'sol com algumas nuvens, chove rápido durante o dia e à noite', 20–23°C e 7,2 mm. A cobertura de imprensa (citando Climatempo e COR) fala em pancadas fortes à tarde/noite de sábado com rajadas de até 60 km/h, risco de empoçamento e lama, domingo nublado com chuva intermitente (máx. 24°C) e segunda 7/set entre 16 e 25°C com chuva ainda possível e tendência de melhora. Guarda-chuva e sombrinha são proibidos na Cidade do Rock; só capa de chuva.",
+          "u": "https://www.brasilemfolhas.com.br/2026/09/chuvas-e-ventos-fortes-marcam-primeiro-fim-de-semana-do-rock-in-rio/"
+        },
+        {
+          "t": "Iguá coloca 100 aguadeiros e vaporizadores circulando das 9h às 17h",
+          "src": "Rock on Board",
+          "when": "1/set",
+          "s": "A concessionária de saneamento do Rio anuncia operação de hidratação em todos os dias do festival: 100 profissionais distribuindo água gelada em garrafas e copos biodegradáveis e borrifando água no público, pontos de hidratação copatrocinados, laboratório móvel de qualidade da água e ~100 colaboradores na operação de abastecimento e esgoto. O serviço cobre o período de sol (9h–17h); à noite, a água volta a ser item de bar e de ativação.",
+          "u": "https://www.rockonboard.com.br/2026/09/rock-in-rio-100-aguadeiros-vaporizadores.html"
+        },
+        {
+          "t": "C&A volta como copatrocinadora do Palco Sunset e assume o 'look oficial' da edição",
+          "src": "Meio & Mensagem",
+          "when": "31/ago",
+          "s": "Terceira edição consecutiva da varejista no Sunset (2022, 2024, 2026). Estande com customização de jaquetas, cabine de fotos com Glambot, jogos interativos e brindes (mini câmeras, leques, bolsas, jaquetas jeans, bonés, meias). Coleção oficial com 100+ itens, linha de merchandising e colaboração com estilista ainda não revelado, vendida só no festival — a C&A disputa a mesma foto (Glambot) e o mesmo brinde utilitário (leque) da Ipiranga.",
+          "u": "https://www.meioemensagem.com.br/marketing/ca-volta-ao-palco-sunset-como-co-patrocinadora"
+        },
+        {
+          "t": "Dave Grohl no Fantástico: 'no Brasil acontecem nossos maiores shows' — repercussão abre a semana",
+          "src": "Rolling Stone Brasil / Fantástico (via Tribuna do Sertão)",
+          "when": "30–31/ago",
+          "s": "A entrevista exibida no domingo (repórter Carolina Cimenti) rendeu as manchetes de segunda: 'vai ser uma loucura total', a influência da mãe, a filha Violet estreando em disco e a música como resposta às perdas (mãe e Taylor Hawkins). Foo Fighters abre o Palco Mundo em 4/set, dia que ainda tem ingresso, e volta ao Brasil em fevereiro (BH e SP) — o show do Rio segue exclusivo em 2026.",
+          "u": "https://rollingstone.com.br/musica/dave-grohl-fala-ao-fantastico-sobre-musica-familia-e-rock-in-rio/"
+        },
+        {
+          "t": "Esquema de mobilidade consolidado: BRT R$ 29 pelo Jaé, metrô 24h no Jardim Oceânico, bloqueios das 14h às 5h",
+          "src": "InfoMoney / Rádio Manchete Rio (FGV)",
+          "when": "28–30/ago",
+          "s": "InfoMoney consolida o plano: bloqueios diários das 14h às 5h com leitura de placas para credenciados, estacionamento proibido no entorno (210 agentes, 17 reboques), BRT Expresso das 11h às 4h (35–40 mil pessoas/dia; SE08 Jardim Oceânico, SE09 Alvorada, SE10 Paulo da Portela), metrô 24h a R$ 7,90 e VLT Linha 1 24h a R$ 5. Rotas alternativas: Av. das Américas, Lúcio Costa e Ayrton Senna. A FGV estima R$ 3,3 bi na economia carioca e 33,9 mil empregos; ~49% do público vem de outros estados.",
+          "u": "https://www.infomoney.com.br/consumo/rock-in-rio-veja-os-esquemas-de-brt-metro-vlt-e-transito-para-o-festival/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "Hoje, 9h–12h: 300 ingressos no posto da Barra — a primeira fila da Ipiranga é antes da Cidade do Rock",
+          "src": "Agência O Globo (via Tribuna do Sertão) / Aurora Cultural",
+          "when": "31/ago",
+          "s": "Ação relâmpago: os 300 primeiros clientes que abastecerem R$ 200 em Ipimax no posto da Av. das Américas 10.495 levam um ingresso de gramado. É a tese da marca (o posto como parada da jornada) em versão ao vivo — e um risco previsível: mais gente do que ingresso, fila de carro em via expressa e frustração de quem chegar depois. O que decide a leitura da imprensa e das redes é a operação: hora exata de esgotamento comunicada, porta-voz no local e conteúdo dos ganhadores publicado no mesmo dia.",
+          "u": "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        },
+        {
+          "t": "Concurso no Instagram (12h de hoje → 17h de amanhã): 30 horas de pico de menção à marca",
+          "src": "Aurora Cultural / Juventude BM",
+          "when": "31/ago",
+          "s": "100 pares de gramado para as frases 'mais divertidas' com 'Ipiranga' e 'Parada Completa', para quem segue o perfil. O volume de comentários será o maior da marca na semana — e o critério subjetivo é o ponto de atrito típico desse formato (acusações de favorecimento, perfis fake, comentários repetidos). Regras visíveis, moderação em turnos e divulgação rápida dos ganhadores protegem a ação; a curadoria dos melhores comentários vira conteúdo gratuito de esquenta.",
+          "u": "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+        },
+        {
+          "t": "Fila climatizada, Glambot no telão, Bar AmPm e Recarga KMV: o modelo do espaço agora é público",
+          "src": "Meio & Mensagem",
+          "when": "1/set",
+          "s": "O trade descreve o Espaço Ipiranga com 'fila em ambiente climatizado', corredor instagramável, Glambot cujo vídeo pode ser baixado e exibido na fachada de LED, Bar AmPm com chope, água e refrigerante, pontos de Recarga KMV e pochetes com pins colecionáveis para clientes KMV cadastrados. Isso responde à pergunta de ontem — e cria o argumento: com sexta de 34°C e sábado de chuva e vento, 'espere no ar-condicionado' é vantagem concreta frente a KitKat/Coca (fila virtual) e Itaú/iFood (slot). Falta a marca dizer isso com as próprias palavras.",
+          "u": "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        },
+        {
+          "t": "Previsão decide o brinde: leque na sexta de 34°C, capa de chuva no sábado — e o 7/set ainda em dúvida",
+          "src": "Climatempo / Alerta Rio / Brasil em Folhas",
+          "when": "1/set",
+          "s": "O leque amarelo é o item certo para a abertura (sol, 34°C, aguadeiros só até 17h). A partir de sábado, com chuva, rajadas e lama, o item-herói é a capa de chuva — e guarda-chuva é proibido. O poncho dos 89 anos está em go/no-go desde a edição #6; a previsão de hoje encerra a discussão: se houver produção viável até 5/set, é o brinde mais fotografado do fim de semana; se não, uma capa transparente com pin/adesivo dos 89 anos no seeding de creators cumpre o papel.",
+          "u": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/321/riodejaneiro-rj"
+        },
+        {
+          "t": "C&A também tem Glambot e leque — a diferença da Ipiranga é a fachada de LED e o download imediato",
+          "src": "Meio & Mensagem",
+          "when": "31/ago–1/set",
+          "s": "Com a C&A como 'look oficial' e Glambot no Sunset, a corrida pela câmera robótica está dada (a marca de moda tende a dominar a estética do vídeo). O que só a Ipiranga tem, segundo o mapa do trade, é o vídeo exibido na fachada de LED e a mecânica de baixar na hora. O roteiro de creators e a sinalização do espaço precisam vender exatamente isso: 'apareça no telão dos 89 anos' — experiência, não moda.",
+          "u": "https://www.meioemensagem.com.br/marketing/ca-volta-ao-palco-sunset-como-co-patrocinadora"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é em 4/set — nesta sexta. A partir da manhã de sábado (5/set), a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "Dave Grohl no Fantástico — 'vai ser uma loucura total'",
+            "s": "A entrevista de domingo virou a conversa de segunda entre fãs de rock: cortes com 'no Brasil acontecem nossos maiores shows', a filha Violet e a homenagem à mãe e a Taylor Hawkins; o subtexto é 'sexta ainda tem ingresso' para o dia de abertura.",
+            "u": "https://rollingstone.com.br/musica/dave-grohl-fala-ao-fantastico-sobre-musica-familia-e-rock-in-rio/"
+          },
+          {
+            "t": "'Vai chover no Rock in Rio?' — a previsão entra no radar do fã",
+            "s": "Com a frente fria prevista para sábado, a conversa migra para capa de chuva (guarda-chuva proibido), lama, tênis 'sacrificável' e a memória das edições chuvosas; o 7/set esgotado com chuva possível gera o 'e agora?' de quem já tem ingresso.",
+            "u": "https://www.brasilemfolhas.com.br/2026/09/chuvas-e-ventos-fortes-marcam-primeiro-fim-de-semana-do-rock-in-rio/"
+          },
+          {
+            "t": "Ingresso no posto: a ação da Ipiranga vira notícia e alerta de 'chega cedo'",
+            "s": "A mecânica dos 300 ingressos por R$ 200 em Ipimax circula como dica de última hora no Rio — com a dúvida clássica ('vale para qualquer dia?') e a piada de 'encher o tanque para ver o Foo'. A janela de 9h às 12h concentra as menções à marca na manhã de hoje.",
+            "u": "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "'O que levar' ganha a capa de chuva no topo da lista",
+            "s": "Os vídeos de checklist (garrafa transparente até 500 ml, até 5 itens de comida lacrados, carregador portátil) passam a abrir com capa de chuva e calçado impermeável; o formato 'look para o Rock in Rio' vira 'look para o Rock in Rio na chuva'.",
+            "u": "https://exame.com/pop/rock-in-rio-2026-tudo-o-que-precisa-saber-antes-de-ir-a-cidade-do-rock/"
+          },
+          {
+            "t": "Caça aos brindes: o mapa do trade vira roteiro de vídeo",
+            "s": "Com o consolidado do Meio & Mensagem, os roteiros de 'ordem certa para pegar tudo' incorporam copos do Itaú, MiniCD da Coca, Clinker da Heineken, jaqueta da C&A e pochete/leque da Ipiranga — a marca aparece como item utilitário, não como troféu.",
+            "u": "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+          },
+          {
+            "t": "Quentro: 'meu ingresso não aparece' segue como dor recorrente",
+            "s": "Tutoriais de resgate e transferência no app Quentro convivem com relatos de ingresso comprado que não aparece no aplicativo (reclamações públicas no Reclame Aqui contra Ticketmaster) — pauta de serviço que ninguém das marcas ocupou até agora.",
+            "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "Perfil da Ipiranga em modo concurso a partir das 12h",
+            "s": "A mecânica 'siga e comente com Ipiranga + Parada Completa' concentra no perfil da marca o maior volume de interação da semana até 17h de quarta; comentários repetidos, perfis novos e pedidos de 'como saber se ganhei' são o padrão esperado desse formato.",
+            "u": "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+          },
+          {
+            "t": "Patrocinadores em modo lançamento: C&A, Heineken e Itaú apresentam suas ativações",
+            "s": "Coleção oficial e Glambot da C&A, The Clinker e trens adesivados da Heineken e o pavilhão de 25 anos do Itaú dominam os feeds de marca na véspera; o padrão é 'tour pelo espaço antes de abrir' — janela que a Ipiranga ainda pode ocupar com o bastidor da montagem.",
+            "u": "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Foo Fighters — trilha da semana de abertura",
+            "s": "\"Everlong\", \"The Pretender\" e \"My Hero\" ganham novo impulso nos edits após a entrevista de Grohl ao Fantástico; a contagem regressiva para sexta é o formato dominante."
+          },
+          {
+            "t": "Elton John — do FOMO à chuva",
+            "s": "\"Rocket Man\" e \"I'm Still Standing\" seguem como trilha do 7/set esgotado, agora com o subtexto da previsão de chuva no feriado."
+          },
+          {
+            "t": "Avenged Sevenfold e BMTH — o sábado de rock pesado (e de chuva)",
+            "s": "\"Hail to the King\" e \"Can You Feel My Heart\" aparecem nos vídeos de 'quem vai no sábado', dia que ainda tem ingresso e que agora tem previsão de chuva e vento."
+          }
+        ],
+        "note": "Fase pré-evento: leitura editorial a partir de imprensa, páginas públicas e perfis oficiais — sem dado quantitativo de plataforma (X, TikTok, Instagram) disponível nesta data; as páginas de tendência das plataformas não puderam ser consultadas nesta rodada. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+      "direcionais": {
+        "leitura": "Dia de fato próprio: a Ipiranga entra na semana do festival com ação ao vivo (300 ingressos no posto da Barra, 9h–12h) e concurso no Instagram (100 pares, até 17h de amanhã) — o primeiro teste real de fila, menção e war room antes da sexta. Duas variáveis externas mudam o plano no mesmo dia: a previsão (sexta com 34°C, frente fria com chuva e vento no sábado, instabilidade até o 7/set) e o mapa final das ativações publicado pelo trade, que já descreve o Espaço Ipiranga com fila climatizada, Glambot na fachada de LED, Bar AmPm e Recarga KMV. O go/no-go herdado (poncho, Promoview, Quentro) precisa sair hoje — e o poncho agora tem a previsão a favor.",
+        "dirs": [
+          {
+            "t": "A ação do posto é o ensaio geral do war room",
+            "s": "300 ingressos para quem chegar primeiro produz, por definição, fila, frustração e cobertura orgânica — tudo o que a Cidade do Rock vai produzir em escala a partir de sexta. Tratar a manhã de hoje como dry run: monitoramento de menções desde as 8h, porta-voz no posto, aviso oficial de esgotamento no minuto em que acabar e conteúdo dos ganhadores publicado no mesmo dia. O que a imprensa vai contar é a operação, não a mecânica."
+          },
+          {
+            "t": "Concurso no Instagram: 30 horas de pico de menção — transformar em UGC, não em ruído",
+            "s": "Critério subjetivo ('mais divertidas') é o ponto de atrito do formato. Regras visíveis no post, moderação em turnos, curadoria diária dos melhores comentários para stories e divulgação rápida dos 100 ganhadores convertem volume em conteúdo de esquenta e blindam a marca contra a narrativa de favorecimento."
+          },
+          {
+            "t": "A previsão mudou o kit: sol na sexta, chuva no sábado, dúvida no 7/set",
+            "s": "Leque amarelo é o item certo para a abertura (34°C, aguadeiros só até 17h); a partir de sábado o item-herói é a capa de chuva, com guarda-chuva proibido. O kit dos 89 anos precisa cobrir 'sol e chuva' — e a fila climatizada vira abrigo, o que é argumento de experiência, não de brinde."
+          },
+          {
+            "t": "Fila climatizada é o argumento — agora que é público, a marca precisa dizê-lo",
+            "s": "O trade já contou; falta a Ipiranga assumir: 'sem sol, sem chuva, sem app'. Sinalização de tempo de espera no local, meta interna de ≤15 min e a régua 'tempo de fila por hora × clima' no relatório-relâmpago. Hidratação da Iguá cobre 9h–17h; à noite, a água do Bar AmPm é o ponto de utilidade que continua aberto."
+          },
+          {
+            "t": "Glambot: a diferença está na fachada de LED e no download imediato",
+            "s": "C&A tem Glambot e o 'look oficial'; a estética do vídeo de moda é dela. O que só a Ipiranga tem é o vídeo no telão e o arquivo na mão na hora. Roteiro de creators e sinalização devem vender 'apareça no telão dos 89 anos' — experiência e celebração, nunca disputa de estilo."
+          }
+        ],
+        "acion": [
+          "Hoje, 8h–13h: war room em modo ao vivo na ação do posto da Barra — monitorar 'Ipiranga' + 'Rock in Rio' + 'ingresso', registrar a hora de esgotamento dos 300, publicar aviso oficial de encerramento em todos os canais assim que acabar e captar fila, entrega e reação dos ganhadores para stories do mesmo dia.",
+          "Hoje 12h → amanhã 17h: operar o concurso do Instagram com regras fixadas no post (seguir + comentar com 'Ipiranga' e 'Parada Completa'), moderação em turnos, curadoria diária dos 10 melhores comentários para stories e divulgação dos 100 ganhadores até 3/set com prova social.",
+          "Hoje: bater o go/no-go do poncho dos 89 anos com a previsão na mesa (frente fria sábado, chuva possível até 7/set) — se go, travar produção e frete para entrega em 5/set; se no-go, capa transparente + pin/adesivo dos 89 anos no seeding de creators do 1º fim de semana. No mesmo bloco, fechar as pendências Promoview (cobertura oficial) e tutorial Quentro.",
+          "Até 3/set: atualizar peças, porta-vozes e sinalização do espaço com o modelo de acesso confirmado ('fila em ambiente climatizado', Bar AmPm com água, Recarga KMV), incluir 'tempo de fila por hora' e 'clima' no relatório-relâmpago e alinhar a operação de água com a janela dos aguadeiros da Iguá (9h–17h).",
+          "Até 3/set: fechar o roteiro de creators para a Glambot com foco no telão ('apareça na fachada dos 89 anos') e no download imediato, publicando o bastidor da montagem do espaço antes que o conteúdo da C&A (Glambot + look oficial) estreie na sexta."
+        ]
+      },
+      "sources": [
+        [
+          "Agência O Globo via Tribuna do Sertão — clientes que gastarem R$ 200 podem ganhar ingresso (31/08)",
+          "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        ],
+        [
+          "Aurora Cultural — abastecimento garante ingressos: ação no posto + concurso no Instagram (31/08)",
+          "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+        ],
+        [
+          "Juventude BM — Ipiranga transforma abastecimento e completa com ingresso (31/08)",
+          "https://www.juventudebm.com/2026/08/ipiranga-transforma-abastecimento-e.html"
+        ],
+        [
+          "Ipiranga — página oficial Rock in Rio 2026 (resgate KMV, R$ 100 em combustível, transfer por 150 pontos)",
+          "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
+        ],
+        [
+          "Meio & Mensagem — Rock in Rio 2026: veja as ativações das marcas no festival (01/09)",
+          "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        ],
+        [
+          "Meio & Mensagem — C&A volta ao Palco Sunset como copatrocinadora (31/08)",
+          "https://www.meioemensagem.com.br/marketing/ca-volta-ao-palco-sunset-como-co-patrocinadora"
+        ],
+        [
+          "Brasil em Folhas — chuvas e ventos fortes marcam o primeiro fim de semana (01/09)",
+          "https://www.brasilemfolhas.com.br/2026/09/chuvas-e-ventos-fortes-marcam-primeiro-fim-de-semana-do-rock-in-rio/"
+        ],
+        [
+          "Brasil em Folhas — frente fria traz chuva para a primeira etapa (01/09)",
+          "https://www.brasilemfolhas.com.br/2026/09/frente-fria-traz-chuva-para-primeira-etapa-do-rock-in-rio/"
+        ],
+        [
+          "Climatempo — previsão 15 dias, Rio de Janeiro (consulta 01/09)",
+          "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/321/riodejaneiro-rj"
+        ],
+        [
+          "Alerta Rio — previsão estendida 01–04/09 (consulta 01/09)",
+          "https://websempre.rio.rj.gov.br/procedimentos/previsao/mural/estendida"
+        ],
+        [
+          "Rock on Board — Iguá: 100 aguadeiros e vaporizadores das 9h às 17h (01/09)",
+          "https://www.rockonboard.com.br/2026/09/rock-in-rio-100-aguadeiros-vaporizadores.html"
+        ],
+        [
+          "Rolling Stone Brasil — Dave Grohl fala ao Fantástico (28/08; exibido 30/08)",
+          "https://rollingstone.com.br/musica/dave-grohl-fala-ao-fantastico-sobre-musica-familia-e-rock-in-rio/"
+        ],
+        [
+          "Tribuna do Sertão — Grohl: 'vai ser uma loucura total' (31/08)",
+          "https://www.tribunadosertao.com.br/variedades/2026/08/31/970308-dave-grohl-esta-animado-para-voltar-ao-brasil-com-foo-fighters-vai-ser-uma-loucura-total"
+        ],
+        [
+          "InfoMoney — esquemas de BRT, metrô, VLT e trânsito (30/08)",
+          "https://www.infomoney.com.br/consumo/rock-in-rio-veja-os-esquemas-de-brt-metro-vlt-e-transito-para-o-festival/"
+        ],
+        [
+          "Rádio Manchete Rio — FGV: R$ 3,3 bi e 33,9 mil empregos; operação da Prefeitura (28/08)",
+          "https://mancheterio.com.br/rock-in-rio-deve-injetar-r-33-bilhoes-na-economia-do-rio-prefeitura-anuncia-esquema-especial/"
+        ],
+        [
+          "Exame — tudo o que precisa saber antes de ir à Cidade do Rock (20/08)",
+          "https://exame.com/pop/rock-in-rio-2026-tudo-o-que-precisa-saber-antes-de-ir-a-cidade-do-rock/"
+        ],
+        [
+          "Reclame Aqui — ingresso não aparece no app Quentro (ago/26)",
+          "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        ]
+      ]
+    },
     {
       "date": "31/08/2026",
       "dateISO": "2026-08-31",
