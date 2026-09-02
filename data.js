@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 9,
-    "updatedAt": "01/09/2026, 10h08 (BRT)",
-    "updatedISO": "2026-09-01",
+    "version": 10,
+    "updatedAt": "02/09/2026, 09h35 (BRT)",
+    "updatedISO": "2026-09-02",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,241 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "02/09/2026",
+      "dateISO": "2026-09-02",
+      "weekday": "quarta-feira",
+      "edition": 10,
+      "phase": "pré-evento",
+      "pulse": [
+        "🟡 <b>D-2 — e o concurso da Ipiranga fecha hoje às 17h.</b> Os 100 pares de gramado por comentário com 'Ipiranga' e 'Parada Completa' encerram a janela de participação nesta quarta; a apuração e o anúncio dos ganhadores até amanhã são a última entrega da marca antes dos portões abrirem. Da ação de ontem no posto da Barra (300 ingressos, 9h–12h), nenhuma cobertura de resultado foi localizada na imprensa até o fechamento — o recap oficial é da marca, e ainda está em aberto.",
+        "🌦️ <b>A previsão consolidou — e o domingo virou o pior dia.</b> Sexta segue seca e quente (30–34°C conforme a fonte, chuva só de madrugada); sábado tem 85% de chance de chuva rápida (20–23°C); o domingo 6 despencou para 16–19°C com 16,8 mm e rajadas de 50 km/h; e o 7/set — dia dos 89 anos, esgotado com Elton John e Gilberto Gil — tem 80% de chance de chuva, mas volume baixo (2,7 mm) e tendência de tempo firme à noite, justamente na hora do Palco Mundo.",
+        "🚨 <b>Rio divulga a operação de segurança: mais de 7 mil profissionais e 800 câmeras.</b> Esquema publicado ontem prevê 4.500 PMs, 725 policiais civis na Cidade do Rock, 16 pontos de bloqueio, centro de controle de drones e guarda municipal em operação de 18 dias, para ~100 mil pessoas/dia. Com bloqueios a partir das 14h, 'chegue cedo' vira mensagem de serviço — e a tese da parada no posto ganha contexto de utilidade real."
+      ],
+      "news": [
+        {
+          "t": "Esquema de segurança divulgado: mais de 7 mil profissionais, 800 câmeras e 16 bloqueios",
+          "src": "Jovem Pan / Rádio Itatiaia",
+          "when": "1/set",
+          "s": "A operação para os 7 dias prevê 4.500 policiais militares, 725 policiais civis dentro da Cidade do Rock, 6 pontos de atendimento para registro de ocorrências, centro de controle aéreo para drones não autorizados, 800 câmeras sobre vias, bloqueios e pontos de embarque, e 4.708 guardas municipais em operação de 18 dias. Público estimado em ~100 mil pessoas/dia; BRT dimensionado para 35–40 mil/dia (R$ 29 pelo Jaé), metrô 24h a R$ 7,90 e VLT a R$ 5.",
+          "u": "https://jovempan.com.br/entretenimento/rock-in-rio-2026-saiba-como-sera-o-esquema-de-seguranca-e-transporte-para-os-dias-de-festival/"
+        },
+        {
+          "t": "Previsão consolidada: sexta seca e quente, domingo agora é o dia mais frio e chuvoso, 7/set melhora à noite",
+          "src": "Super Rádio Tupi / InfoMoney (Climatempo)",
+          "when": "1/set",
+          "s": "Sexta 4: sem chuva no horário de shows, máxima entre 30°C (Tupi) e 34°C (InfoMoney/Alerta Rio), chuva só no fim da madrugada. Sábado 5: 85% de chance, 7,2 mm, 20–23°C, rajadas fortes. Domingo 6: o pior dia — 16–19°C, 16,8 mm (84% de chance), rajadas de até 50 km/h e risco de lama. Segunda 7/set: 80% de chance mas volume menor (2,7 mm), 15–19°C e tendência de tempo firme à noite. Guarda-chuva segue proibido; capa de chuva, protetor solar até 100 ml e garrafa plástica de até 500 ml estão liberados.",
+          "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+        },
+        {
+          "t": "Propmark consolida a corrida dos brindes: ~1 milhão de itens, e a Ipiranga entre os maiores volumes",
+          "src": "propmark",
+          "when": "28/ago",
+          "s": "O trade estima ~1 milhão de brindes nos 7 dias, com 90+ marcas e 14 patrocinadores oficiais. Ipiranga aparece com ~30 mil leques amarelos e pochetes customizáveis com pins; Itaú com 100 mil copos colecionáveis; C&A com minicâmeras, leques e bolsas; Doritos, KitKat, Natura e TIM disputam o mesmo território de pochetes, pins e charms. O leque e a pochete da Ipiranga concorrem em categoria disputada — o diferencial é o gatilho KMV (cliente cadastrado).",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        },
+        {
+          "t": "Cidade do Rock em ajustes finais: Palco Mundo com 107 m de largura, 2.400 m² de LED e 3,2 milhões de watts",
+          "src": "Jornal Expresso Carioca",
+          "when": "28/ago",
+          "s": "Reta final de montagem com testes de iluminação e LED. A nova cenografia do Palco Mundo soma 16,85 toneladas, boca de cena de 24 m e 200 amplificadores. Voltam roda-gigante, tirolesa, montanha-russa e o espetáculo aéreo The Flight (756 disparos de fogos diurnos). O app oficial ganhou compartilhamento de programação no Instagram e compra antecipada de A&B — mais um concorrente pela atenção do público na fila.",
+          "u": "https://www.expressocarioca.com.br/rock-in-rio-2026-entra-na-reta-final-e-cidade-do-rock-ganha-os-ultimos-ajustes-antes-da-abertura/"
+        },
+        {
+          "t": "7 de setembro esgotado: Elton John, Gilberto Gil e Jon Batiste no dia dos 89 anos da Ipiranga",
+          "src": "Rock on Board",
+          "when": "ago/26",
+          "s": "O dia 7/set foi o quarto a esgotar, puxado pela única apresentação de Elton John no país em 2026 e por Gilberto Gil no Palco Mundo. Para a Ipiranga, é o cenário de aniversário com casa cheia garantida — e, pela previsão atual, com chuva fraca de dia e tempo firme à noite, o que favorece concentrar o momento de celebração no período noturno.",
+          "u": "https://www.rockonboard.com.br/2026/08/rock-in-rio-7-setembro-esgotado-elton-john.html"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "Concurso do Instagram encerra hoje às 17h — a apuração é a entrega do dia",
+          "src": "Aurora Cultural",
+          "when": "31/ago–2/set",
+          "s": "Fecha às 17h a janela de comentários com 'Ipiranga' e 'Parada Completa' valendo 100 pares de gramado. O pico de menções vira passivo se a apuração demorar: o padrão do formato é enxurrada de 'como sei se ganhei?' e acusação de favorecimento. Anúncio rápido (idealmente até amanhã, véspera), critério explicado no post de resultado e resposta padrão para não contemplados convertem o volume em prova social — e os melhores comentários viram conteúdo de esquenta gratuito.",
+          "u": "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+        },
+        {
+          "t": "Ação do posto da Barra: sem cobertura de resultado na imprensa — o recap é da marca",
+          "src": "Agência O Globo (via Tribuna do Sertão); verificação desta edição",
+          "when": "31/ago–2/set",
+          "s": "Até o fechamento desta edição, nenhum veículo publicou resultado da ação de ontem (300 ingressos, 9h–12h, Av. das Américas 10.495): sem registro de fila, hora de esgotamento ou reação dos ganhadores. A leitura é dupla: não houve crise que virasse pauta — e também não houve pauta espontânea. O recap oficial (números próprios, fotos da fila, ganhadores) é a única forma de a ação existir publicamente antes da sexta, e é a marca quem controla essa narrativa. Sem recap, a ação evapora.",
+          "u": "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        },
+        {
+          "t": "Na corrida dos brindes, o leque é commodity — o gatilho KMV é o que diferencia",
+          "src": "propmark / GKPB",
+          "when": "28–31/ago",
+          "s": "O consolidado do trade coloca a Ipiranga entre os maiores volumes físicos (~30 mil leques e pochetes com pins), mas C&A também distribui leque, e Doritos, Natura, TIM e KitKat disputam pochetes, pins e charms. O que nenhum concorrente tem: retirada condicionada ao cadastro KMV — cada brinde é um lead. A sinalização no espaço e o roteiro de creators devem tratar o cadastro como parte da experiência ('baixou, pegou'), não como pedágio, para a fila não virar reclamação.",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        },
+        {
+          "t": "GKPB descreve o espaço como hub do ecossistema: AmPm, Jet Oil e KMV na mesma narrativa",
+          "src": "GKPB — Geek Publicitário",
+          "when": "31/ago",
+          "s": "A cobertura reforça o posicionamento: Espaço Ipiranga 'completamente renovado' como principal ponto de contato, conectando a experiência do festival aos serviços do ecossistema (AmPm, Jet Oil, KMV) sob o conceito 'a parada é completa'. É a moldura certa para a semana: a marca não disputa palco, disputa jornada — posto na ida, espaço como parada climatizada, KMV como fio condutor de brinde, recarga e transfer.",
+          "u": "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
+        },
+        {
+          "t": "89 anos no 7/set: casa cheia (esgotado), chuva fraca de dia e tempo firme à noite — o momento é noturno",
+          "src": "Rock on Board / Super Rádio Tupi",
+          "when": "1/set",
+          "s": "O aniversário cai no dia esgotado de Elton John e Gilberto Gil, com previsão de 80% de chance de chuva porém volume baixo (2,7 mm) e melhora à noite. Tradução operacional: programação de celebração diurna precisa de plano coberto (o espaço com fila climatizada é o abrigo natural), e o momento-assinatura dos 89 anos — bolo, telão, Glambot temática — rende mais entre o fim de tarde e a entrada de Elton John, quando o tempo tende a firmar e a Cidade do Rock estará lotada.",
+          "u": "https://www.rockonboard.com.br/2026/08/rock-in-rio-7-setembro-esgotado-elton-john.html"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é em 4/set — nesta sexta. A partir da manhã de sábado (5/set), a repercussão de cada noite (melhores shows, momentos virais, críticas da imprensa) entra aqui, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "D-2: contagem regressiva e a pergunta 'que horas abrem os portões?'",
+            "s": "A conversa de véspera é operacional — horários dos palcos (Foo Fighters à 00h05 gera o 'show de sexta que termina sábado'), bloqueios a partir das 14h e o esquema de 7 mil agentes divulgado ontem; pauta de serviço domina sobre pauta musical.",
+            "u": "https://jovempan.com.br/entretenimento/rock-in-rio-2026-saiba-como-sera-o-esquema-de-seguranca-e-transporte-para-os-dias-de-festival/"
+          },
+          {
+            "t": "'Domingo vai ser o pior dia': a previsão reorganiza a conversa do clima",
+            "s": "Com a atualização de ontem, o medo da chuva migrou do sábado para o domingo (16–19°C, 16,8 mm, rajadas) — quem vai no dia de Calvin Harris fala de frio e lama; quem vai sexta comemora o dia seco; o 7/set esgotado ganha o alívio do 'melhora à noite'.",
+            "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+          },
+          {
+            "t": "Última chamada do concurso da Ipiranga circula como 'ainda dá tempo'",
+            "s": "A mecânica 'siga e comente até 17h de hoje' roda como dica de última hora para quem ficou sem ingresso de gramado — a marca concentra as menções da véspera, e a dúvida dominante nos comentários é quando sai o resultado.",
+            "u": "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "Checklist final: o vídeo de 'arrumando a mochila' assume o feed",
+            "s": "Na véspera, o formato migra de 'o que levar' para 'arrumando a mochila para sexta': capa de chuva, garrafa de até 500 ml, comida lacrada, carregador — com a variação 'mochila para o dia de sol (sexta) vs. dia de lama (domingo)'.",
+            "u": "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
+          },
+          {
+            "t": "Páginas de discover do festival aquecem sem dado público de ranking",
+            "s": "As páginas de descoberta do TikTok já agregam conteúdo por dia do festival e por atração ('dia do trap', 'artistas confirmados', tutoriais do Quentro) — sinal de busca ativa na plataforma, ainda sem métrica pública de views por hashtag para citar.",
+            "u": "https://www.tiktok.com/discover/rock-in-rio"
+          },
+          {
+            "t": "Roteiro de brindes ganha versão 'quanto vale': 1 milhão de itens viram caça organizada",
+            "s": "Com o consolidado do propmark circulando, os vídeos de 'ordem certa dos estandes' agora citam volume (100 mil copos do Itaú, 30 mil leques da Ipiranga) e criam senso de escassez — 'chega cedo que acaba' beneficia quem tem estoque atrelado a cadastro, não a sorte.",
+            "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "Perfil da Ipiranga vive as últimas horas de pico do concurso",
+            "s": "Até as 17h de hoje, o post do concurso segue como o maior volume de interação da marca na semana; o corte natural do dia é a curadoria dos comentários mais criativos — e o anúncio dos 100 pares é o conteúdo mais aguardado do perfil.",
+            "u": "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+          },
+          {
+            "t": "Marcas em modo 'tour pelo espaço': a janela de bastidor fecha amanhã",
+            "s": "Itaú, Heineken e C&A dominam os feeds com tour e making of de seus espaços na véspera; o bastidor da montagem do Espaço Ipiranga — corredor instagramável, Glambot, fachada de LED — ainda não apareceu como conteúdo e tem só até amanhã para estrear antes do festival.",
+            "u": "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Foo Fighters — a trilha do D-2",
+            "s": "\"Everlong\", \"The Pretender\" e \"My Hero\" seguem nos edits de contagem regressiva; o corte da entrevista de Grohl ao Fantástico ('vai ser uma loucura total') continua sendo o áudio de expectativa da abertura."
+          },
+          {
+            "t": "Elton John — o 7/set esgotado como evento histórico",
+            "s": "\"Rocket Man\", \"I'm Still Standing\" e \"Your Song\" embalam vídeos de 'vou ver o Elton John' do dia esgotado — agora com o subtexto de noite firme depois de dia chuvoso."
+          },
+          {
+            "t": "Avenged Sevenfold e BMTH — o sábado de rock pesado sob chuva",
+            "s": "\"Hail to the King\" e \"Can You Feel My Heart\" seguem nos vídeos de quem vai sábado — dia que ainda tem ingresso e que agora carrega o aviso de chuva rápida e rajadas."
+          }
+        ],
+        "note": "Fase pré-evento: leitura editorial a partir de imprensa, páginas públicas de discover e perfis oficiais — sem dado quantitativo de plataforma (X, TikTok, Instagram) com fonte disponível nesta data. Durante o festival, esta aba passa a trazer os trending topics e vídeos mais vistos de cada noite."
+      },
+      "direcionais": {
+        "leitura": "D-2 com três definições: o concurso do Instagram fecha hoje às 17h (última entrega da marca antes dos portões); a ação de ontem no posto não gerou cobertura espontânea de resultado — o recap oficial é a única narrativa disponível e está em aberto; e a previsão consolidou um mapa por dia (sexta seca e quente, sábado de chuva rápida, domingo frio e chuvoso como pior dia, 7/set com chuva fraca e noite firme). No entorno, a cidade publicou a operação de segurança (7 mil profissionais, bloqueios às 14h) — que transforma 'chegue cedo' em mensagem de serviço legítima para a marca do caminho — e o trade consolidou a corrida de ~1 milhão de brindes, na qual o leque da Ipiranga é commodity e o gatilho KMV é o diferencial. A janela de bastidor do espaço fecha amanhã: depois disso, quem contar a história do Espaço Ipiranga será o público.",
+        "dirs": [
+          {
+            "t": "O resultado do concurso é a última impressão antes da sexta",
+            "s": "Entre as 17h de hoje e o anúncio, cada hora sem resposta alimenta 'como sei se ganhei?' e a tese de favorecimento. Apuração ainda hoje, anúncio até amanhã com critério explicado no próprio post e resposta padrão para não contemplados — o pico de menções da semana precisa terminar em prova social, não em Reclame Aqui."
+          },
+          {
+            "t": "Sem recap, a ação do posto não existiu",
+            "s": "A imprensa não pautou o resultado dos 300 ingressos — nem bem, nem mal. Isso devolve a narrativa à marca: números próprios (hora de esgotamento, abastecimentos no período), imagens da fila e reação de ganhadores publicados hoje viram o 'case de véspera' que o trade procura para fechar a semana pré-festival. Só não vale inventar métrica: o que não foi medido não entra."
+          },
+          {
+            "t": "O mapa do clima agora é operacional: um kit por dia, e o 7/set é noturno",
+            "s": "Sexta seca e quente = leque + hidratação; sábado = capa de chuva na entrada; domingo é o dia de teste máximo do abrigo (16–19°C, lama) = fila climatizada como refúgio anunciado; 7/set = celebração dos 89 anos concentrada do fim de tarde em diante, quando o tempo tende a firmar e a casa esgotada estará cheia. Cada dia com um item-herói e uma mensagem — não um kit genérico."
+          },
+          {
+            "t": "Bloqueios às 14h transformam a parada no posto em utilidade, não em publicidade",
+            "s": "Com 16 bloqueios, leitura de placas e estacionamento proibido no entorno, o posto Ipiranga do caminho é a última parada legítima antes do perímetro. Comunicar 'abasteça, use o banheiro, compre água lacrada na AmPm antes do bloqueio' é serviço real que só esta marca pode prestar — e conecta o filme 'a parada é completa' à experiência concreta de sexta."
+          },
+          {
+            "t": "Brinde com cadastro é lead — desde que a fila não vire pauta",
+            "s": "Na corrida de 1 milhão de brindes, o volume da Ipiranga é grande mas não exclusivo; o vínculo ao KMV é o único mecanismo que converte brinde em relacionamento. O risco espelhado: se o cadastro travar a fila no domingo frio, a pauta vira 'burocracia para pegar leque'. Fluxo de cadastro pré-fila (QR na fila climatizada, wi-fi no espaço) é o detalhe que decide se o KMV é ativo ou atrito."
+          }
+        ],
+        "acion": [
+          "Hoje, até 17h: última chamada do concurso nos stories (2–3 cortes com os comentários mais criativos); às 17h, congelar prints da mecânica e do regulamento; apuração ainda hoje e anúncio dos 100 pares até amanhã com critério explicado e resposta padrão para não contemplados.",
+          "Hoje: fechar e publicar o recap oficial da ação do posto da Barra — hora de esgotamento dos 300, imagens de fila e entrega, depoimento de ganhador — e ofertar ao trade (Meio & Mensagem, propmark, Promoview) como case de véspera; sem dado medido, publicar só o registro visual, sem números.",
+          "Hoje/amanhã: travar o kit clima por dia (sexta: leque + água; sábado: capa; domingo: capa + operação de abrigo reforçada; 7/set: poncho/capa dos 89 anos conforme go/no-go de ontem) e briefar creators para gravar o conteúdo de chegada na janela seca de sexta à tarde.",
+          "Amanhã (véspera): estrear o tour/bastidor do Espaço Ipiranga — corredor, Glambot com fachada de LED, fila climatizada, Bar AmPm — antes da abertura, ocupando a janela que Itaú, Heineken e C&A já usam; headline: 'a única fila com ar-condicionado da Cidade do Rock'.",
+          "Sexta, desde 12h: ativar mensagem de serviço 'pare no posto antes do bloqueio das 14h' (abastecimento, banheiro, água lacrada AmPm, transfer por 150 pontos KMV) nos canais da marca e no roteiro dos creators de chegada; war room ligado desde a abertura dos portões com a régua 'tempo de fila × clima' testada."
+        ]
+      },
+      "sources": [
+        [
+          "Jovem Pan — esquema de segurança e transporte do Rock in Rio 2026 (01/09)",
+          "https://jovempan.com.br/entretenimento/rock-in-rio-2026-saiba-como-sera-o-esquema-de-seguranca-e-transporte-para-os-dias-de-festival/"
+        ],
+        [
+          "Rádio Itatiaia — Prefeitura divulga esquema especial de trânsito e transporte (01/09)",
+          "https://www.itatiaia.com.br/brasil/sudeste/rj/rock-in-rio-2026-prefeitura-divulga-esquema-especial-de-transito-e-transporte-no-rio/"
+        ],
+        [
+          "Super Rádio Tupi — previsão do tempo para o primeiro fim de semana (01/09)",
+          "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+        ],
+        [
+          "InfoMoney — como estará o tempo e o que pode ou não levar (01/09)",
+          "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
+        ],
+        [
+          "propmark — quais são os brindes distribuídos pelos patrocinadores (28/08)",
+          "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        ],
+        [
+          "Jornal Expresso Carioca — Cidade do Rock ganha os últimos ajustes (28/08)",
+          "https://www.expressocarioca.com.br/rock-in-rio-2026-entra-na-reta-final-e-cidade-do-rock-ganha-os-ultimos-ajustes-antes-da-abertura/"
+        ],
+        [
+          "GKPB — estandes e experiências das marcas no festival (31/08)",
+          "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
+        ],
+        [
+          "Promoview — 8 mil horas de experiência de marca; o que cada patrocinadora prepara (29/08)",
+          "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+        ],
+        [
+          "Rock on Board — 7/set esgota com Elton John, Gilberto Gil e Jon Batiste (ago/26)",
+          "https://www.rockonboard.com.br/2026/08/rock-in-rio-7-setembro-esgotado-elton-john.html"
+        ],
+        [
+          "Aurora Cultural — ação no posto + concurso no Instagram até 17h de 2/9 (31/08)",
+          "https://auroracultural.com/noticias/musica/abastecimento-garante-ingressos-para-o-rock-in-rio-em-acao-especial/"
+        ],
+        [
+          "Agência O Globo via Tribuna do Sertão — 300 ingressos no posto da Barra (31/08)",
+          "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        ],
+        [
+          "TikTok Discover — páginas públicas de descoberta do Rock in Rio (consulta 02/09)",
+          "https://www.tiktok.com/discover/rock-in-rio"
+        ]
+      ]
+    },
     {
       "date": "01/09/2026",
       "dateISO": "2026-09-01",
