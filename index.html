@@ -347,9 +347,8 @@
   </div>
 </footer>
 
-<script src="data.js"></script>
 <script>
-(function(){
+function renderRadar(){
   const R = window.RADAR, ed = R.editions[0];
   const $ = id => document.getElementById(id);
   const esc = s => String(s??"");
@@ -483,13 +482,11 @@
         ${s.note?`<p class="note" style="margin-top:12px">${s.note}</p>`:""}
       </div>`).join("");
   } else {
-    // schema legado (edições antigas)
-    const tcol=(icon,name,items)=>`
-      <div class="tcol"><div class="th">${icon} ${name}</div>${(items||[]).map(titem).join("")}</div>`;
+    // schema legado (edições antigas) — X e Instagram foram descontinuados, não renderizar
+    const tcol=(icon,name,items)=>(items&&items.length)?`
+      <div class="tcol"><div class="th">${icon} ${name}</div>${items.map(titem).join("")}</div>`:"";
     $("trendCols").innerHTML =
-      tcol("𝕏","Trending no X", T.x) +
       tcol("🎵","TikTok", T.tiktok) +
-      tcol("📸","Instagram", T.instagram) +
       tcol("🎧","Sons & tendências em alta", T.sounds);
   }
   $("trendNote").textContent = "ℹ️ " + T.note;
@@ -583,6 +580,19 @@
   $("stampV").textContent = "Radar v"+R.meta.version;
   $("stampUpd").textContent = "Atualizado em "+R.meta.updatedAt;
   $("stampNext").textContent = R.meta.nextUpdate;
+}
+</script>
+<script>
+/* carrega os dados sempre frescos — evita que o navegador sirva a edição de ontem */
+(function(){
+  var s = document.createElement('script');
+  s.src = 'data.js?t=' + Date.now();
+  s.onload = renderRadar;
+  s.onerror = function(){
+    document.querySelector('main').innerHTML =
+      '<div class="empty">Não foi possível carregar os dados do radar. Recarregue a página.</div>';
+  };
+  document.head.appendChild(s);
 })();
 </script>
 </body>
