@@ -52,6 +52,31 @@ Regras: nenhum número estimado; se uma fonte falhar, publicar a coluna com `sta
 
 **Inoreader:** não está conectado a esta sessão do Claude (o conector não aparece na lista). Se for conectado no futuro, ele serve para agregar FEEDS RSS (Google Trends RSS, portais de notícia) — não resolve trends24 nem TikTok Creative Center, que não têm RSS.
 
+## Aba "Listening @Ipiranga" — canais proprietários (a partir de 03/09)
+
+Analisa os posts sobre Rock in Rio publicados em **instagram.com/ipiranga** e **tiktok.com/@ipiranga** (janela: 31/08 em diante) e os comentários que eles recebem. Campo `owned` da edição:
+`{window, updatedFrom, ims_formula, ims_geral, pol:{POSITIVO,NEUTRO,NEGATIVO}, tags:[[tag,count]], posts:[{pid,date,rede,tipo,tema,collab,likes,coments,url,amostra,pos,neu,neg,ims,topTags[]}], alerts:[{tone:"pos"|"neg",t,s}], note}`
+
+### Coleta (exige o Claude para Chrome — os dois perfis bloqueiam fetch automatizado por robots.txt)
+1. `list_connected_browsers` → **PERGUNTAR ao usuário qual navegador** (obrigatório pelo contrato da ferramenta) → `select_browser`.
+2. Instagram: abrir `instagram.com/ipiranga/`, usar `find` para pegar os hrefs `/p/` e `/reel/` do grid. Posts com href de OUTRO perfil (`/becca.orenstein/reel/...`) são **collabs** — registrar o parceiro em `collab`.
+3. Abrir cada post e `get_page_text`: a legenda, o horário relativo e, no rodapé do texto, a sequência de números = **likes, comentários, compartilhamentos**. Parar quando a data sair da janela.
+4. TikTok: `tiktok.com/@ipiranga` — em 03/09 a navegação foi **recusada pela extensão** ("Navigation to this domain is not allowed"); é preciso liberar o domínio nas permissões do Claude para Chrome. Enquanto não liberar, registrar no `note` que o TikTok está pendente.
+
+### Comentários (ExportComments — o conector não está habilitado; via navegador)
+5. Para cada post novo/atualizado, rodar o export em exportcomments.com pelo navegador do usuário e baixar o `.xlsx`. Os arquivos caem na pasta de Downloads da máquina — para trazê-los, é preciso `device_request_folder_access` nessa pasta (ou o usuário move para a pasta conectada "Radar Rock In Rio").
+6. **Incremental:** baixar `owned-comentarios-classificado.xlsx` da raiz do gh-pages (base acumulada). Deduplicar por (`link do post` + `Username` + `Comment`) e processar **só os comentários novos**, anexando à base.
+7. Pipeline (skill `exportcomments-unifica`):
+   `python scripts/unifica.py <novos.xlsx> --out /tmp/base.xlsx --schema base-listening`
+   `python scripts/classifica.py /tmp/base.xlsx --out /tmp/classificado.xlsx`
+   Depois **revisar os casos de fronteira**: o classificador por regras gera falsos NEGATIVO em frases que contêm "não" mas são elogios ("Foi demais! ... não tem jeito", "não tenho talento mas levei o ingresso") — em 03/09, 4 dos 6 negativos eram falsos. Também reclassificar cobranças de resultado de promoção como `Dúvidas` + `Sobre a Promoção` (o classificador manda para `Conversas/Sem contexto`).
+8. Republicar a base acumulada em `owned-comentarios-classificado.xlsx` (gh-pages) e recalcular os agregados do bloco `owned`.
+
+### Métricas
+- **Saudabilidade (IMS)** = (POSITIVO + NEUTRO) ÷ total classificado. Semáforo: verde ≥ 90%, âmbar 75–90%, vermelho < 75%. ⚠️ Fórmula a confirmar com o cliente.
+- Tagueamento sempre na **taxonomia Ipiranga** (28 tags, ver `references/arvore-de-tags.md` da skill), contextualizado ao tema do post e à existência de collab.
+- Cores de polaridade (validadas para daltonismo): POSITIVO `#2E9E5B` · NEUTRO `#C77E00` · NEGATIVO `#D93025`.
+
 ## Edição duplicada (guarda)
 
 Antes de inserir a nova edição, se `editions[0].dateISO` já for a data de hoje (ex.: edição feita manualmente mais cedo), SUBSTITUIR essa edição pela nova (mesclando o que a manual tiver de melhor — em especial o bloco `youscan`) em vez de criar duplicata do mesmo dia.
