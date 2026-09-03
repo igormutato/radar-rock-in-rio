@@ -35,6 +35,23 @@ O plano do YouScan da agência NÃO tem acesso à API. O dado entra por DOIS exp
 - Tudo do listening deve alimentar a análise de impacto para a marca nos DIRECIONAIS (aprendizados e insights acionáveis).
 - Como o time alimenta (qualquer via): (1) upload direto em github.com/igormutato/radar-rock-in-rio (branch gh-pages → Add file → Upload files) com os nomes acima; (2) mandar os arquivos no chat do Claude, que ele commita; (3) salvar na pasta conectada "Radar Rock In Rio" e pedir ao Claude para subir.
 
+## Aba Trends — fontes e método (a partir de 03/09)
+
+Foco da aba: **o que está viralizando DIRETAMENTE ligado ao evento**. Estrutura do campo `trends` da edição:
+`{ viral:[{t,s,u,src,metric}], sources:[{id,icon,name,status:"ok"|"partial"|"off",statusLabel,items:[{t,s,u}],note}], note }`
+O bloco `viral` é o topo da aba (o foco); `sources` são as colunas com selo de status. Edições antigas usam o schema legado (x/tiktok/instagram/sounds) e continuam renderizando.
+
+Fontes, na ordem de coleta diária:
+
+1. **Google Trends Brasil — FUNCIONA.** `WebFetch https://trends.google.com/trending/rss?geo=BR` devolve o ranking do dia com volume de buscas e manchetes. Verificar se algum termo do festival/artista/"Cidade do Rock" entrou no ranking — a entrada (ou ausência) é o próprio insight. Não usar a UI do trends.google.com (JS).
+2. **X / Trending Topics — INSTÁVEL.** `trends24.in/brazil` devolveu snapshot defasado de 2024 na coleta automática (#Paris2024, #OpeningCeremony) em 03/09. NÃO publicar o que vier de lá sem conferir se as datas batem com hoje; se vier defasado, marcar a fonte com `status:"off"` e usar a base X do YouScan (x.com é ~50% das menções da base de marca) como substituto. Se um dia vier fresco, marcar `ok` e listar os TTs relacionados ao evento.
+3. **TikTok — PARCIAL.** O Creative Center (`ads.tiktok.com/creative/...trends/hashtag`) exige login: tanto a página quanto a API `creative_radar_api` respondem "no permission". Usar as páginas públicas de hashtag como proxy de volume: `WebFetch https://www.tiktok.com/tag/rockinrio` (funciona; 5,7 mi views em 03/09 = linha de base) — atenção: algumas variações (`/tag/rockinrio2026`) e páginas `/discover/` são bloqueadas por robots.txt, então tentar e seguir sem elas se falhar. Registrar o volume da hashtag a cada dia para mostrar a curva.
+4. **Instagram / conversa da marca — via YouScan** (aba Listening), não por scraping.
+
+Regras: nenhum número estimado; se uma fonte falhar, publicar a coluna com `status:"off"` e a explicação — o dashboard mostra o selo, e isso é informação útil, não erro. O que viralizar e tocar a marca (brinde, fila, KMV, AmPm) deve virar item no bloco `viral` E alimentar os direcionais.
+
+**Inoreader:** não está conectado a esta sessão do Claude (o conector não aparece na lista). Se for conectado no futuro, ele serve para agregar FEEDS RSS (Google Trends RSS, portais de notícia) — não resolve trends24 nem TikTok Creative Center, que não têm RSS.
+
 ## Edição duplicada (guarda)
 
 Antes de inserir a nova edição, se `editions[0].dateISO` já for a data de hoje (ex.: edição feita manualmente mais cedo), SUBSTITUIR essa edição pela nova (mesclando o que a manual tiver de melhor — em especial o bloco `youscan`) em vez de criar duplicata do mesmo dia.
