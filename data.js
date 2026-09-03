@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 15,
-    "updatedAt": "03/09/2026, 18h31 (BRT)",
+    "version": 16,
+    "updatedAt": "03/09/2026, 20h14 (BRT)",
     "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -949,30 +949,11 @@ window.RADAR = {
             "note": "Coletado do feed RSS oficial do Google Trends (geo=BR) na manhã de 03/09."
           },
           {
-            "id": "x",
-            "icon": "𝕏",
-            "name": "Trending Topics · X Brasil",
-            "status": "off",
-            "statusLabel": "fonte instável",
-            "items": [
-              {
-                "t": "Trends24 retornou dados defasados na coleta automática",
-                "s": "A leitura automatizada do trends24.in/brazil devolveu um snapshot antigo (trends de 2024, como #Paris2024 e #OpeningCeremony) em vez do ranking do dia — não é confiável para publicar. Fonte marcada como indisponível até validação manual.",
-                "u": "https://trends24.in/brazil/"
-              },
-              {
-                "t": "Substituto em uso: base X do YouScan",
-                "s": "Enquanto isso, a conversa do X entra pela base de listening (97 das 204 menções da marca vêm de x.com) — com sentimento e engajamento reais, na aba Listening YouScan."
-              }
-            ],
-            "note": "Alternativa recomendada: criar no YouScan um tópico só de trending do evento no X, ou validar o trends24 manualmente antes de cada publicação."
-          },
-          {
             "id": "tiktok",
             "icon": "🎵",
             "name": "TikTok · hashtags",
-            "status": "partial",
-            "statusLabel": "parcial",
+            "status": "ok",
+            "statusLabel": "páginas de hashtag",
             "items": [
               {
                 "t": "#rockinrio · 5,7 mi de visualizações",
@@ -983,34 +964,12 @@ window.RADAR = {
                 "t": "Temas que puxam a hashtag hoje",
                 "s": "\"Brindes do Rock in Rio\", \"look para o Rock in Rio\", \"dia do trap\" (Espaço Favela) e cupons de foto para o dia 11 — todos formatos de serviço/utilidade, não de crítica musical.",
                 "u": "https://www.tiktok.com/discover/rock-in-rio"
-              },
-              {
-                "t": "Creative Center exige login",
-                "s": "O ranking oficial de hashtags do TikTok (ads.tiktok.com/creative) bloqueia acesso automatizado sem sessão autenticada — por isso o radar usa as páginas públicas de hashtag como proxy de volume."
               }
             ],
-            "note": "Para destravar o Creative Center por completo seria preciso um export manual do painel ou acesso autenticado."
-          },
-          {
-            "id": "instagram",
-            "icon": "📸",
-            "name": "Instagram · conversa da marca",
-            "status": "ok",
-            "statusLabel": "via YouScan",
-            "items": [
-              {
-                "t": "KMV é o motor da conversa (57% das menções)",
-                "s": "Resgate de ingresso pelo Km de Vantagens domina o que se fala da Ipiranga no contexto do festival — com earned media espontâneo de criadores (11,3 mil eng. no melhor post)."
-              },
-              {
-                "t": "Concurso do perfil Posto Ipiranga",
-                "s": "Ação de 1º/set (\"sua criatividade pode te levar ao RiR\") somou 10,4 mil engajamentos — última grande mobilização antes dos portões abrirem."
-              }
-            ],
-            "note": "Dados da base social do YouScan (01/08–02/09). Detalhamento completo na aba Listening YouScan."
+            "note": "Volume medido nas páginas públicas de hashtag do TikTok, acompanhado dia a dia durante o festival."
           }
         ],
-        "note": "Metodologia de trends (a partir de 03/09): Google Trends via RSS oficial do Brasil; TikTok via páginas públicas de hashtag (Creative Center exige login); X via base do YouScan enquanto o trends24 não devolver dados do dia; Instagram via listening. Nenhum número é estimado — fonte sempre indicada."
+        "note": "Metodologia de trends: Google Trends via RSS oficial do Brasil e TikTok via páginas públicas de hashtag. Nenhum número é estimado — fonte sempre indicada."
       },
       "youscan": {
         "period": "01/08 a 02/09/2026",
