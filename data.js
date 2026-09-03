@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 11,
-    "updatedAt": "03/09/2026, 01h45 (BRT)",
+    "version": 12,
+    "updatedAt": "03/09/2026, 09h32 (BRT)",
     "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -807,11 +807,40 @@ window.RADAR = {
       "edition": 11,
       "phase": "véspera da abertura",
       "pulse": [
-        "🎪 <b>É amanhã!</b> A Cidade do Rock abre em 4/set com Foo Fighters — e o evento teste de 2/set aprovou a operação: Palco Mundo 100% LED, The Flight e shows de drones confirmados em 6 dos 7 dias.",
-        "🌧️ <b>Vai chover no 1º fim de semana:</b> abertura com calor, mas frio e chuva chegam entre sábado e segunda — capa de chuva liberada, guarda-chuva não. Utilidade climática vira a pauta da véspera.",
-        "📊 <b>Listening YouScan:</b> cobertura de imprensa em ritmo recorde (145 matérias em 2/set) e a conversa social da Ipiranga dominada por KMV e brindes — com um alerta de fila no evento teste (detalhes na aba Listening)."
+        "🎪 <b>É amanhã!</b> A Cidade do Rock abre em 4/set — Foo Fighters fecha o Palco Mundo à 00h05, programação vara a madrugada e as vias do entorno ficam bloqueadas das 14h às 5h. O evento teste de 2/set aprovou a operação (LED, The Flight, drones em 6 dos 7 dias).",
+        "📲 <b>Fricção da véspera: app Quentro.</b> Só entra quem ativar o ingresso no app — e o Reclame Aqui concentra relatos de ingressos que não aparecem após compra/resgate. Ponto de atenção direto para quem resgatou pelo KMV.",
+        "🌧️ <b>Vai chover no 1º fim de semana:</b> abertura no calor, frio e chuva entre sábado e segunda — capa de chuva liberada, guarda-chuva não. Utilidade climática segue como dúvida nº 1 do público.",
+        "📊 <b>Listening YouScan:</b> imprensa em ritmo recorde (145 matérias em 2/set) e conversa social da Ipiranga dominada por KMV e brindes — com alerta de fila no evento teste (detalhes na aba Listening)."
       ],
       "news": [
+        {
+          "t": "Só entra com ingresso ativado no app Quentro — e a véspera acumula relatos de ingresso 'sumido'",
+          "src": "Aurora Cultural / Reclame AQUI",
+          "when": "véspera",
+          "s": "Print e ingresso impresso não passam na catraca: a entrada exige ativação no app Quentro (vínculo na Ticketmaster + login + validação). No Reclame Aqui, série de reclamações recentes de ingressos que não aparecem no app após compra ou resgate — fricção clássica de véspera, que respinga em quem resgatou via KMV.",
+          "u": "https://auroracultural.com/noticias/musica/rock-in-rio-2026-so-entra-quem-ativar-o-ingresso-no-app-quentro/"
+        },
+        {
+          "t": "Esquema de trânsito: bloqueios das 14h às 5h, BRT expresso por R$ 29 e metrô 24h",
+          "src": "Tempo Real RJ / Diário do Grande ABC",
+          "when": "27/ago–01/set",
+          "s": "Prefeitura fecha o entorno do Parque Olímpico das 14h às 5h com 210 operadores e OCR para moradores. BRT Expresso Rock in Rio: R$ 29 ida e volta só pelo app Jaé (3 linhas, 11h–4h); estação Jardim Oceânico com embarque 24h (R$ 7,90).",
+          "u": "https://temporealrj.com/rock-in-rio-esquema-transito-transportes-evento/"
+        },
+        {
+          "t": "Trade detalha as 100+ ativações — e a régua de experiência está alta",
+          "src": "Meio & Mensagem",
+          "when": "01/set",
+          "s": "Itaú com pavilhão de 1.000 m² e roda-gigante; Heineken com 700 mil litros e pulseira social 'The Clinker'; Coca-Cola com FILA DIGITAL para acesso ao espaço; iFood estreia com montanha-russa; Seara com palco próprio. Benchmark direto para a operação do Espaço Ipiranga (corredor instagramável + Glambot).",
+          "u": "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        },
+        {
+          "t": "Horários da 1ª noite confirmados: Foo Fighters à 00h05",
+          "src": "Experiência Musical / Whiplash",
+          "when": "18/ago",
+          "s": "Palco Mundo: Nova Twins 16h40, The Hives 19h, Rise Against 21h20, Foo Fighters 00h05. Sunset: Capital Inicial convida Dado Villa-Lobos às 22h45. Show principal na madrugada + bloqueio viário até 5h = a volta para casa vira a pauta prática do dia 1.",
+          "u": "https://www.experienciamusical.com.br/post/rock-in-rio-2026-veja-os-hor%C3%A1rios-de-todos-os-shows-em-todos-os-palcos"
+        },
         {
           "t": "Evento teste aprova a Cidade do Rock e anuncia drones em 6 dias de festival",
           "src": "Sopa Cultural",
@@ -825,37 +854,23 @@ window.RADAR = {
           "when": "02/set",
           "s": "Previsão: sexta (4/set) quente, virada com chuva e queda de temperatura no sábado/domingo/feriado. Capa de chuva pode; guarda-chuva não entra na Cidade do Rock.",
           "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
-        },
-        {
-          "t": "Cidade do Rock pronta para 100 mil pessoas por dia",
-          "src": "g1",
-          "when": "01/set",
-          "s": "Estrutura finalizada e aprovada; g1 publicou giro de imagens da montagem concluída. A praça editorial do g1/Globo entrou em modo cobertura total (como chegar, o que levar, estreias).",
-          "u": "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
-        },
-        {
-          "t": "Lei Seca terá ações educativas dentro do festival e fiscalização com drones",
-          "src": "g1",
-          "when": "01/set",
-          "s": "Operação de segurança viária no entorno do Parque Olímpico inclui blitz reforçada nas saídas — pauta que conversa direto com o discurso de jornada responsável de uma marca de mobilidade.",
-          "u": "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
-        },
-        {
-          "t": "1 milhão de brindes: imprensa transforma as ativações em pauta de serviço",
-          "src": "CNN Brasil",
-          "when": "02/set",
-          "s": "CNN listou os brindes das 90+ marcas — a pochete e o leque da Ipiranga aparecem nos compilados. O brinde virou editoria própria na cobertura do festival.",
-          "u": "https://www.cnnbrasil.com.br/entretenimento/rock-in-rio-2026-tera-cerca-de-1-milhao-de-brindes-veja-quais/"
-        },
-        {
-          "t": "Guia do tempo + o que levar consolida a semana de utilidade",
-          "src": "InfoMoney",
-          "when": "01/set",
-          "s": "Portais de economia e serviço replicam o combo previsão + regras de entrada — último dia da janela para marcas surfarem conteúdo utilitário antes dos portões abrirem.",
-          "u": "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
         }
       ],
       "ipiranga": [
+        {
+          "t": "Espaço Ipiranga em detalhes: 272 m², 3 andares e serviço de jornada completa",
+          "src": "Todo Dia um Rock",
+          "when": "02/set",
+          "s": "Estrutura reformulada junto ao Palco Mundo com 'i' iluminado, ~70 mil leques e pochetes personalizáveis (até 8 pins colecionáveis), Bar AmPm (chopp, água, refrigerante), 7 ônibus exclusivos resgatáveis por 150 pontos KMV e pontos de recarga de celular. No comparativo do trade (M&M), corredor instagramável + Glambot completam o pacote.",
+          "u": "https://tododiaumrock.com.br/rock-in-rio-2026-ipiranga-prepara-ativacoes-e-brindes-para-o-publico/rock-in-rio/"
+        },
+        {
+          "t": "89 anos no dia 7/set: aniversário dentro do festival",
+          "src": "Mundo do Marketing",
+          "when": "jun/26",
+          "s": "A marca celebra 89 anos no feriado, dia de Elton John e Gilberto Gil no Mundo — data-âncora para ações especiais do espaço e gancho de pauta (aniversário + 'Lá, a parada é completa', da AlmapBBDO).",
+          "u": "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
+        },
         {
           "t": "Promoção relâmpago: R$ 200 em compras podem valer ingresso",
           "src": "Tribuna do Sertão",
@@ -867,7 +882,7 @@ window.RADAR = {
           "t": "KMV libera resgate de ingressos a partir de 400 pontos",
           "src": "Pontos pra Voar",
           "when": "ago/26",
-          "s": "Sites de milhas e pontos viraram canal espontâneo da oferta — resgate de gramado via app KMV com pontos + dinheiro e vale-combustível de R$ 100. É o motor nº 1 da conversa social da marca (ver aba Listening).",
+          "s": "Sites de milhas e pontos viraram canal espontâneo da oferta — resgate de gramado via app KMV com pontos + dinheiro e vale-combustível de R$ 100. É o motor nº 1 da conversa social da marca (ver aba Listening) — e quem resgatou precisa ativar o ingresso no Quentro.",
           "u": "https://pontospravoar.com/urgkmv-libera-resgate-ingressos-rock-rio-2026-partir-400-pontos/"
         },
         {
@@ -879,20 +894,25 @@ window.RADAR = {
         }
       ],
       "shows": {
-        "status": "A primeira noite é AMANHÃ (4/set): Foo Fighters, The Hives, Rise Against e Capital Inicial. A repercussão de cada noite entra aqui na manhã seguinte, dia a dia.",
+        "status": "A primeira noite é AMANHÃ (4/set): Foo Fighters fecha o Palco Mundo à 00h05, com The Hives (19h) e Rise Against (21h20); no Sunset, Capital Inicial convida Dado Villa-Lobos (22h45). Palcos menores abrem a partir das 14h30. A repercussão de cada noite entra aqui na manhã seguinte, dia a dia.",
         "reperc": []
       },
       "trends": {
         "x": [
           {
-            "t": "Evento teste dá o tom da véspera",
-            "s": "Quem foi ao teste publicou primeiras impressões da Cidade do Rock — estrutura elogiada, e a caça aos brindes já começou (com relatos de fila, ver Listening).",
-            "u": "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
+            "t": "\"Vai chover no Rock in Rio?\"",
+            "s": "A previsão de chuva/frio no 1º fim de semana segue como a dúvida nº 1 do público na véspera — pauta perfeita para conteúdo de utilidade de última hora.",
+            "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
           },
           {
-            "t": "\"Vai chover no Rock in Rio?\"",
-            "s": "A previsão de chuva/frio no 1º fim de semana vira a dúvida nº 1 do público na véspera — pauta perfeita para conteúdo de utilidade de última hora.",
-            "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
+            "t": "\"Cadê meu ingresso no Quentro?\"",
+            "s": "Ansiedade de ativação domina a conversa prática da véspera: relatos no Reclame Aqui de ingresso que não aparece no app após compra/resgate e dúvidas sobre transferência.",
+            "u": "https://www.reclameaqui.com.br/empresa/rock-in-rio/"
+          },
+          {
+            "t": "Evento teste dá o tom",
+            "s": "Quem foi ao teste publicou primeiras impressões da Cidade do Rock — estrutura elogiada, e a caça aos brindes já começou (com relatos de fila, ver Listening).",
+            "u": "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
           }
         ],
         "tiktok": [
@@ -921,15 +941,16 @@ window.RADAR = {
         ],
         "sounds": [
           {
-            "t": "Setlists da 1ª noite",
-            "s": "Foo Fighters, The Hives e Capital Inicial dominam as playlists de esquenta na véspera da abertura."
+            "t": "Playlist oficial Billboard Brasil",
+            "s": "Coletânea com 50 faixas (uma por atração do line-up) vira trilha padrão do esquenta no Spotify na véspera.",
+            "u": "https://billboard.com.br/billboard-brasil-playlist-rock-in-rio-2026/"
           },
           {
-            "t": "Drones + Dia da Amazônia (5/set)",
-            "s": "O anúncio do show de drones temático deve puxar trilhas e edits de natureza/Brasil no fim de semana."
+            "t": "Setlists da 1ª noite",
+            "s": "Foo Fighters, The Hives e Capital Inicial dominam as playlists de esquenta; sites de música especulam setlist de até 3h dos Foo Fighters."
           }
         ],
-        "note": "Véspera da abertura: leitura editorial de imprensa + números do listening YouScan (exports de 03/09, dados até 02/09 — detalhes na aba Listening). Números citados têm fonte; nada é estimado."
+        "note": "Véspera da abertura (edição atualizada às 9h): leitura editorial de imprensa + números do listening YouScan (exports de 03/09, dados até 02/09 — detalhes na aba Listening). Números citados têm fonte; nada é estimado."
       },
       "youscan": {
         "period": "01/08 a 02/09/2026",
@@ -1011,23 +1032,23 @@ window.RADAR = {
         "note": "Bases: YouScan_MentionsWithFullText — \"Ipiranga | Rock In Rio 2026 | Notícias\" (1.868 menções de imprensa, busca 'Rock in Rio') e \"MTT | IPIRANGA\" (204 menções sociais, busca Ipiranga + termos do contexto RiR: pochete, leque, RIR, stand/Espaço Ipiranga, Bar AmPm, Recarga KMV). Engajamento = métrica 'engagement' do YouScan por publicação."
       },
       "direcionais": {
-        "leitura": "O listening muda a leitura da véspera: a marca chega ao festival com a conversa dominada por KMV (57% das menções) e pelo hype dos brindes — ativos fortes —, mas o evento teste acendeu o primeiro alerta operacional (fila/ruptura da pochete) exatamente no ponto de maior desejo do público. Amanhã a narrativa do Espaço Ipiranga será definida pela operação, não pela comunicação.",
+        "leitura": "A 24h da abertura, a narrativa do Espaço Ipiranga será definida pela operação, não pela comunicação. O listening mostra a marca chegando com ativos fortes (KMV = 57% da conversa, pochete nas listas de brindes mais desejados) e dois pontos de fricção mapeados: fila/ruptura do brinde no evento teste e a ativação do ingresso no app Quentro — que atinge em cheio quem resgatou pelo KMV. Do outro lado, a régua subiu: Coca-Cola opera fila digital e o Itaú tem roda-gigante. O dia é de blindar operação e assumir a jornada (ida, chuva e volta na madrugada) como território da marca.",
         "dirs": [
           {
-            "t": "Blindar a operação do brinde no dia 1",
-            "s": "A pochete já entrou nas listas de 'brindes mais desejados' (posts de até 51,9 mil eng.) e o teste registrou 1h30 de fila com ruptura. Impacto de marca: o 1º UGC do espaço pode ser fila ou pode ser pochete no corpo — reforçar estoque, janelas de distribuição ao longo do dia e aviso de disponibilidade no local/social."
+            "t": "Blindar a operação do brinde no dia 1 — com plano anti-fila",
+            "s": "A pochete entrou nas listas de 'brindes mais desejados' (posts de até 51,9 mil eng.) e o teste registrou 1h30 de fila com ruptura. Coca-Cola vai operar FILA DIGITAL no espaço dela — se a Ipiranga não organizar a distribuição (janelas, estoque por dia, aviso de disponibilidade), o contraste operacional vira pauta. O 1º UGC do espaço pode ser fila ou pode ser pochete no corpo."
+          },
+          {
+            "t": "Assumir o suporte da ativação Quentro para o público KMV",
+            "s": "Quem resgatou ingresso pelo KMV e não vê o ingresso no app não culpa a Ticketmaster — culpa a Ipiranga. Com o Reclame Aqui já acumulando casos na véspera, a marca precisa se antecipar com passo-a-passo de ativação e rota de suporte antes dos portões abrirem."
+          },
+          {
+            "t": "Ser dona da volta para casa",
+            "s": "Foo Fighters à 00h05 + vias bloqueadas até 5h = a volta é o problema prático da 1ª noite. A marca tem o ativo perfeito (7 ônibus KMV por 150 pontos) e pode empacotar a utilidade completa (BRT Jaé R$ 29, metrô 24h) — 'parada completa' aplicada à jornada do festival, sem falar de line-up."
           },
           {
             "t": "Transformar o KMV em história, não em oferta",
             "s": "57% da conversa da marca é KMV, e o post mais forte é uma criadora provando o resgate. Repostar/amplificar histórias reais de quem resgatou ingresso (com autorização) vale mais que nova peça de oferta na semana de abertura."
-          },
-          {
-            "t": "Surfar a pauta do clima com utilidade de marca",
-            "s": "Chuva e frio no 1º fim de semana + 'o que levar' dominando imprensa e busca: comunicar a pochete como item funcional para a chuva e considerar utilidade extra no espaço (ponto de abrigo, capa de chuva) — 'parada completa' literal."
-          },
-          {
-            "t": "Ocupar o vazio de UOL/R7 na cobertura",
-            "s": "A base YouScan mostra Terra/Globo dominando e UOL/R7 quase ausentes da pauta do festival — press office pode mirar esses portais com o gancho dos 89 anos em 7/set e do leilão KMV, onde há menos disputa por espaço."
           },
           {
             "t": "Corrigir o tópico do YouScan antes da 1ª noite",
@@ -1035,11 +1056,11 @@ window.RADAR = {
           }
         ],
         "acion": [
-          "Enviar hoje ao time do Espaço Ipiranga o alerta de fila/ruptura do evento teste com recomendação de estoque e fluxo para 4/set.",
-          "Levantar com jurídico/social 3–5 posts reais de resgate KMV para repost autorizado na semana de abertura.",
-          "Publicar ainda hoje conteúdo 'kit chuva + pochete' aproveitando a dúvida nº 1 da véspera (vai chover?).",
-          "Acionar assessoria para ofertar pauta exclusiva a UOL e R7 (89 anos + leilão KMV) antes de 7/set.",
-          "Abrir chamado de correção do sentimento no tópico MTT | IPIRANGA do YouScan e validar com um export novo amanhã."
+          "Publicar hoje, nos canais da marca e por e-mail/push à base de resgatadores KMV, o passo-a-passo de ativação do ingresso no app Quentro (conferir aba 'Próximos') com rota de suporte para quem não vê o ingresso.",
+          "Fechar com o time do Espaço Ipiranga o plano anti-fila da pochete para 4/set: janelas de distribuição ao longo do dia, estoque reservado por dia e aviso de disponibilidade no local/social — avaliar senha/fila digital (benchmark Coca-Cola).",
+          "Briefar e publicar até amanhã 14h o conteúdo 'a volta faz parte da parada': ônibus KMV (150 pontos), BRT Jaé R$ 29 ida e volta, metrô 24h e bloqueio viário 14h–5h.",
+          "Publicar ainda hoje o conteúdo 'kit chuva + pochete' aproveitando a dúvida nº 1 da véspera (vai chover?) — pochete como item funcional para o 1º fim de semana.",
+          "Abrir/cobrar o chamado de correção do sentimento no tópico MTT | IPIRANGA do YouScan e validar com um export novo amanhã cedo, antes do war room da 1ª noite."
         ]
       },
       "sources": [
@@ -1052,24 +1073,52 @@ window.RADAR = {
           "https://youscan.io"
         ],
         [
+          "Aurora Cultural — ativação obrigatória no app Quentro",
+          "https://auroracultural.com/noticias/musica/rock-in-rio-2026-so-entra-quem-ativar-o-ingresso-no-app-quentro/"
+        ],
+        [
+          "Reclame AQUI — Rock in Rio (relatos de ingresso no Quentro)",
+          "https://www.reclameaqui.com.br/empresa/rock-in-rio/"
+        ],
+        [
+          "Tempo Real RJ — esquema de trânsito e transporte",
+          "https://temporealrj.com/rock-in-rio-esquema-transito-transportes-evento/"
+        ],
+        [
+          "Diário do Grande ABC — segurança e transporte",
+          "https://www.dgabc.com.br/Noticia/4344494/rock-in-rio-2026-como-sera-o-esquema-de-seguranca-e-transporte-para-os-dias-de-festival"
+        ],
+        [
+          "Meio & Mensagem — ativações das marcas",
+          "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        ],
+        [
+          "Todo Dia um Rock — Espaço Ipiranga em detalhes",
+          "https://tododiaumrock.com.br/rock-in-rio-2026-ipiranga-prepara-ativacoes-e-brindes-para-o-publico/rock-in-rio/"
+        ],
+        [
+          "Mundo do Marketing — 89 anos da Ipiranga no RiR",
+          "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
+        ],
+        [
+          "Experiência Musical — horários de todos os shows",
+          "https://www.experienciamusical.com.br/post/rock-in-rio-2026-veja-os-hor%C3%A1rios-de-todos-os-shows-em-todos-os-palcos"
+        ],
+        [
+          "Whiplash — Foo Fighters e Avenged de madrugada",
+          "https://whiplash.net/materias/news_668/382002-foofighters.html"
+        ],
+        [
+          "Billboard Brasil — playlist oficial do RiR 2026",
+          "https://billboard.com.br/billboard-brasil-playlist-rock-in-rio-2026/"
+        ],
+        [
           "Sopa Cultural — evento teste",
           "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
         ],
         [
           "CNN Brasil — previsão do 1º fim de semana",
           "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
-        ],
-        [
-          "g1 — cobertura Rock in Rio",
-          "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
-        ],
-        [
-          "CNN Brasil — 1 milhão de brindes",
-          "https://www.cnnbrasil.com.br/entretenimento/rock-in-rio-2026-tera-cerca-de-1-milhao-de-brindes-veja-quais/"
-        ],
-        [
-          "InfoMoney — tempo + o que levar",
-          "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
         ],
         [
           "Tribuna do Sertão — promoção R$ 200",
