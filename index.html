@@ -268,9 +268,7 @@
     <button data-tab="noticias" class="on">📰 Notícias</button>
     <button data-tab="shows">🎸 Shows &amp; Horários</button>
     <button data-tab="trends">📈 Trends</button>
-    <button data-tab="listening">📊 Listening YouScan</button>
-    <button data-tab="owned">💬 Listening @Ipiranga</button>
-    <button data-tab="influ">⭐ Influência</button>
+    <button data-tab="influ">⭐ Embaixadores</button>
     <button data-tab="dir">🧭 Direcionais Ipiranga</button>
   </nav>
 </div></div>
@@ -313,23 +311,9 @@
     <p class="note" id="trendNote"></p>
   </section>
 
-  <!-- ================= ABA · LISTENING YOUSCAN ================= -->
-  <section class="tab" id="tab-listening">
-    <h2><span class="numtag">01</span>Listening YouScan</h2>
-    <p class="h2sub" id="ysSub"></p>
-    <div id="ysBox"></div>
-  </section>
-
-  <!-- ================= ABA · LISTENING @IPIRANGA (canais proprietários) ================= -->
-  <section class="tab" id="tab-owned">
-    <h2><span class="numtag">01</span>Listening @Ipiranga</h2>
-    <p class="h2sub" id="owSub"></p>
-    <div id="owBox"></div>
-  </section>
-
-  <!-- ================= ABA · INFLUÊNCIA ================= -->
+  <!-- ================= ABA · EMBAIXADORES ================= -->
   <section class="tab" id="tab-influ">
-    <h2><span class="numtag">01</span>Influência</h2>
+    <h2><span class="numtag">01</span>Embaixadores</h2>
     <p class="h2sub" id="ifSub"></p>
     <div id="ifBox"></div>
   </section>
@@ -510,118 +494,10 @@
   }
   $("trendNote").textContent = "ℹ️ " + T.note;
 
-  /* ---------- aba listening (YouScan) ---------- */
-  const ys = ed.youscan;
-  if (!ys){
-    $("ysSub").textContent = "Análise quantitativa de menções (imprensa e redes) a partir dos exports do YouScan.";
-    $("ysBox").innerHTML = `<div class="empty">📊 Sem export recente do YouScan nesta edição. Envie os arquivos (youscan-noticias.xlsx / youscan-marca.xlsx) que os números entram na próxima atualização.</div>`;
-  } else {
-    $("ysSub").textContent = "Período analisado: "+ys.period+" · "+ys.updatedFrom;
-    const stat = (n,l)=>`<div class="tile" style="background:var(--bg2);border:1px solid var(--line)"><div class="n" style="color:var(--blue);font-size:22px">${n}</div><div class="l" style="color:var(--mut)">${l}</div></div>`;
-    const list = arr => arr.map(x=>`<div class="titem"><div class="tt">${esc(x[0])}</div><p>${x[1]}</p></div>`).join("");
-    $("ysBox").innerHTML = `
-      <div class="tcols" style="grid-template-columns:repeat(auto-fit,minmax(320px,1fr))">
-        <div class="tcol" style="border-top-color:var(--blue2)">
-          <div class="th">📰 ${esc(ys.news.label)}</div>
-          <div class="tiles" style="margin:10px 0;grid-template-columns:repeat(2,1fr)">${stat(ys.news.total,"menções no período")}${stat(ys.news.peak,"pico diário")}</div>
-          <div class="titem"><div class="tt">Sentimento</div><p>${ys.news.sentiment}</p></div>
-          <div class="titem"><div class="tt">Veículos que mais publicam</div><p>${ys.news.outlets}</p></div>
-          ${list(ys.news.bullets)}
-        </div>
-        <div class="tcol" style="border-top-color:var(--orange)">
-          <div class="th">⛽ ${esc(ys.brand.label)}</div>
-          <div class="tiles" style="margin:10px 0;grid-template-columns:repeat(2,1fr)">${stat(ys.brand.total,"menções no período")}${stat(ys.brand.engTop,"maior engajamento em 1 post")}</div>
-          <div class="titem"><div class="tt">Onde a conversa acontece</div><p>${ys.brand.sources}</p></div>
-          <div class="titem"><div class="tt">Temas (etiquetas YouScan)</div><p>${ys.brand.themes}</p></div>
-          ${list(ys.brand.bullets)}
-        </div>
-      </div>
-      <h2 style="margin-top:26px"><span class="numtag">02</span>Posts que definiram a conversa</h2>
-      <div class="grid" style="margin-top:12px">${ys.topPosts.map(p=>`
-        <article class="card"><div class="top"><h3>${esc(p.t)}</h3><span class="when">${esc(p.d)} · ${esc(p.src)} · ${esc(p.eng)}</span></div><p>${p.s}</p></article>`).join("")}
-      </div>
-      ${ys.alerts && ys.alerts.length ? `
-      <h2 style="margin-top:26px"><span class="numtag">03</span>Alertas do listening</h2>
-      <div class="grid" style="margin-top:12px">${ys.alerts.map(a=>`
-        <article class="card" style="border-left:4px solid var(--orange)"><h3>${esc(a.t)}</h3><p>${a.s}</p></article>`).join("")}
-      </div>`:""}
-      <p class="note" style="margin-top:16px">ℹ️ ${ys.note}</p>`;
-  }
-
-  /* ---------- aba: Listening @Ipiranga (canais proprietários) ---------- */
-  const OW = ed.owned;
-  const POLC = {POSITIVO:"#2E9E5B", NEUTRO:"#C77E00", NEGATIVO:"#D93025"};
-  if (!OW){
-    $("owSub").textContent = "Análise dos comentários nos posts sobre Rock in Rio dos canais próprios (@ipiranga no Instagram e TikTok).";
-    $("owBox").innerHTML = `<div class="empty">💬 Sem coleta nesta edição. A aba é alimentada pela coleta diária dos perfis + extração de comentários no ExportComments.</div>`;
-  } else {
-    $("owSub").textContent = OW.window + " · " + OW.updatedFrom;
-    const P = OW.pol, tot = P.POSITIVO+P.NEUTRO+P.NEGATIVO;
-    const pct = n => tot? (100*n/tot) : 0;
-    const seg = k => pct(P[k])>0
-      ? `<div class="pol-seg" style="width:${pct(P[k])}%;background:${POLC[k]}" title="${k}: ${P[k]}">${pct(P[k])>=9?P[k]:""}</div>` : "";
-    const imsColor = v => v>=80?"#2E9E5B":v>=60?"#C77E00":"#D93025";
-    const maxT = Math.max(...OW.tags.map(t=>t[1]));
-
-    $("owBox").innerHTML = `
-      <div class="tiles" style="grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 20px">
-        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
-          <div class="n" style="color:var(--blue)">${OW.posts.length}</div><div class="l" style="color:var(--mut)">posts sobre RiR no período</div></div>
-        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
-          <div class="n" style="color:var(--blue)">${OW.posts.reduce((a,p)=>a+(+p.likes||0),0).toLocaleString("pt-BR")}</div><div class="l" style="color:var(--mut)">likes somados</div></div>
-        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
-          <div class="n" style="color:var(--blue)">${OW.posts.reduce((a,p)=>a+(+p.coments||0),0).toLocaleString("pt-BR")}</div><div class="l" style="color:var(--mut)">comentários recebidos</div></div>
-        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
-          <div class="n" style="color:${imsColor(OW.ims_geral)}">${OW.ims_geral}%</div><div class="l" style="color:var(--mut)">IMS geral (saudabilidade)</div></div>
-      </div>
-      <p class="note" style="margin:-8px 0 18px">🧮 ${esc(OW.ims_formula||"")}</p>
-
-      <h2><span class="numtag">02</span>Posts publicados</h2>
-      <p class="h2sub">Publicações sobre Rock in Rio nos canais próprios, com engajamento e saudabilidade.</p>
-      <div class="tbl-scroll"><table>
-        <thead><tr><th>Data</th><th>Post</th><th>Origem</th><th style="text-align:right">Likes</th><th style="text-align:right">Coment.</th><th>Saudabilidade</th></tr></thead>
-        <tbody>${OW.posts.map(p=>`
-          <tr>
-            <td class="time">${esc(p.date)}</td>
-            <td><a href="${p.url}" target="_blank" rel="noopener">${esc(p.tema)} ↗</a>${p.collab?`<span class="collabtag">collab ${esc(p.collab)}</span>`:""}
-                <div style="color:var(--mut);font-size:11.5px;margin-top:2px">${esc(p.tipo)}${p.topTags&&p.topTags.length?" · "+p.topTags.join(" · "):""}</div></td>
-            <td class="stage">${esc(p.rede)}</td>
-            <td style="text-align:right;font-variant-numeric:tabular-nums">${(+p.likes).toLocaleString("pt-BR")}</td>
-            <td style="text-align:right;font-variant-numeric:tabular-nums">${(+p.coments).toLocaleString("pt-BR")}</td>
-            <td class="ims" style="color:${imsColor(p.ims)}"><span class="imsdot" style="background:${imsColor(p.ims)}"></span>${p.ims}%
-              <span style="color:var(--mut);font-weight:500"> · ${p.amostra} class.</span></td>
-          </tr>`).join("")}
-        </tbody>
-      </table></div>
-
-      <h2><span class="numtag">03</span>Polaridade dos comentários</h2>
-      <p class="h2sub">${tot.toLocaleString("pt-BR")} comentários classificados · POSITIVO ${P.POSITIVO} · NEUTRO ${P.NEUTRO} · NEGATIVO ${P.NEGATIVO}</p>
-      <div class="pol-bar">${seg("POSITIVO")}${seg("NEUTRO")}${seg("NEGATIVO")}</div>
-      <div class="pol-legend">
-        ${["POSITIVO","NEUTRO","NEGATIVO"].map(k=>`<span><i style="background:${POLC[k]}"></i>${k} — <b>${P[k]}</b> (${pct(P[k]).toFixed(1)}%)</span>`).join("")}
-      </div>
-
-      <h2><span class="numtag">04</span>Principais temas</h2>
-      <p class="h2sub">Tagueamento na taxonomia Ipiranga (tag 1 + tag 2), contextualizado ao tema de cada post.</p>
-      <div>${OW.tags.map(([t,c])=>`
-        <div class="tema-row">
-          <div class="lbl" title="${esc(t)}">${esc(t)}</div>
-          <div class="trk"><div class="fill" style="width:${Math.max(2,100*c/maxT)}%"></div></div>
-          <div class="val">${c}</div>
-        </div>`).join("")}</div>
-
-      ${OW.alerts&&OW.alerts.length?`
-      <h2><span class="numtag">05</span>Leitura dos comentários</h2>
-      <div class="grid" style="margin-top:12px">${OW.alerts.map(a=>`
-        <article class="card" style="border-left:4px solid ${a.tone==="neg"?"#D93025":"var(--y)"}"><h3>${esc(a.t)}</h3><p>${a.s}</p></article>`).join("")}
-      </div>`:""}
-      <p class="note" style="margin-top:16px">ℹ️ ${OW.note}</p>`;
-  }
-
-  /* ---------- aba: Influência ---------- */
+  /* ---------- aba: Embaixadores ---------- */
   const IF = ed.influencia;
   if (!IF){
-    $("ifSub").textContent = "Acompanhamento das publicações dos creators da campanha sobre o Rock in Rio.";
+    $("ifSub").textContent = "Acompanhamento das publicações dos embaixadores da campanha sobre o Rock in Rio.";
     $("ifBox").innerHTML = `<div class="empty">⭐ Sem coleta nesta edição.</div>`;
   } else {
     $("ifSub").textContent = IF.window + " · " + IF.updatedFrom;
@@ -634,7 +510,7 @@
 
       <div class="tiles" style="grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 22px">
         <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
-          <div class="n" style="color:var(--blue)">${IF.creators.length}</div><div class="l" style="color:var(--mut)">creators no plano</div></div>
+          <div class="n" style="color:var(--blue)">${IF.creators.length}</div><div class="l" style="color:var(--mut)">embaixadores no plano</div></div>
         <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
           <div class="n" style="color:var(--blue)">${IF.posts.length}</div><div class="l" style="color:var(--mut)">posts sobre RiR desde 01/09</div></div>
         <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
@@ -643,7 +519,7 @@
           <div class="n" style="color:var(--blue)">${IF.posts.reduce((a,p)=>a+(+p.likes||0),0).toLocaleString("pt-BR")}</div><div class="l" style="color:var(--mut)">likes somados</div></div>
       </div>
 
-      <h2><span class="numtag">02</span>Creators da campanha</h2>
+      <h2><span class="numtag">02</span>Embaixadores da campanha</h2>
       <p class="h2sub">Status de publicação sobre o festival e menção à marca.</p>
       <div class="grid">${IF.creators.map(c=>`
         <article class="card" style="border-left:4px solid ${stCor(c.status)}">
@@ -659,7 +535,7 @@
       <h2><span class="numtag">03</span>Publicações sobre o Rock in Rio</h2>
       <p class="h2sub">Marcas citadas = perfis marcados na legenda + marcas nomeadas no texto.</p>
       <div class="tbl-scroll"><table>
-        <thead><tr><th>Data</th><th>Creator</th><th>Publicação</th><th style="text-align:right">Likes</th><th style="text-align:right">Coment.</th><th>Marcas citadas</th></tr></thead>
+        <thead><tr><th>Data</th><th>Embaixador</th><th>Publicação</th><th style="text-align:right">Likes</th><th style="text-align:right">Coment.</th><th>Marcas citadas</th></tr></thead>
         <tbody>${IF.posts.map(p=>`
           <tr>
             <td class="time">${esc(p.date)}</td>
