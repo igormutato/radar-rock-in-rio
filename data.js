@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 13,
-    "updatedAt": "03/09/2026, 15h15 (BRT)",
+    "version": 14,
+    "updatedAt": "03/09/2026, 17h19 (BRT)",
     "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -1192,7 +1192,185 @@ window.RADAR = {
           "Ipiranga — página oficial da campanha",
           "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
         ]
-      ]
+      ],
+      "owned": {
+        "window": "Posts de 31/08 a 03/09/2026",
+        "updatedFrom": "coleta de 03/09 via perfis logados (Claude para Chrome) + classificação na taxonomia Ipiranga",
+        "ims_formula": "IMS = (POSITIVO + NEUTRO) ÷ total de comentários classificados",
+        "ims_geral": 98.6,
+        "pol": {
+          "POSITIVO": 47,
+          "NEUTRO": 23,
+          "NEGATIVO": 1
+        },
+        "tags": [
+          [
+            "Sobre a Promoção",
+            34
+          ],
+          [
+            "Dúvidas",
+            15
+          ],
+          [
+            "Intenção de compra/uso",
+            13
+          ],
+          [
+            "Sobre o Conteúdo",
+            7
+          ],
+          [
+            "Conversas/Sem contexto",
+            6
+          ],
+          [
+            "Percepção Marca - Ipiranga",
+            4
+          ],
+          [
+            "Emojis/Figuras/Gifs",
+            3
+          ],
+          [
+            "Resposta da Marca/SAC",
+            3
+          ],
+          [
+            "Sobre o Produto",
+            3
+          ],
+          [
+            "Elogio à Campanha",
+            2
+          ]
+        ],
+        "posts": [
+          {
+            "pid": "Dc0_x6Tzdyl",
+            "date": "03/09",
+            "rede": "Instagram",
+            "tipo": "Reel",
+            "tema": "Contagem regressiva / Parada Completa",
+            "collab": "",
+            "likes": 189,
+            "coments": 11,
+            "url": "https://www.instagram.com/p/Dc0_x6Tzdyl/",
+            "amostra": 11,
+            "pos": 1,
+            "neu": 10,
+            "neg": 0,
+            "ims": 100,
+            "topTags": [
+              "Dúvidas",
+              "Percepção Marca - Ipiranga"
+            ]
+          },
+          {
+            "pid": "Dcy8ApGMxuM",
+            "date": "02/09",
+            "rede": "Instagram",
+            "tipo": "Reel",
+            "tema": "Abastece e vai pro RiR (publi)",
+            "collab": "@becca.orenstein",
+            "likes": 485,
+            "coments": 45,
+            "url": "https://www.instagram.com/p/Dcy8ApGMxuM/",
+            "amostra": 15,
+            "pos": 12,
+            "neu": 3,
+            "neg": 0,
+            "ims": 100,
+            "topTags": [
+              "Sobre o Conteúdo",
+              "Conversas/Sem contexto"
+            ]
+          },
+          {
+            "pid": "DcwVrJxNVNu",
+            "date": "01/09",
+            "rede": "Instagram",
+            "tipo": "Reel",
+            "tema": "Blitz 300 ingressos — cobertura",
+            "collab": "@billboardbr",
+            "likes": 82,
+            "coments": 14,
+            "url": "https://www.instagram.com/p/DcwVrJxNVNu/",
+            "amostra": 15,
+            "pos": 13,
+            "neu": 2,
+            "neg": 0,
+            "ims": 100,
+            "topTags": [
+              "Intenção de compra/uso",
+              "Sobre o Conteúdo"
+            ]
+          },
+          {
+            "pid": "Dcv1-E7xpNt",
+            "date": "01/09",
+            "rede": "Instagram",
+            "tipo": "Feed",
+            "tema": "Concurso de frases criativas",
+            "collab": "",
+            "likes": 1400,
+            "coments": 9200,
+            "url": "https://www.instagram.com/p/Dcv1-E7xpNt/",
+            "amostra": 15,
+            "pos": 10,
+            "neu": 5,
+            "neg": 0,
+            "ims": 100,
+            "topTags": [
+              "Sobre a Promoção",
+              "Dúvidas"
+            ]
+          },
+          {
+            "pid": "DctoVb9TzDh",
+            "date": "31/08",
+            "rede": "Instagram",
+            "tipo": "Feed",
+            "tema": "Blitz Rádio Mix — R$200 + KMV",
+            "collab": "",
+            "likes": 668,
+            "coments": 230,
+            "url": "https://www.instagram.com/p/DctoVb9TzDh/",
+            "amostra": 15,
+            "pos": 11,
+            "neu": 3,
+            "neg": 1,
+            "ims": 93.3,
+            "topTags": [
+              "Sobre a Promoção",
+              "Intenção de compra/uso"
+            ]
+          }
+        ],
+        "alerts": [
+          {
+            "tone": "neg",
+            "t": "⚠️ Ansiedade pelo resultado do concurso domina os comentários de hoje",
+            "s": "O post de contagem regressiva (03/09) virou canal de cobrança: <b>10 dos 11 comentários</b> perguntam pelo resultado do concurso de frases (\"Cadê o resultado?\", \"E quem ganhou?\", \"Quase tendo uma parada cardíaca esperando\"). O post do concurso somou <b>9,2 mil comentários</b> e a promessa de divulgação foi feita pelo próprio perfil em 02/09. Cada hora sem resultado converte expectativa em frustração às vésperas do festival."
+          },
+          {
+            "tone": "neg",
+            "t": "⚠️ Falha de operação na blitz do dia 01/09 (Barra da Tijuca)",
+            "s": "Único comentário genuinamente negativo da amostra, com 10 curtidas: <i>\"uma falta de organização que eu nunca vi. cheguei cedo à toa... a própria moça da organização mandou eu sair tacando o carro\"</i>. Outro participante relata <b>2h30 de fila</b> (ainda assim positivo). É o mesmo padrão do alerta da pochete no evento teste: a operação de fila é o ponto fraco recorrente das ativações."
+          },
+          {
+            "tone": "pos",
+            "t": "✅ O concurso de frases produziu criativo de marca de graça",
+            "s": "Os comentários do concurso são peças publicitárias escritas pelo público — \"encher o tanque do foguete do Rocketman com Ipimax\", \"de Gasoline vocês dois entendem\" (Halsey), \"tanque de esperança\". <b>Sobre a Promoção</b> é a tag nº 1 (34 ocorrências) e <b>Intenção de compra/uso</b> aparece 13 vezes: a mecânica não só engaja, ela puxa intenção declarada de abastecer."
+          },
+          {
+            "tone": "pos",
+            "t": "✅ Collabs performaram acima da média orgânica",
+            "s": "O reel com <b>@becca.orenstein</b> (485 likes, 45 comentários) superou o post orgânico do mesmo período e concentrou elogio a conteúdo/influenciador, sem ruído de marca. Já o de <b>@billboardbr</b> (82 likes) rendeu menos alcance, mas trouxe relatos de quem participou da blitz — prova social qualificada."
+          }
+        ],
+        "note": "Coleta de 03/09: 5 posts do Instagram (@ipiranga) no período; <b>TikTok pendente</b> — o domínio ainda não está liberado nas permissões da extensão Claude para Chrome. Amostra classificada: 71 comentários (os visíveis nos posts) passados pelo classificador da skill Ipiranga + revisão humana de 20 casos de fronteira. A classificação completa dos 9,2 mil comentários do concurso depende da extração via ExportComments. Saudabilidade (IMS) = (POSITIVO + NEUTRO) ÷ total classificado — confirmar se é a fórmula oficial de vocês."
+      }
     },
     {
       "date": "02/09/2026",
