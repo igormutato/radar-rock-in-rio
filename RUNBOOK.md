@@ -62,4 +62,15 @@ Perfis acompanhados: @jeffmattias · @divasuburbana · @cassialourencogomes · @
 Janela: publicações sobre Rock in Rio a partir de 01/09. Campo `influencia` da edição:
 `{window, updatedFrom, headline, creators:[{handle,nome,status,posts,citouIpiranga,resumo}], posts:[{date,handle,tipo,tema,likes,coments,shares,marcas[],collab,url}], alerts:[{tone,t,s}], note}`
 
-Coleta via Claude para Chrome (os perfis bloqueiam fetch automatizado): `list_connected_browsers` → **perguntar ao usuário qual navegador** → `select_browser`. Truque eficiente: `find` no grid do perfil pedindo "grid post images with their full alt-text description including date and caption" — o alt do Instagram traz legenda + data + perfis marcados numa só chamada. Cada post traz `marcas` = perfis marcados na legenda + marcas nomeadas no texto; `collab` quando o href do grid aponta para outro perfil.
+**Rotina própria:** tarefa agendada "Radar Rock in Rio — aba Embaixadores 10h" (`trig_01CEEvtw3WwgkgTXAFBY79hu`), cron `0 13 * * *` = 10h BRT, vinculada ao computador do usuário. Ela mexe SOMENTE em `editions[0].influencia` — quem cria a edição do dia é a tarefa das 9h. Se rodar antes da edição do dia existir, atualiza a edição mais recente disponível.
+
+Coleta via Claude para Chrome (os perfis bloqueiam fetch automatizado). Navegador pré-autorizado pelo usuário: **Browser 1 (Windows), deviceId `379060c8-28ea-4bf3-9e79-31f571b3425e`** — `select_browser` direto, sem perguntar. **Pré-requisito operacional: o Chrome precisa estar aberto com a extensão do Claude conectada às 10h.** Sem isso a tarefa entra em modo degradado: não altera o data.js e avisa o usuário. Truque eficiente: `find` no grid do perfil pedindo "grid post images with their full alt-text description including date and caption" — o alt do Instagram traz legenda + data + perfis marcados numa só chamada. Cada post traz `marcas` = perfis marcados na legenda + marcas nomeadas no texto; `collab` quando o href do grid aponta para outro perfil.
+
+## Pré-requisitos operacionais (o que pode fazer a rotina falhar)
+
+| Rotina | Depende de | Se faltar |
+|---|---|---|
+| 9h — edição do dia | só rede (WebSearch/WebFetch + API do GitHub) | roda sempre |
+| 10h — Embaixadores | Chrome aberto na máquina do usuário com a extensão do Claude conectada | modo degradado: não publica, avisa o usuário |
+
+Se o usuário trocar de máquina/navegador, atualizar o deviceId no prompt da tarefa das 10h (`update_trigger`) — mas atenção: tarefa vinculada a computador só aceita novo prompt com aprovação do usuário naquela máquina.
