@@ -170,6 +170,20 @@
   .titem .tt a:hover{color:var(--blue2);text-decoration:none}
   .titem p{color:var(--ink2);font-size:13px;margin-top:3px}
   .note{margin-top:14px;font-size:12.5px;color:var(--mut);border-left:3px solid var(--y);padding-left:12px}
+  /* status das fontes de trends */
+  .srcpill{
+    display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:800;
+    letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:999px;margin-left:auto
+  }
+  .srcpill.ok{background:rgba(0,104,255,.12);color:var(--blue2)}
+  .srcpill.partial{background:rgba(255,178,6,.20);color:#8a5c00}
+  .srcpill.off{background:rgba(255,105,0,.14);color:var(--orange)}
+  .tcol .th{align-items:center}
+  .viral{border-left:4px solid var(--y);background:linear-gradient(90deg, rgba(255,209,0,.07), transparent 45%)}
+  .viral .metric{
+    display:inline-block;font-family:var(--tit);font-weight:900;color:var(--orange);
+    font-size:12px;letter-spacing:.02em;margin-right:8px
+  }
 
   /* ---------- direcionais ---------- */
   .leitura{
@@ -273,7 +287,8 @@
 
   <!-- ================= ABA 3 · TRENDS ================= -->
   <section class="tab" id="tab-trends">
-    <h2><span class="numtag">01</span>O que está bombando</h2>
+    <div id="viralBox"></div>
+    <h2 id="trendsH2"><span class="numtag">02</span>Fontes de trend</h2>
     <p class="h2sub" id="trendsSub"></p>
     <div class="tcols" id="trendCols"></div>
     <p class="note" id="trendNote"></p>
@@ -415,17 +430,52 @@
   renderDay(defIdx);
 
   /* ---------- aba 3: trends ---------- */
+  const T = ed.trends;
+  const titem = t=>`<div class="titem"><div class="tt">${t.u?`<a href="${t.u}" target="_blank" rel="noopener">${esc(t.t)} ↗</a>`:esc(t.t)}</div><p>${t.s}</p></div>`;
+
+  // bloco 01 — o que está viralizando do evento (foco do radar)
+  if (T.viral && T.viral.length){
+    $("viralBox").innerHTML = `
+      <h2><span class="numtag">01</span>Viralizando agora — direto do evento</h2>
+      <p class="h2sub">Menções diretamente ligadas ao Rock in Rio que estão ganhando tração nas redes.</p>
+      <div class="grid">${T.viral.map(v=>`
+        <article class="card viral">
+          <div class="top">
+            <h3>${v.u?`<a href="${v.u}" target="_blank" rel="noopener">${esc(v.t)} ↗</a>`:esc(v.t)}</h3>
+            <span class="when">${esc(v.src||"")}</span>
+          </div>
+          <p>${v.metric?`<span class="metric">${esc(v.metric)}</span>`:""}${v.s}</p>
+        </article>`).join("")}</div>`;
+    $("trendsH2").innerHTML = '<span class="numtag">02</span>Fontes de trend';
+  } else {
+    $("viralBox").innerHTML = "";
+    $("trendsH2").innerHTML = '<span class="numtag">01</span>O que está bombando';
+  }
+
   $("trendsSub").textContent = "Leitura do dia "+ed.date+" · fase: "+ed.phase+".";
-  const tcol=(icon,name,items)=>`
-    <div class="tcol"><div class="th">${icon} ${name}</div>
-      ${items.map(t=>`<div class="titem"><div class="tt">${t.u?`<a href="${t.u}" target="_blank" rel="noopener">${esc(t.t)} ↗</a>`:esc(t.t)}</div><p>${t.s}</p></div>`).join("")}
-    </div>`;
-  $("trendCols").innerHTML =
-    tcol("𝕏","Trending no X", ed.trends.x) +
-    tcol("🎵","TikTok", ed.trends.tiktok) +
-    tcol("📸","Instagram", ed.trends.instagram) +
-    tcol("🎧","Sons & tendências em alta", ed.trends.sounds);
-  $("trendNote").textContent = "ℹ️ " + ed.trends.note;
+
+  if (T.sources && T.sources.length){
+    // schema novo: uma coluna por fonte, com status explícito
+    const pill = s => s.status==="ok" ? `<span class="srcpill ok">● ${esc(s.statusLabel||"ativa")}</span>`
+                    : s.status==="partial" ? `<span class="srcpill partial">◐ ${esc(s.statusLabel||"parcial")}</span>`
+                    : `<span class="srcpill off">○ ${esc(s.statusLabel||"indisponível")}</span>`;
+    $("trendCols").innerHTML = T.sources.map(s=>`
+      <div class="tcol" style="${s.status==="off"?"opacity:.85":""}">
+        <div class="th">${s.icon||"📈"} ${esc(s.name)} ${pill(s)}</div>
+        ${(s.items||[]).map(titem).join("")}
+        ${s.note?`<p class="note" style="margin-top:12px">${s.note}</p>`:""}
+      </div>`).join("");
+  } else {
+    // schema legado (edições antigas)
+    const tcol=(icon,name,items)=>`
+      <div class="tcol"><div class="th">${icon} ${name}</div>${(items||[]).map(titem).join("")}</div>`;
+    $("trendCols").innerHTML =
+      tcol("𝕏","Trending no X", T.x) +
+      tcol("🎵","TikTok", T.tiktok) +
+      tcol("📸","Instagram", T.instagram) +
+      tcol("🎧","Sons & tendências em alta", T.sounds);
+  }
+  $("trendNote").textContent = "ℹ️ " + T.note;
 
   /* ---------- aba listening (YouScan) ---------- */
   const ys = ed.youscan;
