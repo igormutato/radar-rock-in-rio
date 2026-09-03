@@ -24,14 +24,20 @@ Rotina executada todo dia ~9h BRT por uma sessão agendada do Claude. Este arqui
    `PUT https://api.github.com/repos/igormutato/radar-rock-in-rio/contents/data.js` com `{message, content(base64), sha, "branch":"gh-pages"}`.
 7. **Verificar** https://igormutato.github.io/radar-rock-in-rio/ após ~1–2 min (build do Pages) — conferir data/versão (github.io não responde ao curl do sandbox; usar WebFetch).
 
-## Listening YouScan (sem API — via export no repo)
+## Listening YouScan (sem API — via exports no repo)
 
-O plano do YouScan da agência NÃO tem acesso à API. O dado entra por arquivo de export depositado no repositório:
+O plano do YouScan da agência NÃO tem acesso à API. O dado entra por DOIS exports depositados na raiz do branch `gh-pages`:
 
-- Convenção: arquivo `youscan.xlsx` ou `youscan.csv` (ou `youscan-*.xlsx`) na RAIZ do branch `gh-pages` (export de menções do YouScan feito pela interface).
-- Na atualização diária: listar a raiz (`GET .../contents/?ref=gh-pages`) e checar a data do último commit do arquivo (`GET .../commits?path=youscan.xlsx&sha=gh-pages&per_page=1`). Se foi atualizado nas últimas ~48h: baixar (base64), parsear (openpyxl/csv) e agregar — volume de menções, % de sentimento, principais fontes/hashtags e top posts por engajamento.
-- Usar esses números na aba Trends e, se relevante, no pulso — sempre citando a fonte como "YouScan (export de DD/MM)". Sem arquivo recente, seguir sem listening quantitativo; NUNCA inventar números.
-- Como o time alimenta (qualquer uma das vias): (1) upload direto em github.com/igormutato/radar-rock-in-rio (branch gh-pages → Add file → Upload files); (2) mandar o arquivo no chat do Claude, que ele commita; (3) salvar na pasta conectada "Radar Rock In Rio" e pedir ao Claude para subir.
+- **`youscan-noticias.xlsx`** — menções de IMPRENSA com a busca "Rock in Rio" (leitura do que está acontecendo: volume/dia, sentimento, veículos, temas).
+- **`youscan-marca.xlsx`** — menções SOCIAIS da Ipiranga no contexto RiR (busca: Ipiranga + "Rock in Rio"/rockinrio/pochete/leque/RIR, "stand/Estande Ipiranga", "Bar AmPm", "Recarga KMV", "Espaço Ipiranga"). Colunas de etiquetas (App KMV, Parada Completa, AmPm etc.) são as chaves de tema; "Noivado" = engajamento; "Alcance potencial" = reach.
+- Na atualização diária: checar a data do último commit de cada arquivo (`GET .../commits?path=<arquivo>&sha=gh-pages&per_page=1`). Se atualizado nas últimas ~48h: baixar, parsear (pandas/openpyxl) e agregar. Preencher o bloco `youscan` da edição (schema: ver edição de 03/09 no data.js — period, updatedFrom, news{label,total,peak,sentiment,outlets,bullets[]}, brand{label,total,engTop,sources,themes,bullets[]}, topPosts[{d,src,eng,t,s}], alerts[{t,s}], note) — a aba "Listening YouScan" do site renderiza esse bloco. A varredura de imprensa (aba Notícias) fica SEPARADA do listening.
+- ATENÇÃO ao dado: em 03/09 a coluna Sentimento da base de marca veio 100% "Negativo" (configuração quebrada no YouScan) — validar sempre; se estiver assim, ler o tom manualmente pelo conteúdo e sinalizar em alerts. Sem arquivo recente, deixar o bloco `youscan` de fora (a aba mostra estado vazio); NUNCA inventar números.
+- Tudo do listening deve alimentar a análise de impacto para a marca nos DIRECIONAIS (aprendizados e insights acionáveis).
+- Como o time alimenta (qualquer via): (1) upload direto em github.com/igormutato/radar-rock-in-rio (branch gh-pages → Add file → Upload files) com os nomes acima; (2) mandar os arquivos no chat do Claude, que ele commita; (3) salvar na pasta conectada "Radar Rock In Rio" e pedir ao Claude para subir.
+
+## Edição duplicada (guarda)
+
+Antes de inserir a nova edição, se `editions[0].dateISO` já for a data de hoje (ex.: edição feita manualmente mais cedo), SUBSTITUIR essa edição pela nova (mesclando o que a manual tiver de melhor — em especial o bloco `youscan`) em vez de criar duplicata do mesmo dia.
 
 ## Calendário
 
