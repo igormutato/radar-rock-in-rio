@@ -237,6 +237,7 @@
     <button data-tab="noticias" class="on">📰 Notícias</button>
     <button data-tab="shows">🎸 Shows &amp; Horários</button>
     <button data-tab="trends">📈 Trends</button>
+    <button data-tab="listening">📊 Listening YouScan</button>
     <button data-tab="dir">🧭 Direcionais Ipiranga</button>
   </nav>
 </div></div>
@@ -276,6 +277,13 @@
     <p class="h2sub" id="trendsSub"></p>
     <div class="tcols" id="trendCols"></div>
     <p class="note" id="trendNote"></p>
+  </section>
+
+  <!-- ================= ABA · LISTENING YOUSCAN ================= -->
+  <section class="tab" id="tab-listening">
+    <h2><span class="numtag">01</span>Listening YouScan</h2>
+    <p class="h2sub" id="ysSub"></p>
+    <div id="ysBox"></div>
   </section>
 
   <!-- ================= ABA 4 · DIRECIONAIS ================= -->
@@ -418,6 +426,44 @@
     tcol("📸","Instagram", ed.trends.instagram) +
     tcol("🎧","Sons & tendências em alta", ed.trends.sounds);
   $("trendNote").textContent = "ℹ️ " + ed.trends.note;
+
+  /* ---------- aba listening (YouScan) ---------- */
+  const ys = ed.youscan;
+  if (!ys){
+    $("ysSub").textContent = "Análise quantitativa de menções (imprensa e redes) a partir dos exports do YouScan.";
+    $("ysBox").innerHTML = `<div class="empty">📊 Sem export recente do YouScan nesta edição. Envie os arquivos (youscan-noticias.xlsx / youscan-marca.xlsx) que os números entram na próxima atualização.</div>`;
+  } else {
+    $("ysSub").textContent = "Período analisado: "+ys.period+" · "+ys.updatedFrom;
+    const stat = (n,l)=>`<div class="tile" style="background:var(--bg2);border:1px solid var(--line)"><div class="n" style="color:var(--blue);font-size:22px">${n}</div><div class="l" style="color:var(--mut)">${l}</div></div>`;
+    const list = arr => arr.map(x=>`<div class="titem"><div class="tt">${esc(x[0])}</div><p>${x[1]}</p></div>`).join("");
+    $("ysBox").innerHTML = `
+      <div class="tcols" style="grid-template-columns:repeat(auto-fit,minmax(320px,1fr))">
+        <div class="tcol" style="border-top-color:var(--blue2)">
+          <div class="th">📰 ${esc(ys.news.label)}</div>
+          <div class="tiles" style="margin:10px 0;grid-template-columns:repeat(2,1fr)">${stat(ys.news.total,"menções no período")}${stat(ys.news.peak,"pico diário")}</div>
+          <div class="titem"><div class="tt">Sentimento</div><p>${ys.news.sentiment}</p></div>
+          <div class="titem"><div class="tt">Veículos que mais publicam</div><p>${ys.news.outlets}</p></div>
+          ${list(ys.news.bullets)}
+        </div>
+        <div class="tcol" style="border-top-color:var(--orange)">
+          <div class="th">⛽ ${esc(ys.brand.label)}</div>
+          <div class="tiles" style="margin:10px 0;grid-template-columns:repeat(2,1fr)">${stat(ys.brand.total,"menções no período")}${stat(ys.brand.engTop,"maior engajamento em 1 post")}</div>
+          <div class="titem"><div class="tt">Onde a conversa acontece</div><p>${ys.brand.sources}</p></div>
+          <div class="titem"><div class="tt">Temas (etiquetas YouScan)</div><p>${ys.brand.themes}</p></div>
+          ${list(ys.brand.bullets)}
+        </div>
+      </div>
+      <h2 style="margin-top:26px"><span class="numtag">02</span>Posts que definiram a conversa</h2>
+      <div class="grid" style="margin-top:12px">${ys.topPosts.map(p=>`
+        <article class="card"><div class="top"><h3>${esc(p.t)}</h3><span class="when">${esc(p.d)} · ${esc(p.src)} · ${esc(p.eng)}</span></div><p>${p.s}</p></article>`).join("")}
+      </div>
+      ${ys.alerts && ys.alerts.length ? `
+      <h2 style="margin-top:26px"><span class="numtag">03</span>Alertas do listening</h2>
+      <div class="grid" style="margin-top:12px">${ys.alerts.map(a=>`
+        <article class="card" style="border-left:4px solid var(--orange)"><h3>${esc(a.t)}</h3><p>${a.s}</p></article>`).join("")}
+      </div>`:""}
+      <p class="note" style="margin-top:16px">ℹ️ ${ys.note}</p>`;
+  }
 
   /* ---------- aba 4: direcionais ---------- */
   $("dirDate").textContent = "Edição de "+ed.date+" ("+ed.weekday+") · tom interno de agência.";
