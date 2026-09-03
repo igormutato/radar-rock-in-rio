@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 14,
-    "updatedAt": "03/09/2026, 17h19 (BRT)",
+    "version": 15,
+    "updatedAt": "03/09/2026, 18h31 (BRT)",
     "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -809,7 +809,7 @@ window.RADAR = {
       "pulse": [
         "🎪 <b>É amanhã!</b> A Cidade do Rock abre em 4/set — Foo Fighters fecha o Palco Mundo à 00h05, programação vara a madrugada e as vias do entorno ficam bloqueadas das 14h às 5h. O evento teste de 2/set aprovou a operação (LED, The Flight, drones em 6 dos 7 dias).",
         "📲 <b>Fricção da véspera: app Quentro.</b> Só entra quem ativar o ingresso no app — e o Reclame Aqui concentra relatos de ingressos que não aparecem após compra/resgate. Ponto de atenção direto para quem resgatou pelo KMV.",
-        "📈 <b>Trends:</b> a caça aos brindes é o assunto nº 1 do festival nas redes (roundup de 51,9 mil eng.) e #rockinrio marca 5,7 mi de views na véspera — enquanto o festival ainda nem entrou no top de buscas do Google Brasil.",
+        "⭐ <b>Alerta de influência:</b> nenhum dos 5 creators do plano citou a Ipiranga em post sobre o festival — e 3 deles não publicaram nada sobre o RiR. O TikTok da marca também está parado desde 25/08.",
         "📊 <b>Listening YouScan:</b> imprensa em ritmo recorde (145 matérias em 2/set) e conversa social da Ipiranga dominada por KMV e brindes — com alerta de fila no evento teste (detalhes na aba Listening)."
       ],
       "news": [
@@ -1194,10 +1194,10 @@ window.RADAR = {
         ]
       ],
       "owned": {
-        "window": "Posts de 31/08 a 03/09/2026",
+        "window": "Posts de 31/08 a 03/09/2026 · Instagram e TikTok",
         "updatedFrom": "coleta de 03/09 via perfis logados (Claude para Chrome) + classificação na taxonomia Ipiranga",
-        "ims_formula": "IMS = (POSITIVO + NEUTRO) ÷ total de comentários classificados",
-        "ims_geral": 98.6,
+        "ims_formula": "IMS = (POSITIVO + 0,5 × NEUTRO − NEGATIVO) ÷ total × 100",
+        "ims_geral": 81,
         "pol": {
           "POSITIVO": 47,
           "NEUTRO": 23,
@@ -1260,7 +1260,7 @@ window.RADAR = {
             "pos": 1,
             "neu": 10,
             "neg": 0,
-            "ims": 100,
+            "ims": 54.5,
             "topTags": [
               "Dúvidas",
               "Percepção Marca - Ipiranga"
@@ -1280,7 +1280,7 @@ window.RADAR = {
             "pos": 12,
             "neu": 3,
             "neg": 0,
-            "ims": 100,
+            "ims": 90,
             "topTags": [
               "Sobre o Conteúdo",
               "Conversas/Sem contexto"
@@ -1300,7 +1300,7 @@ window.RADAR = {
             "pos": 13,
             "neu": 2,
             "neg": 0,
-            "ims": 100,
+            "ims": 93.3,
             "topTags": [
               "Intenção de compra/uso",
               "Sobre o Conteúdo"
@@ -1320,7 +1320,7 @@ window.RADAR = {
             "pos": 10,
             "neu": 5,
             "neg": 0,
-            "ims": 100,
+            "ims": 83.3,
             "topTags": [
               "Sobre a Promoção",
               "Dúvidas"
@@ -1340,7 +1340,7 @@ window.RADAR = {
             "pos": 11,
             "neu": 3,
             "neg": 1,
-            "ims": 93.3,
+            "ims": 76.7,
             "topTags": [
               "Sobre a Promoção",
               "Intenção de compra/uso"
@@ -1348,6 +1348,11 @@ window.RADAR = {
           }
         ],
         "alerts": [
+          {
+            "tone": "neg",
+            "t": "🚨 TikTok da marca está parado desde 25/08",
+            "s": "Varredura do @ipiranga no TikTok (115,7 mil seguidores, 1,7 mi de curtidas): <b>nenhuma publicação desde 25/08</b> — zero posts sobre Rock in Rio na semana de abertura. O canal que mais cresce e onde a caça aos brindes viraliza está silencioso justamente na janela de maior atenção ao festival."
+          },
           {
             "tone": "neg",
             "t": "⚠️ Ansiedade pelo resultado do concurso domina os comentários de hoje",
@@ -1369,7 +1374,179 @@ window.RADAR = {
             "s": "O reel com <b>@becca.orenstein</b> (485 likes, 45 comentários) superou o post orgânico do mesmo período e concentrou elogio a conteúdo/influenciador, sem ruído de marca. Já o de <b>@billboardbr</b> (82 likes) rendeu menos alcance, mas trouxe relatos de quem participou da blitz — prova social qualificada."
           }
         ],
-        "note": "Coleta de 03/09: 5 posts do Instagram (@ipiranga) no período; <b>TikTok pendente</b> — o domínio ainda não está liberado nas permissões da extensão Claude para Chrome. Amostra classificada: 71 comentários (os visíveis nos posts) passados pelo classificador da skill Ipiranga + revisão humana de 20 casos de fronteira. A classificação completa dos 9,2 mil comentários do concurso depende da extração via ExportComments. Saudabilidade (IMS) = (POSITIVO + NEUTRO) ÷ total classificado — confirmar se é a fórmula oficial de vocês."
+        "note": "Coleta de 03/09 via perfis logados (Claude para Chrome). <b>Instagram:</b> 5 posts sobre RiR no período. <b>TikTok:</b> perfil varrido — último post é de 25/08, nenhum na janela. Amostra classificada: 71 comentários (os visíveis nos posts) pelo classificador da skill Ipiranga + revisão humana de 20 casos de fronteira. A classificação completa dos 9,2 mil comentários do concurso depende da extração via ExportComments. IMS = (POSITIVO + 0,5 × NEUTRO − NEGATIVO) ÷ total × 100."
+      },
+      "influencia": {
+        "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+        "updatedFrom": "coleta de 03/09 via perfis logados (Claude para Chrome) — 5 creators do planejamento 2026",
+        "headline": "Nenhum dos 5 creators citou a Ipiranga em publicação sobre o Rock in Rio até agora.",
+        "creators": [
+          {
+            "handle": "@divasuburbana",
+            "nome": "Desirré Andrade",
+            "status": "ativo",
+            "posts": 7,
+            "citouIpiranga": false,
+            "resumo": "Única creator com cobertura contínua do festival. Publica guias de serviço (comida, Comfort Zone, New Dance Order) — formato de alta utilidade, exatamente o território que a marca quer ocupar."
+          },
+          {
+            "handle": "@jeffmattias",
+            "nome": "Jeff Mattias",
+            "status": "1 post",
+            "posts": 1,
+            "citouIpiranga": false,
+            "resumo": "Publicou a chegada ao festival, sem marca citada. Também publicou conteúdo do Lollapalooza/Globo no mesmo período."
+          },
+          {
+            "handle": "@cassialourencogomes",
+            "nome": "Cássia Lourenço",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @bidayaparfums.br, Red Bull e @dominickjoias."
+          },
+          {
+            "handle": "@camilatrianda",
+            "nome": "Camila Trianda",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @fokka e @vestidapelabia."
+          },
+          {
+            "handle": "@vittorfernando",
+            "nome": "Vittor Fernando",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @balenciaga, @ferragamo, @louisvuitton e @piet_org."
+          }
+        ],
+        "posts": [
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Feed",
+            "tema": "Guia de comidas da Cidade do Rock",
+            "likes": 1700,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/p/Dc1El1YoCNN/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "New Dance Order — dica de fluxo/saída",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc05rD8MesR/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "COMEÇOU ♥️ — chegada ao festival",
+            "likes": 5800,
+            "coments": null,
+            "shares": 268,
+            "marcas": [
+              "@rockinrio"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DczYZZbstIh/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Comfort Zone: como e onde é",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "@erijakson",
+            "url": "https://www.instagram.com/reel/DczA1jYK2OM/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "O Rock in Rio está pronto!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dcy6cmMM7Tt/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Adorei essa ideia!!!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/DczhYN6Mjt0/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@jeffmattias",
+            "tipo": "Reel",
+            "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+            "likes": 2642,
+            "coments": 49,
+            "shares": 36,
+            "marcas": [],
+            "collab": "4 perfis",
+            "url": "https://www.instagram.com/p/DczZkUqJa27/"
+          },
+          {
+            "date": "01/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Beats Pink Lemonade confirmada — looks",
+            "likes": 1800,
+            "coments": null,
+            "shares": null,
+            "marcas": [
+              "Beats"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DcxMpKpNTv6/"
+          }
+        ],
+        "alerts": [
+          {
+            "tone": "neg",
+            "t": "🚨 Zero menções à Ipiranga nos creators, na véspera do festival",
+            "s": "Das 8 publicações sobre Rock in Rio mapeadas nos 5 perfis desde 01/09, <b>nenhuma cita ou marca a Ipiranga</b>. As marcas que aparecem nesses posts são <b>@rockinrio</b> e <b>Beats</b>. Se há entregáveis contratados, eles ainda não saíram — e a janela de esquenta acabou."
+          },
+          {
+            "tone": "neg",
+            "t": "🚨 3 dos 5 creators não publicaram nada sobre o festival",
+            "s": "@cassialourencogomes, @camilatrianda e @vittorfernando seguem postando conteúdo de outras marcas (@bidayaparfums.br, Red Bull, @fokka, @balenciaga, @ferragamo, @louisvuitton) sem nenhuma menção ao Rock in Rio. Vale checar hoje se o contrato prevê publicação só durante o evento."
+          },
+          {
+            "tone": "pos",
+            "t": "✅ @divasuburbana é o ativo mais forte — e está no território certo",
+            "s": "7 publicações de cobertura contínua, com o reel de chegada em <b>5,8 mil curtidas e 268 compartilhamentos</b>. O conteúdo dela é guia de serviço (comida, Comfort Zone, fluxo de saída) — o mesmo território de utilidade que a Ipiranga quer ocupar. É a parceira natural para levar o Espaço Ipiranga para dentro de um roteiro de 'o que fazer na Cidade do Rock'."
+          },
+          {
+            "tone": "neg",
+            "t": "⚠️ Concorrente já apareceu na conversa dos creators",
+            "s": "Nos comentários do post de @jeffmattias, uma seguidora relata: <i>\"Acabei de sair de lá, fui pela C&A convidada!\"</i> — a C&A já está convertendo convidados em prova social espontânea enquanto a Ipiranga não aparece nos perfis contratados."
+          }
+        ],
+        "note": "Coleta manual pelos perfis logados em 03/09. Métricas em branco são posts cujo contador não estava exposto na leitura do grid — serão preenchidos na próxima rodada. A tag de marcas considera perfis marcados na legenda e marcas nomeadas no texto. Os 5 perfis são os creators do planejamento 2026 informados pelo time."
       }
     },
     {
