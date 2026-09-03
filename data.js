@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 10,
-    "updatedAt": "02/09/2026, 09h35 (BRT)",
-    "updatedISO": "2026-09-02",
+    "version": 11,
+    "updatedAt": "03/09/2026, 01h45 (BRT)",
+    "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,291 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "03/09/2026",
+      "dateISO": "2026-09-03",
+      "weekday": "quinta-feira",
+      "edition": 11,
+      "phase": "véspera da abertura",
+      "pulse": [
+        "🎪 <b>É amanhã!</b> A Cidade do Rock abre em 4/set com Foo Fighters — e o evento teste de 2/set aprovou a operação: Palco Mundo 100% LED, The Flight e shows de drones confirmados em 6 dos 7 dias.",
+        "🌧️ <b>Vai chover no 1º fim de semana:</b> abertura com calor, mas frio e chuva chegam entre sábado e segunda — capa de chuva liberada, guarda-chuva não. Utilidade climática vira a pauta da véspera.",
+        "📊 <b>Listening YouScan:</b> cobertura de imprensa em ritmo recorde (145 matérias em 2/set) e a conversa social da Ipiranga dominada por KMV e brindes — com um alerta de fila no evento teste (detalhes na aba Listening)."
+      ],
+      "news": [
+        {
+          "t": "Evento teste aprova a Cidade do Rock e anuncia drones em 6 dias de festival",
+          "src": "Sopa Cultural",
+          "when": "02/set",
+          "s": "Convidados e imprensa testaram a operação: novo Palco Mundo com 2.400 m² de LED, The Flight, ECCO e pirotecnia com 7 balsas sincronizadas. Shows de drones confirmados para 5, 6, 7, 11, 12 e 13/set (incl. Dia da Amazônia em 5/set).",
+          "u": "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
+        },
+        {
+          "t": "Primeiro fim de semana terá frio e chuva; abertura ainda no calor",
+          "src": "CNN Brasil",
+          "when": "02/set",
+          "s": "Previsão: sexta (4/set) quente, virada com chuva e queda de temperatura no sábado/domingo/feriado. Capa de chuva pode; guarda-chuva não entra na Cidade do Rock.",
+          "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
+        },
+        {
+          "t": "Cidade do Rock pronta para 100 mil pessoas por dia",
+          "src": "g1",
+          "when": "01/set",
+          "s": "Estrutura finalizada e aprovada; g1 publicou giro de imagens da montagem concluída. A praça editorial do g1/Globo entrou em modo cobertura total (como chegar, o que levar, estreias).",
+          "u": "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
+        },
+        {
+          "t": "Lei Seca terá ações educativas dentro do festival e fiscalização com drones",
+          "src": "g1",
+          "when": "01/set",
+          "s": "Operação de segurança viária no entorno do Parque Olímpico inclui blitz reforçada nas saídas — pauta que conversa direto com o discurso de jornada responsável de uma marca de mobilidade.",
+          "u": "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
+        },
+        {
+          "t": "1 milhão de brindes: imprensa transforma as ativações em pauta de serviço",
+          "src": "CNN Brasil",
+          "when": "02/set",
+          "s": "CNN listou os brindes das 90+ marcas — a pochete e o leque da Ipiranga aparecem nos compilados. O brinde virou editoria própria na cobertura do festival.",
+          "u": "https://www.cnnbrasil.com.br/entretenimento/rock-in-rio-2026-tera-cerca-de-1-milhao-de-brindes-veja-quais/"
+        },
+        {
+          "t": "Guia do tempo + o que levar consolida a semana de utilidade",
+          "src": "InfoMoney",
+          "when": "01/set",
+          "s": "Portais de economia e serviço replicam o combo previsão + regras de entrada — último dia da janela para marcas surfarem conteúdo utilitário antes dos portões abrirem.",
+          "u": "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "Promoção relâmpago: R$ 200 em compras podem valer ingresso",
+          "src": "Tribuna do Sertão",
+          "when": "31/ago",
+          "s": "Reta final da mecânica em postos, AmPm e Jet Oil com bônus para usuários KMV — imprensa regional repercutiu bem, esticando o alcance da promoção para fora do eixo RJ-SP.",
+          "u": "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        },
+        {
+          "t": "KMV libera resgate de ingressos a partir de 400 pontos",
+          "src": "Pontos pra Voar",
+          "when": "ago/26",
+          "s": "Sites de milhas e pontos viraram canal espontâneo da oferta — resgate de gramado via app KMV com pontos + dinheiro e vale-combustível de R$ 100. É o motor nº 1 da conversa social da marca (ver aba Listening).",
+          "u": "https://pontospravoar.com/urgkmv-libera-resgate-ingressos-rock-rio-2026-partir-400-pontos/"
+        },
+        {
+          "t": "Página oficial da campanha concentra as mecânicas",
+          "src": "Ipiranga",
+          "when": "atual",
+          "s": "Hub com promoção, resgates KMV e presença no festival — referência para direcionar dúvidas do público na semana de abertura.",
+          "u": "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
+        }
+      ],
+      "shows": {
+        "status": "A primeira noite é AMANHÃ (4/set): Foo Fighters, The Hives, Rise Against e Capital Inicial. A repercussão de cada noite entra aqui na manhã seguinte, dia a dia.",
+        "reperc": []
+      },
+      "trends": {
+        "x": [
+          {
+            "t": "Evento teste dá o tom da véspera",
+            "s": "Quem foi ao teste publicou primeiras impressões da Cidade do Rock — estrutura elogiada, e a caça aos brindes já começou (com relatos de fila, ver Listening).",
+            "u": "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
+          },
+          {
+            "t": "\"Vai chover no Rock in Rio?\"",
+            "s": "A previsão de chuva/frio no 1º fim de semana vira a dúvida nº 1 do público na véspera — pauta perfeita para conteúdo de utilidade de última hora.",
+            "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
+          }
+        ],
+        "tiktok": [
+          {
+            "t": "Listas de brindes explodiram",
+            "s": "Compilados de \"brindes do Rock in Rio\" são o conteúdo de maior tração do momento (o maior post soma 51,9 mil engajamentos no IG, segundo o YouScan) — e a pochete Ipiranga aparece nas listas.",
+            "u": "https://www.tiktok.com/discover/rock-in-rio"
+          },
+          {
+            "t": "Look + kit chuva",
+            "s": "A trend de looks incorporou o clima: capa de chuva estilizada, galocha e pochete impermeável entram nos vídeos de véspera.",
+            "u": "https://www.tiktok.com/discover/look-para-o-rock-in-rio-2026"
+          }
+        ],
+        "instagram": [
+          {
+            "t": "KMV vira social proof",
+            "s": "Criadores mostrando o resgate real de ingresso pelo Km de Vantagens (post de 11,3 mil eng.) — earned media espontânea da mecânica da Ipiranga.",
+            "u": "https://www.instagram.com/rockinrio/"
+          },
+          {
+            "t": "Concurso \"criatividade te leva pro RiR\"",
+            "s": "Ação do perfil Posto Ipiranga (10,4 mil eng. em 1º/set) mobilizou comentários na véspera — última chamada com bom volume de participação.",
+            "u": "https://www.instagram.com/ipiranga/"
+          }
+        ],
+        "sounds": [
+          {
+            "t": "Setlists da 1ª noite",
+            "s": "Foo Fighters, The Hives e Capital Inicial dominam as playlists de esquenta na véspera da abertura."
+          },
+          {
+            "t": "Drones + Dia da Amazônia (5/set)",
+            "s": "O anúncio do show de drones temático deve puxar trilhas e edits de natureza/Brasil no fim de semana."
+          }
+        ],
+        "note": "Véspera da abertura: leitura editorial de imprensa + números do listening YouScan (exports de 03/09, dados até 02/09 — detalhes na aba Listening). Números citados têm fonte; nada é estimado."
+      },
+      "youscan": {
+        "period": "01/08 a 02/09/2026",
+        "updatedFrom": "exports enviados em 03/09 (base de notícias: busca \"Rock in Rio\" · base de marca: Ipiranga no contexto RiR)",
+        "news": {
+          "label": "Notícias \"Rock in Rio\" — 1.868 menções",
+          "total": "1.868",
+          "peak": "145/dia (2/set)",
+          "sentiment": "81% neutro · 19% positivo · apenas 1 negativa em 1.868 — cobertura extremamente favorável ao festival.",
+          "outlets": "Terra (208) · Gshow (90) · g1 (62) · Sopa Cultural (37) · CNN Brasil (30) · Exame (28) · Meio & Mensagem (27) · Veja Rio (25). UOL e R7 quase ausentes da base (1 e 7) — vale conferir a cobertura desses portais por fora.",
+          "bullets": [
+            [
+              "Volume em aceleração",
+              "Média de ~50 matérias/dia em meados de agosto → 105 (31/8), 141 (1º/9) e 145 (2/9). A curva deve explodir com a abertura."
+            ],
+            [
+              "Temas dominantes na semana",
+              "Transporte/como chegar, o que levar, segurança (Lei Seca com drones), evento teste, estreias (Diogo Defante, Ananda) e recordes (Ivete)."
+            ]
+          ]
+        },
+        "brand": {
+          "label": "Ipiranga × Rock in Rio — 204 menções sociais",
+          "total": "204",
+          "engTop": "51,9 mil",
+          "sources": "X/Twitter (97) e Instagram (73) concentram o volume, mas o Instagram concentra quase todo o engajamento. Facebook (13), TikTok (7) e outros completam.",
+          "themes": "App KMV (117 · 57%) · Campanha Parada Completa (90) · Ipimax (69) · AmPm (61) · Jet Oil (61) — a mecânica de pontos/resgate é o motor absoluto da conversa da marca.",
+          "bullets": [
+            [
+              "Picos de conversa",
+              "18/8 e 27–28/8 (listas de brindes + liberação de resgate KMV) e 1º/9 (leilão de pontos no Rio + concurso do perfil Posto Ipiranga)."
+            ],
+            [
+              "Earned media de verdade",
+              "Criadora mostrando o resgate real do ingresso pelo KMV rendeu 11,3 mil engajamentos — o melhor argumento da mecânica é o público provando que funciona."
+            ]
+          ]
+        },
+        "topPosts": [
+          {
+            "d": "18/08",
+            "src": "Instagram",
+            "eng": "51,9 mil eng.",
+            "t": "\"Brindes do Rock in Rio 2026\" — compilado de marcas",
+            "s": "Lista as entregas de C&A, Itaú, TIM etc. — e a pochete/leque da Ipiranga junto. O formato 'lista de brindes' é o maior veículo de visibilidade orgânica do espaço antes dos portões abrirem."
+          },
+          {
+            "d": "31/08",
+            "src": "Instagram",
+            "eng": "11,3 mil eng.",
+            "t": "\"Resgatei meu ingresso no Km de Vantagens\"",
+            "s": "Criadora celebra o resgate 'graças à Ipiranga, patrocinadora oficial' — social proof espontâneo da mecânica KMV na semana decisiva."
+          },
+          {
+            "d": "01/09",
+            "src": "Instagram",
+            "eng": "10,4 mil eng.",
+            "t": "Concurso do perfil Posto Ipiranga",
+            "s": "\"Sua criatividade pode te levar para o Rock in Rio acompanhado\" — última ação de recrutamento antes do festival, com forte participação nos comentários."
+          },
+          {
+            "d": "01/09",
+            "src": "Instagram",
+            "eng": "7,3 mil eng.",
+            "t": "Roundup oficial de patrocinadores cita o Bar AmPm",
+            "s": "Post do ecossistema do festival lista as experiências das marcas — Bar AmPm e Espaço Ipiranga aparecem no radar do público geral."
+          }
+        ],
+        "alerts": [
+          {
+            "t": "⚠️ Fila e ruptura de brinde no evento teste (2/set)",
+            "s": "Relato no X: \"fiquei 1h30 na fila da Ipiranga pra pochete acabar antes\". Amostra pequena, mas é o primeiro sinal de UGC negativo operacional — com a pochete aparecendo nas listas de brindes mais desejados, fila + ruptura no dia 1 pode virar a narrativa do espaço. Reforçar estoque, fluxo e comunicação de disponibilidade."
+          },
+          {
+            "t": "🔧 Coluna de sentimento da base de marca veio 100% \"Negativo\"",
+            "s": "As 204 menções chegaram marcadas como negativas no export — claramente um problema de configuração do tópico no YouScan (o conteúdo é majoritariamente positivo/neutro: promoções, brindes, resgates). Corrigir antes do festival para o monitoramento em tempo real não voar cego. A leitura de sentimento desta edição foi feita manualmente pelo conteúdo."
+          }
+        ],
+        "note": "Bases: YouScan_MentionsWithFullText — \"Ipiranga | Rock In Rio 2026 | Notícias\" (1.868 menções de imprensa, busca 'Rock in Rio') e \"MTT | IPIRANGA\" (204 menções sociais, busca Ipiranga + termos do contexto RiR: pochete, leque, RIR, stand/Espaço Ipiranga, Bar AmPm, Recarga KMV). Engajamento = métrica 'engagement' do YouScan por publicação."
+      },
+      "direcionais": {
+        "leitura": "O listening muda a leitura da véspera: a marca chega ao festival com a conversa dominada por KMV (57% das menções) e pelo hype dos brindes — ativos fortes —, mas o evento teste acendeu o primeiro alerta operacional (fila/ruptura da pochete) exatamente no ponto de maior desejo do público. Amanhã a narrativa do Espaço Ipiranga será definida pela operação, não pela comunicação.",
+        "dirs": [
+          {
+            "t": "Blindar a operação do brinde no dia 1",
+            "s": "A pochete já entrou nas listas de 'brindes mais desejados' (posts de até 51,9 mil eng.) e o teste registrou 1h30 de fila com ruptura. Impacto de marca: o 1º UGC do espaço pode ser fila ou pode ser pochete no corpo — reforçar estoque, janelas de distribuição ao longo do dia e aviso de disponibilidade no local/social."
+          },
+          {
+            "t": "Transformar o KMV em história, não em oferta",
+            "s": "57% da conversa da marca é KMV, e o post mais forte é uma criadora provando o resgate. Repostar/amplificar histórias reais de quem resgatou ingresso (com autorização) vale mais que nova peça de oferta na semana de abertura."
+          },
+          {
+            "t": "Surfar a pauta do clima com utilidade de marca",
+            "s": "Chuva e frio no 1º fim de semana + 'o que levar' dominando imprensa e busca: comunicar a pochete como item funcional para a chuva e considerar utilidade extra no espaço (ponto de abrigo, capa de chuva) — 'parada completa' literal."
+          },
+          {
+            "t": "Ocupar o vazio de UOL/R7 na cobertura",
+            "s": "A base YouScan mostra Terra/Globo dominando e UOL/R7 quase ausentes da pauta do festival — press office pode mirar esses portais com o gancho dos 89 anos em 7/set e do leilão KMV, onde há menos disputa por espaço."
+          },
+          {
+            "t": "Corrigir o tópico do YouScan antes da 1ª noite",
+            "s": "Sentimento 100% negativo na base de marca = configuração quebrada. Sem isso ajustado, o war room não distingue crise real de ruído durante os shows. Pedir ao admin do YouScan revisão das regras de sentimento/etiquetas hoje."
+          }
+        ],
+        "acion": [
+          "Enviar hoje ao time do Espaço Ipiranga o alerta de fila/ruptura do evento teste com recomendação de estoque e fluxo para 4/set.",
+          "Levantar com jurídico/social 3–5 posts reais de resgate KMV para repost autorizado na semana de abertura.",
+          "Publicar ainda hoje conteúdo 'kit chuva + pochete' aproveitando a dúvida nº 1 da véspera (vai chover?).",
+          "Acionar assessoria para ofertar pauta exclusiva a UOL e R7 (89 anos + leilão KMV) antes de 7/set.",
+          "Abrir chamado de correção do sentimento no tópico MTT | IPIRANGA do YouScan e validar com um export novo amanhã."
+        ]
+      },
+      "sources": [
+        [
+          "YouScan — base Notícias 'Rock in Rio' (export 03/09)",
+          "https://youscan.io"
+        ],
+        [
+          "YouScan — base MTT | Ipiranga × RiR (export 03/09)",
+          "https://youscan.io"
+        ],
+        [
+          "Sopa Cultural — evento teste",
+          "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
+        ],
+        [
+          "CNN Brasil — previsão do 1º fim de semana",
+          "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
+        ],
+        [
+          "g1 — cobertura Rock in Rio",
+          "https://g1.globo.com/rj/rio-de-janeiro/rock-in-rio/2026/"
+        ],
+        [
+          "CNN Brasil — 1 milhão de brindes",
+          "https://www.cnnbrasil.com.br/entretenimento/rock-in-rio-2026-tera-cerca-de-1-milhao-de-brindes-veja-quais/"
+        ],
+        [
+          "InfoMoney — tempo + o que levar",
+          "https://www.infomoney.com.br/consumo/rock-in-rio-2026-veja-como-estara-o-tempo-e-saiba-o-que-pode-ou-nao-levar/"
+        ],
+        [
+          "Tribuna do Sertão — promoção R$ 200",
+          "https://www.tribunadosertao.com.br/financas/2026/08/31/970446-clientes-da-ipiranga-que-gastarem-r-200-podem-ganhar-ingresso-para-o-rock-in-rio"
+        ],
+        [
+          "Pontos pra Voar — resgate KMV 400 pontos",
+          "https://pontospravoar.com/urgkmv-libera-resgate-ingressos-rock-rio-2026-partir-400-pontos/"
+        ],
+        [
+          "Ipiranga — página oficial da campanha",
+          "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
+        ]
+      ]
+    },
     {
       "date": "02/09/2026",
       "dateISO": "2026-09-02",
