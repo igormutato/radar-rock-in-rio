@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 12,
-    "updatedAt": "03/09/2026, 09h32 (BRT)",
+    "version": 13,
+    "updatedAt": "03/09/2026, 15h15 (BRT)",
     "updatedISO": "2026-09-03",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -809,7 +809,7 @@ window.RADAR = {
       "pulse": [
         "🎪 <b>É amanhã!</b> A Cidade do Rock abre em 4/set — Foo Fighters fecha o Palco Mundo à 00h05, programação vara a madrugada e as vias do entorno ficam bloqueadas das 14h às 5h. O evento teste de 2/set aprovou a operação (LED, The Flight, drones em 6 dos 7 dias).",
         "📲 <b>Fricção da véspera: app Quentro.</b> Só entra quem ativar o ingresso no app — e o Reclame Aqui concentra relatos de ingressos que não aparecem após compra/resgate. Ponto de atenção direto para quem resgatou pelo KMV.",
-        "🌧️ <b>Vai chover no 1º fim de semana:</b> abertura no calor, frio e chuva entre sábado e segunda — capa de chuva liberada, guarda-chuva não. Utilidade climática segue como dúvida nº 1 do público.",
+        "📈 <b>Trends:</b> a caça aos brindes é o assunto nº 1 do festival nas redes (roundup de 51,9 mil eng.) e #rockinrio marca 5,7 mi de views na véspera — enquanto o festival ainda nem entrou no top de buscas do Google Brasil.",
         "📊 <b>Listening YouScan:</b> imprensa em ritmo recorde (145 matérias em 2/set) e conversa social da Ipiranga dominada por KMV e brindes — com alerta de fila no evento teste (detalhes na aba Listening)."
       ],
       "news": [
@@ -898,59 +898,119 @@ window.RADAR = {
         "reperc": []
       },
       "trends": {
-        "x": [
+        "viral": [
           {
-            "t": "\"Vai chover no Rock in Rio?\"",
-            "s": "A previsão de chuva/frio no 1º fim de semana segue como a dúvida nº 1 do público na véspera — pauta perfeita para conteúdo de utilidade de última hora.",
+            "t": "Caça aos brindes é o assunto nº 1 do festival nas redes",
+            "src": "TikTok + Instagram",
+            "metric": "51,9 mil eng.",
+            "s": "Os roundups \"Brindes do Rock in Rio 2026\" viraram formato próprio — o maior post da base YouScan é uma lista de brindes, e o TikTok tem página de descoberta dedicada (\"Rock in Rio Brindes\"). A pochete e o leque da Ipiranga aparecem nessas listas: é a maior porta de entrada orgânica do Espaço Ipiranga.",
+            "u": "https://www.tiktok.com/discover/rock-in-rio-brindes"
+          },
+          {
+            "t": "\"Fiquei 1h30 na fila da Ipiranga pra pochete acabar antes\"",
+            "src": "X · pós evento-teste",
+            "metric": "alerta",
+            "s": "Primeiro UGC negativo operacional da marca, publicado após o evento teste de 2/set. Volume ainda baixo, mas é exatamente o tema que viraliza rápido no dia 1 — fila + ruptura no brinde mais desejado.",
+            "u": ""
+          },
+          {
+            "t": "#rockinrio acumula 5,7 mi de visualizações no TikTok",
+            "src": "TikTok · página da hashtag",
+            "metric": "5,7 M views",
+            "s": "Volume medido na véspera da abertura — servirá de linha de base para medir o salto a partir de 4/set. Temas que puxam a hashtag: brindes, looks por dia, \"dia do trap\" no Espaço Favela e cupons de foto (Fotop).",
+            "u": "https://www.tiktok.com/tag/rockinrio"
+          },
+          {
+            "t": "\"Vai chover no Rock in Rio?\" domina a dúvida da véspera",
+            "src": "Busca + X",
+            "metric": "pauta do dia",
+            "s": "Previsão de frio e chuva no 1º fim de semana (com guarda-chuva proibido) transformou clima em conteúdo de utilidade — janela imediata para a pochete ser comunicada como item funcional de chuva.",
             "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
-          },
-          {
-            "t": "\"Cadê meu ingresso no Quentro?\"",
-            "s": "Ansiedade de ativação domina a conversa prática da véspera: relatos no Reclame Aqui de ingresso que não aparece no app após compra/resgate e dúvidas sobre transferência.",
-            "u": "https://www.reclameaqui.com.br/empresa/rock-in-rio/"
-          },
-          {
-            "t": "Evento teste dá o tom",
-            "s": "Quem foi ao teste publicou primeiras impressões da Cidade do Rock — estrutura elogiada, e a caça aos brindes já começou (com relatos de fila, ver Listening).",
-            "u": "https://sopacultural.com/rock-in-rio-2026-evento-teste-cidade-do-rock/"
           }
         ],
-        "tiktok": [
+        "sources": [
           {
-            "t": "Listas de brindes explodiram",
-            "s": "Compilados de \"brindes do Rock in Rio\" são o conteúdo de maior tração do momento (o maior post soma 51,9 mil engajamentos no IG, segundo o YouScan) — e a pochete Ipiranga aparece nas listas.",
-            "u": "https://www.tiktok.com/discover/rock-in-rio"
+            "id": "google",
+            "icon": "🔍",
+            "name": "Google Trends · Brasil",
+            "status": "ok",
+            "statusLabel": "RSS oficial · hoje",
+            "items": [
+              {
+                "t": "Rock in Rio ainda FORA do top de buscas nacionais",
+                "s": "Na véspera, nenhum termo do festival figura entre as buscas em alta do Brasil. O topo é \"apagão\" (5 mil+, queda global de IAs), \"nubank\", \"navio\" e futebol. Leitura: a explosão de busca do festival acontece com a abertura — o pico começa amanhã.",
+                "u": "https://trends.google.com/trending?geo=BR"
+              },
+              {
+                "t": "Linha de base para medir o salto de 4/set",
+                "s": "Com o festival ausente hoje, qualquer entrada de \"Rock in Rio\", nome de artista ou \"Cidade do Rock\" no ranking a partir de amanhã é sinal limpo de virada de atenção nacional — inclusive para calibrar o momento de publicar conteúdo de marca."
+              }
+            ],
+            "note": "Coletado do feed RSS oficial do Google Trends (geo=BR) na manhã de 03/09."
           },
           {
-            "t": "Look + kit chuva",
-            "s": "A trend de looks incorporou o clima: capa de chuva estilizada, galocha e pochete impermeável entram nos vídeos de véspera.",
-            "u": "https://www.tiktok.com/discover/look-para-o-rock-in-rio-2026"
-          }
-        ],
-        "instagram": [
-          {
-            "t": "KMV vira social proof",
-            "s": "Criadores mostrando o resgate real de ingresso pelo Km de Vantagens (post de 11,3 mil eng.) — earned media espontânea da mecânica da Ipiranga.",
-            "u": "https://www.instagram.com/rockinrio/"
+            "id": "x",
+            "icon": "𝕏",
+            "name": "Trending Topics · X Brasil",
+            "status": "off",
+            "statusLabel": "fonte instável",
+            "items": [
+              {
+                "t": "Trends24 retornou dados defasados na coleta automática",
+                "s": "A leitura automatizada do trends24.in/brazil devolveu um snapshot antigo (trends de 2024, como #Paris2024 e #OpeningCeremony) em vez do ranking do dia — não é confiável para publicar. Fonte marcada como indisponível até validação manual.",
+                "u": "https://trends24.in/brazil/"
+              },
+              {
+                "t": "Substituto em uso: base X do YouScan",
+                "s": "Enquanto isso, a conversa do X entra pela base de listening (97 das 204 menções da marca vêm de x.com) — com sentimento e engajamento reais, na aba Listening YouScan."
+              }
+            ],
+            "note": "Alternativa recomendada: criar no YouScan um tópico só de trending do evento no X, ou validar o trends24 manualmente antes de cada publicação."
           },
           {
-            "t": "Concurso \"criatividade te leva pro RiR\"",
-            "s": "Ação do perfil Posto Ipiranga (10,4 mil eng. em 1º/set) mobilizou comentários na véspera — última chamada com bom volume de participação.",
-            "u": "https://www.instagram.com/ipiranga/"
-          }
-        ],
-        "sounds": [
-          {
-            "t": "Playlist oficial Billboard Brasil",
-            "s": "Coletânea com 50 faixas (uma por atração do line-up) vira trilha padrão do esquenta no Spotify na véspera.",
-            "u": "https://billboard.com.br/billboard-brasil-playlist-rock-in-rio-2026/"
+            "id": "tiktok",
+            "icon": "🎵",
+            "name": "TikTok · hashtags",
+            "status": "partial",
+            "statusLabel": "parcial",
+            "items": [
+              {
+                "t": "#rockinrio · 5,7 mi de visualizações",
+                "s": "Página pública da hashtag acessível — é a métrica de volume que o radar vai acompanhar diariamente durante o festival.",
+                "u": "https://www.tiktok.com/tag/rockinrio"
+              },
+              {
+                "t": "Temas que puxam a hashtag hoje",
+                "s": "\"Brindes do Rock in Rio\", \"look para o Rock in Rio\", \"dia do trap\" (Espaço Favela) e cupons de foto para o dia 11 — todos formatos de serviço/utilidade, não de crítica musical.",
+                "u": "https://www.tiktok.com/discover/rock-in-rio"
+              },
+              {
+                "t": "Creative Center exige login",
+                "s": "O ranking oficial de hashtags do TikTok (ads.tiktok.com/creative) bloqueia acesso automatizado sem sessão autenticada — por isso o radar usa as páginas públicas de hashtag como proxy de volume."
+              }
+            ],
+            "note": "Para destravar o Creative Center por completo seria preciso um export manual do painel ou acesso autenticado."
           },
           {
-            "t": "Setlists da 1ª noite",
-            "s": "Foo Fighters, The Hives e Capital Inicial dominam as playlists de esquenta; sites de música especulam setlist de até 3h dos Foo Fighters."
+            "id": "instagram",
+            "icon": "📸",
+            "name": "Instagram · conversa da marca",
+            "status": "ok",
+            "statusLabel": "via YouScan",
+            "items": [
+              {
+                "t": "KMV é o motor da conversa (57% das menções)",
+                "s": "Resgate de ingresso pelo Km de Vantagens domina o que se fala da Ipiranga no contexto do festival — com earned media espontâneo de criadores (11,3 mil eng. no melhor post)."
+              },
+              {
+                "t": "Concurso do perfil Posto Ipiranga",
+                "s": "Ação de 1º/set (\"sua criatividade pode te levar ao RiR\") somou 10,4 mil engajamentos — última grande mobilização antes dos portões abrirem."
+              }
+            ],
+            "note": "Dados da base social do YouScan (01/08–02/09). Detalhamento completo na aba Listening YouScan."
           }
         ],
-        "note": "Véspera da abertura (edição atualizada às 9h): leitura editorial de imprensa + números do listening YouScan (exports de 03/09, dados até 02/09 — detalhes na aba Listening). Números citados têm fonte; nada é estimado."
+        "note": "Metodologia de trends (a partir de 03/09): Google Trends via RSS oficial do Brasil; TikTok via páginas públicas de hashtag (Creative Center exige login); X via base do YouScan enquanto o trends24 não devolver dados do dia; Instagram via listening. Nenhum número é estimado — fonte sempre indicada."
       },
       "youscan": {
         "period": "01/08 a 02/09/2026",
