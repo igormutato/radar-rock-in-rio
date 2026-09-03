@@ -270,6 +270,7 @@
     <button data-tab="trends">📈 Trends</button>
     <button data-tab="listening">📊 Listening YouScan</button>
     <button data-tab="owned">💬 Listening @Ipiranga</button>
+    <button data-tab="influ">⭐ Influência</button>
     <button data-tab="dir">🧭 Direcionais Ipiranga</button>
   </nav>
 </div></div>
@@ -324,6 +325,13 @@
     <h2><span class="numtag">01</span>Listening @Ipiranga</h2>
     <p class="h2sub" id="owSub"></p>
     <div id="owBox"></div>
+  </section>
+
+  <!-- ================= ABA · INFLUÊNCIA ================= -->
+  <section class="tab" id="tab-influ">
+    <h2><span class="numtag">01</span>Influência</h2>
+    <p class="h2sub" id="ifSub"></p>
+    <div id="ifBox"></div>
   </section>
 
   <!-- ================= ABA 4 · DIRECIONAIS ================= -->
@@ -552,7 +560,7 @@
     const pct = n => tot? (100*n/tot) : 0;
     const seg = k => pct(P[k])>0
       ? `<div class="pol-seg" style="width:${pct(P[k])}%;background:${POLC[k]}" title="${k}: ${P[k]}">${pct(P[k])>=9?P[k]:""}</div>` : "";
-    const imsColor = v => v>=90?"#2E9E5B":v>=75?"#C77E00":"#D93025";
+    const imsColor = v => v>=80?"#2E9E5B":v>=60?"#C77E00":"#D93025";
     const maxT = Math.max(...OW.tags.map(t=>t[1]));
 
     $("owBox").innerHTML = `
@@ -566,6 +574,7 @@
         <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
           <div class="n" style="color:${imsColor(OW.ims_geral)}">${OW.ims_geral}%</div><div class="l" style="color:var(--mut)">IMS geral (saudabilidade)</div></div>
       </div>
+      <p class="note" style="margin:-8px 0 18px">🧮 ${esc(OW.ims_formula||"")}</p>
 
       <h2><span class="numtag">02</span>Posts publicados</h2>
       <p class="h2sub">Publicações sobre Rock in Rio nos canais próprios, com engajamento e saudabilidade.</p>
@@ -607,6 +616,71 @@
         <article class="card" style="border-left:4px solid ${a.tone==="neg"?"#D93025":"var(--y)"}"><h3>${esc(a.t)}</h3><p>${a.s}</p></article>`).join("")}
       </div>`:""}
       <p class="note" style="margin-top:16px">ℹ️ ${OW.note}</p>`;
+  }
+
+  /* ---------- aba: Influência ---------- */
+  const IF = ed.influencia;
+  if (!IF){
+    $("ifSub").textContent = "Acompanhamento das publicações dos creators da campanha sobre o Rock in Rio.";
+    $("ifBox").innerHTML = `<div class="empty">⭐ Sem coleta nesta edição.</div>`;
+  } else {
+    $("ifSub").textContent = IF.window + " · " + IF.updatedFrom;
+    const stCor = s => s==="ativo"?"#2E9E5B":s==="silencioso"?"#D93025":"#C77E00";
+    const nf = v => (v===null||v===undefined) ? '<span style="color:var(--mut)">—</span>' : (+v).toLocaleString("pt-BR");
+    const semIpi = IF.creators.filter(c=>!c.citouIpiranga).length;
+    $("ifBox").innerHTML = `
+      <div class="pulse" style="margin-bottom:18px"><div class="tag">⚡ Leitura</div>
+        <ul><li><b>${esc(IF.headline)}</b></li></ul></div>
+
+      <div class="tiles" style="grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 22px">
+        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
+          <div class="n" style="color:var(--blue)">${IF.creators.length}</div><div class="l" style="color:var(--mut)">creators no plano</div></div>
+        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
+          <div class="n" style="color:var(--blue)">${IF.posts.length}</div><div class="l" style="color:var(--mut)">posts sobre RiR desde 01/09</div></div>
+        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
+          <div class="n" style="color:#D93025">${semIpi}/${IF.creators.length}</div><div class="l" style="color:var(--mut)">sem citar a Ipiranga</div></div>
+        <div class="tile" style="background:var(--bg2);border:1px solid var(--line)">
+          <div class="n" style="color:var(--blue)">${IF.posts.reduce((a,p)=>a+(+p.likes||0),0).toLocaleString("pt-BR")}</div><div class="l" style="color:var(--mut)">likes somados</div></div>
+      </div>
+
+      <h2><span class="numtag">02</span>Creators da campanha</h2>
+      <p class="h2sub">Status de publicação sobre o festival e menção à marca.</p>
+      <div class="grid">${IF.creators.map(c=>`
+        <article class="card" style="border-left:4px solid ${stCor(c.status)}">
+          <div class="top">
+            <h3><a href="https://www.instagram.com/${esc(c.handle.replace("@",""))}/" target="_blank" rel="noopener">${esc(c.handle)} ↗</a>
+              <span style="color:var(--mut);font-weight:500;font-size:13px"> · ${esc(c.nome)}</span></h3>
+            <span class="when">${c.posts} post${c.posts===1?"":"s"} · ${c.citouIpiranga?'<b style="color:#2E9E5B">citou Ipiranga</b>':'<b style="color:#D93025">sem citar Ipiranga</b>'}</span>
+          </div>
+          <p>${c.resumo}</p>
+        </article>`).join("")}
+      </div>
+
+      <h2><span class="numtag">03</span>Publicações sobre o Rock in Rio</h2>
+      <p class="h2sub">Marcas citadas = perfis marcados na legenda + marcas nomeadas no texto.</p>
+      <div class="tbl-scroll"><table>
+        <thead><tr><th>Data</th><th>Creator</th><th>Publicação</th><th style="text-align:right">Likes</th><th style="text-align:right">Coment.</th><th>Marcas citadas</th></tr></thead>
+        <tbody>${IF.posts.map(p=>`
+          <tr>
+            <td class="time">${esc(p.date)}</td>
+            <td class="stage">${esc(p.handle)}</td>
+            <td><a href="${p.url}" target="_blank" rel="noopener">${esc(p.tema)} ↗</a>${p.collab?`<span class="collabtag">collab ${esc(p.collab)}</span>`:""}
+                <div style="color:var(--mut);font-size:11.5px;margin-top:2px">${esc(p.tipo)}</div></td>
+            <td style="text-align:right;font-variant-numeric:tabular-nums">${nf(p.likes)}</td>
+            <td style="text-align:right;font-variant-numeric:tabular-nums">${nf(p.coments)}</td>
+            <td>${p.marcas.length
+                ? p.marcas.map(m=>`<span class="collabtag" style="margin:0 4px 3px 0;background:rgba(255,209,0,.25);color:var(--blue)">${esc(m)}</span>`).join("")
+                : '<span style="color:#D93025;font-weight:700;font-size:12px">nenhuma</span>'}</td>
+          </tr>`).join("")}
+        </tbody>
+      </table></div>
+
+      ${IF.alerts&&IF.alerts.length?`
+      <h2><span class="numtag">04</span>Leitura de influência</h2>
+      <div class="grid" style="margin-top:12px">${IF.alerts.map(a=>`
+        <article class="card" style="border-left:4px solid ${a.tone==="neg"?"#D93025":"#2E9E5B"}"><h3>${esc(a.t)}</h3><p>${a.s}</p></article>`).join("")}
+      </div>`:""}
+      <p class="note" style="margin-top:16px">ℹ️ ${IF.note}</p>`;
   }
 
   /* ---------- aba 4: direcionais ---------- */
