@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 17,
-    "updatedAt": "04/09/2026, 09h45 (BRT)",
+    "version": 18,
+    "updatedAt": "04/09/2026, 10h35 (BRT)",
     "updatedISO": "2026-09-04",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -1027,16 +1027,16 @@ window.RADAR = {
       ],
       "influencia": {
         "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
-        "updatedFrom": "coleta de 03/09 via perfis logados (Claude para Chrome) — 5 creators do planejamento 2026",
-        "headline": "Nenhum dos 5 creators citou a Ipiranga em publicação sobre o Rock in Rio até agora.",
+        "updatedFrom": "coleta de 04/09 às 10h25 via perfis logados (Claude para Chrome)",
+        "headline": "Dia de abertura: @divasuburbana estreou o 1º #publi da janela — para iFood + Itaú. Ipiranga segue sem citação de nenhum dos 5 creators.",
         "creators": [
           {
             "handle": "@divasuburbana",
             "nome": "Desirré Andrade",
             "status": "ativo",
-            "posts": 7,
+            "posts": 9,
             "citouIpiranga": false,
-            "resumo": "Única creator com cobertura contínua do festival. Publica guias de serviço (comida, Comfort Zone, New Dance Order) — formato de alta utilidade, exatamente o território que a marca quer ocupar."
+            "resumo": "9 publicações desde 01/09 e cobertura em ritmo diário. Estreou #publi no festival — minicâmera iFood + Itaú, já o post mais engajado da cobertura dela (6,9 mil curtidas em 13h). Segue sem citar a Ipiranga."
           },
           {
             "handle": "@jeffmattias",
@@ -1044,7 +1044,7 @@ window.RADAR = {
             "status": "1 post",
             "posts": 1,
             "citouIpiranga": false,
-            "resumo": "Publicou a chegada ao festival, sem marca citada. Também publicou conteúdo do Lollapalooza/Globo no mesmo período."
+            "resumo": "Sem conteúdo novo de RiR desde a chegada (02/09), que segue crescendo (2,8 mil curtidas). No período publicou outros temas (apartamento novo, Lollapalooza/Globo, reacts)."
           },
           {
             "handle": "@cassialourencogomes",
@@ -1052,7 +1052,7 @@ window.RADAR = {
             "status": "silencioso",
             "posts": 0,
             "citouIpiranga": false,
-            "resumo": "Nenhuma publicação sobre RiR. No período, citou @bidayaparfums.br, Red Bull e @dominickjoias."
+            "resumo": "Nenhuma publicação sobre RiR até a manhã de 04/09. Segue com conteúdo de outras marcas (@bidayaparfums.br, Red Bull, @dominickjoias)."
           },
           {
             "handle": "@camilatrianda",
@@ -1060,7 +1060,7 @@ window.RADAR = {
             "status": "silencioso",
             "posts": 0,
             "citouIpiranga": false,
-            "resumo": "Nenhuma publicação sobre RiR. No período, citou @fokka e @vestidapelabia."
+            "resumo": "Nenhuma publicação sobre RiR até a manhã de 04/09. Foco no podcast (collabs com @podquase1casal) e em marcas de moda (@fokka, @vestidapelabia)."
           },
           {
             "handle": "@vittorfernando",
@@ -1068,18 +1068,45 @@ window.RADAR = {
             "status": "silencioso",
             "posts": 0,
             "citouIpiranga": false,
-            "resumo": "Nenhuma publicação sobre RiR. No período, citou @balenciaga, @ferragamo, @louisvuitton e @piet_org."
+            "resumo": "Nenhuma publicação sobre RiR. Está em Londres cobrindo o fim da turnê da Ariana Grande (vlog com @todateen) e hotéis (@theguardsmanhotel, @middle_eight_hotel)."
           }
         ],
         "posts": [
+          {
+            "date": "04/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+            "likes": 480,
+            "coments": 38,
+            "shares": 12,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc2joYatVSs/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Brinde minicâmera iFood + Itaú (#publi #iFoodNoRockinRio2026)",
+            "likes": 6870,
+            "coments": 130,
+            "shares": 79,
+            "marcas": [
+              "@ifoodbrasil",
+              "@itau"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc1_yvRMfbT/"
+          },
           {
             "date": "03/09",
             "handle": "@divasuburbana",
             "tipo": "Feed",
             "tema": "Guia de comidas da Cidade do Rock",
-            "likes": 1700,
-            "coments": null,
-            "shares": null,
+            "likes": 2100,
+            "coments": 66,
+            "shares": 51,
             "marcas": [],
             "collab": "",
             "url": "https://www.instagram.com/p/Dc1El1YoCNN/"
@@ -1089,11 +1116,11 @@ window.RADAR = {
             "handle": "@divasuburbana",
             "tipo": "Reel",
             "tema": "New Dance Order — dica de fluxo/saída",
-            "likes": null,
-            "coments": null,
-            "shares": null,
+            "likes": 809,
+            "coments": 45,
+            "shares": 14,
             "marcas": [],
-            "collab": "",
+            "collab": "2 perfis",
             "url": "https://www.instagram.com/reel/Dc05rD8MesR/"
           },
           {
@@ -1151,9 +1178,9 @@ window.RADAR = {
             "handle": "@jeffmattias",
             "tipo": "Reel",
             "tema": "Rock in Rio 2026 vai começar, agora é oficial",
-            "likes": 2642,
+            "likes": 2843,
             "coments": 49,
-            "shares": 36,
+            "shares": 37,
             "marcas": [],
             "collab": "4 perfis",
             "url": "https://www.instagram.com/p/DczZkUqJa27/"
@@ -1176,26 +1203,26 @@ window.RADAR = {
         "alerts": [
           {
             "tone": "neg",
-            "t": "🚨 Zero menções à Ipiranga nos creators, na véspera do festival",
-            "s": "Das 8 publicações sobre Rock in Rio mapeadas nos 5 perfis desde 01/09, <b>nenhuma cita ou marca a Ipiranga</b>. As marcas que aparecem nesses posts são <b>@rockinrio</b> e <b>Beats</b>. Se há entregáveis contratados, eles ainda não saíram — e a janela de esquenta acabou."
+            "t": "🚨 O 1º #publi da janela saiu — e não é Ipiranga",
+            "s": "@divasuburbana publicou ontem à noite o reel patrocinado da minicâmera <b>iFood + Itaú</b> — em 13h virou o post mais engajado da cobertura dela (<b>6,9 mil curtidas, 130 comentários, 79 shares</b>). O território de brinde/ativação na Cidade do Rock está sendo ocupado por outras marcas dentro do perfil da nossa creator mais forte."
           },
           {
             "tone": "neg",
-            "t": "🚨 3 dos 5 creators não publicaram nada sobre o festival",
-            "s": "@cassialourencogomes, @camilatrianda e @vittorfernando seguem postando conteúdo de outras marcas (@bidayaparfums.br, Red Bull, @fokka, @balenciaga, @ferragamo, @louisvuitton) sem nenhuma menção ao Rock in Rio. Vale checar hoje se o contrato prevê publicação só durante o evento."
+            "t": "🚨 Festival abre hoje com zero menções à Ipiranga",
+            "s": "Das <b>10 publicações</b> sobre RiR mapeadas nos 5 perfis desde 01/09 (2 novas desde ontem), nenhuma cita a marca. @cassialourencogomes e @camilatrianda seguem silenciosas, e @vittorfernando está em <b>Londres</b> cobrindo a turnê da Ariana Grande — vale confirmar hoje o cronograma de entregas contratadas para os dias de evento."
           },
           {
             "tone": "pos",
-            "t": "✅ @divasuburbana é o ativo mais forte — e está no território certo",
-            "s": "7 publicações de cobertura contínua, com o reel de chegada em <b>5,8 mil curtidas e 268 compartilhamentos</b>. O conteúdo dela é guia de serviço (comida, Comfort Zone, fluxo de saída) — o mesmo território de utilidade que a Ipiranga quer ocupar. É a parceira natural para levar o Espaço Ipiranga para dentro de um roteiro de 'o que fazer na Cidade do Rock'."
+            "t": "✅ Conteúdo de serviço da @divasuburbana segue performando",
+            "s": "O guia de comidas subiu de 1,7 mil para <b>2,1 mil curtidas</b> em um dia (66 comentários, 51 shares) e o reel de dicas de véspera fez 480 curtidas em 8h. É o formato ideal para encaixar o Espaço Ipiranga num roteiro de 'o que fazer na Cidade do Rock' ainda nesta 1ª semana."
           },
           {
             "tone": "neg",
-            "t": "⚠️ Concorrente já apareceu na conversa dos creators",
-            "s": "Nos comentários do post de @jeffmattias, uma seguidora relata: <i>\"Acabei de sair de lá, fui pela C&A convidada!\"</i> — a C&A já está convertendo convidados em prova social espontânea enquanto a Ipiranga não aparece nos perfis contratados."
+            "t": "⚠️ @jeffmattias parado desde a chegada — e com C&A na conversa",
+            "s": "O post de 02/09 cresceu para <b>2,8 mil curtidas</b>, mas ele não publicou mais nada de RiR; o comentário espontâneo de convidada da <b>C&A</b> segue visível no post. Hoje é o dia 1 de shows: janela boa para acionar entregas de cobertura."
           }
         ],
-        "note": "Bloco herdado da coleta de 03/09 (perfis logados via Claude para Chrome). A edição das 9h de 04/09 roda em nuvem, sem acesso ao navegador — a atualização do dia fica a cargo da rotina das 10h (aba Embaixadores); se ela não rodar, valem os dados de 03/09. Métricas em branco são posts cujo contador não estava exposto na leitura do grid. A tag de marcas considera perfis marcados na legenda e marcas nomeadas no texto."
+        "note": "Coleta parcial de 04/09: a conexão com o navegador caiu no fim da rodada — os 5 perfis e os posts novos/principais foram relidos hoje, mas as métricas de 4 posts de 02/09 e do post Beats (01/09) são as da leitura de 03/09. Métricas em branco: contador não exposto. Marcas: perfis marcados na legenda + marcas nomeadas no texto."
       }
     },
     {
