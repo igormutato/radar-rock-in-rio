@@ -14,8 +14,8 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 18,
-    "updatedAt": "04/09/2026, 10h35 (BRT)",
+    "version": 19,
+    "updatedAt": "04/09/2026, 20h25 (BRT)",
     "updatedISO": "2026-09-04",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
@@ -361,43 +361,43 @@ window.RADAR = {
       "id": "d4",
       "date": "seg · 7/set (feriado)",
       "title": "Dia 4 — Despedida de Elton John · 89 anos da Ipiranga",
-      "soldOut": false,
+      "soldOut": true,
       "headliner": "Elton John",
       "ipiranga": true,
       "stages": {
         "Palco Mundo": [
           [
-            "16h40",
+            "16h10",
             "Luísa Sonza + Roberto Menescal"
           ],
           [
-            "19h00",
+            "18h15",
             "Jon Batiste"
           ],
           [
-            "21h20",
+            "20h30",
             "Gilberto Gil"
           ],
           [
-            "00h05",
+            "23h00",
             "Elton John"
           ]
         ],
         "Palco Sunset": [
           [
-            "15h30",
+            "15h00",
             "Vanessa da Mata + Rubel"
           ],
           [
-            "17h50",
+            "17h10",
             "Roupa Nova + Guilherme Arantes"
           ],
           [
-            "20h10",
+            "19h50",
             "Péricles canta Motown"
           ],
           [
-            "22h45",
+            "21h55",
             "Laufey"
           ]
         ],
@@ -421,47 +421,47 @@ window.RADAR = {
         ],
         "Espaço Favela": [
           [
-            "15h00",
+            "14h40",
             "Tiee"
           ],
           [
-            "16h50",
+            "16h30",
             "Mart'nália"
           ],
           [
-            "19h10",
+            "18h20",
             "Belo"
           ]
         ],
         "Supernova": [
           [
-            "14h30",
+            "14h10",
             "Maui"
           ],
           [
-            "16h00",
+            "15h40",
             "Melly"
           ],
           [
-            "18h00",
+            "17h30",
             "Zeca Veloso"
           ],
           [
-            "20h10",
+            "20h05",
             "Alee"
           ]
         ],
         "Global Village": [
           [
-            "15h00",
+            "14h40",
             "Wanda Sá"
           ],
           [
-            "16h50",
+            "16h30",
             "Joyce Moreno, Leila Pinheiro e Fernanda Takai"
           ],
           [
-            "19h10",
+            "18h20",
             "João Bosco"
           ]
         ]
@@ -471,7 +471,7 @@ window.RADAR = {
       "id": "d5",
       "date": "sex · 11/set",
       "title": "Dia 5 — K-pop day (maior encontro da América Latina)",
-      "soldOut": true,
+      "soldOut": false,
       "headliner": "Stray Kids",
       "stages": {
         "Palco Mundo": [
@@ -807,118 +807,117 @@ window.RADAR = {
       "edition": 12,
       "phase": "festival — dia 1 (abertura)",
       "pulse": [
-        "🎸 <b>É HOJE!</b> Portões abrem às 14h e o Foo Fighters volta ao festival após 7 anos, fechando o Palco Mundo à 00h05 (The Hives 19h, Rise Against 21h20; no Sunset, Capital Inicial convida Dado Villa-Lobos às 22h45). Expectativa de ~100 mil pessoas/dia, com vias do entorno bloqueadas das 14h às 5h.",
-        "🌦️ <b>Abertura no calor, fim de semana na chuva:</b> hoje 32°C e 40% de chance de chuva fraca; sábado vira com 93% (15 mm) e domingo chega a 100%, com máxima de 21°C. Guarda-chuva não entra na Cidade do Rock — pochete e leque da Ipiranga viram itens funcionais do 1º fim de semana.",
-        "📲 <b>A fricção do Quentro chegou ao dia 1:</b> o Reclame Aqui segue acumulando relatos de ingresso que não aparece no app após compra ou resgate — inclusive de quem resgatou pelo KMV. Plantão de suporte visível é a primeira linha de defesa da marca hoje.",
-        "🏁 <b>A régua do dia:</b> 8 mil horas de experiências, 100+ ativações e ~1 milhão de brindes em disputa. A Ipiranga entra com o Espaço renovado junto ao Palco Mundo, leques e pochetes, Bar AmPm e 89 anos no dia 7 — concorrendo com a fila digital da Coca-Cola e a roda-gigante do Itaú."
+        "🌙 <b>Edição da noite (20h) — a 1ª noite está em andamento:</b> portões abriram às 14h sem incidentes reportados, Nova Twins e The Hives já passaram pelo Palco Mundo (primeiros moshpits em 'Come On!', resenha elogiosa), Rise Against entra às 21h20 e o Foo Fighters fecha à 00h05 com repertório do novo disco 'Your Favorite Toy'.",
+        "📅 <b>A organização mexeu na grade do dia da Ipiranga:</b> Elton John foi antecipado para 23h no 7/set (Gilberto Gil 20h30, Jon Batiste 18h15, Luísa Sonza 16h10) — e o dia 7, o dos 89 anos da marca, está oficialmente esgotado (6 e 12 também; 5, 11 e 13 seguem à venda). Replanejar cronograma do espaço, convidados e conteúdo do aniversário para a nova janela.",
+        "🌦️ <b>Hoje escapou do aguaceiro, amanhã não deve:</b> previsão desta sexta era de chuva fraca isolada só à noite, mas sábado a chuva chega a partir do fim da manhã, com ventos de até 51,9 km/h — o 'kit chuva' (pochete + leque + capa) precisa estar no ar como primeiro conteúdo da manhã."
       ],
       "news": [
         {
-          "t": "Rock in Rio 2026 abre hoje com Foo Fighters de volta após 7 anos",
-          "src": "Jovem Pan",
-          "when": "04/09, 8h50",
-          "s": "Sete dias de festival (4–7 e 11–13/set) na Cidade do Rock, com ~100 mil pessoas/dia esperadas. Dia 1 no Palco Mundo: Nova Twins (16h40), The Hives (19h), Rise Against (21h20) e Foo Fighters (00h05); no Sunset, Capital Inicial convida Dado Villa-Lobos, com Di Ferrero, Detonautas + Biquini e Hot Milk. Programação também em New Dance Order, Espaço Favela, Global Village, Supernova e Highway Stage.",
-          "u": "https://jovempan.com.br/entretenimento/musica/com-foo-fighters-capital-inicial-e-the-hives-rock-in-rio-comeca-nesta-sexta-feira/"
+          "t": "Organização antecipa Elton John para 23h no dia 7 e reordena todo o Palco Mundo",
+          "src": "NDMais / TMC / Band",
+          "when": "04/09, 11h30",
+          "s": "Elton John, que subiria ao palco à 00h05, agora fecha o dia 7/set às 23h; Gilberto Gil vai para 20h30, Jon Batiste 18h15 e Luísa Sonza (com Roberto Menescal) 16h10. O Sunset também mudou (Laufey 21h55, Péricles 19h50). A organização não deu justificativa. É exatamente o dia dos 89 anos da Ipiranga — a grade do radar já está corrigida.",
+          "u": "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
         },
         {
-          "t": "Previsão dia a dia: abertura quente, 93% de chuva no sábado e 100% no domingo",
-          "src": "Exame",
-          "when": "03/09",
-          "s": "Hoje: 32°C/17°C, 40% de chance de chuva (4,9 mm). Sábado: 26°C com 93% (15 mm). Domingo: 100% de chuva e máxima de 21°C. 7/set frio (19°C) com pancadas. Frente fria atinge o Rio no 1º fim de semana — capa de chuva pode, guarda-chuva não.",
-          "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-a-primeira-semana-do-festival/"
+          "t": "Ingressos: 6, 7 e 12/set esgotados; 4, 5, 11 e 13 ainda à venda na abertura",
+          "src": "Cenário MT / NDMais",
+          "when": "04/09, 11h11",
+          "s": "Na manhã da abertura, três dias já estavam com lotação máxima — incluindo o dia 7 (Elton John + aniversário Ipiranga). O dia 11 (2ª sexta) voltou a aparecer com ingressos disponíveis, junto com 5 e 13. Casa cheia garantida no dia da marca.",
+          "u": "https://cenariomt.com.br/variedades/rock-in-rio-2026-abre-as-portas-com-foo-fighters-mudanca-no-show-de-elton-john-e-ultimos-ingressos-disponiveis/"
         },
         {
-          "t": "Trade consolida a régua: 8 mil horas de experiência de marca e 7 estreantes",
-          "src": "Promoview",
-          "when": "atual. 02/09",
-          "s": "Mais de 100 ativações e ~1 milhão de brindes em 7 dias. Estreiam Tic Tac, AXIA Energia, Drogaria Venancio, CRMBonus, Piracanjuba, Philco e Gemini. Itaú (25 anos de patrocínio máster) leva Listening Club e ~100 mil copos colecionáveis; Heineken lança a Ultimate sem glúten; C&A celebra 50 anos de Brasil com Glambot e gamificação.",
-          "u": "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+          "t": "Portões abertos às 14h: público entrou ao som da música oficial, sem registro de incidentes",
+          "src": "Brasil em Folhas",
+          "when": "04/09, 14h",
+          "s": "Cidade do Rock aberta no horário, com entrada tranquila e visual clássico de rock dominando (coturno, corrente, bandana, camisas de banda). Fãs de várias cidades — de Nova Iguaçu a Brasília — chegaram cedo para o retorno do Foo Fighters. Nenhum relato de fila crítica ou confusão na entrada até o começo da noite.",
+          "u": "https://www.brasilemfolhas.com.br/2026/09/cidade-do-rock-abre-portoes-para-primeiro-dia-de-festival/"
         },
         {
-          "t": "Véspera terminou com o Reclame Aqui cheio de 'ingresso sumido' no Quentro",
-          "src": "Reclame AQUI",
-          "when": "03–04/09",
-          "s": "Série de reclamações de ingressos que não aparecem no app após compra ou resgate — impedindo inclusive a transferência. A fricção chega junto com os portões e atinge em cheio o público que resgatou via KMV; a página oficial de ajuda da Ticketmaster é o canal a distribuir.",
-          "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+          "t": "Primeiras resenhas da noite: Nova Twins 'a coisa mais rock do dia' e The Hives 'empolga nos mínimos detalhes'",
+          "src": "Rock On Board / Igor Miranda",
+          "when": "04/09, noite",
+          "s": "Nova Twins abriu o Palco Mundo ainda com gramado vazio e saiu elogiada ('baixo como instrumento de guerra'). The Hives, na sequência (19h), teve os primeiros moshpits do festival em 'Come On!' e equilibrou fãs dos anos 2000 com o público jovem que chegou via TikTok — na 1ª vez da banda no festival.",
+          "u": "https://igormiranda.com.br/2026/09/the-hives-resenha-rock-in-rio/"
         },
         {
-          "t": "Guia prático do dia 1: até 5 itens de comida, celular carregado e ingresso ativado",
-          "src": "ROCKNBOLD",
-          "when": "02/09",
-          "s": "Jardim Oceânico com embarque 24h + BRT Expresso; até 5 itens de alimentação lacrados por pessoa (fruta em zip lock transparente); recomendação nº 1 dos guias: conferir o ingresso no app Quentro antes de sair de casa.",
-          "u": "https://rocknbold.com/2026/09/rock-in-rio-2026-guia-para-os-primeiros-dias-do-festival/"
+          "t": "Previsão atualizada: chuva fraca isolada nesta noite; sábado vira a partir do fim da manhã",
+          "src": "Brasil em Folhas (Alerta Rio)",
+          "when": "04/09, 4h38",
+          "s": "Sexta parcialmente nublada com possibilidade de chuva fraca isolada à noite e ventos de 18,5 a 51,9 km/h. Sábado: chuva fraca a moderada a partir do fim da manhã. Domingo e segunda: chuva ao longo do dia, com rajadas de 52–76 km/h no litoral e possibilidade de raios à noite. Guarda-chuva segue proibido — capa de chuva liberada.",
+          "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-comeca-com-previsao-de-chuva-e-ventos-fortes/"
         }
       ],
       "ipiranga": [
         {
-          "t": "O pacote da Ipiranga no dia 1: espaço renovado, R$ 1 mi em prêmios e 600 ingressos via KMV",
-          "src": "Promoview",
-          "when": "atual. 02/09",
-          "s": "Espaço Ipiranga reformulado com pochetes e leques como brindes + experiência Glambot; a promoção 'Parada Completa' distribuiu mais de R$ 1 milhão em prêmios em todo o país, incluindo 600 ingressos de gramado resgatados pelo app KMV. O aniversário de 89 anos cai no dia 7, dentro do festival.",
-          "u": "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+          "t": "Dia dos 89 anos (7/set) agora tem grade nova e casa cheia: Elton John às 23h e ingressos esgotados",
+          "src": "NDMais / Cenário MT",
+          "when": "04/09",
+          "s": "A antecipação de Elton John para 23h encurta a noite do dia mais importante da marca no festival — show principal termina mais cedo, com Fatboy Slim (01h30, NDO) segurando a madrugada. Com o dia esgotado, o aniversário terá público máximo: vale replanejar cronograma de convidados, conteúdo do 'parabéns' e janelas de ativação do espaço para a nova grade.",
+          "u": "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
         },
         {
-          "t": "Brinde na mira: leque amarelo e doleira azul/amarela nas listas de mais desejados",
-          "src": "GKPB — Geek Publicitário",
+          "t": "Propmark detalha a operação do brinde: ~30 mil leques no gramado e pochete customizável com pins no espaço",
+          "src": "propmark",
           "when": "atual. 28/08",
-          "s": "O roundup de brindes lista o leque e a doleira estilizada da campanha 'Lá, a parada é completa' ao lado de jaqueta jeans da C&A, mini-câmera do iFood, charms do KitKat e cinto utilitário da Natura. A caça aos brindes segue sendo a maior porta de entrada orgânica do espaço — e o dia 1 define o que vira 'item raro' nas redes.",
-          "u": "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+          "s": "O roundup de brindes do trade especifica a mecânica da Ipiranga: leques amarelos distribuídos no gramado (~30 mil) e pochetes customizáveis com pins no Espaço Ipiranga, ao lado de Glambot e Bar AmPm. Concorrência direta de pochete: Doritos e Natura (laranja) também distribuem o mesmo item — a customização com pins é o diferencial a comunicar.",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
         },
         {
-          "t": "Benchmark dos vizinhos: fila digital na Coca-Cola e pavilhão de 3 andares do Itaú",
+          "t": "1ª noite sem ruído novo de marca até as 20h — atenção segue no pós-shows",
+          "src": "varredura da noite (imprensa + Reclame Aqui)",
+          "when": "04/09, 20h",
+          "s": "A varredura da noite não encontrou registro de fila crítica na pochete nem menção negativa nova ao espaço na imprensa. O teste real é agora: pico de público entre Rise Against (21h20) e Foo Fighters (00h05) e a volta pra casa na madrugada com vias bloqueadas até 5h — janela em que o transfer KMV e o guia de saída fazem a diferença.",
+          "u": "https://www.brasilemfolhas.com.br/2026/09/cidade-do-rock-abre-portoes-para-primeiro-dia-de-festival/"
+        },
+        {
+          "t": "Quentro/KMV: caso do 'ingresso sumido' segue aberto no Reclame Aqui na virada da noite",
+          "src": "Reclame AQUI",
+          "when": "03–04/09",
+          "s": "As reclamações de ingresso que não aparece no app seguem sem resposta pública consolidada da Ticketmaster. Com 3 dias esgotados e ativação de ingresso em massa nas próximas noites, manter o plantão e o passo-a-passo oficial circulando protege o case dos 600 ingressos KMV.",
+          "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        },
+        {
+          "t": "Benchmark dos vizinhos no dia 1: Itaú, Coca-Cola e iFood operando as réguas altas",
           "src": "GKPB — Geek Publicitário",
-          "when": "31/08",
-          "s": "Coca-Cola opera gestão digital de filas; Itaú tem 1.000 m² com roda-gigante, Praça e Listening Club; iFood roda montanha-russa com fast pass; C&A tem duas lojas e squad de influenciadores. O contraste operacional com a fila da pochete (1h30 no evento teste) é o risco reputacional nº 1 do espaço hoje.",
+          "when": "atual. 31/08",
+          "s": "Fila digital na Coca-Cola, pavilhão de 3 andares com roda-gigante no Itaú e montanha-russa com fast pass no iFood seguem como o padrão de comparação operacional do 1º fim de semana. O que o público postar hoje sobre filas — nossas e deles — calibra a leitura de amanhã.",
           "u": "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
-        },
-        {
-          "t": "Suporte à ativação do ingresso: passo-a-passo oficial é o link do dia",
-          "src": "Ticketmaster Help",
-          "when": "atual",
-          "s": "Com casos se acumulando no Reclame Aqui, a página oficial 'Rock In Rio 2026 — Ingresso Digital' é o conteúdo a distribuir preventivamente nos canais da marca, no atendimento do espaço e por push/e-mail à base que resgatou via KMV.",
-          "u": "https://help.ticketmaster.com.br/hc/pt-br/articles/49271100986129-Rock-In-Rio-2026-Ingresso-Digital"
-        },
-        {
-          "t": "Hub oficial da campanha segue como referência para dúvidas",
-          "src": "Ipiranga",
-          "when": "atual",
-          "s": "Página reúne a promoção, os resgates KMV e a presença no festival — referência para direcionar dúvidas do público durante os dias de evento.",
-          "u": "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
         }
       ],
       "shows": {
-        "status": "É HOJE — 1ª noite (sex, 4/set): portões às 14h. Palco Mundo: Nova Twins (16h40), The Hives (19h), Rise Against (21h20) e Foo Fighters à 00h05, de volta ao festival após 7 anos. Sunset: Capital Inicial convida Dado Villa-Lobos (22h45), com Di Ferrero, Detonautas + Biquini e Hot Milk. A repercussão da 1ª noite entra aqui amanhã de manhã.",
+        "status": "1ª noite EM ANDAMENTO (atualizado 20h25): portões abriram às 14h sem incidentes; tarde de calor e céu parcialmente nublado, com chance de chuva fraca isolada à noite. Palco Mundo: Nova Twins abriu (16h40) com resenha elogiosa e gramado ainda enchendo; The Hives (19h) provocou os primeiros moshpits do festival; Rise Against às 21h20 e Foo Fighters à 00h05, com repertório do novo álbum 'Your Favorite Toy'. Sunset: Capital Inicial convida Dado Villa-Lobos às 22h45. Transmissão: Multishow (desde 15h15), Bis e Globoplay 4K. Volta pra casa: vias bloqueadas até 5h, metrô 24h no Jardim Oceânico. A repercussão completa da noite (Foo Fighters + madrugada) entra na edição de amanhã de manhã.",
         "reperc": []
       },
       "trends": {
         "viral": [
           {
-            "t": "\"Vai chover no Rock in Rio?\" segue como a pauta de utilidade do dia 1",
-            "src": "Exame / CNN Brasil",
-            "metric": "pauta do dia",
-            "s": "Frente fria no 1º fim de semana (93% sábado, 100% domingo, guarda-chuva proibido) mantém o clima como o conteúdo de serviço mais compartilhado da abertura — janela direta para comunicar pochete + leque como 'kit chuva' da Cidade do Rock.",
-            "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-a-primeira-semana-do-festival/"
+            "t": "Antecipação de Elton John para 23h vira a pauta quente da tarde",
+            "src": "NDMais / Band / Jornal de Brasília",
+            "metric": "manchetes da tarde",
+            "s": "A mudança na grade do dia 7 — sem justificativa da organização — se espalhou por todos os portais na tarde da abertura e deve dominar a conversa de quem tem ingresso para o dia esgotado. Toca a marca em cheio: é o dia dos 89 anos da Ipiranga, com show principal terminando mais cedo.",
+            "u": "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
           },
           {
-            "t": "Foo Fighters de volta após 7 anos é o gancho editorial da abertura",
-            "src": "Jovem Pan / Whiplash",
-            "metric": "manchetes da manhã",
-            "s": "O retorno da banda e o show à 00h05 — com bloqueio viário até 5h — dominam as manchetes de hoje. A madrugada e a volta para casa devem concentrar o UGC da 1ª noite, território natural do serviço 'parada completa'.",
-            "u": "https://jovempan.com.br/entretenimento/musica/com-foo-fighters-capital-inicial-e-the-hives-rock-in-rio-comeca-nesta-sexta-feira/"
+            "t": "The Hives e os primeiros moshpits: a 1ª noite começou a render conteúdo",
+            "src": "Igor Miranda / Rock On Board",
+            "metric": "resenhas da noite",
+            "s": "Resenhas quentes saíram ainda durante o evento: The Hives 'empolga nos mínimos detalhes' (com moshpits em 'Come On!') e Nova Twins fez 'a coisa mais rock do dia'. O volume grande de UGC vem na madrugada com o Foo Fighters — primeira leva de vídeos amanhã cedo.",
+            "u": "https://igormiranda.com.br/2026/09/the-hives-resenha-rock-in-rio/"
           },
           {
-            "t": "Caça aos brindes chega ao dia 1 com a doleira da Ipiranga nas listas",
-            "src": "GKPB — Geek Publicitário",
-            "metric": "roundups",
-            "s": "Os roundups de brindes seguem circulando na imprensa e nas redes, com leque e doleira da Ipiranga listados junto a C&A, iFood, KitKat e Natura. O primeiro dia de distribuição define quais brindes viram desejo (e quais viram reclamação de fila).",
-            "u": "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+            "t": "Madrugada do Foo Fighters: 00h05 no palco, vias bloqueadas até 5h",
+            "src": "Tupi / Jovem Pan",
+            "metric": "pauta de serviço",
+            "s": "O fechamento na madrugada com o novo 'Your Favorite Toy' concentra o pico de posts da noite — e a volta pra casa às ~2h da manhã é o momento exato do território 'parada completa' (ônibus KMV, BRT, metrô 24h).",
+            "u": "https://www.tupi.fm/rio/rock-in-rio-2026-foo-fighters-abre-festival-com-encontro-de-lendas-do-rock/"
           },
           {
-            "t": "'Ingresso sumido' no Quentro é o assunto negativo da manhã",
-            "src": "Reclame AQUI",
-            "metric": "alerta",
-            "s": "Novos relatos de ingresso que não aparece no app após compra ou resgate se acumulam na virada para o dia 1 — tema com potencial de viralizar na porta de entrada e que respinga no público KMV.",
-            "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+            "t": "Chuva de sábado é o próximo assunto de utilidade — e a janela do 'kit chuva'",
+            "src": "Brasil em Folhas (Alerta Rio)",
+            "metric": "pauta do dia seguinte",
+            "s": "Com chuva a partir do fim da manhã de sábado e ventos de até 51,9 km/h (guarda-chuva proibido), o conteúdo de serviço da virada é o clima — pochete + leque + capa como kit oficial da Cidade do Rock ainda tem a manhã de sábado como janela.",
+            "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-comeca-com-previsao-de-chuva-e-ventos-fortes/"
           }
         ],
         "sources": [
@@ -929,7 +928,7 @@ window.RADAR = {
             "status": "off",
             "statusLabel": "coleta indisponível hoje",
             "items": [],
-            "note": "O feed RSS oficial (trends.google.com/trending/rss?geo=BR) não pôde ser acessado nesta execução: a sessão automática em nuvem exigiu aprovação manual do acesso e não havia ninguém para conceder. Sem dado de hoje; a coleta retoma na próxima edição. Referência de 03/09: nenhum termo do festival figurava no top nacional na véspera — a entrada de 'Rock in Rio'/artistas no ranking a partir da abertura segue sendo o sinal a observar."
+            "note": "O feed RSS (trends.google.com/trending/rss?geo=BR) seguiu inacessível na execução da noite — o mesmo bloqueio de aprovação de acesso da manhã, sem usuário presente para conceder. Dia de abertura era a maior chance de entrada de termos do festival no ranking; fica sem medição. Coleta retoma na próxima execução."
           },
           {
             "id": "tiktok",
@@ -938,10 +937,10 @@ window.RADAR = {
             "status": "off",
             "statusLabel": "coleta indisponível hoje",
             "items": [],
-            "note": "A página pública da hashtag #rockinrio (linha de base: 5,7 mi de views em 03/09) não pôde ser acessada nesta execução pelo mesmo bloqueio de aprovação. A curva diária retoma na próxima coleta — o salto pós-abertura será medido contra a linha de base de 03/09."
+            "note": "A página da hashtag #rockinrio também seguiu bloqueada à noite pelo mesmo motivo. Linha de base permanece 5,7 mi de views (03/09); o salto do dia de abertura será medido contra ela assim que a coleta voltar."
           }
         ],
-        "note": "Coleta quantitativa (Google Trends RSS + páginas de hashtag do TikTok) indisponível nesta execução — as duas colunas publicam com selo 'off' e o bloco viral desta edição é leitura editorial baseada em imprensa, sempre com fonte e link. Nenhum número estimado."
+        "note": "Edição da noite: coleta quantitativa (Google Trends RSS + hashtag TikTok) indisponível nas DUAS execuções de hoje pelo bloqueio de aprovação de acesso na sessão automática — colunas com selo 'off'. O bloco viral é leitura editorial da imprensa, com fonte e link em todo item. Nenhum número estimado."
       },
       "direcionais": {
         "leitura": "Os portões abrem às 14h e a narrativa do dia 1 será decidida em três frentes que a marca controla: a operação do brinde (1h30 de fila e ruptura no evento teste, com a doleira nas listas de mais desejados), o suporte a quem resgatou via KMV e não vê o ingresso no Quentro, e a volta para casa na madrugada (Foo Fighters à 00h05, bloqueio viário até 5h). O clima joga a favor da marca: abertura seca e quente, mas 93–100% de chuva no fim de semana transformam pochete e leque em utilidade real. A régua ao lado é alta — fila digital na Coca-Cola, roda-gigante no Itaú — e o que acontecer hoje calibra o resto do festival.",
