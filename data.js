@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 16,
-    "updatedAt": "03/09/2026, 20h14 (BRT)",
-    "updatedISO": "2026-09-03",
+    "version": 17,
+    "updatedAt": "04/09/2026, 09h45 (BRT)",
+    "updatedISO": "2026-09-04",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,404 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "04/09/2026",
+      "dateISO": "2026-09-04",
+      "weekday": "sexta-feira",
+      "edition": 12,
+      "phase": "festival — dia 1 (abertura)",
+      "pulse": [
+        "🎸 <b>É HOJE!</b> Portões abrem às 14h e o Foo Fighters volta ao festival após 7 anos, fechando o Palco Mundo à 00h05 (The Hives 19h, Rise Against 21h20; no Sunset, Capital Inicial convida Dado Villa-Lobos às 22h45). Expectativa de ~100 mil pessoas/dia, com vias do entorno bloqueadas das 14h às 5h.",
+        "🌦️ <b>Abertura no calor, fim de semana na chuva:</b> hoje 32°C e 40% de chance de chuva fraca; sábado vira com 93% (15 mm) e domingo chega a 100%, com máxima de 21°C. Guarda-chuva não entra na Cidade do Rock — pochete e leque da Ipiranga viram itens funcionais do 1º fim de semana.",
+        "📲 <b>A fricção do Quentro chegou ao dia 1:</b> o Reclame Aqui segue acumulando relatos de ingresso que não aparece no app após compra ou resgate — inclusive de quem resgatou pelo KMV. Plantão de suporte visível é a primeira linha de defesa da marca hoje.",
+        "🏁 <b>A régua do dia:</b> 8 mil horas de experiências, 100+ ativações e ~1 milhão de brindes em disputa. A Ipiranga entra com o Espaço renovado junto ao Palco Mundo, leques e pochetes, Bar AmPm e 89 anos no dia 7 — concorrendo com a fila digital da Coca-Cola e a roda-gigante do Itaú."
+      ],
+      "news": [
+        {
+          "t": "Rock in Rio 2026 abre hoje com Foo Fighters de volta após 7 anos",
+          "src": "Jovem Pan",
+          "when": "04/09, 8h50",
+          "s": "Sete dias de festival (4–7 e 11–13/set) na Cidade do Rock, com ~100 mil pessoas/dia esperadas. Dia 1 no Palco Mundo: Nova Twins (16h40), The Hives (19h), Rise Against (21h20) e Foo Fighters (00h05); no Sunset, Capital Inicial convida Dado Villa-Lobos, com Di Ferrero, Detonautas + Biquini e Hot Milk. Programação também em New Dance Order, Espaço Favela, Global Village, Supernova e Highway Stage.",
+          "u": "https://jovempan.com.br/entretenimento/musica/com-foo-fighters-capital-inicial-e-the-hives-rock-in-rio-comeca-nesta-sexta-feira/"
+        },
+        {
+          "t": "Previsão dia a dia: abertura quente, 93% de chuva no sábado e 100% no domingo",
+          "src": "Exame",
+          "when": "03/09",
+          "s": "Hoje: 32°C/17°C, 40% de chance de chuva (4,9 mm). Sábado: 26°C com 93% (15 mm). Domingo: 100% de chuva e máxima de 21°C. 7/set frio (19°C) com pancadas. Frente fria atinge o Rio no 1º fim de semana — capa de chuva pode, guarda-chuva não.",
+          "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-a-primeira-semana-do-festival/"
+        },
+        {
+          "t": "Trade consolida a régua: 8 mil horas de experiência de marca e 7 estreantes",
+          "src": "Promoview",
+          "when": "atual. 02/09",
+          "s": "Mais de 100 ativações e ~1 milhão de brindes em 7 dias. Estreiam Tic Tac, AXIA Energia, Drogaria Venancio, CRMBonus, Piracanjuba, Philco e Gemini. Itaú (25 anos de patrocínio máster) leva Listening Club e ~100 mil copos colecionáveis; Heineken lança a Ultimate sem glúten; C&A celebra 50 anos de Brasil com Glambot e gamificação.",
+          "u": "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+        },
+        {
+          "t": "Véspera terminou com o Reclame Aqui cheio de 'ingresso sumido' no Quentro",
+          "src": "Reclame AQUI",
+          "when": "03–04/09",
+          "s": "Série de reclamações de ingressos que não aparecem no app após compra ou resgate — impedindo inclusive a transferência. A fricção chega junto com os portões e atinge em cheio o público que resgatou via KMV; a página oficial de ajuda da Ticketmaster é o canal a distribuir.",
+          "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        },
+        {
+          "t": "Guia prático do dia 1: até 5 itens de comida, celular carregado e ingresso ativado",
+          "src": "ROCKNBOLD",
+          "when": "02/09",
+          "s": "Jardim Oceânico com embarque 24h + BRT Expresso; até 5 itens de alimentação lacrados por pessoa (fruta em zip lock transparente); recomendação nº 1 dos guias: conferir o ingresso no app Quentro antes de sair de casa.",
+          "u": "https://rocknbold.com/2026/09/rock-in-rio-2026-guia-para-os-primeiros-dias-do-festival/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "O pacote da Ipiranga no dia 1: espaço renovado, R$ 1 mi em prêmios e 600 ingressos via KMV",
+          "src": "Promoview",
+          "when": "atual. 02/09",
+          "s": "Espaço Ipiranga reformulado com pochetes e leques como brindes + experiência Glambot; a promoção 'Parada Completa' distribuiu mais de R$ 1 milhão em prêmios em todo o país, incluindo 600 ingressos de gramado resgatados pelo app KMV. O aniversário de 89 anos cai no dia 7, dentro do festival.",
+          "u": "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+        },
+        {
+          "t": "Brinde na mira: leque amarelo e doleira azul/amarela nas listas de mais desejados",
+          "src": "GKPB — Geek Publicitário",
+          "when": "atual. 28/08",
+          "s": "O roundup de brindes lista o leque e a doleira estilizada da campanha 'Lá, a parada é completa' ao lado de jaqueta jeans da C&A, mini-câmera do iFood, charms do KitKat e cinto utilitário da Natura. A caça aos brindes segue sendo a maior porta de entrada orgânica do espaço — e o dia 1 define o que vira 'item raro' nas redes.",
+          "u": "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+        },
+        {
+          "t": "Benchmark dos vizinhos: fila digital na Coca-Cola e pavilhão de 3 andares do Itaú",
+          "src": "GKPB — Geek Publicitário",
+          "when": "31/08",
+          "s": "Coca-Cola opera gestão digital de filas; Itaú tem 1.000 m² com roda-gigante, Praça e Listening Club; iFood roda montanha-russa com fast pass; C&A tem duas lojas e squad de influenciadores. O contraste operacional com a fila da pochete (1h30 no evento teste) é o risco reputacional nº 1 do espaço hoje.",
+          "u": "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
+        },
+        {
+          "t": "Suporte à ativação do ingresso: passo-a-passo oficial é o link do dia",
+          "src": "Ticketmaster Help",
+          "when": "atual",
+          "s": "Com casos se acumulando no Reclame Aqui, a página oficial 'Rock In Rio 2026 — Ingresso Digital' é o conteúdo a distribuir preventivamente nos canais da marca, no atendimento do espaço e por push/e-mail à base que resgatou via KMV.",
+          "u": "https://help.ticketmaster.com.br/hc/pt-br/articles/49271100986129-Rock-In-Rio-2026-Ingresso-Digital"
+        },
+        {
+          "t": "Hub oficial da campanha segue como referência para dúvidas",
+          "src": "Ipiranga",
+          "when": "atual",
+          "s": "Página reúne a promoção, os resgates KMV e a presença no festival — referência para direcionar dúvidas do público durante os dias de evento.",
+          "u": "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
+        }
+      ],
+      "shows": {
+        "status": "É HOJE — 1ª noite (sex, 4/set): portões às 14h. Palco Mundo: Nova Twins (16h40), The Hives (19h), Rise Against (21h20) e Foo Fighters à 00h05, de volta ao festival após 7 anos. Sunset: Capital Inicial convida Dado Villa-Lobos (22h45), com Di Ferrero, Detonautas + Biquini e Hot Milk. A repercussão da 1ª noite entra aqui amanhã de manhã.",
+        "reperc": []
+      },
+      "trends": {
+        "viral": [
+          {
+            "t": "\"Vai chover no Rock in Rio?\" segue como a pauta de utilidade do dia 1",
+            "src": "Exame / CNN Brasil",
+            "metric": "pauta do dia",
+            "s": "Frente fria no 1º fim de semana (93% sábado, 100% domingo, guarda-chuva proibido) mantém o clima como o conteúdo de serviço mais compartilhado da abertura — janela direta para comunicar pochete + leque como 'kit chuva' da Cidade do Rock.",
+            "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-a-primeira-semana-do-festival/"
+          },
+          {
+            "t": "Foo Fighters de volta após 7 anos é o gancho editorial da abertura",
+            "src": "Jovem Pan / Whiplash",
+            "metric": "manchetes da manhã",
+            "s": "O retorno da banda e o show à 00h05 — com bloqueio viário até 5h — dominam as manchetes de hoje. A madrugada e a volta para casa devem concentrar o UGC da 1ª noite, território natural do serviço 'parada completa'.",
+            "u": "https://jovempan.com.br/entretenimento/musica/com-foo-fighters-capital-inicial-e-the-hives-rock-in-rio-comeca-nesta-sexta-feira/"
+          },
+          {
+            "t": "Caça aos brindes chega ao dia 1 com a doleira da Ipiranga nas listas",
+            "src": "GKPB — Geek Publicitário",
+            "metric": "roundups",
+            "s": "Os roundups de brindes seguem circulando na imprensa e nas redes, com leque e doleira da Ipiranga listados junto a C&A, iFood, KitKat e Natura. O primeiro dia de distribuição define quais brindes viram desejo (e quais viram reclamação de fila).",
+            "u": "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+          },
+          {
+            "t": "'Ingresso sumido' no Quentro é o assunto negativo da manhã",
+            "src": "Reclame AQUI",
+            "metric": "alerta",
+            "s": "Novos relatos de ingresso que não aparece no app após compra ou resgate se acumulam na virada para o dia 1 — tema com potencial de viralizar na porta de entrada e que respinga no público KMV.",
+            "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+          }
+        ],
+        "sources": [
+          {
+            "id": "google",
+            "icon": "🔍",
+            "name": "Google Trends · Brasil",
+            "status": "off",
+            "statusLabel": "coleta indisponível hoje",
+            "items": [],
+            "note": "O feed RSS oficial (trends.google.com/trending/rss?geo=BR) não pôde ser acessado nesta execução: a sessão automática em nuvem exigiu aprovação manual do acesso e não havia ninguém para conceder. Sem dado de hoje; a coleta retoma na próxima edição. Referência de 03/09: nenhum termo do festival figurava no top nacional na véspera — a entrada de 'Rock in Rio'/artistas no ranking a partir da abertura segue sendo o sinal a observar."
+          },
+          {
+            "id": "tiktok",
+            "icon": "🎵",
+            "name": "TikTok · hashtags",
+            "status": "off",
+            "statusLabel": "coleta indisponível hoje",
+            "items": [],
+            "note": "A página pública da hashtag #rockinrio (linha de base: 5,7 mi de views em 03/09) não pôde ser acessada nesta execução pelo mesmo bloqueio de aprovação. A curva diária retoma na próxima coleta — o salto pós-abertura será medido contra a linha de base de 03/09."
+          }
+        ],
+        "note": "Coleta quantitativa (Google Trends RSS + páginas de hashtag do TikTok) indisponível nesta execução — as duas colunas publicam com selo 'off' e o bloco viral desta edição é leitura editorial baseada em imprensa, sempre com fonte e link. Nenhum número estimado."
+      },
+      "direcionais": {
+        "leitura": "Os portões abrem às 14h e a narrativa do dia 1 será decidida em três frentes que a marca controla: a operação do brinde (1h30 de fila e ruptura no evento teste, com a doleira nas listas de mais desejados), o suporte a quem resgatou via KMV e não vê o ingresso no Quentro, e a volta para casa na madrugada (Foo Fighters à 00h05, bloqueio viário até 5h). O clima joga a favor da marca: abertura seca e quente, mas 93–100% de chuva no fim de semana transformam pochete e leque em utilidade real. A régua ao lado é alta — fila digital na Coca-Cola, roda-gigante no Itaú — e o que acontecer hoje calibra o resto do festival.",
+        "dirs": [
+          {
+            "t": "O primeiro UGC do espaço define a semana — que seja a pochete no corpo, não a fila",
+            "s": "Com 1h30 de fila e ruptura registradas no evento teste e a doleira nas listas de brindes mais desejados (GKPB), o dia 1 decide se a narrativa orgânica do Espaço Ipiranga é desejo ou frustração. Janelas de distribuição, estoque por período e aviso de disponibilidade fazem a diferença — o benchmark de fila digital estará funcionando a poucos metros, na Coca-Cola."
+          },
+          {
+            "t": "Tratar o Quentro como problema da marca, não da Ticketmaster",
+            "s": "Quem resgatou pelo KMV e trava na ativação culpa a Ipiranga. Com o Reclame Aqui acumulando casos na virada do dia 1, plantão de suporte visível (no espaço e nos canais) e o passo-a-passo oficial distribuído preventivamente protegem o principal case da marca — os 600 ingressos resgatados via app."
+          },
+          {
+            "t": "A madrugada é o território 'parada completa' da 1ª noite",
+            "s": "Foo Fighters à 00h05 e vias bloqueadas até 5h fazem da volta o problema prático da noite. Ônibus KMV por 150 pontos + BRT Jaé + metrô 24h, empacotados como serviço, são a aplicação literal do mote na jornada do festival — sem falar de line-up."
+          },
+          {
+            "t": "A chuva do fim de semana é a janela de conteúdo funcional",
+            "s": "Sábado com 93% e domingo com 100% de chuva, guarda-chuva proibido: comunicar pochete + leque + capa como 'kit Cidade do Rock' ainda hoje posiciona a marca antes da virada do tempo — utilidade primeiro, brinde depois."
+          },
+          {
+            "t": "Registrar o dia 1 para reativar os canais — o TikTok da marca segue sendo o ponto cego",
+            "s": "A varredura de 03/09 encontrou o TikTok da marca parado desde 25/08, justamente onde a caça aos brindes viraliza. Captar hoje o material do espaço (Glambot, corredor, entrega da pochete, Bar AmPm) e publicar ainda durante o evento é a correção mais barata disponível."
+          }
+        ],
+        "acion": [
+          "Publicar até 14h, nos canais da marca, o guia da 1ª noite: bloqueio viário 14h–5h, BRT Jaé R$ 29, metrô 24h (Jardim Oceânico) e ônibus KMV por 150 pontos — com push/e-mail para a base de resgatadores KMV.",
+          "Ativar o plano anti-fila da pochete no espaço: janelas de distribuição comunicadas, estoque reservado por período e aviso de disponibilidade em painel no local + stories em horários fixos.",
+          "Escalar plantão Quentro/KMV para a tarde (pico de ativação de ingresso): responder os casos do Reclame Aqui com o passo-a-passo oficial da Ticketmaster e monitorar menções de fila na porta de entrada.",
+          "Deixar pronto o 'kit chuva' de sábado/domingo (pochete + leque + capa permitida) para publicar na virada da previsão — primeiro conteúdo da manhã de 5/set.",
+          "Captar hoje o material do dia 1 (Glambot, entrega de brindes, Bar AmPm, ônibus KMV) e publicar pelo menos 1 conteúdo nativo no TikTok da marca ainda durante o evento."
+        ]
+      },
+      "sources": [
+        [
+          "Jovem Pan — Rock in Rio começa nesta sexta (04/09)",
+          "https://jovempan.com.br/entretenimento/musica/com-foo-fighters-capital-inicial-e-the-hives-rock-in-rio-comeca-nesta-sexta-feira/"
+        ],
+        [
+          "Exame — previsão dia a dia do 1º fim de semana",
+          "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-a-primeira-semana-do-festival/"
+        ],
+        [
+          "Promoview — 8 mil horas de experiência de marca",
+          "https://www.promoview.com.br/ativacoes-marcas-rock-in-rio-2026/"
+        ],
+        [
+          "GKPB — brindes das marcas na Cidade do Rock",
+          "https://gkpb.com.br/197332/rock-in-rio-2026-brindes/"
+        ],
+        [
+          "GKPB — estandes e experiências das marcas",
+          "https://gkpb.com.br/197580/rock-in-rio-2026-conheca-os-estandes-e-as-experiencias-oferecidas-pelas-marcas-durante-o-festival/"
+        ],
+        [
+          "ROCKNBOLD — guia prático dos primeiros dias",
+          "https://rocknbold.com/2026/09/rock-in-rio-2026-guia-para-os-primeiros-dias-do-festival/"
+        ],
+        [
+          "Reclame AQUI — ingresso não aparece no Quentro",
+          "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        ],
+        [
+          "Ticketmaster Help — Rock In Rio 2026: Ingresso Digital",
+          "https://help.ticketmaster.com.br/hc/pt-br/articles/49271100986129-Rock-In-Rio-2026-Ingresso-Digital"
+        ],
+        [
+          "Meio & Mensagem — ativações das marcas",
+          "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+        ],
+        [
+          "CNN Brasil — frente fria no 1º fim de semana",
+          "https://www.cnnbrasil.com.br/nacional/sudeste/rj/primeiro-fim-de-semana-do-rock-in-rio-deve-ter-frio-e-chuva-veja-previsao/"
+        ],
+        [
+          "Whiplash — Foo Fighters e horários da madrugada",
+          "https://whiplash.net/materias/news_668/382002-foofighters.html"
+        ],
+        [
+          "Ipiranga — página oficial da campanha",
+          "https://www.ipiranga.com.br/wps/portal/en/ipiranga/a-ipiranga/campanhas-e-acoes/promocoes-e-ofertas/rock-in-rio"
+        ]
+      ],
+      "influencia": {
+        "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+        "updatedFrom": "coleta de 03/09 via perfis logados (Claude para Chrome) — 5 creators do planejamento 2026",
+        "headline": "Nenhum dos 5 creators citou a Ipiranga em publicação sobre o Rock in Rio até agora.",
+        "creators": [
+          {
+            "handle": "@divasuburbana",
+            "nome": "Desirré Andrade",
+            "status": "ativo",
+            "posts": 7,
+            "citouIpiranga": false,
+            "resumo": "Única creator com cobertura contínua do festival. Publica guias de serviço (comida, Comfort Zone, New Dance Order) — formato de alta utilidade, exatamente o território que a marca quer ocupar."
+          },
+          {
+            "handle": "@jeffmattias",
+            "nome": "Jeff Mattias",
+            "status": "1 post",
+            "posts": 1,
+            "citouIpiranga": false,
+            "resumo": "Publicou a chegada ao festival, sem marca citada. Também publicou conteúdo do Lollapalooza/Globo no mesmo período."
+          },
+          {
+            "handle": "@cassialourencogomes",
+            "nome": "Cássia Lourenço",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @bidayaparfums.br, Red Bull e @dominickjoias."
+          },
+          {
+            "handle": "@camilatrianda",
+            "nome": "Camila Trianda",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @fokka e @vestidapelabia."
+          },
+          {
+            "handle": "@vittorfernando",
+            "nome": "Vittor Fernando",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. No período, citou @balenciaga, @ferragamo, @louisvuitton e @piet_org."
+          }
+        ],
+        "posts": [
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Feed",
+            "tema": "Guia de comidas da Cidade do Rock",
+            "likes": 1700,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/p/Dc1El1YoCNN/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "New Dance Order — dica de fluxo/saída",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc05rD8MesR/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "COMEÇOU ♥️ — chegada ao festival",
+            "likes": 5800,
+            "coments": null,
+            "shares": 268,
+            "marcas": [
+              "@rockinrio"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DczYZZbstIh/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Comfort Zone: como e onde é",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "@erijakson",
+            "url": "https://www.instagram.com/reel/DczA1jYK2OM/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "O Rock in Rio está pronto!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dcy6cmMM7Tt/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Adorei essa ideia!!!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/DczhYN6Mjt0/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@jeffmattias",
+            "tipo": "Reel",
+            "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+            "likes": 2642,
+            "coments": 49,
+            "shares": 36,
+            "marcas": [],
+            "collab": "4 perfis",
+            "url": "https://www.instagram.com/p/DczZkUqJa27/"
+          },
+          {
+            "date": "01/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Beats Pink Lemonade confirmada — looks",
+            "likes": 1800,
+            "coments": null,
+            "shares": null,
+            "marcas": [
+              "Beats"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DcxMpKpNTv6/"
+          }
+        ],
+        "alerts": [
+          {
+            "tone": "neg",
+            "t": "🚨 Zero menções à Ipiranga nos creators, na véspera do festival",
+            "s": "Das 8 publicações sobre Rock in Rio mapeadas nos 5 perfis desde 01/09, <b>nenhuma cita ou marca a Ipiranga</b>. As marcas que aparecem nesses posts são <b>@rockinrio</b> e <b>Beats</b>. Se há entregáveis contratados, eles ainda não saíram — e a janela de esquenta acabou."
+          },
+          {
+            "tone": "neg",
+            "t": "🚨 3 dos 5 creators não publicaram nada sobre o festival",
+            "s": "@cassialourencogomes, @camilatrianda e @vittorfernando seguem postando conteúdo de outras marcas (@bidayaparfums.br, Red Bull, @fokka, @balenciaga, @ferragamo, @louisvuitton) sem nenhuma menção ao Rock in Rio. Vale checar hoje se o contrato prevê publicação só durante o evento."
+          },
+          {
+            "tone": "pos",
+            "t": "✅ @divasuburbana é o ativo mais forte — e está no território certo",
+            "s": "7 publicações de cobertura contínua, com o reel de chegada em <b>5,8 mil curtidas e 268 compartilhamentos</b>. O conteúdo dela é guia de serviço (comida, Comfort Zone, fluxo de saída) — o mesmo território de utilidade que a Ipiranga quer ocupar. É a parceira natural para levar o Espaço Ipiranga para dentro de um roteiro de 'o que fazer na Cidade do Rock'."
+          },
+          {
+            "tone": "neg",
+            "t": "⚠️ Concorrente já apareceu na conversa dos creators",
+            "s": "Nos comentários do post de @jeffmattias, uma seguidora relata: <i>\"Acabei de sair de lá, fui pela C&A convidada!\"</i> — a C&A já está convertendo convidados em prova social espontânea enquanto a Ipiranga não aparece nos perfis contratados."
+          }
+        ],
+        "note": "Bloco herdado da coleta de 03/09 (perfis logados via Claude para Chrome). A edição das 9h de 04/09 roda em nuvem, sem acesso ao navegador — a atualização do dia fica a cargo da rotina das 10h (aba Embaixadores); se ela não rodar, valem os dados de 03/09. Métricas em branco são posts cujo contador não estava exposto na leitura do grid. A tag de marcas considera perfis marcados na legenda e marcas nomeadas no texto."
+      }
+    },
     {
       "date": "03/09/2026",
       "dateISO": "2026-09-03",
