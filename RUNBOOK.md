@@ -1,6 +1,14 @@
 # RUNBOOK — Atualização diária do Radar Rock in Rio 2026
 
-Rotina executada todo dia ~9h BRT por uma sessão agendada do Claude. Este arquivo é a referência canônica do processo (sem segredos — o token de escrita vive na configuração da tarefa agendada).
+Três rotinas agendadas mantêm o radar vivo. Este arquivo é a referência canônica do processo (sem segredos — o token de escrita vive na configuração de cada tarefa).
+
+| Horário (BRT) | Tarefa | Escopo | Depende de |
+|---|---|---|---|
+| **9h** | Radar Rock in Rio — atualização da manhã 9h | Cria a edição do dia INTEIRA: `pulse`, `news`, `ipiranga`, `shows` (repercussão completa da véspera), `trends`, `direcionais`, `sources` | só rede |
+| **10h** | Radar Rock in Rio — aba Embaixadores 10h | SÓ o bloco `influencia` | Chrome aberto com a extensão do Claude |
+| **20h** | Radar Rock in Rio — atualização da noite 20h | SÓ `pulse`, `news`, `ipiranga`, `shows`, `trends` — na MESMA edição do dia | só rede |
+
+**Regra de ouro da convivência:** o dia tem **UMA edição só**. A das 9h cria; as das 10h e 20h atualizam blocos dentro dela. Ninguém invade o escopo do outro — a das 20h não mexe em `influencia` nem em `direcionais`; a das 10h não mexe em mais nada além de `influencia`; a das 9h preserva o `influencia` que já estiver na edição do dia ao aplicar a guarda de duplicata.
 
 ## Princípios
 
@@ -9,14 +17,14 @@ Rotina executada todo dia ~9h BRT por uma sessão agendada do Claude. Este arqui
 - **Nada de número inventado:** todo dado tem fonte + link + data. Trends sem dado quantitativo confiável = leitura editorial, com a nota `trends.note` dizendo isso.
 - **Tom:** PT-BR, direto, tático (uso interno de agência). Direcionais falam de experiência/jornada da marca, nunca de mérito musical do line-up.
 
-## Passos
+## Passos (rotina da manhã, 9h)
 
 1. **Baixar o `data.js` atual** (traz também o `sha` p/ o update). O branch publicado pelo GitHub Pages é **`gh-pages`** — todo o fluxo diário acontece nele:
    `GET https://api.github.com/repos/igormutato/radar-rock-in-rio/contents/data.js?ref=gh-pages` (Authorization: Bearer TOKEN; campo `content` em base64). No sandbox do Claude, usar `curl --noproxy '*'` — o proxy da sessão bloqueia chamadas a repos não vinculados.
 2. **Pesquisar o dia** (WebSearch/WebFetch):
    - Notícias das últimas 24h sobre o festival (imprensa musical + trade de marketing) e sobre Ipiranga/patrocinadores no RiR.
    - **Durante o festival (4–7 e 11–13/set):** repercussão da noite anterior — melhores shows, momentos virais, críticas (g1, Rolling Stone, Terra, Billboard, Splash/UOL, Popline) → preencher `shows.reperc`.
-   - Trends: trending topics do X, hashtags/vídeos TikTok e Instagram, sons em alta (buscas + páginas públicas de discover; só citar números com fonte).
+   - Trends: ver a seção "Aba Trends" abaixo (apenas Google Trends BR e páginas de hashtag do TikTok).
 3. **Montar a nova edição** copiando o formato da edição anterior (`pulse`, `news`, `ipiranga`, `shows`, `trends`, `direcionais`, `sources`). Direcionais: 3–5 direcionais + 3–5 acionáveis derivados das outras abas, sempre novos (não repetir o dia anterior sem motivo).
 4. **Atualizar `meta`:** `version` +1, `updatedAt`, `updatedISO`.
 5. **Corrigir `schedule`** apenas se a organização anunciou mudança de grade (com fonte).
@@ -41,13 +49,22 @@ Regras: nenhum número estimado; se uma fonte falhar, publicar a coluna com `sta
 
 ## Edição duplicada (guarda)
 
-Antes de inserir a nova edição, se `editions[0].dateISO` já for a data de hoje (ex.: edição feita manualmente mais cedo), SUBSTITUIR essa edição pela nova (mesclando o que a manual tiver de melhor — em especial o bloco `youscan`) em vez de criar duplicata do mesmo dia.
+Antes de inserir a nova edição, se `editions[0].dateISO` já for a data de hoje, SUBSTITUIR essa edição pela nova **preservando o bloco `influencia`** que já estiver lá (é da rotina das 10h) em vez de criar duplicata do mesmo dia.
+
+## Rotina da noite (20h)
+
+Atualiza a edição do dia já existente. Foco: **o que mudou desde a manhã**.
+- `news` / `ipiranga`: matérias publicadas hoje; movimentos da marca e dos outros patrocinadores.
+- `shows`: em dia de festival, `shows.status` recebe o que já aconteceu na tarde/início da noite (portões, filas, incidentes, clima, primeiros shows). A repercussão completa da noite fica para a edição das 9h do dia seguinte.
+- `trends`: mesma metodologia da manhã, com a graça de **comparar o volume da hashtag com o medido de manhã** para mostrar a curva do dia (ex.: "5,7 mi → 6,3 mi em 12h"). À noite a chance de o festival entrar no Google Trends é maior.
+- `pulse`: reescrito com a leitura da noite; o primeiro item deixa explícito que é a edição da noite.
+- Se a edição do dia não existir (a rotina das 9h falhou), a das 20h cria a edição completa, incluindo `direcionais`, e registra no `trends.note` que a manhã não rodou.
 
 ## Calendário
 
 - Até 3/set: fase pré-evento (esquenta, logística, expectativa).
 - 4–13/set: fase festival (repercussão da véspera é o item mais importante do dia; 8–10/set são dias "entre semanas", com repercussão acumulada e prévia da semana 2).
-- Após 13/set: edições de balanço. Em ~15/set, fazer a edição final (balanço geral + aprendizados p/ Ipiranga) e desativar a tarefa agendada (`list_triggers` → `update_trigger enabled:false` na task "Radar Rock in Rio — atualização diária 9h").
+- Após 13/set: edições de balanço. Em ~15/set, fazer a edição final (balanço geral + aprendizados p/ Ipiranga) e desativar **as três** tarefas (`list_triggers` → `update_trigger enabled:false` em "atualização da manhã 9h", "aba Embaixadores 10h" e "atualização da noite 20h").
 
 ## Abas do radar (estado em 03/09/2026)
 
@@ -72,5 +89,6 @@ Coleta via Claude para Chrome (os perfis bloqueiam fetch automatizado). Navegado
 |---|---|---|
 | 9h — edição do dia | só rede (WebSearch/WebFetch + API do GitHub) | roda sempre |
 | 10h — Embaixadores | Chrome aberto na máquina do usuário com a extensão do Claude conectada | modo degradado: não publica, avisa o usuário |
+| 20h — atualização da noite | só rede | roda sempre |
 
 Se o usuário trocar de máquina/navegador, atualizar o deviceId no prompt da tarefa das 10h (`update_trigger`) — mas atenção: tarefa vinculada a computador só aceita novo prompt com aprovação do usuário naquela máquina.
