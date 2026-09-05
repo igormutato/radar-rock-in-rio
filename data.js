@@ -14,9 +14,9 @@
    ===================================================================== */
 window.RADAR = {
   "meta": {
-    "version": 19,
-    "updatedAt": "04/09/2026, 20h25 (BRT)",
-    "updatedISO": "2026-09-04",
+    "version": 20,
+    "updatedAt": "05/09/2026, 09h35 (BRT)",
+    "updatedISO": "2026-09-05",
     "nextUpdate": "diária, ~9h (BRT)",
     "festivalStart": "2026-09-04",
     "festivalDays": [
@@ -800,6 +800,510 @@ window.RADAR = {
     }
   ],
   "editions": [
+    {
+      "date": "05/09/2026",
+      "dateISO": "2026-09-05",
+      "weekday": "sábado",
+      "edition": 13,
+      "phase": "festival — dia 2 (noite do metal)",
+      "pulse": [
+        "🏆 <b>A 1ª noite terminou consagrada:</b> Foo Fighters fechou ~2h de show para ~100 mil pessoas ('All My Life' → 'Everlong'), com Dave Grohl emocionado ao dedicar 'Aurora' a Taylor Hawkins — e o Capital Inicial, com Dado Villa-Lobos, fez 'o maior show da carreira' no Sunset com tributo a Renato Russo. Repercussão completa na aba Shows.",
+        "🌧️ <b>Hoje o tempo vira:</b> 85% de chance de chuva (7,2 mm, 20–23°C) na noite do metal — Sepultura (16h40, despedida), MGK (19h), Bring Me The Horizon (21h20) e Avenged Sevenfold (00h05). É A janela do 'kit chuva' (pochete + leque + capa permitida): publicar de manhã, antes de o público sair de casa.",
+        "🎁 <b>Fila por brinde virou pauta de imprensa no dia 1:</b> esperas de 1h+ e minicâmeras (iFood, C&A, DHL, Estácio, AXIA) como item mais desejado da Cidade do Rock. A operação da pochete sob chuva é o teste operacional do dia — e a customização com pins, o diferencial a comunicar."
+      ],
+      "news": [
+        {
+          "t": "Foo Fighters fecha a 1ª noite com ~2h de show, 'Aurora' para Taylor Hawkins e 'Exhausted' inédita no Brasil",
+          "src": "Estadão (via Rádios Farcom) / Rock On Board",
+          "when": "05/09, madrugada",
+          "s": "Diante de ~100 mil pessoas, Grohl (57) abriu com 'All My Life' e fechou com 'Everlong', em boa forma vocal. Dedicatória de 'Aurora' a Taylor Hawkins emocionou; 'Marigold' veio com a história de ter sido composta 'baixinho para não acordar Kurt Cobain'; o baterista Ilan Rubin saiu elogiado. Rock On Board: 'prova por que é a melhor banda de rock do mundo'.",
+          "u": "https://www.formoso104fm.com.br/foo-fighters-alterna-peso-e-baladas-ao-fechar-1a-noite-de-rock-in-rio-com-dave-grohl-em-boa-forma/"
+        },
+        {
+          "t": "Capital Inicial faz 'o maior show da carreira' no Sunset, com Dado Villa-Lobos e tributo a Renato Russo",
+          "src": "Rock On Board / Teoria Cultural",
+          "when": "05/09",
+          "s": "Primeira vez de uma banda brasileira como headliner do Sunset no dia de abertura: 'Será', 'Geração Coca-Cola', 'Que País É Este' e 'Tempo Perdido' com Dado de Telecaster. Em 'Primeiros Erros', Dinho deixou o público cantar sozinho — 'uma das cenas mais memoráveis da história recente do Capital'.",
+          "u": "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
+        },
+        {
+          "t": "Filas de mais de 1 hora por brindes marcam o dia 1 — minicâmeras são o item mais disputado",
+          "src": "NC News",
+          "when": "04/09, 19h57",
+          "s": "Com 100+ ativações e ~1 milhão de brindes previstos, a 'caça ao tesouro' paralela aos palcos gerou esperas de 1h+ já na abertura. Minicâmeras digitais (iFood, C&A, DHL, Estácio, AXIA) lideram o desejo; leques, bolsas, caixas de som e pins completam a lista. Público declarou 'sacrificar mais de uma hora na fila' pelo item exclusivo.",
+          "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
+        },
+        {
+          "t": "Hoje é a noite do metal: despedida do Sepultura divide fãs por setlist só da era Derrick Green",
+          "src": "Pipoca Moderna",
+          "when": "05/09",
+          "s": "Sepultura abre o Palco Mundo (16h40) na última apresentação da banda no festival antes do fim definitivo (7/nov, Pacaembu) — mas o repertório só da fase Derrick Green (sem 'Roots Bloody Roots' e 'Arise') já divide fãs nas redes. Bring Me The Horizon estreia (21h20) após lotar o Allianz em 2024; Avenged Sevenfold fecha (00h05).",
+          "u": "https://pipocamoderna.com.br/2026/09/rock-in-rio-dia-metal/"
+        },
+        {
+          "t": "Previsão: chuva em 85% do sábado (7,2 mm) e domingo ainda pior, com rajadas de 50 km/h",
+          "src": "Super Rádio Tupi (Climatempo)",
+          "when": "atual. 01/09",
+          "s": "Sábado de 20–23°C com chuva rápida de dia e à noite (85% de chance); domingo cai para 16–19°C com 16,8 mm, chuva o dia todo e rajadas de até 50 km/h. Guarda-chuva segue proibido na Cidade do Rock — capa de chuva liberada. Logística de gramado e brindes muda com o piso molhado.",
+          "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+        }
+      ],
+      "ipiranga": [
+        {
+          "t": "A chuva de hoje é a primeira chance real de o brinde virar utilidade — e a janela é esta manhã",
+          "src": "Super Rádio Tupi (previsão) + leitura da varredura",
+          "when": "05/09",
+          "s": "Com 85% de chance de chuva e guarda-chuva proibido, pochete + leque + capa viram o 'kit oficial' da Cidade do Rock — o conteúdo funcional que a marca vinha guardando encontra a pauta do dia. Publicar antes de o público sair de casa maximiza o serviço (e o crédito da marca).",
+          "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+        },
+        {
+          "t": "Fila por brinde já é manchete — a operação da pochete sob chuva é o teste do dia 2",
+          "src": "NC News",
+          "when": "04/09, 19h57",
+          "s": "A imprensa registrou 1h+ de espera por brindes no dia 1, sem citar marcas negativamente — por enquanto é pauta de comportamento, não de crise. Chuva encurta a paciência de fila: janelas de distribuição comunicadas, estoque por período e fila coberta evitam que a pochete estrele a matéria de amanhã.",
+          "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
+        },
+        {
+          "t": "Na guerra do desejo, a minicâmera (iFood, C&A, DHL, Estácio, AXIA) está na frente",
+          "src": "NC News / propmark",
+          "when": "04–05/09",
+          "s": "O brinde mais disputado do dia 1 foi a minicâmera digital, distribuída por cinco marcas — nenhuma delas a Ipiranga. A pochete briga em outra chave: customização com pins no espaço (colecionável + experiência). É essa narrativa que precisa aparecer no UGC, não só o item em si.",
+          "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        },
+        {
+          "t": "D-2 para os 89 anos: dia 7 esgotado, Elton John às 23h — cronograma novo precisa estar travado",
+          "src": "NDMais / Cenário MT",
+          "when": "atual. 04/09",
+          "s": "O dia mais importante da marca no festival chega com casa cheia garantida e grade antecipada (Gilberto Gil 20h30, Elton 23h, madrugada com Fatboy Slim na NDO). Convidados, momento 'parabéns' e janelas de ativação do espaço precisam estar fechados até domingo — e a contagem regressiva pode começar hoje nos canais.",
+          "u": "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
+        },
+        {
+          "t": "Quentro/KMV: caso do 'ingresso sumido' segue aberto no Reclame Aqui na virada do fim de semana",
+          "src": "Reclame AQUI",
+          "when": "03–05/09",
+          "s": "Sem resposta pública consolidada da Ticketmaster, as reclamações de ingresso que não aparece no app chegam ao 2º dia de shows. Com sábado e domingo de ativação em massa (e chuva), plantão visível e passo-a-passo oficial circulando seguem protegendo o case dos 600 ingressos KMV.",
+          "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        }
+      ],
+      "shows": {
+        "status": "Dia 2 — noite do metal, com 85% de chance de chuva: Sepultura (16h40, despedida do festival), MGK (19h), Bring Me The Horizon (21h20, estreia) e Avenged Sevenfold (00h05) no Palco Mundo; Sunset com Black Pantera + Nervosa (17h50), Poppy (20h10) e Bad Omens (22h50). Transmissão: Multishow, Bis e Globoplay desde 15h15. A repercussão da noite entra na edição de amanhã.",
+        "reperc": [
+          {
+            "date": "4/set (1ª noite)",
+            "headline": "Foo Fighters emociona com 'Aurora', Capital Inicial faz show histórico e The Hives rouba a cena",
+            "artists": [
+              {
+                "name": "Foo Fighters (Palco Mundo, 00h05)",
+                "verdict": "Quase 2h para ~100 mil pessoas, de 'All My Life' a 'Everlong'. O ponto alto foi 'Aurora' dedicada a Taylor Hawkins, com Grohl visivelmente emocionado; 'Marigold' veio com a história de ter sido composta 'baixinho para não acordar Kurt Cobain', e 'Exhausted' foi tocada pela 1ª vez no Brasil. Ilan Rubin (batera) saiu elogiado como acerto. Veredicto do Rock On Board: 'prova por que é a melhor banda de rock do mundo' — com ressalva para trechos mornos ('Stacked Actors', 'Window') e zero improvisos.",
+                "links": [
+                  [
+                    "Rock On Board",
+                    "https://www.rockonboard.com.br/2026/09/foo-fighters-prova-em-quase-duas-horas.html"
+                  ],
+                  [
+                    "Estadão (via Rádios Farcom)",
+                    "https://www.formoso104fm.com.br/foo-fighters-alterna-peso-e-baladas-ao-fechar-1a-noite-de-rock-in-rio-com-dave-grohl-em-boa-forma/"
+                  ],
+                  [
+                    "Portal Democrata",
+                    "https://portaldemocrata.com.br/2026/09/05/foo-fighters-abre-rock-in-rio-com-all-my-life-e-emociona-fas-saiba-os-detalhes/"
+                  ]
+                ]
+              },
+              {
+                "name": "Capital Inicial + Dado Villa-Lobos (Sunset, 22h45)",
+                "verdict": "Tratado como 'o maior show da carreira': estreia de banda brasileira como headliner do Sunset na abertura virou tributo à Legião, com Dado de Telecaster em 'Será', 'Geração Coca-Cola', 'Que País É Este' e 'Tempo Perdido'. Em 'Primeiros Erros', Dinho deixou a plateia lotada cantar sozinha — 'uma das cenas mais memoráveis da história recente do Capital'.",
+                "links": [
+                  [
+                    "Rock On Board",
+                    "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
+                  ],
+                  [
+                    "Teoria Cultural",
+                    "https://www.teoriacultural.com.br/post/capital-inicial-estreia-como-headliner-do-palco-sunset-no-rock-in-rio-com-tributo-a-renato-russo"
+                  ]
+                ]
+              },
+              {
+                "name": "The Hives (Palco Mundo, 19h)",
+                "verdict": "O furacão da noite: primeiros moshpits do festival em 'Come On!', 'empolga nos mínimos detalhes' e equilibrou a nostalgia dos anos 2000 com o público novo que chegou via TikTok — na estreia da banda no festival.",
+                "links": [
+                  [
+                    "Igor Miranda",
+                    "https://igormiranda.com.br/2026/09/the-hives-resenha-rock-in-rio/"
+                  ]
+                ]
+              },
+              {
+                "name": "Rise Against (Palco Mundo, 21h20)",
+                "verdict": "Show 'correto e competente' na estreia, mas pagou o preço de vir depois do The Hives: sem aparato cênico, plateia morna na maior parte do set — só levantou de vez na reta final, com sinalizadores e rodas de mosh em 'Prayer of the Refugee' e 'Savior'.",
+                "links": [
+                  [
+                    "Rock On Board",
+                    "https://www.rockonboard.com.br/2026/09/rise-against-faz-show-correto-no-palco.html"
+                  ]
+                ]
+              },
+              {
+                "name": "Nova Twins (Palco Mundo, 16h40)",
+                "verdict": "Abriu o Palco Mundo com o gramado ainda enchendo e saiu como 'a coisa mais rock do dia', com o baixo usado 'como instrumento de guerra'.",
+                "links": [
+                  [
+                    "Igor Miranda / Rock On Board",
+                    "https://igormiranda.com.br/2026/09/the-hives-resenha-rock-in-rio/"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "trends": {
+        "viral": [
+          {
+            "t": "'Aurora' para Taylor Hawkins é o momento mais compartilhado da madrugada",
+            "src": "Rock On Board / Estadão (via Farcom) / Portal Democrata",
+            "metric": "resenhas + UGC da madrugada",
+            "s": "A dedicatória de Grohl ao baterista morto em 2022 dominou as resenhas publicadas ainda de madrugada e concentra a primeira leva de vídeos do festival. É o pico emocional que define a narrativa do dia 1 — e o tipo de conteúdo que segue rendendo o dia inteiro.",
+            "u": "https://portaldemocrata.com.br/2026/09/05/foo-fighters-abre-rock-in-rio-com-all-my-life-e-emociona-fas-saiba-os-detalhes/"
+          },
+          {
+            "t": "O coro de 'Primeiros Erros' sem Dinho: a cena brasileira da noite",
+            "src": "Rock On Board / Teoria Cultural",
+            "metric": "resenhas da noite",
+            "s": "O momento em que Dinho parou de cantar e a plateia lotada do Sunset assumiu 'Primeiros Erros' foi descrito como 'uma das cenas mais memoráveis da história recente do Capital' — material clássico de corte viral no dia seguinte.",
+            "u": "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
+          },
+          {
+            "t": "Setlist da despedida do Sepultura já divide fãs antes do show",
+            "src": "Pipoca Moderna",
+            "metric": "conversa nas redes (reportada)",
+            "s": "A banda toca hoje só repertório da era Derrick Green — sem 'Roots Bloody Roots' e 'Arise' — e a imprensa registra 'divisão entre fãs nas redes'. É a polêmica pré-fabricada do dia 2: a conversa do público do metal já começou antes dos portões.",
+            "u": "https://pipocamoderna.com.br/2026/09/rock-in-rio-dia-metal/"
+          },
+          {
+            "t": "Fila de 1h+ por brinde vira pauta — e toca a marca em cheio",
+            "src": "NC News",
+            "metric": "manchete + UGC de fila",
+            "s": "A 'caça ao tesouro' de brindes gerou as primeiras matérias de fila do festival, com a minicâmera como troféu. Com chuva hoje, fila descoberta vira reclamação em vídeo. A pochete da Ipiranga joga nesse mesmo campo: operação e comunicação de disponibilidade valem mais do que o item.",
+            "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
+          },
+          {
+            "t": "Chuva de 85% no dia do metal: o assunto de serviço da manhã",
+            "src": "Super Rádio Tupi (Climatempo)",
+            "metric": "pauta de utilidade do dia",
+            "s": "Kit chuva, o que pode entrar (capa sim, guarda-chuva não) e como chegar sob água são as buscas naturais da manhã. Janela aberta para a marca ocupar com pochete + leque + capa antes de o público sair de casa.",
+            "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+          }
+        ],
+        "sources": [
+          {
+            "id": "google",
+            "icon": "🔍",
+            "name": "Google Trends · Brasil",
+            "status": "off",
+            "statusLabel": "coleta indisponível hoje",
+            "items": [],
+            "note": "O feed RSS (trends.google.com/trending/rss?geo=BR) seguiu bloqueado na execução desta manhã — 3ª rodada seguida em que a sessão automática não consegue a aprovação de acesso ao domínio. A madrugada pós-Foo Fighters era forte candidata a emplacar termos do festival no ranking; fica sem medição. Coleta será tentada de novo às 20h."
+          },
+          {
+            "id": "tiktok",
+            "icon": "🎵",
+            "name": "TikTok · hashtags",
+            "status": "off",
+            "statusLabel": "coleta indisponível hoje",
+            "items": [],
+            "note": "A página pública da hashtag #rockinrio seguiu bloqueada pelo mesmo motivo. Última medição confiável: 5,7 mi de views em 03/09 — o salto do fim de semana de abertura ainda não pôde ser registrado."
+          }
+        ],
+        "note": "Coleta quantitativa (Google Trends RSS + hashtag do TikTok) segue bloqueada na sessão automática por aprovação de acesso não concedida — 3º dia. O bloco viral desta edição é leitura editorial da imprensa da noite/madrugada, com fonte e link em todo item. Nenhum número estimado."
+      },
+      "direcionais": {
+        "leitura": "A 1ª noite entregou a narrativa que o festival queria — Grohl chorando em 'Aurora', Capital fazendo história no Sunset — e a imprensa já encontrou a pauta de operação: fila de 1h+ por brinde, com a minicâmera (de 5 marcas concorrentes) como troféu. Hoje o jogo muda duas vezes: a chuva de 85% transforma o kit da marca (pochete + leque + capa) em utilidade real pela primeira vez, e o público do metal — mais fiel, menos sensível a chuva — testa a operação do espaço sob água. No horizonte imediato: domingo piora (16,8 mm, rajadas de 50 km/h) e o dia 7, o dos 89 anos, esgotado e com grade antecipada, está a 48h.",
+        "dirs": [
+          {
+            "t": "Publicar o 'kit chuva' agora — a utilidade da marca virou a pauta do dia",
+            "s": "85% de chance de chuva, guarda-chuva proibido, capa liberada: é a primeira manhã em que pochete + leque + capa respondem diretamente à dúvida do público. Quem ocupar a pauta de serviço da manhã leva o crédito — e a marca vinha guardando exatamente esse conteúdo desde a virada da previsão."
+          },
+          {
+            "t": "Fila é a nova métrica de imprensa — a pochete não pode estrelar a matéria de amanhã",
+            "s": "O dia 1 rendeu manchete de 1h+ de espera por brindes, ainda sem vilão nomeado. Chuva encurta paciência e transforma fila descoberta em vídeo de reclamação. Janelas de distribuição comunicadas, estoque por período e fila coberta são a diferença entre 'brinde desejado' e 'fila da Ipiranga na chuva'."
+          },
+          {
+            "t": "A minicâmera está vencendo a guerra do desejo — vender a customização, não o item",
+            "s": "Cinco marcas distribuem o brinde mais cobiçado do festival; a pochete briga em outra chave. O diferencial real — customizar com pins no espaço, colecionável + experiência — é o que precisa aparecer no UGC. Sem essa narrativa, a pochete é só mais um item na lista; com ela, é a única que o público 'monta'."
+          },
+          {
+            "t": "Público do metal, espaço como refúgio: o posicionamento do dia é abrigo e jornada",
+            "s": "O dia 2 traz o público mais fiel do festival, menos sensível a chuva mas mais avesso a 'publicidade vazia'. O espaço funciona hoje como refúgio seco (Bar AmPm, Glambot, customização) e ponto de recarga entre Sepultura (16h40) e Avenged (00h05) — a marca fala de experiência e jornada, nunca do mérito do line-up ou da polêmica do setlist."
+          },
+          {
+            "t": "D-2 para os 89 anos: travar o roteiro do dia 7 até domingo à noite",
+            "s": "Casa cheia garantida (esgotado), Elton John às 23h e madrugada por conta da NDO: o momento 'parabéns', os convidados e as janelas de ativação precisam estar fechados até domingo — e a contagem regressiva pública pode começar hoje, aproveitando que a marca tem o único 'aniversário' do festival."
+          }
+        ],
+        "acion": [
+          "Publicar nesta manhã, antes de o público sair de casa, o 'kit chuva Cidade do Rock' (pochete + leque + capa permitida + lembrete de que guarda-chuva é proibido) nos canais da marca, com push/e-mail para a base KMV com ingresso para hoje.",
+          "Ativar o plano anti-fila da pochete adaptado à chuva: fila coberta ou remanejada, janelas de distribuição comunicadas em painel no espaço + stories em horários fixos, e aviso imediato quando o estoque do período acabar.",
+          "Instruir a equipe do espaço a capturar hoje o material 'refúgio na chuva' (Bar AmPm cheio, customização de pins, pochete no corpo sob capa) e publicar pelo menos 1 conteúdo nativo no TikTok da marca ainda durante o evento — canal parado desde 25/08.",
+          "Reforçar o plantão Quentro/KMV no fim da tarde (pico de ativação do dia 2) e responder publicamente os casos do Reclame Aqui com o passo-a-passo oficial da Ticketmaster.",
+          "Fechar até domingo o roteiro dos 89 anos (7/set): momento 'parabéns' na grade antecipada (Elton 23h), convidados confirmados e conteúdo de contagem regressiva D-1 agendado para amanhã."
+        ]
+      },
+      "sources": [
+        [
+          "Rock On Board — resenha Foo Fighters",
+          "https://www.rockonboard.com.br/2026/09/foo-fighters-prova-em-quase-duas-horas.html"
+        ],
+        [
+          "Rock On Board — resenha Capital Inicial + Dado",
+          "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
+        ],
+        [
+          "Rock On Board — resenha Rise Against",
+          "https://www.rockonboard.com.br/2026/09/rise-against-faz-show-correto-no-palco.html"
+        ],
+        [
+          "Estadão (via Rádios Farcom) — Foo Fighters fecha a 1ª noite",
+          "https://www.formoso104fm.com.br/foo-fighters-alterna-peso-e-baladas-ao-fechar-1a-noite-de-rock-in-rio-com-dave-grohl-em-boa-forma/"
+        ],
+        [
+          "Portal Democrata — Foo Fighters emociona fãs",
+          "https://portaldemocrata.com.br/2026/09/05/foo-fighters-abre-rock-in-rio-com-all-my-life-e-emociona-fas-saiba-os-detalhes/"
+        ],
+        [
+          "Teoria Cultural — Capital headliner do Sunset",
+          "https://www.teoriacultural.com.br/post/capital-inicial-estreia-como-headliner-do-palco-sunset-no-rock-in-rio-com-tributo-a-renato-russo"
+        ],
+        [
+          "Igor Miranda — resenha The Hives / Nova Twins",
+          "https://igormiranda.com.br/2026/09/the-hives-resenha-rock-in-rio/"
+        ],
+        [
+          "NC News — filas de 1h+ por brindes",
+          "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
+        ],
+        [
+          "Pipoca Moderna — dia do metal e despedida do Sepultura",
+          "https://pipocamoderna.com.br/2026/09/rock-in-rio-dia-metal/"
+        ],
+        [
+          "Super Rádio Tupi — previsão do 1º fim de semana",
+          "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+        ],
+        [
+          "propmark — brindes dos patrocinadores",
+          "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+        ],
+        [
+          "NDMais — grade nova do dia 7 (Elton John 23h)",
+          "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
+        ],
+        [
+          "Reclame AQUI — ingresso não aparece no Quentro",
+          "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+        ]
+      ],
+      "influencia": {
+        "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+        "updatedFrom": "coleta de 04/09 às 10h25 via perfis logados (Claude para Chrome)",
+        "headline": "Dia de abertura: @divasuburbana estreou o 1º #publi da janela — para iFood + Itaú. Ipiranga segue sem citação de nenhum dos 5 creators.",
+        "creators": [
+          {
+            "handle": "@divasuburbana",
+            "nome": "Desirré Andrade",
+            "status": "ativo",
+            "posts": 9,
+            "citouIpiranga": false,
+            "resumo": "9 publicações desde 01/09 e cobertura em ritmo diário. Estreou #publi no festival — minicâmera iFood + Itaú, já o post mais engajado da cobertura dela (6,9 mil curtidas em 13h). Segue sem citar a Ipiranga."
+          },
+          {
+            "handle": "@jeffmattias",
+            "nome": "Jeff Mattias",
+            "status": "1 post",
+            "posts": 1,
+            "citouIpiranga": false,
+            "resumo": "Sem conteúdo novo de RiR desde a chegada (02/09), que segue crescendo (2,8 mil curtidas). No período publicou outros temas (apartamento novo, Lollapalooza/Globo, reacts)."
+          },
+          {
+            "handle": "@cassialourencogomes",
+            "nome": "Cássia Lourenço",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR até a manhã de 04/09. Segue com conteúdo de outras marcas (@bidayaparfums.br, Red Bull, @dominickjoias)."
+          },
+          {
+            "handle": "@camilatrianda",
+            "nome": "Camila Trianda",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR até a manhã de 04/09. Foco no podcast (collabs com @podquase1casal) e em marcas de moda (@fokka, @vestidapelabia)."
+          },
+          {
+            "handle": "@vittorfernando",
+            "nome": "Vittor Fernando",
+            "status": "silencioso",
+            "posts": 0,
+            "citouIpiranga": false,
+            "resumo": "Nenhuma publicação sobre RiR. Está em Londres cobrindo o fim da turnê da Ariana Grande (vlog com @todateen) e hotéis (@theguardsmanhotel, @middle_eight_hotel)."
+          }
+        ],
+        "posts": [
+          {
+            "date": "04/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+            "likes": 480,
+            "coments": 38,
+            "shares": 12,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc2joYatVSs/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Brinde minicâmera iFood + Itaú (#publi #iFoodNoRockinRio2026)",
+            "likes": 6870,
+            "coments": 130,
+            "shares": 79,
+            "marcas": [
+              "@ifoodbrasil",
+              "@itau"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dc1_yvRMfbT/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Feed",
+            "tema": "Guia de comidas da Cidade do Rock",
+            "likes": 2100,
+            "coments": 66,
+            "shares": 51,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/p/Dc1El1YoCNN/"
+          },
+          {
+            "date": "03/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "New Dance Order — dica de fluxo/saída",
+            "likes": 809,
+            "coments": 45,
+            "shares": 14,
+            "marcas": [],
+            "collab": "2 perfis",
+            "url": "https://www.instagram.com/reel/Dc05rD8MesR/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "COMEÇOU ♥️ — chegada ao festival",
+            "likes": 5800,
+            "coments": null,
+            "shares": 268,
+            "marcas": [
+              "@rockinrio"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DczYZZbstIh/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Comfort Zone: como e onde é",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "@erijakson",
+            "url": "https://www.instagram.com/reel/DczA1jYK2OM/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "O Rock in Rio está pronto!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/Dcy6cmMM7Tt/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Adorei essa ideia!!!",
+            "likes": null,
+            "coments": null,
+            "shares": null,
+            "marcas": [],
+            "collab": "",
+            "url": "https://www.instagram.com/reel/DczhYN6Mjt0/"
+          },
+          {
+            "date": "02/09",
+            "handle": "@jeffmattias",
+            "tipo": "Reel",
+            "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+            "likes": 2843,
+            "coments": 49,
+            "shares": 37,
+            "marcas": [],
+            "collab": "4 perfis",
+            "url": "https://www.instagram.com/p/DczZkUqJa27/"
+          },
+          {
+            "date": "01/09",
+            "handle": "@divasuburbana",
+            "tipo": "Reel",
+            "tema": "Beats Pink Lemonade confirmada — looks",
+            "likes": 1800,
+            "coments": null,
+            "shares": null,
+            "marcas": [
+              "Beats"
+            ],
+            "collab": "",
+            "url": "https://www.instagram.com/p/DcxMpKpNTv6/"
+          }
+        ],
+        "alerts": [
+          {
+            "tone": "neg",
+            "t": "🚨 O 1º #publi da janela saiu — e não é Ipiranga",
+            "s": "@divasuburbana publicou ontem à noite o reel patrocinado da minicâmera <b>iFood + Itaú</b> — em 13h virou o post mais engajado da cobertura dela (<b>6,9 mil curtidas, 130 comentários, 79 shares</b>). O território de brinde/ativação na Cidade do Rock está sendo ocupado por outras marcas dentro do perfil da nossa creator mais forte."
+          },
+          {
+            "tone": "neg",
+            "t": "🚨 Festival abre hoje com zero menções à Ipiranga",
+            "s": "Das <b>10 publicações</b> sobre RiR mapeadas nos 5 perfis desde 01/09 (2 novas desde ontem), nenhuma cita a marca. @cassialourencogomes e @camilatrianda seguem silenciosas, e @vittorfernando está em <b>Londres</b> cobrindo a turnê da Ariana Grande — vale confirmar hoje o cronograma de entregas contratadas para os dias de evento."
+          },
+          {
+            "tone": "pos",
+            "t": "✅ Conteúdo de serviço da @divasuburbana segue performando",
+            "s": "O guia de comidas subiu de 1,7 mil para <b>2,1 mil curtidas</b> em um dia (66 comentários, 51 shares) e o reel de dicas de véspera fez 480 curtidas em 8h. É o formato ideal para encaixar o Espaço Ipiranga num roteiro de 'o que fazer na Cidade do Rock' ainda nesta 1ª semana."
+          },
+          {
+            "tone": "neg",
+            "t": "⚠️ @jeffmattias parado desde a chegada — e com C&A na conversa",
+            "s": "O post de 02/09 cresceu para <b>2,8 mil curtidas</b>, mas ele não publicou mais nada de RiR; o comentário espontâneo de convidada da <b>C&A</b> segue visível no post. Hoje é o dia 1 de shows: janela boa para acionar entregas de cobertura."
+          }
+        ],
+        "note": "Coleta parcial de 04/09: a conexão com o navegador caiu no fim da rodada — os 5 perfis e os posts novos/principais foram relidos hoje, mas as métricas de 4 posts de 02/09 e do post Beats (01/09) são as da leitura de 03/09. Métricas em branco: contador não exposto. Marcas: perfis marcados na legenda + marcas nomeadas no texto."
+      }
+    },
     {
       "date": "04/09/2026",
       "dateISO": "2026-09-04",
