@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 21,
-  "updatedAt": "05/09/2026, 14h45 (BRT)",
+  "version": 22,
+  "updatedAt": "05/09/2026, 20h20 (BRT)",
   "updatedISO": "2026-09-05",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,86 +793,93 @@ window.RADAR = {
    "edition": 13,
    "phase": "festival — dia 2 (noite do metal)",
    "pulse": [
-    "🏆 <b>A 1ª noite terminou consagrada:</b> Foo Fighters fechou ~2h de show para ~100 mil pessoas ('All My Life' → 'Everlong'), com Dave Grohl emocionado ao dedicar 'Aurora' a Taylor Hawkins — e o Capital Inicial, com Dado Villa-Lobos, fez 'o maior show da carreira' no Sunset com tributo a Renato Russo. Repercussão completa na aba Shows.",
-    "🌧️ <b>Hoje o tempo vira:</b> 85% de chance de chuva (7,2 mm, 20–23°C) na noite do metal — Sepultura (16h40, despedida), MGK (19h), Bring Me The Horizon (21h20) e Avenged Sevenfold (00h05). É A janela do 'kit chuva' (pochete + leque + capa permitida): publicar de manhã, antes de o público sair de casa.",
-    "🎁 <b>Fila por brinde virou pauta de imprensa no dia 1:</b> esperas de 1h+ e minicâmeras (iFood, C&A, DHL, Estácio, AXIA) como item mais desejado da Cidade do Rock. A operação da pochete sob chuva é o teste operacional do dia — e a customização com pins, o diferencial a comunicar."
+    "🌙 <b>Edição da noite (20h):</b> a chuva prevista chegou junto com a frente fria — o Sepultura fez a despedida do festival sob chuva forte, com setlist 100% da era Derrick Green (sem 'Roots Bloody Roots', como a polêmica da manhã antecipava), e o público do metal respondeu: no Black Pantera + Nervosa, 'a água virou combustível' para rodas de mosh por quase todo o gramado. MGK (19h), Bring Me The Horizon (21h20) e Avenged Sevenfold (00h05) fecham a noite — repercussão completa na edição de amanhã.",
+    "⚠️ <b>O tempo virou pauta de operação para o fim de semana inteiro:</b> Alerta Rio coloca o pior da frente fria entre a tarde de hoje e a manhã de domingo; domingo tem chuva o dia todo e rajadas de até 85 km/h, com o COR orientando evitar áreas abertas e estruturas metálicas — e segunda (7/set, o dia dos 89 anos da Ipiranga) segue instável. Fila coberta, ancoragem de estruturas e plano B para o 'parabéns' entram no radar já.",
+    "🎁 <b>A tese do 'kit chuva' se confirmou no campo:</b> o público chegou de capa na mão desde o começo da tarde (o tempo fechou ~12h30), o metrô/BRT operou sem retenções e a imprensa do dia não citou nenhuma marca negativamente nas filas de brinde. O teste operacional da pochete sob chuva aconteceu — o que renderá (ou não) UGC é a medição de amanhã."
    ],
    "news": [
+    {
+     "t": "Sepultura se despede do Rock in Rio sob chuva forte, com setlist 100% da era Derrick Green",
+     "src": "Igor Miranda / Semana Pop",
+     "when": "05/09, fim de tarde",
+     "s": "Abrindo com 'Against' e fechando com 'Sepulnation', a banda tocou 4 faixas do EP 'The Cloud of Unknowing' (com estreia ao vivo de 'Sacred Book') e deixou de fora 'Roots Bloody Roots' e 'Territory'. A chuva pesada esfriou parte do gramado, mas houve rodas de mosh com sinalizadores; para a Semana Pop, 'o público compreendeu a proposta' e os telões gigantes do Mundo foram elogiados nas redes. Veredicto do Igor Miranda: a banda 'ainda parece capaz de entregar shows à altura de sua história'.",
+     "u": "https://igormiranda.com.br/2026/09/sepultura-resenha-rock-in-rio-2026/"
+    },
+    {
+     "t": "Black Pantera + Nervosa incendeiam o Sunset na chuva: 'a água virou combustível'",
+     "src": "Rock On Board / Igor Miranda",
+     "when": "05/09, início da noite",
+     "s": "Rodas de mosh por quase todo o gramado e 'remada viking' debaixo d'água: o encontro virou o momento de representatividade do dia, com 'Fogo nos Racistas', 'Tradução' (dedicada às mães e ao fim da jornada 6x1), releitura pesada de 'Obrigado Não' (Rita Lee) e 'Obsoleto' (parceria com Derrick Green). Rock On Board: 'um dos momentos mais vibrantes e significativos' do festival até aqui.",
+     "u": "https://www.rockonboard.com.br/2026/09/black-pantera-faz-historia-no-rock-in.html"
+    },
+    {
+     "t": "Alerta Rio: pior da frente fria entre a tarde de hoje e a manhã de domingo; rajadas de até 85 km/h amanhã",
+     "src": "Rádio Manchete Rio (Alerta Rio/COR)",
+     "when": "05/09, 13h56",
+     "s": "Chuva moderada a forte com raios e rajadas muito fortes no fim de tarde/noite de hoje; domingo segue com chuva fraca a moderada, queda de temperatura e rajadas de até 85 km/h perto da orla — o COR orienta evitar áreas abertas, árvores e estruturas metálicas. Segunda (7/set, feriado) continua instável, com chuva fraca a moderada isolada.",
+     "u": "https://mancheterio.com.br/chuva-forte-e-ventos-intensos-devem-atingir-o-rio-neste-sabado/"
+    },
+    {
+     "t": "Público do dia 2 chegou cedo e preparado: capa de chuva na mão, metrô/BRT sem retenções",
+     "src": "Brasil em Folhas",
+     "when": "05/09, 13h50",
+     "s": "Excursões de fora do RJ desembarcaram desde as 7h30 e o acesso via Expresso (metrô + BRT) fluiu sem retenções significativas. O tempo, aberto de manhã, fechou por volta das 12h30 — e o público veio equipado com capa, agasalho e mantimentos, seguindo a cartilha do 'kit chuva' (guarda-chuva segue proibido).",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/publico-chega-para-segundo-dia-de-rock-in-rio-com-previsao-de-chuva/"
+    },
     {
      "t": "Foo Fighters fecha a 1ª noite com ~2h de show, 'Aurora' para Taylor Hawkins e 'Exhausted' inédita no Brasil",
      "src": "Estadão (via Rádios Farcom) / Rock On Board",
      "when": "05/09, madrugada",
-     "s": "Diante de ~100 mil pessoas, Grohl (57) abriu com 'All My Life' e fechou com 'Everlong', em boa forma vocal. Dedicatória de 'Aurora' a Taylor Hawkins emocionou; 'Marigold' veio com a história de ter sido composta 'baixinho para não acordar Kurt Cobain'; o baterista Ilan Rubin saiu elogiado. Rock On Board: 'prova por que é a melhor banda de rock do mundo'.",
+     "s": "Diante de ~100 mil pessoas, Grohl (57) abriu com 'All My Life' e fechou com 'Everlong', em boa forma vocal. Dedicatória de 'Aurora' a Taylor Hawkins emocionou; Rock On Board: 'prova por que é a melhor banda de rock do mundo'. Repercussão completa na aba Shows.",
      "u": "https://www.formoso104fm.com.br/foo-fighters-alterna-peso-e-baladas-ao-fechar-1a-noite-de-rock-in-rio-com-dave-grohl-em-boa-forma/"
-    },
-    {
-     "t": "Capital Inicial faz 'o maior show da carreira' no Sunset, com Dado Villa-Lobos e tributo a Renato Russo",
-     "src": "Rock On Board / Teoria Cultural",
-     "when": "05/09",
-     "s": "Primeira vez de uma banda brasileira como headliner do Sunset no dia de abertura: 'Será', 'Geração Coca-Cola', 'Que País É Este' e 'Tempo Perdido' com Dado de Telecaster. Em 'Primeiros Erros', Dinho deixou o público cantar sozinho — 'uma das cenas mais memoráveis da história recente do Capital'.",
-     "u": "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
     },
     {
      "t": "Filas de mais de 1 hora por brindes marcam o dia 1 — minicâmeras são o item mais disputado",
      "src": "NC News",
      "when": "04/09, 19h57",
-     "s": "Com 100+ ativações e ~1 milhão de brindes previstos, a 'caça ao tesouro' paralela aos palcos gerou esperas de 1h+ já na abertura. Minicâmeras digitais (iFood, C&A, DHL, Estácio, AXIA) lideram o desejo; leques, bolsas, caixas de som e pins completam a lista. Público declarou 'sacrificar mais de uma hora na fila' pelo item exclusivo.",
+     "s": "Com 100+ ativações e ~1 milhão de brindes previstos, a 'caça ao tesouro' paralela aos palcos gerou esperas de 1h+ já na abertura. Minicâmeras digitais (iFood, C&A, DHL, Estácio, AXIA) lideram o desejo. Na imprensa de hoje, nenhuma marca foi citada negativamente pelas filas — segue pauta de comportamento, não de crise.",
      "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
-    },
-    {
-     "t": "Hoje é a noite do metal: despedida do Sepultura divide fãs por setlist só da era Derrick Green",
-     "src": "Pipoca Moderna",
-     "when": "05/09",
-     "s": "Sepultura abre o Palco Mundo (16h40) na última apresentação da banda no festival antes do fim definitivo (7/nov, Pacaembu) — mas o repertório só da fase Derrick Green (sem 'Roots Bloody Roots' e 'Arise') já divide fãs nas redes. Bring Me The Horizon estreia (21h20) após lotar o Allianz em 2024; Avenged Sevenfold fecha (00h05).",
-     "u": "https://pipocamoderna.com.br/2026/09/rock-in-rio-dia-metal/"
-    },
-    {
-     "t": "Previsão: chuva em 85% do sábado (7,2 mm) e domingo ainda pior, com rajadas de 50 km/h",
-     "src": "Super Rádio Tupi (Climatempo)",
-     "when": "atual. 01/09",
-     "s": "Sábado de 20–23°C com chuva rápida de dia e à noite (85% de chance); domingo cai para 16–19°C com 16,8 mm, chuva o dia todo e rajadas de até 50 km/h. Guarda-chuva segue proibido na Cidade do Rock — capa de chuva liberada. Logística de gramado e brindes muda com o piso molhado.",
-     "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
     }
    ],
    "ipiranga": [
     {
-     "t": "A chuva de hoje é a primeira chance real de o brinde virar utilidade — e a janela é esta manhã",
-     "src": "Super Rádio Tupi (previsão) + leitura da varredura",
+     "t": "A chuva chegou como previsto — e o teste operacional da pochete aconteceu hoje",
+     "src": "Igor Miranda / Brasil em Folhas + leitura da varredura",
+     "when": "05/09, tarde/noite",
+     "s": "O tempo fechou ~12h30 e a chuva forte pegou em cheio a despedida do Sepultura. O público veio de capa (a cartilha do 'kit chuva' foi seguida) e a imprensa do dia não registrou fila de brinde como problema — sem nenhuma menção negativa a marcas. O que falta medir: se pochete/leque apareceram no UGC da chuva; essa é a leitura de amanhã de manhã.",
+     "u": "https://igormiranda.com.br/2026/09/sepultura-resenha-rock-in-rio-2026/"
+    },
+    {
+     "t": "Rajadas de até 85 km/h no domingo: a operação de amanhã precisa de plano de vento, não só de chuva",
+     "src": "Rádio Manchete Rio (Alerta Rio/COR)",
+     "when": "05/09, 13h56",
+     "s": "O COR orienta evitar áreas abertas e estruturas metálicas no domingo — dia esgotado (Calvin Harris) e o pior do fim de semana. Para a marca: fila coberta e ancorada, comunicação de janelas de distribuição à prova de replanejamento e atenção a qualquer estrutura alta do espaço. Ativações a céu aberto dos concorrentes (roda-gigante, mirantes) podem parar — refúgio coberto vira vantagem competitiva.",
+     "u": "https://mancheterio.com.br/chuva-forte-e-ventos-intensos-devem-atingir-o-rio-neste-sabado/"
+    },
+    {
+     "t": "7/set instável: o dia dos 89 anos precisa de plano B indoor para o 'parabéns'",
+     "src": "Rádio Manchete Rio (Alerta Rio/COR)",
      "when": "05/09",
-     "s": "Com 85% de chance de chuva e guarda-chuva proibido, pochete + leque + capa viram o 'kit oficial' da Cidade do Rock — o conteúdo funcional que a marca vinha guardando encontra a pauta do dia. Publicar antes de o público sair de casa maximiza o serviço (e o crédito da marca).",
-     "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+     "s": "A previsão oficial mantém segunda-feira (feriado, dia da marca) com céu nublado e chuva fraca a moderada isolada. Com grade antecipada (Gilberto Gil 20h30, Elton John 23h) e casa cheia, o momento 'parabéns', os convidados e a captação de conteúdo dos 89 anos precisam de roteiro que funcione sob chuva — travar isso amanhã, D-1.",
+     "u": "https://mancheterio.com.br/chuva-forte-e-ventos-intensos-devem-atingir-o-rio-neste-sabado/"
     },
     {
-     "t": "Fila por brinde já é manchete — a operação da pochete sob chuva é o teste do dia 2",
-     "src": "NC News",
-     "when": "04/09, 19h57",
-     "s": "A imprensa registrou 1h+ de espera por brindes no dia 1, sem citar marcas negativamente — por enquanto é pauta de comportamento, não de crise. Chuva encurta a paciência de fila: janelas de distribuição comunicadas, estoque por período e fila coberta evitam que a pochete estrele a matéria de amanhã.",
-     "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
-    },
-    {
-     "t": "Na guerra do desejo, a minicâmera (iFood, C&A, DHL, Estácio, AXIA) está na frente",
-     "src": "NC News / propmark",
-     "when": "04–05/09",
-     "s": "O brinde mais disputado do dia 1 foi a minicâmera digital, distribuída por cinco marcas — nenhuma delas a Ipiranga. A pochete briga em outra chave: customização com pins no espaço (colecionável + experiência). É essa narrativa que precisa aparecer no UGC, não só o item em si.",
-     "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
-    },
-    {
-     "t": "D-2 para os 89 anos: dia 7 esgotado, Elton John às 23h — cronograma novo precisa estar travado",
-     "src": "NDMais / Cenário MT",
-     "when": "atual. 04/09",
-     "s": "O dia mais importante da marca no festival chega com casa cheia garantida e grade antecipada (Gilberto Gil 20h30, Elton 23h, madrugada com Fatboy Slim na NDO). Convidados, momento 'parabéns' e janelas de ativação do espaço precisam estar fechados até domingo — e a contagem regressiva pode começar hoje nos canais.",
-     "u": "https://ndmais.com.br/musica/rock-in-rio-comeca-hoje-ingressos-elton-john-horario/"
+     "t": "Público do metal abraçou a chuva — o 'refúgio seco' é o posicionamento certo, mas o UGC está no gramado",
+     "src": "Rock On Board (Black Pantera + Nervosa)",
+     "when": "05/09, início da noite",
+     "s": "'A água serviu só de combustível' para o mosh no Sunset: o público do dia 2 não fugiu da chuva, fez dela o espetáculo. Para a marca, o equilíbrio é fino — o espaço funciona como refúgio e recarga entre shows, mas o conteúdo que vai viralizar hoje é o da resistência na chuva. Pochete no corpo + capa é a imagem da marca que conversa com essa narrativa.",
+     "u": "https://www.rockonboard.com.br/2026/09/black-pantera-faz-historia-no-rock-in.html"
     },
     {
      "t": "Quentro/KMV: caso do 'ingresso sumido' segue aberto no Reclame Aqui na virada do fim de semana",
      "src": "Reclame AQUI",
      "when": "03–05/09",
-     "s": "Sem resposta pública consolidada da Ticketmaster, as reclamações de ingresso que não aparece no app chegam ao 2º dia de shows. Com sábado e domingo de ativação em massa (e chuva), plantão visível e passo-a-passo oficial circulando seguem protegendo o case dos 600 ingressos KMV.",
+     "s": "Sem resposta pública consolidada da Ticketmaster, as reclamações de ingresso que não aparece no app chegam ao 2º dia de shows. Com domingo esgotado e chuva, plantão visível e passo-a-passo oficial circulando seguem protegendo o case dos 600 ingressos KMV.",
      "u": "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
     }
    ],
    "shows": {
-    "status": "Dia 2 — noite do metal, com 85% de chance de chuva: Sepultura (16h40, despedida do festival), MGK (19h), Bring Me The Horizon (21h20, estreia) e Avenged Sevenfold (00h05) no Palco Mundo; Sunset com Black Pantera + Nervosa (17h50), Poppy (20h10) e Bad Omens (22h50). Transmissão: Multishow, Bis e Globoplay desde 15h15. A repercussão da noite entra na edição de amanhã.",
+    "status": "Atualizado às 20h: a frente fria chegou junto com os portões — o tempo fechou ~12h30 e a chuva forte acompanhou a tarde. Sepultura (16h40) fez a despedida do festival sob chuva, só com repertório da era Derrick Green ('Against' na abertura, estreia ao vivo de 'Sacred Book', 'Sepulnation' no encerramento — sem 'Roots Bloody Roots'); no Sunset, Black Pantera + Nervosa (17h50) transformaram a água em combustível, com mosh por quase todo o gramado, 'Fogo nos Racistas' e tributo a Rita Lee. Acesso fluiu sem retenções (Expresso metrô+BRT). Ainda hoje: MGK (19h), Bring Me The Horizon (21h20), Poppy (20h10) e Bad Omens (22h50) no Sunset, Avenged Sevenfold (00h05). Transmissão: Multishow, Bis e Globoplay. Repercussão completa da noite na edição de amanhã (9h).",
     "reperc": [
      {
       "date": "4/set (1ª noite)",
@@ -947,39 +954,39 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "'Aurora' para Taylor Hawkins é o momento mais compartilhado da madrugada",
-      "src": "Rock On Board / Estadão (via Farcom) / Portal Democrata",
-      "metric": "resenhas + UGC da madrugada",
-      "s": "A dedicatória de Grohl ao baterista morto em 2022 dominou as resenhas publicadas ainda de madrugada e concentra a primeira leva de vídeos do festival. É o pico emocional que define a narrativa do dia 1 — e o tipo de conteúdo que segue rendendo o dia inteiro.",
-      "u": "https://portaldemocrata.com.br/2026/09/05/foo-fighters-abre-rock-in-rio-com-all-my-life-e-emociona-fas-saiba-os-detalhes/"
+      "t": "Mosh na chuva: o público do metal fez do temporal o espetáculo do dia",
+      "src": "Rock On Board / Igor Miranda",
+      "metric": "resenhas do fim de tarde",
+      "s": "'A água serviu só de combustível': rodas de mosh por quase todo o gramado e 'remada viking' no Black Pantera + Nervosa são o material de UGC natural da noite — resistência na chuva como orgulho do público do dia 2. É nessa narrativa que a pochete/capa da marca aparece organicamente.",
+      "u": "https://www.rockonboard.com.br/2026/09/black-pantera-faz-historia-no-rock-in.html"
      },
      {
-      "t": "O coro de 'Primeiros Erros' sem Dinho: a cena brasileira da noite",
-      "src": "Rock On Board / Teoria Cultural",
-      "metric": "resenhas da noite",
-      "s": "O momento em que Dinho parou de cantar e a plateia lotada do Sunset assumiu 'Primeiros Erros' foi descrito como 'uma das cenas mais memoráveis da história recente do Capital' — material clássico de corte viral no dia seguinte.",
-      "u": "https://www.rockonboard.com.br/2026/09/capital-inicial-encara-o-maior-show-da.html"
+      "t": "A polêmica do setlist do Sepultura se confirmou — e agora tem os dois lados",
+      "src": "Igor Miranda / Semana Pop",
+      "metric": "resenhas + conversa reportada nas redes",
+      "s": "A despedida veio 100% era Derrick Green, sem 'Roots Bloody Roots' e 'Territory' — exatamente o que dividia os fãs de manhã. As primeiras resenhas racharam no mesmo eixo: 'coerência com a história' (Semana Pop) vs. público 'desconfortável na chuva' sem os clássicos (Igor Miranda). Conversa garantida na madrugada.",
+      "u": "https://igormiranda.com.br/2026/09/sepultura-resenha-rock-in-rio-2026/"
      },
      {
-      "t": "Setlist da despedida do Sepultura já divide fãs antes do show",
-      "src": "Pipoca Moderna",
-      "metric": "conversa nas redes (reportada)",
-      "s": "A banda toca hoje só repertório da era Derrick Green — sem 'Roots Bloody Roots' e 'Arise' — e a imprensa registra 'divisão entre fãs nas redes'. É a polêmica pré-fabricada do dia 2: a conversa do público do metal já começou antes dos portões.",
-      "u": "https://pipocamoderna.com.br/2026/09/rock-in-rio-dia-metal/"
+      "t": "Telões gigantes do Palco Mundo viram elogio recorrente nas redes",
+      "src": "Semana Pop",
+      "metric": "repercussão social reportada",
+      "s": "A produção visual do Mundo no show do Sepultura 'recebeu elogios significativos nas redes sociais' — detalhe de infraestrutura virando assunto, o tipo de conversa que costuma render cortes e comparações com edições passadas.",
+      "u": "https://www.semanapop.com.br/sepultura-transforma-despedida-do-rock-in-rio-em-celebracao-a-era-derrick-green/"
      },
      {
-      "t": "Fila de 1h+ por brinde vira pauta — e toca a marca em cheio",
-      "src": "NC News",
-      "metric": "manchete + UGC de fila",
-      "s": "A 'caça ao tesouro' de brindes gerou as primeiras matérias de fila do festival, com a minicâmera como troféu. Com chuva hoje, fila descoberta vira reclamação em vídeo. A pochete da Ipiranga joga nesse mesmo campo: operação e comunicação de disponibilidade valem mais do que o item.",
-      "u": "https://ncnews.com.br/2026/09/04/rock-in-rio-tem-filas-de-mais-de-1-hora-por-brindes-na-cidade-do-rock/"
+      "t": "'Fogo nos Racistas' e o fim da 6x1: o momento político do dia veio do Sunset",
+      "src": "Igor Miranda",
+      "metric": "resenhas do fim de tarde",
+      "s": "Black Pantera dedicou 'Tradução' às mães e ao fim da jornada 6x1, e 'Fogo nos Racistas' foi o ápice do show com a Nervosa. Pauta social + metal brasileiro em ascensão = combinação com alto potencial de corte viral e de imprensa amanhã.",
+      "u": "https://igormiranda.com.br/2026/09/black-pantera-nervosa-resenha-rock-in-rio-2026/"
      },
      {
-      "t": "Chuva de 85% no dia do metal: o assunto de serviço da manhã",
-      "src": "Super Rádio Tupi (Climatempo)",
-      "metric": "pauta de utilidade do dia",
-      "s": "Kit chuva, o que pode entrar (capa sim, guarda-chuva não) e como chegar sob água são as buscas naturais da manhã. Janela aberta para a marca ocupar com pochete + leque + capa antes de o público sair de casa.",
-      "u": "https://www.tupi.fm/rio/vai-ao-rock-in-rio-confira-a-previsao-do-tempo-para-o-primeiro-fim-de-semana/"
+      "t": "Vento de 85 km/h amanhã: a pauta de serviço da noite é o domingo, não mais o sábado",
+      "src": "Rádio Manchete Rio (Alerta Rio/COR)",
+      "metric": "pauta de utilidade em ascensão",
+      "s": "Com o dia 3 esgotado (Calvin Harris) e o COR orientando evitar áreas abertas e estruturas metálicas, 'vai ter show amanhã?', 'o que pode levar' e 'como se proteger do vento' são as buscas naturais da madrugada — janela de serviço aberta para quem comunicar primeiro.",
+      "u": "https://mancheterio.com.br/chuva-forte-e-ventos-intensos-devem-atingir-o-rio-neste-sabado/"
      }
     ],
     "sources": [
@@ -990,7 +997,7 @@ window.RADAR = {
       "status": "off",
       "statusLabel": "coleta indisponível hoje",
       "items": [],
-      "note": "O feed RSS (trends.google.com/trending/rss?geo=BR) seguiu bloqueado na execução desta manhã — 3ª rodada seguida em que a sessão automática não consegue a aprovação de acesso ao domínio. A madrugada pós-Foo Fighters era forte candidata a emplacar termos do festival no ranking; fica sem medição. Coleta será tentada de novo às 20h."
+      "note": "O feed RSS (trends.google.com/trending/rss?geo=BR) seguiu bloqueado também na rodada das 20h — a sessão automática não obteve aprovação de acesso ao domínio (4ª rodada seguida). A noite de sábado com Sepultura + chuva era candidata forte a emplacar termos do festival; fica sem medição. Nova tentativa amanhã às 9h."
      },
      {
       "id": "tiktok",
@@ -999,10 +1006,10 @@ window.RADAR = {
       "status": "off",
       "statusLabel": "coleta indisponível hoje",
       "items": [],
-      "note": "A página pública da hashtag #rockinrio seguiu bloqueada pelo mesmo motivo. Última medição confiável: 5,7 mi de views em 03/09 — o salto do fim de semana de abertura ainda não pôde ser registrado."
+      "note": "A página pública da hashtag #rockinrio seguiu bloqueada na rodada das 20h pelo mesmo motivo. Última medição confiável: 5,7 mi de views em 03/09 — a curva do fim de semana de abertura segue sem registro quantitativo."
      }
     ],
-    "note": "Coleta quantitativa (Google Trends RSS + hashtag do TikTok) segue bloqueada na sessão automática por aprovação de acesso não concedida — 3º dia. O bloco viral desta edição é leitura editorial da imprensa da noite/madrugada, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h: coleta quantitativa (Google Trends RSS + hashtag do TikTok) seguiu bloqueada na sessão automática por aprovação de acesso não concedida — 4ª rodada seguida. O bloco viral desta edição é leitura editorial das resenhas e alertas publicados hoje à tarde/noite, com fonte e link em todo item. Nenhum número estimado."
    },
    "direcionais": {
     "leitura": "A 1ª noite entregou a narrativa que o festival queria — Grohl chorando em 'Aurora', Capital fazendo história no Sunset — e a imprensa já encontrou a pauta de operação: fila de 1h+ por brinde, com a minicâmera (de 5 marcas concorrentes) como troféu. Hoje o jogo muda duas vezes: a chuva de 85% transforma o kit da marca (pochete + leque + capa) em utilidade real pela primeira vez, e o público do metal — mais fiel, menos sensível a chuva — testa a operação do espaço sob água. No horizonte imediato: domingo piora (16,8 mm, rajadas de 50 km/h) e o dia 7, o dos 89 anos, esgotado e com grade antecipada, está a 48h.",
@@ -1088,6 +1095,30 @@ window.RADAR = {
     [
      "Reclame AQUI — ingresso não aparece no Quentro",
      "https://www.reclameaqui.com.br/ticketmaster-brasil-ltda/ingresso-do-rock-in-rio-2026-nao-aparece-no-aplicativo-quentro-apos-compra-e-resgate-bem-sucedidos-na-plataforma-ticket_NwIft42PNvhBFqZv/"
+    ],
+    [
+     "Igor Miranda — resenha da despedida do Sepultura",
+     "https://igormiranda.com.br/2026/09/sepultura-resenha-rock-in-rio-2026/"
+    ],
+    [
+     "Semana Pop — Sepultura celebra era Derrick Green",
+     "https://www.semanapop.com.br/sepultura-transforma-despedida-do-rock-in-rio-em-celebracao-a-era-derrick-green/"
+    ],
+    [
+     "Rock On Board — Black Pantera faz história no Sunset",
+     "https://www.rockonboard.com.br/2026/09/black-pantera-faz-historia-no-rock-in.html"
+    ],
+    [
+     "Igor Miranda — resenha Black Pantera + Nervosa",
+     "https://igormiranda.com.br/2026/09/black-pantera-nervosa-resenha-rock-in-rio-2026/"
+    ],
+    [
+     "Rádio Manchete Rio — alerta de chuva forte e vento (Alerta Rio/COR)",
+     "https://mancheterio.com.br/chuva-forte-e-ventos-intensos-devem-atingir-o-rio-neste-sabado/"
+    ],
+    [
+     "Brasil em Folhas — público chega para o 2º dia",
+     "https://www.brasilemfolhas.com.br/2026/09/publico-chega-para-segundo-dia-de-rock-in-rio-com-previsao-de-chuva/"
     ]
    ],
    "influencia": {
