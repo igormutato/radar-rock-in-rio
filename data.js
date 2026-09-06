@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 22,
-  "updatedAt": "05/09/2026, 20h20 (BRT)",
-  "updatedISO": "2026-09-05",
+  "version": 23,
+  "updatedAt": "06/09/2026, 09h34 (BRT)",
+  "updatedISO": "2026-09-06",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,625 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "06/09/2026",
+   "dateISO": "2026-09-06",
+   "weekday": "domingo",
+   "edition": 14,
+   "phase": "festival — dia 3 (pop & hits · esgotado)",
+   "pulse": [
+    "🤘 <b>A noite do metal terminou com três narrativas:</b> Bring Me The Horizon roubou o dia — 'possivelmente o melhor show do dia do metal de 2026' (Rolling Stone), com Oli Sykes falando português, 'tenho Pix e CPF' e fã puxado ao palco; Avenged Sevenfold fechou com 30 min de atraso, hits de quase 30 anos e um sermão do M. Shadows contra a toxicidade dos fãs nas redes; e MGK virou a fricção da noite — vaias do público do metal, show interrompido para desabafo ('sou um cara de Ohio vivendo meu sonho') e Megan Fox na plateia entre vaias e tensão.",
+    "🌧️ <b>Hoje é o dia mais duro da operação:</b> dia 3 ESGOTADO (Calvin Harris, Black Eyed Peas, Jota Quest canta Tim Maia), com chuva prevista MAIOR que a de sábado, máxima de 22°C e ressaca com ondas de até 2,5 m até a noite de 7/9 — público pop lotando a Cidade do Rock debaixo d'água, menos 'resistente' que o do metal de ontem.",
+    "📍 <b>Alerta de marca:</b> a pauta de serviço 'onde se proteger da chuva na Cidade do Rock' já existe — e a matéria citou Superbet, Itaú e TIM como abrigos, sem mencionar o Espaço Ipiranga. Com chuva pior hoje e o dia dos 89 anos amanhã (previsão ainda instável), entrar no mapa do refúgio é a disputa do dia."
+   ],
+   "news": [
+    {
+     "t": "Rolling Stone: Bring Me The Horizon 'confirma grandeza' e faz possivelmente o melhor show do dia do metal",
+     "src": "Rolling Stone Brasil (Igor Miranda)",
+     "when": "06/09",
+     "s": "Na estreia da banda no festival, show com qualidade de headliner antes do Avenged: repertório híbrido metal/pop, telões com estética de videogame, 'Kingslayer' com o Babymetal em base gravada e Oli Sykes jogando com a residência brasileira — falou português, celebrou 'Pix e CPF' e puxou o fã JP ao palco para cantar. Veredicto: 'principal referência do metal contemporâneo', com impacto comparado ao do Linkin Park para outras gerações.",
+     "u": "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+    },
+    {
+     "t": "Avenged Sevenfold fecha a noite com 30 min de atraso, hits de quase 30 anos e bronca na toxicidade das redes",
+     "src": "Billboard Brasil / Portal Democrata",
+     "when": "06/09",
+     "s": "Show começou ~00h35 sem explicação do atraso. Setlist de clássicos ('Nightmare', 'Bat Country', 'Hail to the King', 'Afterlife', estreia de 'Magic'), nova identidade visual em três 'atos' e pirotecnia no encerramento. M. Shadows criticou brigas de fãs e negatividade no X contra artistas do line-up (MGK, BMTH, Bad Omens, Poppy, Sepultura) e chegou a perguntar se a chuva explicava a energia contida da plateia.",
+     "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+    },
+    {
+     "t": "MGK enfrenta vaias do público do metal e interrompe o show para desabafar; Megan Fox acompanhou da plateia",
+     "src": "NC News / Portal Democrata",
+     "when": "05/09-06/09",
+     "s": "Recepção fria e vaias audíveis de uma plateia que esperava Avenged: braços cruzados no início, adesão parcial em 'my ex's best friend' e um MGK que parou o show para se apresentar com humildade — 'sou um cara de Ohio vivendo meu sonho'. A presença de Megan Fox, apoiando o artista 'entre vaias e tensão', é a pauta de celebridade da madrugada.",
+     "u": "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
+    },
+    {
+     "t": "Poppy é apontada como destaque do Sunset: rodinhas punk e 'uma das apostas mais inventivas do metal atual'",
+     "src": "Poltrona Vip",
+     "when": "06/09, 08h51",
+     "s": "Resenha pós-show: mistura de pop, metal industrial e djent abriu 'diversas rodinhas punks' no gramado, com voz limpa e guturais 'eficientes' em execução segura e produção econômica. No mesmo balanço do dia 2, Bad Omens fecha o Sunset equilibrando momentos pesados e emocionais.",
+     "u": "https://poltronavip.com/poppy-leva-metal-industrial-ao-palco-sunset-do-rock-in-rio-2026-em-sua-fase-mais-pesada"
+    },
+    {
+     "t": "Rolling Stone consolida a despedida do Sepultura: 'encerra ciclo com celebração à era Derrick Green'",
+     "src": "Rolling Stone Brasil",
+     "when": "06/09",
+     "s": "A leitura de fechamento da noite confirma o que as resenhas do fim de tarde apontavam: despedida sob chuva sem 'Roots Bloody Roots', coerente com a proposta de celebrar os 28 anos da era Green — o debate sobre o setlist seguiu como a polêmica musical do fim de semana.",
+     "u": "https://rollingstone.com.br/guia-show/sepultura-encerra-ciclo-no-rock-in-rio-com-celebracao-a-era-derrick-green/"
+    },
+    {
+     "t": "Domingo terá mais chuva que sábado, máxima de 22°C e ressaca com ondas de 2,5 m",
+     "src": "Rádios Farcom (Climatempo / Marinha)",
+     "when": "06/09",
+     "s": "A Climatempo prevê volume de chuva superior ao de sábado, com frente fria trazendo ar frio e úmido do oceano; a Marinha mantém aviso de ressaca entre Cananéia (SP) e Arraial do Cabo (RJ) com ondas de até 2,5 m da madrugada de hoje à noite de 7/9. Recomendação ao público do dia esgotado: capa de chuva na mochila e agasalho reforçado.",
+     "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "A imprensa mapeou os abrigos da chuva na Cidade do Rock — e o Espaço Ipiranga ficou fora da lista",
+     "src": "Rádios Farcom + leitura da varredura",
+     "when": "05/09",
+     "s": "O guia 'onde se proteger da chuva sem perder os shows' citou Superbet, Itaú e TIM como estruturas cobertas, além de áreas comuns. Nenhuma menção à Ipiranga. Com chuva maior hoje e dia esgotado, a marca precisa disputar essa pauta de serviço — assessoria oferecendo o espaço como refúgio coberto e social próprio comunicando 'ponto seco' com mapa.",
+     "u": "https://www.formoso104fm.com.br/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows/"
+    },
+    {
+     "t": "Dia esgotado + chuva pior que sábado = estresse máximo de fila; a pochete não pode virar a matéria de amanhã",
+     "src": "Rádios Farcom (Climatempo) + leitura da varredura",
+     "when": "06/09",
+     "s": "O público pop de domingo (Calvin Harris, Black Eyed Peas) tende a ser menos tolerante a fila na chuva que o do metal — e a imprensa já mostrou apetite pela pauta de filas de brinde no dia 1. Volume recorde + chuva superior à de sábado exigem janelas de distribuição comunicadas, estoque por período e fila 100% coberta.",
+     "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+    },
+    {
+     "t": "D-1 dos 89 anos: ressaca até a noite de 7/9 e previsão instável — o roteiro do 'parabéns' precisa fechar hoje",
+     "src": "Rádios Farcom (Marinha/Climatempo)",
+     "when": "06/09",
+     "s": "O aviso de ressaca vale até a noite de segunda (dia da marca), e a segunda segue com chuva fraca a moderada isolada na previsão oficial. Com grade antecipada (Gilberto Gil 20h30, Elton John 23h) e casa cheia, o momento 'parabéns', convidados e captação dos 89 anos precisam de roteiro indoor travado ainda hoje — e a contagem regressiva pública pode começar já.",
+     "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+    },
+    {
+     "t": "A conversa da madrugada foi vaia e briga de fã — território onde a marca não entra",
+     "src": "Billboard Brasil / NC News",
+     "when": "06/09",
+     "s": "Vaias ao MGK, sermão do M. Shadows contra a toxicidade no X e Megan Fox na plateia: o assunto quente das redes é exatamente o tipo de conversa de mérito musical/celebridade de que a Ipiranga fica fora por princípio. Guard-rail do dia para social e influenciadores: zero surf em meme de vaia; a marca fala de jornada, abrigo e experiência.",
+     "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+    }
+   ],
+   "shows": {
+    "status": "Dia 3 — pop & hits, ÚNICO dia do 1º fim de semana esgotado. Palco Mundo: Barão Vermelho com a formação original + Fernando Magalhães (16h40), Nelly (19h00), Black Eyed Peas (21h20) e Calvin Harris (00h05). Sunset: Calema (15h30), BaianaSystem (17h50), Jota Quest canta Tim Maia (20h10) e Ne-Yo (22h45); New Dance Order tem Sofi Tukker (21h05) e MEDUZA (01h40). Tempo: chuva em volume MAIOR que o de sábado, máxima de 22°C e ressaca com ondas de até 2,5 m (aviso da Marinha até a noite de 7/9) — capa de chuva e agasalho na cartilha oficial do público. Transmissão: Multishow, Bis e Globoplay.",
+    "reperc": [
+     {
+      "date": "5/set (2ª noite — metal)",
+      "headline": "BMTH rouba a noite, Avenged fecha com atraso e sermão anti-redes, MGK encara vaias e Poppy vira a queridinha do Sunset",
+      "artists": [
+       {
+        "name": "Bring Me The Horizon (Palco Mundo, 21h20)",
+        "verdict": "O show da noite — 'possivelmente o melhor do dia do metal de 2026' (Rolling Stone). Estreia no festival com repertório híbrido, telões estética videogame e teatro de palco; Oli Sykes acionou a residência brasileira ('tenho Pix e CPF'), pediu 'mosh pit muito grande' em português, puxou o fã JP para cantar no palco e comemorou o single novo. 'Principal referência do metal contemporâneo' — impacto comparado ao Linkin Park de outras gerações.",
+        "links": [
+         [
+          "Rolling Stone",
+          "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/06/bring-me-the-horizon-comemora-lancamento-de-novo-single-durante-rock-in-rio-2026/"
+         ]
+        ]
+       },
+       {
+        "name": "Avenged Sevenfold (Palco Mundo, 00h05 → 00h35)",
+        "verdict": "Headliner subiu com ~30 min de atraso, sem explicação, e entregou hits de quase 30 anos — 'Nightmare', 'Bat Country', 'Hail to the King', 'Afterlife', estreia de 'Magic' — com nova identidade visual em três 'atos' e pirotecnia no fim. O momento mais comentado foi extra-musical: M. Shadows deu bronca na negatividade do X e nas brigas de fãs contra MGK, BMTH, Bad Omens, Poppy e Sepultura, e perguntou se a chuva explicava a plateia contida. Billboard: aposta na 'contenção, não no excesso'; Portal Democrata viu 'delírio', mas registrou a apatia sob chuva.",
+        "links": [
+         [
+          "Billboard Brasil",
+          "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/06/avenged-sevenfold-agita-o-rock-in-rio-2026-e-leva-publico-ao-delirio-com-sua-performance-eletrizante/"
+         ]
+        ]
+       },
+       {
+        "name": "MGK (Palco Mundo, 19h00)",
+        "verdict": "A fricção da noite: vaias audíveis e frieza de um público que esperava Avenged. Interrompeu o show para desabafar — 'sou um cara de Ohio vivendo meu sonho' — e reconquistou parte do gramado em 'my ex's best friend'. Megan Fox acompanhou 'entre vaias e tensão' (NC News), logo após o término do relacionamento virar pauta. O teste de compatibilidade entre pop punk e o público do metal não passou — mas rendeu a conversa da madrugada.",
+        "links": [
+         [
+          "NC News",
+          "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/05/mgk-se-apresenta-no-rio-e-enfrenta-reacao-morna-do-publico-durante-show-de-pop-punk-emotivo/"
+         ]
+        ]
+       },
+       {
+        "name": "Poppy (Sunset, 20h10) e Bad Omens (Sunset, 22h50)",
+        "verdict": "Poppy foi apontada como destaque do dia 2 no Sunset: pop + metal industrial + djent abrindo 'diversas rodinhas punks', voz limpa e guturais eficientes — 'uma das apostas mais inventivas do metal atual' (Poltrona Vip). Bad Omens fechou o palco equilibrando o pesado e o emocional na leitura do mesmo balanço.",
+        "links": [
+         [
+          "Poltrona Vip",
+          "https://poltronavip.com/poppy-leva-metal-industrial-ao-palco-sunset-do-rock-in-rio-2026-em-sua-fase-mais-pesada"
+         ],
+         [
+          "Poltrona Vip (balanço do dia 2)",
+          "https://poltronavip.com/rock-in-rio-2026-segundo-dia-resumo"
+         ]
+        ]
+       },
+       {
+        "name": "Sepultura (Palco Mundo, 16h40) — consolidação",
+        "verdict": "A leitura da manhã seguinte confirma a do fim de tarde: despedida sob chuva 100% era Derrick Green, sem 'Roots Bloody Roots' — 'encerra ciclo com celebração' (Rolling Stone). A polêmica do setlist segue como o debate musical do fim de semana, com rodas viking e mosh na chuva como imagem da noite.",
+        "links": [
+         [
+          "Rolling Stone",
+          "https://rollingstone.com.br/guia-show/sepultura-encerra-ciclo-no-rock-in-rio-com-celebracao-a-era-derrick-green/"
+         ],
+         [
+          "Poltrona Vip",
+          "https://poltronavip.com/rock-in-rio-2026-segundo-dia-resumo"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "'Tenho Pix e CPF': Oli Sykes entrega os memes prontos da noite",
+      "src": "Rolling Stone / Portal Democrata",
+      "metric": "resenhas da manhã",
+      "s": "Português no palco, 'Pix e CPF', pedido de 'mosh pit muito grande' e o fã JP cantando com a banda: o show do BMTH gerou os momentos de maior DNA de corte viral da noite — material de brasilidade espontânea que costuma dominar os cortes de festival na manhã seguinte.",
+      "u": "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+     },
+     {
+      "t": "Vaias ao MGK + Megan Fox na plateia: a pauta de celebridade da madrugada",
+      "src": "NC News / Portal Democrata",
+      "metric": "cobertura em tempo real da noite",
+      "s": "O choque entre o pop punk do MGK e o público do metal — com direito a show interrompido e desabafo — é o assunto polêmico da noite, amplificado pela presença de Megan Fox logo após o término do casal virar notícia. Conversa de alto volume e tom negativo: território para a marca monitorar e NÃO entrar.",
+      "u": "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
+     },
+     {
+      "t": "O sermão do M. Shadows contra a toxicidade no X vira a meta-conversa do festival",
+      "src": "Billboard Brasil",
+      "metric": "resenhas da manhã",
+      "s": "O vocalista do headliner dedicou parte do show a criticar brigas de fãs e ataques a MGK, BMTH, Bad Omens, Poppy e Sepultura nas redes. 'Fandom tóxico vs comunidade' é discussão com tração garantida — e reforça o clima de policiamento das redes sobre tudo que rodeia o festival neste domingo.",
+      "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+     },
+     {
+      "t": "#rockinrio no TikTok: contador público segue em 5,7 mi de views",
+      "src": "TikTok (página pública da hashtag)",
+      "metric": "5,7 mi views em 06/09, 9h — mesmo valor de 03/09",
+      "s": "Primeira leitura quantitativa desde 03/09 (as rodadas de 04-05/09 ficaram sem coleta): o contador exibido segue em 5,7 mi, sem refletir o fim de semana de abertura — indício de que a página pública arredonda/atualiza com atraso. Vale como marco de linha de base; a curva real deve aparecer nas próximas medições.",
+      "u": "https://www.tiktok.com/tag/rockinrio"
+     },
+     {
+      "t": "'Vai ter show na chuva?' — a pauta de serviço do dia esgotado",
+      "src": "Rádios Farcom (Climatempo/Marinha)",
+      "metric": "pauta de utilidade em ascensão",
+      "s": "Chuva maior que a de sábado, 22°C de máxima e ressaca de 2,5 m no único dia esgotado do fim de semana: 'o que pode levar', 'onde se abrigar' e 'como chegar' são as buscas naturais da manhã. A imprensa já começou a responder — inclusive listando quais marcas têm abrigo coberto (Superbet, Itaú e TIM foram as citadas; a Ipiranga ainda não).",
+      "u": "https://www.formoso104fm.com.br/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "sem medição BR hoje",
+      "items": [],
+      "note": "O feed RSS respondeu nesta rodada, mas devolveu o ranking dos EUA (geo=US) — a geolocalização do proxy da sessão sobrescreve o parâmetro geo=BR. Sem medição confiável do Brasil; nos itens dos EUA não havia nenhum termo do festival. Nova tentativa na rodada das 20h."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "partial",
+      "statusLabel": "medição feita, contador possivelmente defasado",
+      "items": [
+       {
+        "t": "#rockinrio: 5,7 mi de views (06/09, ~9h BRT)",
+        "s": "Mesmo valor da linha de base de 03/09, após dois dias sem coleta (04-05/09 bloqueados). Contador idêntico depois de duas noites de festival sugere arredondamento/cache da página pública — registrar a curva nas próximas rodadas antes de concluir estagnação.",
+        "u": "https://www.tiktok.com/tag/rockinrio"
+       }
+      ],
+      "note": "Página pública da hashtag voltou a responder nesta rodada. Variações (/tag/rockinrio2026) e páginas /discover/ seguem bloqueadas por robots.txt."
+     }
+    ],
+    "note": "Rodada das 9h de 06/09: TikTok voltou a responder (1ª medição desde 03/09 — mesmo valor, 5,7 mi, com ressalva de contador possivelmente defasado); Google Trends BR sem medição (feed devolveu ranking dos EUA). O bloco viral é leitura editorial das resenhas e coberturas da noite, com fonte e link em todo item. Nenhum número estimado."
+   },
+   "direcionais": {
+    "leitura": "A noite do metal fechou o dia 2 com narrativa boa para o festival (BMTH consagrado, Sepultura celebrado) e uma fricção que dominou a madrugada (vaias ao MGK, sermão do M. Shadows, Megan Fox) — conversa de mérito musical e celebridade da qual a marca fica fora por princípio. O jogo de hoje é operacional: único dia esgotado do fim de semana, chuva MAIOR que a de sábado, 22°C e ressaca — com um público pop menos disposto a 'sofrer' que o do metal. E a imprensa já começou a distribuir o crédito do abrigo: o guia 'onde se proteger da chuva' citou Superbet, Itaú e TIM — não a Ipiranga. Amanhã são os 89 anos, com previsão ainda instável: o roteiro indoor do 'parabéns' precisa fechar hoje.",
+    "dirs": [
+     {
+      "t": "Entrar no mapa do refúgio — o crédito de 'abrigo da chuva' está sendo distribuído sem a Ipiranga",
+      "s": "A pauta de serviço já existe e nomeou Superbet, Itaú e TIM como abrigos cobertos. No dia mais chuvoso e mais cheio do fim de semana, o Espaço Ipiranga precisa aparecer nessa lista — via assessoria (oferecer o espaço aos veículos que estão atualizando os guias) e via social próprio ('ponto seco' com mapa e o que fazer lá dentro: customização, Bar AmPm, recarga)."
+     },
+     {
+      "t": "Dia esgotado + chuva pior = o teste máximo da fila; blindar a pochete de virar pauta negativa",
+      "s": "A imprensa mostrou apetite por fila de brinde desde o dia 1 (1h+ de espera) e o público pop de domingo tolera menos desconforto que o do metal. Janelas de distribuição comunicadas de manhã, estoque por período, fila coberta e equipe de contingência para pico pós-Black Eyed Peas: a diferença entre 'brinde mais desejado' e 'fila da Ipiranga na chuva' se decide hoje."
+     },
+     {
+      "t": "D-1 dos 89 anos: travar o roteiro indoor hoje e começar a contagem regressiva pública",
+      "s": "Ressaca vale até a noite de 7/9 e a segunda segue instável. Parabéns, convidados, captação e janelas de ativação fechados até o fim do dia — e a marca pode abrir a conversa hoje: é o único 'aniversário' do festival, com Elton John de despedida como pano de fundo. Conteúdo de véspera (countdown) prepara o terreno e garante share of voice antes do dia D."
+     },
+     {
+      "t": "O público de hoje é outro: jornada pop, família e conforto — não resistência heroica à chuva",
+      "s": "Ontem o mosh na chuva foi orgulho; hoje a chuva é só desconforto para um público que veio dançar Calvin Harris. O espaço deve se posicionar como parada de conforto na jornada (secar, customizar, comer no Bar AmPm, recarregar) — comunicação de experiência e utilidade, sem opinar sobre line-up, vaias ou polêmicas musicais."
+     },
+     {
+      "t": "Guard-rail do dia: zero surf nas polêmicas (MGK, vaias, setlist do Sepultura, Megan Fox)",
+      "s": "O sermão do M. Shadows transformou toxicidade de fã em meta-conversa — as redes vão passar o domingo policiando quem 'zoa' artista. Qualquer gracinha de marca nesse território vira alvo fácil. Social, comunidade e influenciadores orientados: a marca só fala de experiência, jornada e serviço."
+     }
+    ],
+    "acion": [
+     "Publicar ainda de manhã, nos canais da marca e via push/e-mail para a base KMV com ingresso de hoje, o 'kit chuva do dia esgotado': capa liberada (guarda-chuva proibido), pochete + leque, mapa do Espaço Ipiranga como ponto coberto e horários de distribuição do brinde.",
+     "Assessoria oferecer HOJE o Espaço Ipiranga aos veículos que publicaram/atualizam guias de 'onde se abrigar da chuva' (Farcom e similares), com fotos do espaço coberto e do Bar AmPm — meta: entrar na próxima atualização da pauta de serviço.",
+     "Operação anti-fila em modo dia esgotado: janelas de distribuição comunicadas, senhas/estoque por período, fila 100% coberta e reforço no pico pós-Black Eyed Peas (21h20-00h); monitorar menções a 'fila + Ipiranga' a cada 2h com gatilho de resposta rápida.",
+     "Fechar até o fim do dia o roteiro indoor dos 89 anos (parabéns, convidados, captação, plano B de vento pela ressaca) e publicar o primeiro conteúdo de contagem regressiva do aniversário ainda hoje.",
+     "Brief de social/influenciadores do dia: nenhuma interação com memes de vaia (MGK/Megan Fox), polêmica de setlist ou brigas de fandom — pauta da marca é abrigo, customização, Bar AmPm e os 89 anos de amanhã."
+    ]
+   },
+   "sources": [
+    [
+     "Rolling Stone — resenha Bring Me The Horizon",
+     "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+    ],
+    [
+     "Rolling Stone — Sepultura encerra ciclo",
+     "https://rollingstone.com.br/guia-show/sepultura-encerra-ciclo-no-rock-in-rio-com-celebracao-a-era-derrick-green/"
+    ],
+    [
+     "Billboard Brasil — Avenged Sevenfold, hits e sermão",
+     "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+    ],
+    [
+     "Portal Democrata — Avenged Sevenfold (atraso e chuva)",
+     "https://portaldemocrata.com.br/2026/09/06/avenged-sevenfold-agita-o-rock-in-rio-2026-e-leva-publico-ao-delirio-com-sua-performance-eletrizante/"
+    ],
+    [
+     "Portal Democrata — BMTH comemora single no palco",
+     "https://portaldemocrata.com.br/2026/09/06/bring-me-the-horizon-comemora-lancamento-de-novo-single-durante-rock-in-rio-2026/"
+    ],
+    [
+     "Portal Democrata — MGK e a reação morna",
+     "https://portaldemocrata.com.br/2026/09/05/mgk-se-apresenta-no-rio-e-enfrenta-reacao-morna-do-publico-durante-show-de-pop-punk-emotivo/"
+    ],
+    [
+     "NC News — Megan Fox apoia MGK entre vaias",
+     "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
+    ],
+    [
+     "Poltrona Vip — Poppy no Sunset",
+     "https://poltronavip.com/poppy-leva-metal-industrial-ao-palco-sunset-do-rock-in-rio-2026-em-sua-fase-mais-pesada"
+    ],
+    [
+     "Poltrona Vip — balanço do dia 2",
+     "https://poltronavip.com/rock-in-rio-2026-segundo-dia-resumo"
+    ],
+    [
+     "Rádios Farcom — domingo com mais chuva, 22°C e ressaca",
+     "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+    ],
+    [
+     "Rádios Farcom — onde se proteger da chuva (Superbet, Itaú, TIM)",
+     "https://www.formoso104fm.com.br/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows/"
+    ],
+    [
+     "TikTok — página pública da #rockinrio",
+     "https://www.tiktok.com/tag/rockinrio"
+    ]
+   ],
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 05/09 às 14h38 via perfis logados (Claude para Chrome)",
+    "headline": "Dia 2 do festival: já são 3 #publi de outras marcas na janela (iFood+Itaú, MetrôRio e Parque Bondinho) — e o publi do MetrôRio, de mobilidade, virou o post com mais comentários de toda a cobertura (1.674). Ipiranga segue sem uma única citação dos 5 creators.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 16,
+      "citouIpiranga": false,
+      "resumo": "16 publicações desde 01/09 — 7 novas em 24h. Virou canal de serviço do festival (como chegar, como voltar, comida, brindes) e já rodou 3 publis: iFood+Itaú, MetrôRio e, hoje, Parque Bondinho. Continua sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "ativo",
+      "posts": 2,
+      "citouIpiranga": false,
+      "resumo": "Voltou a publicar no dia 1 de shows: reel de humor sobre o look da abertura, 4,2 mil curtidas em 22h — melhor desempenho dele na janela. Sem marcas tageadas e sem menção à Ipiranga."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Segue sem nenhuma publicação sobre RiR. No dia 1 do festival postou conteúdo próprio ('Sextou?', 41 mil curtidas) e mantém entregas de outras marcas (@bidayaparfums.br, Red Bull)."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Nenhuma publicação sobre RiR. Publicou ontem o reel de maior alcance do grupo na janela (97 mil curtidas), mas de pauta do podcast — audiência grande e disponível, sem uso para o festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Nenhuma publicação sobre RiR. Continua em Londres — post de hoje (05/09) é de moda, com @riachuelo, @louisvuitton e @jacquemus tageados."
+     }
+    ],
+    "posts": [
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 146,
+      "coments": 18,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026' (colar oficial do festival citado nos comentários)",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — sem legenda; comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3663,
+      "coments": 1674,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9444,
+      "coments": 160,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 O território de mobilidade foi ocupado — pelo MetrôRio",
+      "s": "O <b>#Publi do @metro_rio</b> na @divasuburbana (como chegar: metrô 24h + BRT Expresso R$29 pelo Jaé) acumulou <b>1.674 comentários</b> — 10× mais que qualquer outro post da janela — porque virou balcão de dúvidas sobre deslocamento. 'Como chegar / como voltar' é o assunto nº 1 do público, e é o território natural da Ipiranga (posto, estrada, KMV). Hoje ele é de outra marca."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 3 publis na janela, zero da Ipiranga",
+      "s": "Em 5 dias os creators do plano entregaram <b>3 posts patrocinados</b> — minicâmera <b>iFood + Itaú</b> (9,4 mil curtidas, já o maior da janela), <b>MetrôRio</b> e, hoje, <b>Parque Bondinho/Pão de Açúcar</b>. Nenhuma das <b>18 publicações</b> mapeadas cita a Ipiranga. Vale confirmar hoje o cronograma de entregas contratadas para os dias 6, 7 e a 2ª semana."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Conteúdo de serviço é o que performa — e cabe a Ipiranga",
+      "s": "O reel <b>'voltando do RiR de BRT'</b> fez <b>5,1 mil curtidas e 228 comentários em 13h</b> sem ser publi; o de brindes fez 4,2 mil; o guia de comidas subiu para 2,9 mil. O formato campeão não é show, é utilidade — exatamente onde o <b>Espaço Ipiranga, o KMV e a pochete/leque</b> entram como 'o que fazer / o que levar' num roteiro da Cidade do Rock."
+     },
+     {
+      "tone": "neg",
+      "t": "⚠️ 3 dos 5 creators seguem sem postar no dia 2 do festival",
+      "s": "@cassialourencogomes, @camilatrianda e @vittorfernando não publicaram nada de RiR — e não é falta de audiência: só ontem elas somaram <b>138 mil curtidas</b> em conteúdo de outras pautas (97 mil da @camilatrianda, 41 mil da @cassialourencogomes). @vittorfernando está em Londres. Metade da verba de influência do plano está parada enquanto o pico de atenção acontece."
+     }
+    ],
+    "note": "Coleta de 05/09 às 14h38 nos 5 perfis logados. Métricas lidas na própria publicação (curtidas/comentários/compartilhamentos); em 1 post o contador de curtidas está oculto pelo autor e em 4 posts de 02/09 e no post Beats (01/09) o contador não é exposto — campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto; 'collab' quando o post é publicação conjunta."
+   }
+  },
   {
    "date": "05/09/2026",
    "dateISO": "2026-09-05",
