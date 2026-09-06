@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 24,
-  "updatedAt": "06/09/2026, 18h45 (BRT)",
+  "version": 25,
+  "updatedAt": "06/09/2026, 20h20 (BRT)",
   "updatedISO": "2026-09-06",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,86 +793,86 @@ window.RADAR = {
    "edition": 14,
    "phase": "festival — dia 3 (pop & hits · esgotado)",
    "pulse": [
-    "🤘 <b>A noite do metal terminou com três narrativas:</b> Bring Me The Horizon roubou o dia — 'possivelmente o melhor show do dia do metal de 2026' (Rolling Stone), com Oli Sykes falando português, 'tenho Pix e CPF' e fã puxado ao palco; Avenged Sevenfold fechou com 30 min de atraso, hits de quase 30 anos e um sermão do M. Shadows contra a toxicidade dos fãs nas redes; e MGK virou a fricção da noite — vaias do público do metal, show interrompido para desabafo ('sou um cara de Ohio vivendo meu sonho') e Megan Fox na plateia entre vaias e tensão.",
-    "🌧️ <b>Hoje é o dia mais duro da operação:</b> dia 3 ESGOTADO (Calvin Harris, Black Eyed Peas, Jota Quest canta Tim Maia), com chuva prevista MAIOR que a de sábado, máxima de 22°C e ressaca com ondas de até 2,5 m até a noite de 7/9 — público pop lotando a Cidade do Rock debaixo d'água, menos 'resistente' que o do metal de ontem.",
-    "📍 <b>Alerta de marca:</b> a pauta de serviço 'onde se proteger da chuva na Cidade do Rock' já existe — e a matéria citou Superbet, Itaú e TIM como abrigos, sem mencionar o Espaço Ipiranga. Com chuva pior hoje e o dia dos 89 anos amanhã (previsão ainda instável), entrar no mapa do refúgio é a disputa do dia."
+    "🌙 <b>Edição da noite (20h):</b> o dia 3 ESGOTADO virou o dia da chuva — precipitação forte desde a tarde, máxima real de ~18°C (abaixo dos 22°C previstos), agendamento de roda-gigante e tirolesa SUSPENSO por segurança e capa descartável vendida a preço dobrado na porta da Cidade do Rock. No palco, o dia abriu histórico: Barão Vermelho com a formação original fechou com 'Pro Dia Nascer Feliz' 41 anos depois de 1985; Calema estreou no Brasil com Dilsinho e o BaianaSystem cantou debaixo d'água. Ainda vêm Jota Quest canta Tim Maia, Black Eyed Peas, Ne-Yo e Calvin Harris na madrugada.",
+    "🎯 <b>A pauta que toca a marca já saiu:</b> às 19h41 a cobertura registrou filas de brinde se estendendo SOB CHUVA e 'frustração' do público — e, no mesmo texto, gente usando acessório de marca como proteção improvisada. É o cenário exato do alerta da manhã: a pochete não pode ser a foto da fila molhada, e o brinde 'útil na chuva' é quem ganha o dia.",
+    "📉 <b>Trends na rodada da noite:</b> #rockinrio no TikTok seguiu em 5,7 mi de views às 20h — 5,7 mi → 5,7 mi em 11h, contador público parado desde 03/09: métrica defasada, não termômetro do fim de semana. Google Trends BR ficou sem medição (bloqueio de rede na rodada; feed acessível só devolve ranking dos EUA, sem termos do festival). Amanhã é o dia dos 89 anos, com ressaca valendo até a noite de 7/9 e grade antecipada (Gil 20h30, Elton John 23h)."
    ],
    "news": [
     {
-     "t": "Rolling Stone: Bring Me The Horizon 'confirma grandeza' e faz possivelmente o melhor show do dia do metal",
-     "src": "Rolling Stone Brasil (Igor Miranda)",
+     "t": "Chuva forte suspende o agendamento de roda-gigante e tirolesa no 3º dia; capa descartável dobra de preço na porta",
+     "src": "Jovem Pan / Diário do Grande ABC (Estadão Conteúdo)",
+     "when": "06/09, 17h55",
+     "s": "Organização suspendeu o agendamento das duas atrações 'por questões de segurança diante das condições climáticas', sem previsão de retomada. Máxima real não passou de ~18°C, chuva intermitente desde a véspera, guarda-chuva proibido — e capas descartáveis de R$ 10-20 vendidas pelo dobro perto da Cidade do Rock. O público do dia esgotado veio mesmo assim.",
+     "u": "https://jovempan.com.br/entretenimento/musica/chuva-forte-leva-a-suspensao-do-agendamento-de-roda-gigante-e-tirolesa-no-rock-in-rio/"
+    },
+    {
+     "t": "Barão Vermelho abre o Palco Mundo com a formação original e fecha com 'Pro Dia Nascer Feliz' 41 anos depois",
+     "src": "Tribuna do Sertão / Semana Pop",
      "when": "06/09",
-     "s": "Na estreia da banda no festival, show com qualidade de headliner antes do Avenged: repertório híbrido metal/pop, telões com estética de videogame, 'Kingslayer' com o Babymetal em base gravada e Oli Sykes jogando com a residência brasileira — falou português, celebrou 'Pix e CPF' e puxou o fã JP ao palco para cantar. Veredicto: 'principal referência do metal contemporâneo', com impacto comparado ao do Linkin Park para outras gerações.",
-     "u": "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+     "s": "Frejat, Guto Goffi, Maurício Barros, Dé Palmeira e Fernando Magalhães percorreram as quatro décadas da banda, com bloco-homenagem a Cazuza (projeções e áudios de época) e telão revendo 40 anos de história — Mandela, Senna. O encerramento com a música que abriu o Rock in Rio de 1985 é o momento histórico do dia; mesmo com chuva e frio, o público cantou o show inteiro.",
+     "u": "https://www.tribunadosertao.com.br/variedades/2026/09/06/974325-barao-vermelho-momento-historico-ao-cantar-pro-dia-nascer-feliz-41-anos-depois-no-rock-in-rio"
     },
     {
-     "t": "Avenged Sevenfold fecha a noite com 30 min de atraso, hits de quase 30 anos e bronca na toxicidade das redes",
-     "src": "Billboard Brasil / Portal Democrata",
+     "t": "Fila de brinde na chuva vira pauta: 'frustração' do público no dia mais cheio do 1º fim de semana",
+     "src": "Brasil em Folhas",
+     "when": "06/09, 19h41",
+     "s": "A cobertura do 3º dia registrou filas de brinde se estendendo sob chuva e frustração de quem esperava os itens de maior valor (1 milhão de brindes, 100+ ativações), looks adaptados com capas plásticas e acessórios de marcas usados como proteção improvisada, e influenciadores documentando o gramado alagado — sem incidentes graves.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/chuva-marca-terceiro-dia-de-rock-in-rio/"
+    },
+    {
+     "t": "Calema estreia no Brasil abrindo o Sunset, com participação de Dilsinho",
+     "src": "Semana Pop",
+     "when": "06/09, 20h26",
+     "s": "Primeira apresentação do duo de São Tomé e Príncipe no país, debaixo de chuva intensa e com plateia ainda chegando: 'Vai', 'Amar Pela Metade', 'A Nossa Vez', Dilsinho em 'Leva Tudo' e bandeira são-tomense no palco — o afro-pop lusófono ganhou sua vitrine brasileira.",
+     "u": "https://www.semanapop.com.br/calema-estreia-no-brasil-e-aproxima-afro-pop-do-rock-in-rio/"
+    },
+    {
+     "t": "BaianaSystem canta sob chuva no Sunset — 'chuva miúda não mata ninguém' — e leva telão político",
+     "src": "Portal Democrata",
      "when": "06/09",
-     "s": "Show começou ~00h35 sem explicação do atraso. Setlist de clássicos ('Nightmare', 'Bat Country', 'Hail to the King', 'Afterlife', estreia de 'Magic'), nova identidade visual em três 'atos' e pirotecnia no encerramento. M. Shadows criticou brigas de fãs e negatividade no X contra artistas do line-up (MGK, BMTH, Bad Omens, Poppy, Sepultura) e chegou a perguntar se a chuva explicava a energia contida da plateia.",
-     "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+     "s": "Show de pouco mais de 1h mesclando samba, reggae e rock, aberto com 'Água' (apropriado), triolim em cena, poema declamado por Alice Carvalho e telão trocando 'ordem e progresso' por 'sem anistia' na bandeira — a nota política do dia, celebrada pelos fãs nas redes. Conversa de mérito/posicionamento: fora do território da marca.",
+     "u": "https://portaldemocrata.com.br/2026/09/06/baianasystem-canta-hits-sob-chuva-no-rock-in-rio-2026/"
     },
     {
-     "t": "MGK enfrenta vaias do público do metal e interrompe o show para desabafar; Megan Fox acompanhou da plateia",
-     "src": "NC News / Portal Democrata",
-     "when": "05/09-06/09",
-     "s": "Recepção fria e vaias audíveis de uma plateia que esperava Avenged: braços cruzados no início, adesão parcial em 'my ex's best friend' e um MGK que parou o show para se apresentar com humildade — 'sou um cara de Ohio vivendo meu sonho'. A presença de Megan Fox, apoiando o artista 'entre vaias e tensão', é a pauta de celebridade da madrugada.",
-     "u": "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
-    },
-    {
-     "t": "Poppy é apontada como destaque do Sunset: rodinhas punk e 'uma das apostas mais inventivas do metal atual'",
-     "src": "Poltrona Vip",
-     "when": "06/09, 08h51",
-     "s": "Resenha pós-show: mistura de pop, metal industrial e djent abriu 'diversas rodinhas punks' no gramado, com voz limpa e guturais 'eficientes' em execução segura e produção econômica. No mesmo balanço do dia 2, Bad Omens fecha o Sunset equilibrando momentos pesados e emocionais.",
-     "u": "https://poltronavip.com/poppy-leva-metal-industrial-ao-palco-sunset-do-rock-in-rio-2026-em-sua-fase-mais-pesada"
-    },
-    {
-     "t": "Rolling Stone consolida a despedida do Sepultura: 'encerra ciclo com celebração à era Derrick Green'",
-     "src": "Rolling Stone Brasil",
-     "when": "06/09",
-     "s": "A leitura de fechamento da noite confirma o que as resenhas do fim de tarde apontavam: despedida sob chuva sem 'Roots Bloody Roots', coerente com a proposta de celebrar os 28 anos da era Green — o debate sobre o setlist seguiu como a polêmica musical do fim de semana.",
-     "u": "https://rollingstone.com.br/guia-show/sepultura-encerra-ciclo-no-rock-in-rio-com-celebracao-a-era-derrick-green/"
-    },
-    {
-     "t": "Domingo terá mais chuva que sábado, máxima de 22°C e ressaca com ondas de 2,5 m",
+     "t": "Ressaca segue até a noite de 7/9 — dia dos 89 anos da Ipiranga tem grade antecipada e previsão ainda instável",
      "src": "Rádios Farcom (Climatempo / Marinha)",
      "when": "06/09",
-     "s": "A Climatempo prevê volume de chuva superior ao de sábado, com frente fria trazendo ar frio e úmido do oceano; a Marinha mantém aviso de ressaca entre Cananéia (SP) e Arraial do Cabo (RJ) com ondas de até 2,5 m da madrugada de hoje à noite de 7/9. Recomendação ao público do dia esgotado: capa de chuva na mochila e agasalho reforçado.",
+     "s": "O aviso da Marinha (ondas de até 2,5 m) vale até a noite de segunda, e a previsão para 7/9 mantém chuva fraca a moderada isolada. Com Gilberto Gil às 20h30 e Elton John às 23h, a operação de amanhã — e o 'parabéns' da marca — deve contar com cenário indoor.",
      "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
     }
    ],
    "ipiranga": [
     {
-     "t": "A imprensa mapeou os abrigos da chuva na Cidade do Rock — e o Espaço Ipiranga ficou fora da lista",
-     "src": "Rádios Farcom + leitura da varredura",
-     "when": "05/09",
-     "s": "O guia 'onde se proteger da chuva sem perder os shows' citou Superbet, Itaú e TIM como estruturas cobertas, além de áreas comuns. Nenhuma menção à Ipiranga. Com chuva maior hoje e dia esgotado, a marca precisa disputar essa pauta de serviço — assessoria oferecendo o espaço como refúgio coberto e social próprio comunicando 'ponto seco' com mapa.",
-     "u": "https://www.formoso104fm.com.br/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows/"
+     "t": "Aconteceu o que a manhã temia: fila de brinde sob chuva virou matéria, com 'frustração' no texto",
+     "src": "Brasil em Folhas",
+     "when": "06/09, 19h41",
+     "s": "A cobertura das 19h41 registrou filas de brinde se estendendo debaixo de chuva e público frustrado à espera dos itens mais valiosos — sem citar marcas específicas ATÉ AGORA. Com Black Eyed Peas e Calvin Harris ainda por vir, a operação da pochete precisa segurar a noite: fila coberta, janelas comunicadas e estoque por período. A pochete não pode ser a foto da frustração de amanhã.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/chuva-marca-terceiro-dia-de-rock-in-rio/"
     },
     {
-     "t": "Dia esgotado + chuva pior que sábado = estresse máximo de fila; a pochete não pode virar a matéria de amanhã",
-     "src": "Rádios Farcom (Climatempo) + leitura da varredura",
+     "t": "Brinde de marca virou capa de chuva improvisada — e capa descartável dobrou de preço na porta",
+     "src": "Brasil em Folhas / Diário do Grande ABC",
      "when": "06/09",
-     "s": "O público pop de domingo (Calvin Harris, Black Eyed Peas) tende a ser menos tolerante a fila na chuva que o do metal — e a imprensa já mostrou apetite pela pauta de filas de brinde no dia 1. Volume recorde + chuva superior à de sábado exigem janelas de distribuição comunicadas, estoque por período e fila 100% coberta.",
-     "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+     "s": "O público está usando acessório de ativação como proteção contra a água, enquanto ambulantes dobram o preço da capa plástica (R$ 10-20 virando R$ 20-40) e guarda-chuva é proibido. Leitura tática: utilidade climática é o brinde que vence esta edição — vale avaliar poncho/capa Ipiranga-AmPm já para o dia dos 89 anos e para a semana 2, e comunicar a pochete como 'à prova do dia' se o material permitir.",
+     "u": "https://www.dgabc.com.br/Noticia/4345460/chuva-forte-leva-a-suspensao-do-agendamento-de-roda-gigante-e-tirolesa-no-rock-in-rio"
     },
     {
-     "t": "D-1 dos 89 anos: ressaca até a noite de 7/9 e previsão instável — o roteiro do 'parabéns' precisa fechar hoje",
-     "src": "Rádios Farcom (Marinha/Climatempo)",
-     "when": "06/09",
-     "s": "O aviso de ressaca vale até a noite de segunda (dia da marca), e a segunda segue com chuva fraca a moderada isolada na previsão oficial. Com grade antecipada (Gilberto Gil 20h30, Elton John 23h) e casa cheia, o momento 'parabéns', convidados e captação dos 89 anos precisam de roteiro indoor travado ainda hoje — e a contagem regressiva pública pode começar já.",
-     "u": "https://www.formoso104fm.com.br/rock-in-rio-tera-domingo-de-mais-chuva-e-frio-com-maxima-de-22c/"
+     "t": "Roda-gigante e tirolesa suspensas = demanda por área coberta no pico — e o mapa do refúgio segue sem a Ipiranga",
+     "src": "Jovem Pan + leitura da varredura",
+     "when": "06/09, 17h55",
+     "s": "Com as duas atrações-símbolo fechadas por segurança e chuva a noite toda, o público esgotado se concentra em estruturas cobertas. A pauta de serviço 'onde se abrigar' da imprensa seguiu citando Superbet, Itaú e TIM — o Espaço Ipiranga continua fora da lista. Assessoria tem a madrugada e a manhã de 7/9 para colocar o espaço no mapa do refúgio antes do dia da marca.",
+     "u": "https://jovempan.com.br/entretenimento/musica/chuva-forte-leva-a-suspensao-do-agendamento-de-roda-gigante-e-tirolesa-no-rock-in-rio/"
     },
     {
-     "t": "A conversa da madrugada foi vaia e briga de fã — território onde a marca não entra",
-     "src": "Billboard Brasil / NC News",
+     "t": "D-1 dos 89 anos: a varredura da noite não achou pauta proprietária nova da marca hoje",
+     "src": "Leitura da varredura (Mundo do Marketing 10/06 como última grande pauta do aniversário)",
      "when": "06/09",
-     "s": "Vaias ao MGK, sermão do M. Shadows contra a toxicidade no X e Megan Fox na plateia: o assunto quente das redes é exatamente o tipo de conversa de mérito musical/celebridade de que a Ipiranga fica fora por princípio. Guard-rail do dia para social e influenciadores: zero surf em meme de vaia; a marca fala de jornada, abrigo e experiência.",
-     "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+     "s": "Nenhuma matéria nova da Ipiranga publicada hoje na imprensa de marketing ou nos portais — a narrativa dos 89 anos segue ancorada no material de junho (nova versão do Espaço Ipiranga, promoção 'Parada Completa', KMV com 600 ingressos). Para o 'parabéns' de amanhã pautar a manhã de 7/9, release e convite de cobertura precisam sair ainda hoje; roteiro indoor travado (ressaca até a noite de 7/9, chuva isolada prevista, Gil 20h30 / Elton John 23h).",
+     "u": "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
     }
    ],
    "shows": {
-    "status": "Dia 3 — pop & hits, ÚNICO dia do 1º fim de semana esgotado. Palco Mundo: Barão Vermelho com a formação original + Fernando Magalhães (16h40), Nelly (19h00), Black Eyed Peas (21h20) e Calvin Harris (00h05). Sunset: Calema (15h30), BaianaSystem (17h50), Jota Quest canta Tim Maia (20h10) e Ne-Yo (22h45); New Dance Order tem Sofi Tukker (21h05) e MEDUZA (01h40). Tempo: chuva em volume MAIOR que o de sábado, máxima de 22°C e ressaca com ondas de até 2,5 m (aviso da Marinha até a noite de 7/9) — capa de chuva e agasalho na cartilha oficial do público. Transmissão: Multishow, Bis e Globoplay.",
+    "status": "Dia 3 — pop & hits, ÚNICO dia do 1º fim de semana esgotado — debaixo de chuva forte o dia inteiro (máx. real ~18°C; agendamento de roda-gigante e tirolesa SUSPENSO por segurança às 17h55, sem previsão de retomada; guarda-chuva proibido e capa descartável pelo dobro do preço na porta). Já aconteceu: Barão Vermelho abriu o Palco Mundo (16h40) com a formação original + Fernando Magalhães e fechou com 'Pro Dia Nascer Feliz' 41 anos depois — o momento histórico do dia; no Sunset, Calema estreou no Brasil (15h30) com Dilsinho, e o BaianaSystem (17h50) cantou sob chuva com telão político 'sem anistia'. Em andamento/a seguir: Nelly (19h00), Jota Quest canta Tim Maia (20h10), Black Eyed Peas (21h20), Ne-Yo (22h45), Calvin Harris (00h05) e MEDUZA no New Dance Order (01h40). Sem incidentes graves reportados até as 20h. Transmissão: Multishow, Bis e Globoplay. Repercussão completa da noite pop na edição de amanhã (9h).",
     "reperc": [
      {
       "date": "5/set (2ª noite — metal)",
@@ -955,39 +955,39 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "'Tenho Pix e CPF': Oli Sykes entrega os memes prontos da noite",
-      "src": "Rolling Stone / Portal Democrata",
-      "metric": "resenhas da manhã",
-      "s": "Português no palco, 'Pix e CPF', pedido de 'mosh pit muito grande' e o fã JP cantando com a banda: o show do BMTH gerou os momentos de maior DNA de corte viral da noite — material de brasilidade espontânea que costuma dominar os cortes de festival na manhã seguinte.",
-      "u": "https://rollingstone.com.br/guia-show/bring-me-the-horizon-confirma-grandeza-em-noite-de-metal-moderno-no-rock-in-rio/"
+      "t": "'Pro Dia Nascer Feliz' 41 anos depois: o corte histórico do dia é do Barão Vermelho",
+      "src": "Tribuna do Sertão / Semana Pop",
+      "metric": "resenhas da tarde/noite",
+      "s": "Formação original, homenagem a Cazuza com áudios de época e a música que abriu o Rock in Rio de 1985 encerrando o show sob chuva: é o material de corte emocional da noite, com DNA de viral geracional (pais e filhos no mesmo vídeo).",
+      "u": "https://www.tribunadosertao.com.br/variedades/2026/09/06/974325-barao-vermelho-momento-historico-ao-cantar-pro-dia-nascer-feliz-41-anos-depois-no-rock-in-rio"
      },
      {
-      "t": "Vaias ao MGK + Megan Fox na plateia: a pauta de celebridade da madrugada",
-      "src": "NC News / Portal Democrata",
-      "metric": "cobertura em tempo real da noite",
-      "s": "O choque entre o pop punk do MGK e o público do metal — com direito a show interrompido e desabafo — é o assunto polêmico da noite, amplificado pela presença de Megan Fox logo após o término do casal virar notícia. Conversa de alto volume e tom negativo: território para a marca monitorar e NÃO entrar.",
-      "u": "https://ncnews.com.br/2026/09/05/megan-fox-apoia-mgk-rock-in-rio-2026-entre-vaias-tensao/"
+      "t": "A chuva é a protagonista do dia 3: atrações suspensas, capa pelo dobro do preço e 'look capa plástica'",
+      "src": "Jovem Pan / Diário do Grande ABC / Brasil em Folhas",
+      "metric": "cobertura em tempo real",
+      "s": "Roda-gigante e tirolesa suspensas, gramado alagado documentado por influenciadores, figurinos adaptados com capas e acessórios de marca: a estética 'esgotado debaixo d'água' domina os registros do dia. Pauta de serviço e de meme ao mesmo tempo.",
+      "u": "https://www.brasilemfolhas.com.br/2026/09/chuva-marca-terceiro-dia-de-rock-in-rio/"
      },
      {
-      "t": "O sermão do M. Shadows contra a toxicidade no X vira a meta-conversa do festival",
-      "src": "Billboard Brasil",
-      "metric": "resenhas da manhã",
-      "s": "O vocalista do headliner dedicou parte do show a criticar brigas de fãs e ataques a MGK, BMTH, Bad Omens, Poppy e Sepultura nas redes. 'Fandom tóxico vs comunidade' é discussão com tração garantida — e reforça o clima de policiamento das redes sobre tudo que rodeia o festival neste domingo.",
-      "u": "https://billboard.com.br/avenged-sevenfold-rock-in-rio-2026/"
+      "t": "Fila de brinde na chuva + brinde virando capa: a conversa de ativação que toca a marca",
+      "src": "Brasil em Folhas",
+      "metric": "matéria das 19h41",
+      "s": "Frustração nas filas de brinde sob chuva já virou texto publicado — e o público está usando acessório de ativação como proteção improvisada. Para a Ipiranga (pochete/leque), é o tema a monitorar em tempo real esta noite: risco na fila, oportunidade na utilidade.",
+      "u": "https://www.brasilemfolhas.com.br/2026/09/chuva-marca-terceiro-dia-de-rock-in-rio/"
      },
      {
-      "t": "#rockinrio no TikTok: contador público segue em 5,7 mi de views",
+      "t": "Telão 'sem anistia' do BaianaSystem: a nota política do domingo",
+      "src": "Portal Democrata",
+      "metric": "repercussão nas redes citada pela cobertura",
+      "s": "A troca de 'ordem e progresso' por 'sem anistia' na bandeira, celebrada por fãs nas redes, é a conversa polêmica da noite ao lado do show do MGK ontem. Território de posicionamento político: a marca observa e não entra.",
+      "u": "https://portaldemocrata.com.br/2026/09/06/baianasystem-canta-hits-sob-chuva-no-rock-in-rio-2026/"
+     },
+     {
+      "t": "#rockinrio no TikTok: 5,7 mi → 5,7 mi em 11h — contador público parado",
       "src": "TikTok (página pública da hashtag)",
-      "metric": "5,7 mi views em 06/09, 9h — mesmo valor de 03/09",
-      "s": "Primeira leitura quantitativa desde 03/09 (as rodadas de 04-05/09 ficaram sem coleta): o contador exibido segue em 5,7 mi, sem refletir o fim de semana de abertura — indício de que a página pública arredonda/atualiza com atraso. Vale como marco de linha de base; a curva real deve aparecer nas próximas medições.",
+      "metric": "5,7 mi views em 06/09, ~20h (mesmo valor das 9h e de 03/09)",
+      "s": "Terceira leitura idêntica desde 03/09, atravessando duas noites de festival e um dia esgotado: o contador exibido na página pública está claramente defasado/arredondado e não serve como termômetro diário. Mantemos o registro pela disciplina da série; a curva real do TikTok deve ser lida pelos cortes (Barão, chuva, BMTH ontem), não por este número.",
       "u": "https://www.tiktok.com/tag/rockinrio"
-     },
-     {
-      "t": "'Vai ter show na chuva?' — a pauta de serviço do dia esgotado",
-      "src": "Rádios Farcom (Climatempo/Marinha)",
-      "metric": "pauta de utilidade em ascensão",
-      "s": "Chuva maior que a de sábado, 22°C de máxima e ressaca de 2,5 m no único dia esgotado do fim de semana: 'o que pode levar', 'onde se abrigar' e 'como chegar' são as buscas naturais da manhã. A imprensa já começou a responder — inclusive listando quais marcas têm abrigo coberto (Superbet, Itaú e TIM foram as citadas; a Ipiranga ainda não).",
-      "u": "https://www.formoso104fm.com.br/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows/"
      }
     ],
     "sources": [
@@ -996,27 +996,27 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "sem medição BR hoje",
+      "statusLabel": "sem medição BR na rodada da noite",
       "items": [],
-      "note": "O feed RSS respondeu nesta rodada, mas devolveu o ranking dos EUA (geo=US) — a geolocalização do proxy da sessão sobrescreve o parâmetro geo=BR. Sem medição confiável do Brasil; nos itens dos EUA não havia nenhum termo do festival. Nova tentativa na rodada das 20h."
+      "note": "O feed geo=BR não pôde ser coletado nesta rodada (bloqueio de permissão de rede no ambiente da rotina, sem usuário para aprovar). O feed geo=US — único acessível — não traz nenhum termo do festival ou de seus artistas. Sem medição BR hoje (manhã e noite); nova tentativa na rodada das 9h."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "partial",
-      "statusLabel": "medição feita, contador possivelmente defasado",
+      "statusLabel": "medição feita — contador defasado",
       "items": [
        {
-        "t": "#rockinrio: 5,7 mi de views (06/09, ~9h BRT)",
-        "s": "Mesmo valor da linha de base de 03/09, após dois dias sem coleta (04-05/09 bloqueados). Contador idêntico depois de duas noites de festival sugere arredondamento/cache da página pública — registrar a curva nas próximas rodadas antes de concluir estagnação.",
+        "t": "#rockinrio: 5,7 mi de views (06/09, ~20h BRT) — 5,7 mi → 5,7 mi em 11h",
+        "s": "Mesmo valor da medição das 9h e da linha de base de 03/09. Três leituras idênticas atravessando o fim de semana de abertura confirmam: o contador da página pública arredonda/atualiza com grande atraso. Seguimos registrando a série, mas ela não reflete o volume real do fim de semana.",
         "u": "https://www.tiktok.com/tag/rockinrio"
        }
       ],
-      "note": "Página pública da hashtag voltou a responder nesta rodada. Variações (/tag/rockinrio2026) e páginas /discover/ seguem bloqueadas por robots.txt."
+      "note": "Página pública respondeu na rodada da noite. Variações (/tag/rockinrio2026) e páginas /discover/ seguem bloqueadas por robots.txt."
      }
     ],
-    "note": "Rodada das 9h de 06/09: TikTok voltou a responder (1ª medição desde 03/09 — mesmo valor, 5,7 mi, com ressalva de contador possivelmente defasado); Google Trends BR sem medição (feed devolveu ranking dos EUA). O bloco viral é leitura editorial das resenhas e coberturas da noite, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h de 06/09: TikTok medido (5,7 mi — idêntico às 9h; contador público defasado, curva flat é limitação da fonte, não estagnação do conteúdo); Google Trends BR sem medição nas duas rodadas do dia (feed BR inacessível na noite; feed US sem termos do festival). Bloco viral é leitura editorial da cobertura da tarde/noite, com fonte e link em todo item. Nenhum número estimado."
    },
    "direcionais": {
     "leitura": "A noite do metal fechou o dia 2 com narrativa boa para o festival (BMTH consagrado, Sepultura celebrado) e uma fricção que dominou a madrugada (vaias ao MGK, sermão do M. Shadows, Megan Fox) — conversa de mérito musical e celebridade da qual a marca fica fora por princípio. O jogo de hoje é operacional: único dia esgotado do fim de semana, chuva MAIOR que a de sábado, 22°C e ressaca — com um público pop menos disposto a 'sofrer' que o do metal. E a imprensa já começou a distribuir o crédito do abrigo: o guia 'onde se proteger da chuva' citou Superbet, Itaú e TIM — não a Ipiranga. Amanhã são os 89 anos, com previsão ainda instável: o roteiro indoor do 'parabéns' precisa fechar hoje.",
