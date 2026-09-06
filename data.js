@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 23,
-  "updatedAt": "06/09/2026, 09h34 (BRT)",
+  "version": 24,
+  "updatedAt": "06/09/2026, 18h45 (BRT)",
   "updatedISO": "2026-09-06",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -1102,24 +1102,24 @@ window.RADAR = {
    ],
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
-    "updatedFrom": "coleta de 05/09 às 14h38 via perfis logados (Claude para Chrome)",
-    "headline": "Dia 2 do festival: já são 3 #publi de outras marcas na janela (iFood+Itaú, MetrôRio e Parque Bondinho) — e o publi do MetrôRio, de mobilidade, virou o post com mais comentários de toda a cobertura (1.674). Ipiranga segue sem uma única citação dos 5 creators.",
+    "updatedFrom": "coleta de 06/09 às 18h40 via perfis logados (Claude para Chrome)",
+    "headline": "Dia 3: @divasuburbana publicou 9 vezes em 24h e o Itaú chegou a comentar no perfil dela ('#ItaúnoRockinRio2026'). São 29 publicações na janela, 4 publis de outras marcas — e zero menção à Ipiranga.",
     "creators": [
      {
       "handle": "@divasuburbana",
       "nome": "Desirré Andrade",
       "status": "ativo",
-      "posts": 16,
+      "posts": 25,
       "citouIpiranga": false,
-      "resumo": "16 publicações desde 01/09 — 7 novas em 24h. Virou canal de serviço do festival (como chegar, como voltar, comida, brindes) e já rodou 3 publis: iFood+Itaú, MetrôRio e, hoje, Parque Bondinho. Continua sem citar a Ipiranga."
+      "resumo": "25 publicações desde 01/09 — 9 novas em 24h, o dia mais intenso da cobertura. Virou o canal de serviço do festival (como chegar, como voltar, comida, brindes, chuva) e já rodou 4 publis/collabs de terceiros: iFood+Itaú, MetrôRio, Parque Bondinho e o perfil do Rock in Rio Lisboa. Segue sem citar a Ipiranga."
      },
      {
       "handle": "@jeffmattias",
       "nome": "Jeff Mattias",
       "status": "ativo",
-      "posts": 2,
+      "posts": 4,
       "citouIpiranga": false,
-      "resumo": "Voltou a publicar no dia 1 de shows: reel de humor sobre o look da abertura, 4,2 mil curtidas em 22h — melhor desempenho dele na janela. Sem marcas tageadas e sem menção à Ipiranga."
+      "resumo": "4 posts na janela. O de maior alcance (58,3 mil curtidas) não é cobertura do festival: é um react sobre um episódio de homofobia, publicado com #rockinrio. A cobertura de fato do RiR ficou em look do dia 1 e 'dia de rock' no dia 2. Nenhuma marca tageada."
      },
      {
       "handle": "@cassialourencogomes",
@@ -1127,7 +1127,7 @@ window.RADAR = {
       "status": "silencioso",
       "posts": 0,
       "citouIpiranga": false,
-      "resumo": "Segue sem nenhuma publicação sobre RiR. No dia 1 do festival postou conteúdo próprio ('Sextou?', 41 mil curtidas) e mantém entregas de outras marcas (@bidayaparfums.br, Red Bull)."
+      "resumo": "Sexto dia sem nenhuma publicação sobre RiR. Segue com conteúdo próprio e de outras marcas (@bidayaparfums.br, Red Bull)."
      },
      {
       "handle": "@camilatrianda",
@@ -1135,7 +1135,7 @@ window.RADAR = {
       "status": "silencioso",
       "posts": 0,
       "citouIpiranga": false,
-      "resumo": "Nenhuma publicação sobre RiR. Publicou ontem o reel de maior alcance do grupo na janela (97 mil curtidas), mas de pauta do podcast — audiência grande e disponível, sem uso para o festival."
+      "resumo": "Nenhuma publicação sobre RiR. Publicou nesse período o reel de maior alcance do grupo fora do festival (97 mil curtidas) e uma nova parceria (@meucrushcookie) — audiência grande e disponível, sem uso para o evento."
      },
      {
       "handle": "@vittorfernando",
@@ -1143,17 +1143,155 @@ window.RADAR = {
       "status": "silencioso",
       "posts": 0,
       "citouIpiranga": false,
-      "resumo": "Nenhuma publicação sobre RiR. Continua em Londres — post de hoje (05/09) é de moda, com @riachuelo, @louisvuitton e @jacquemus tageados."
+      "resumo": "Nenhuma publicação sobre RiR. Continua em Londres — os posts do fim de semana são de moda e hotel (@theguardsmanhotel, @riachuelo, @louisvuitton)."
      }
     ],
     "posts": [
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 58300,
+      "coments": 3300,
+      "shares": 3400,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
      {
       "date": "05/09",
       "handle": "@divasuburbana",
       "tipo": "Reel",
       "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
-      "likes": 146,
-      "coments": 18,
+      "likes": 330,
+      "coments": 23,
       "shares": 15,
       "marcas": [
        "@parquebondinho",
@@ -1178,7 +1316,7 @@ window.RADAR = {
       "date": "04/09",
       "handle": "@divasuburbana",
       "tipo": "Reel",
-      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026' (colar oficial do festival citado nos comentários)",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
       "likes": null,
       "coments": 33,
       "shares": 37,
@@ -1190,7 +1328,7 @@ window.RADAR = {
       "date": "04/09",
       "handle": "@divasuburbana",
       "tipo": "Reel",
-      "tema": "Brindes e ativações da Cidade do Rock — sem legenda; comentários perguntam fila, mirante do Itaú e minicâmera",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
       "likes": 4158,
       "coments": 56,
       "shares": 54,
@@ -1231,8 +1369,8 @@ window.RADAR = {
       "handle": "@divasuburbana",
       "tipo": "Reel",
       "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
-      "likes": 3663,
-      "coments": 1674,
+      "likes": 3826,
+      "coments": 1640,
       "shares": 82,
       "marcas": [
        "@metro_rio"
@@ -1256,21 +1394,9 @@ window.RADAR = {
       "date": "03/09",
       "handle": "@divasuburbana",
       "tipo": "Reel",
-      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
-      "likes": 690,
-      "coments": 50,
-      "shares": 12,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
-     },
-     {
-      "date": "03/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
       "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
-      "likes": 9444,
-      "coments": 160,
+      "likes": 9550,
+      "coments": 168,
       "shares": 79,
       "marcas": [
        "@ifoodbrasil",
@@ -1290,6 +1416,18 @@ window.RADAR = {
       "marcas": [],
       "collab": "",
       "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
      },
      {
       "date": "03/09",
@@ -1383,26 +1521,31 @@ window.RADAR = {
     "alerts": [
      {
       "tone": "neg",
-      "t": "🚨 O território de mobilidade foi ocupado — pelo MetrôRio",
-      "s": "O <b>#Publi do @metro_rio</b> na @divasuburbana (como chegar: metrô 24h + BRT Expresso R$29 pelo Jaé) acumulou <b>1.674 comentários</b> — 10× mais que qualquer outro post da janela — porque virou balcão de dúvidas sobre deslocamento. 'Como chegar / como voltar' é o assunto nº 1 do público, e é o território natural da Ipiranga (posto, estrada, KMV). Hoje ele é de outra marca."
+      "t": "🚨 O Itaú já está dentro dos comentários da nossa creator",
+      "s": "No reel de ativação de hoje da @divasuburbana, o perfil oficial do <b>@itau</b> comentou <b>'Diva investigativa 🔍 #ItaúnoRockinRio2026'</b> — e o público respondeu perguntando <b>'como faz pra ver? tem que agendar?'</b>. Além dos 2 publis (minicâmera iFood+Itaú, agora com 9,5 mil curtidas), a marca ocupa agora também o espaço de resposta e de dúvida no perfil. É o comportamento de social listening ativo que a Ipiranga ainda não está fazendo nesses perfis."
      },
      {
       "tone": "neg",
-      "t": "🚨 3 publis na janela, zero da Ipiranga",
-      "s": "Em 5 dias os creators do plano entregaram <b>3 posts patrocinados</b> — minicâmera <b>iFood + Itaú</b> (9,4 mil curtidas, já o maior da janela), <b>MetrôRio</b> e, hoje, <b>Parque Bondinho/Pão de Açúcar</b>. Nenhuma das <b>18 publicações</b> mapeadas cita a Ipiranga. Vale confirmar hoje o cronograma de entregas contratadas para os dias 6, 7 e a 2ª semana."
+      "t": "🚨 29 publicações na janela, nenhuma cita a Ipiranga",
+      "s": "Seis dias de janela e <b>4 entregas patrocinadas/conjuntas de terceiros</b> nos perfis do plano: <b>iFood + Itaú</b>, <b>MetrôRio</b>, <b>Parque Bondinho/Pão de Açúcar</b> e hoje o collab com o <b>@rockinriolisboa</b>. A marca não aparece em nenhuma das 29 publicações mapeadas. Faltam 1 dia da semana 1 e os 3 dias da semana 2 — é a última janela útil para acionar entregas."
      },
      {
       "tone": "pos",
-      "t": "✅ Conteúdo de serviço é o que performa — e cabe a Ipiranga",
-      "s": "O reel <b>'voltando do RiR de BRT'</b> fez <b>5,1 mil curtidas e 228 comentários em 13h</b> sem ser publi; o de brindes fez 4,2 mil; o guia de comidas subiu para 2,9 mil. O formato campeão não é show, é utilidade — exatamente onde o <b>Espaço Ipiranga, o KMV e a pochete/leque</b> entram como 'o que fazer / o que levar' num roteiro da Cidade do Rock."
+      "t": "✅ A chuva virou a pauta do dia 3 — e é território de pochete e leque",
+      "s": "Dois dos posts de hoje são sobre encarar a chuva ('A GENTE TÁ PREPARADO, CHUVAAAA', <b>2,4 mil curtidas</b>; e o reel de manhã com <b>2,5 mil curtidas e 98 comentários</b> no tom 'com ou sem chuva a gente vai'). Com guarda-chuva proibido no evento, <b>pochete e leque da Ipiranga</b> são exatamente o item funcional dessa conversa — e ninguém está ocupando esse ângulo."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Pico de audiência: 9 posts em 24h e recorde de compartilhamento",
+      "s": "O reel <b>'ninguém me tira do palco hoje'</b> fez <b>6,2 mil curtidas e 330 compartilhamentos</b> — o maior share da janela — e o post de feedback do dia 2 puxou <b>146 comentários</b>. A creator está em ritmo de cobertura ao vivo, com o público pedindo indicação: é o melhor momento do festival para encaixar o Espaço Ipiranga num roteiro de 'o que fazer'."
      },
      {
       "tone": "neg",
-      "t": "⚠️ 3 dos 5 creators seguem sem postar no dia 2 do festival",
-      "s": "@cassialourencogomes, @camilatrianda e @vittorfernando não publicaram nada de RiR — e não é falta de audiência: só ontem elas somaram <b>138 mil curtidas</b> em conteúdo de outras pautas (97 mil da @camilatrianda, 41 mil da @cassialourencogomes). @vittorfernando está em Londres. Metade da verba de influência do plano está parada enquanto o pico de atenção acontece."
+      "t": "⚠️ Brand safety: o maior post da janela é um react de polêmica",
+      "s": "O post de maior alcance de todos os perfis é do @jeffmattias e tem <b>58,3 mil curtidas, 3,3 mil comentários e 3,4 mil compartilhamentos</b> — mas é um react sobre um episódio de <b>homofobia</b> envolvendo outro criador, publicado com a hashtag #rockinrio. Não é cobertura do festival e não é ambiente de marca: vale acompanhar o desdobramento antes de acionar qualquer entrega patrocinada com ele. Em paralelo, <b>3 dos 5 creators seguem sem publicar nada de RiR</b>."
      }
     ],
-    "note": "Coleta de 05/09 às 14h38 nos 5 perfis logados. Métricas lidas na própria publicação (curtidas/comentários/compartilhamentos); em 1 post o contador de curtidas está oculto pelo autor e em 4 posts de 02/09 e no post Beats (01/09) o contador não é exposto — campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto; 'collab' quando o post é publicação conjunta."
+    "note": "Coleta de 06/09 às 18h40 nos 5 perfis logados. Métricas lidas na própria publicação (curtidas/comentários/compartilhamentos) — números do dia, ainda em crescimento nos posts de hoje. Em 1 post o autor oculta o contador de curtidas e em 4 posts de 02/09 e no post Beats (01/09) o contador não é exposto: campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
    }
   },
   {
