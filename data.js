@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 27,
-  "updatedAt": "07/09/2026, 14h05 (BRT)",
+  "version": 28,
+  "updatedAt": "07/09/2026, 20h14 (BRT)",
   "updatedISO": "2026-09-07",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,86 +793,86 @@ window.RADAR = {
    "edition": 15,
    "phase": "festival — dia 4 (despedida de Elton John · 89 anos da Ipiranga · esgotado)",
    "pulse": [
-    "🎂 <b>Hoje é O dia da marca:</b> a Ipiranga faz 89 anos no feriado da Independência, no 2º dia consecutivo esgotado (100 mil) e na noite mais simbólica do festival — Gilberto Gil às 20h30 na turnê de despedida e Elton John às 23h de volta ao Brasil após 2017, em grade antecipada com pirotecnia (20h25) e show de drones (21h45). Até as 9h, NENHUMA pauta nova do aniversário na imprensa: o 'parabéns' que pautar a manhã ainda precisa sair da própria marca.",
-    "🌧️ <b>A véspera entregou a melhor noite pop — debaixo d'água:</b> primeira data com 100 mil ingressos vendidos, chuva persistente e 17°C. Black Eyed Peas fez 'uma das apresentações mais energéticas e lotadas' do festival (Papatinho no palco, homenagem a Sérgio Mendes com 'Chove Chuva' NA chuva), Jota Quest estreou o tributo a Tim Maia com Tony Tornado (96 anos) e Negra Li, e Calvin Harris entrou para a história como 1º DJ a fechar o Palco Mundo — com debate na crítica ('balada ou show?') e parte do público indo embora antes dos fogos.",
-    "📵 <b>Trends sem medição na rodada da manhã:</b> Google Trends BR e página da #rockinrio no TikTok ficaram inacessíveis no ambiente da rotina (bloqueio de rede, sem usuário para aprovar) — colunas publicadas como 'off', bloco viral sustentado pela cobertura de imprensa. Última leitura do TikTok segue 5,7 mi (contador público parado desde 03/09). Previsão de hoje: nublado com chuva fraca a moderada isolada; brinquedos suspensos ontem (vento de até 85 km/h) seguem sem previsão de retomada."
+    "🌙 <b>Edição da noite (20h):</b> o dia dos 89 anos da Ipiranga foi de frio (~18°C) e chuva do início ao fim — público esgotado (100 mil) de capa de chuva e a organização mantendo a programação do feriado. A noite decisiva está em curso na hora desta edição: pirotecnia 20h25, Gilberto Gil 20h30 (despedida da 'Tempo Rei'), show de drones 21h45 e Elton John 23h–0h45, no 1º show no Brasil desde 2017. Repercussão completa na edição de amanhã (9h).",
+    "🎂 <b>O aniversário passou o dia sem virar pauta:</b> da varredura das 9h à das 20h, NENHUMA matéria nova sobre os 89 anos da Ipiranga na imprensa ou no trade — a janela 'feriado + casa cheia + Gil/Elton' se fechou sem earned media do 'parabéns'. A narrativa pública da marca segue ancorada no material de junho e na pauta de brindes (a mais recente: Aurora Cultural, 06/09, com a citação do VP de marketing sobre 'itens úteis e personalizáveis').",
+    "🎤 <b>A tarde foi morna no Palco Mundo:</b> Luísa Sonza abriu às 16h10 com público visivelmente reduzido e problemas de som — salvos pelo dueto 'Chico' com Roberto Menescal, 88 anos, o corte geracional da tarde; Roupa Nova voltou ao festival 35 anos depois no Sunset com Guilherme Arantes. Trends de novo sem medição (Google Trends BR e TikTok bloqueados no ambiente da rotina, 4ª rodada consecutiva) — o termômetro da noite de Elton fica para amanhã."
    ],
    "news": [
     {
-     "t": "Balanço do dia 3: primeira data com TODOS os 100 mil ingressos vendidos — e chuva persistente do início ao fim",
-     "src": "Agenda do Poder",
-     "when": "07/09, 6h11",
-     "s": "O balanço da madrugada confirma: o domingo pop foi o primeiro dia da edição com lotação máxima integral, plateia predominantemente jovem e chuva que atravessou todos os shows. Destaques do texto: Black Eyed Peas (com anúncio de faixa nova) e a formação original do Barão Vermelho. Sem incidentes graves reportados.",
-     "u": "https://agendadopoder.com.br/rock-in-rio-3o-dia-de-festival-tem-black-eyed-peas-e-barao-vermelho-como-destaques/"
+     "t": "Dia inteiro de frio e chuva no feriado — público de capa e programação mantida para a noite de Elton John",
+     "src": "ErreJota Notícias",
+     "when": "07/09, 19h04",
+     "s": "O 4º dia amanheceu e atravessou a tarde com ~18°C, umidade e chuva; o público esgotado enfrentou o tempo de capa de chuva e a organização confirmou a grade do feriado sem alterações. A noite fecha o 1º fim de semana com Gil (20h30) e Elton John (23h), além de Fatboy Slim no New Dance Order.",
+     "u": "https://errejotanoticias.com.br/com-chuva-e-frio-rock-in-rio-encerra-primeiro-fim-de-semana-com-elton-john/"
     },
     {
-     "t": "Calvin Harris transforma o Rock in Rio em 'grande balada' — que terminou mais cedo para parte do público",
-     "src": "Diário do Grande ABC (Estadão Conteúdo)",
-     "when": "07/09, 8h11",
-     "s": "O 1º DJ a headlinar o Palco Mundo entregou 90 minutos de hits ('Feel So Close', 'Summer', 'How Deep Is Your Love', 'We Found Love') sob chuva e 17°C — mas após 1h de set uma parcela grande do público deixou a Cidade do Rock, perdendo os fogos do encerramento. A crítica aponta subuso do telão e reabre o debate sobre DJ como atração principal do festival.",
-     "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+     "t": "Luísa Sonza canta 'Chico' com Menescal — mas com público pequeno e problemas de som no Palco Mundo",
+     "src": "Portal Democrata · Semana Pop",
+     "when": "07/09, 20h18",
+     "s": "A abertura do Palco Mundo (16h10) teve plateia visivelmente reduzida — 'show mais vazio' do festival, segundo o Semana Pop — e áudio que engoliu a voz nas faixas mais pesadas ('Motinha 2.0'). O resgate: 18 minutos de bossa nova e o dueto 'Chico' em versão adaptada com Roberto Menescal, aos 88 anos, o momento da tarde.",
+     "u": "https://portaldemocrata.com.br/2026/09/07/luisa-sonza-canta-chico-com-menescal-no-rock-in-rio-publico-pequeno-e-problemas-com-o-som/"
     },
     {
-     "t": "Sem Fergie, Black Eyed Peas comanda festa anos 2000 com exaltação ao Brasil, Papatinho e homenagem a Sérgio Mendes",
-     "src": "Terra (Estadão Conteúdo)",
-     "when": "07/09, 0h29",
-     "s": "'Uma das apresentações mais energéticas e lotadas' do festival: J. Rey Soul no lugar de Fergie, 'Let's Get It Started' a 'I Gotta Feeling', Papatinho no palco para anunciar parceria inédita com will.i.am, 'Chove Chuva' em tributo a Sérgio Mendes — debaixo de chuva de verdade — e will.i.am rendido: 'vocês têm uma música e uma cultura incríveis'.",
-     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
+     "t": "Vai chover no show do Elton John? Previsão aponta chuva fraca a moderada isolada — sem certeza para as 23h",
+     "src": "Exame",
+     "when": "07/09, 10h04",
+     "s": "Céu encoberto com chuva irregular: pode ou não pegar o show. Vento fraco a moderado, com rajadas mais fortes previstas entre a meia-noite e a manhã — exatamente a janela final do show (até 0h45). Sobre os brinquedos suspensos desde domingo, nenhuma atualização de retomada foi publicada ao longo do dia.",
+     "u": "https://exame.com/pop/vai-chover-no-show-de-elton-john-no-rock-in-rio/"
     },
     {
-     "t": "Jota Quest estreia ao vivo o tributo a Tim Maia com Tony Tornado (96 anos) e Negra Li no Sunset",
-     "src": "A Setlist / Semana Pop",
-     "when": "06/09-07/09",
-     "s": "Estreia do projeto 'Jota Quest & Tim Maia – Dance Enquanto É Tempo' nos 30 anos da banda: 16 faixas com vocais originais de Tim Maia cedidos pelo espólio, Tony Tornado cantando 'Sossego' ao lado do filho Lincoln e Negra Li em 'Descobridor dos Sete Mares'. Crítica destacou a fidelidade ao soul/funk original — sem 'modernização de algoritmo'.",
-     "u": "https://www.asetlist.com.br/2026/09/jota-quest-encontra-suas-proprias.html"
+     "t": "Roupa Nova volta ao Rock in Rio 35 anos depois: 'Se temos melodias populares, não é demérito. É mérito'",
+     "src": "abc+ (Estadão Conteúdo)",
+     "when": "07/09, 15h20",
+     "s": "Primeira aparição da banda no festival desde 1991, no Sunset com Guilherme Arantes (17h10). Na entrevista, o baixista Nando lembra a edição de 91 (Prince, Iron Maiden, equipe técnica estrangeira) e defende o repertório romântico — nostalgia multigeracional sob medida para o público de feriado.",
+     "u": "https://www.abcmais.com/pais/roupa-nova-retorna-ao-rock-in-rio-35-anos-depois-se-temos-melodias-populares-nao-e-demerito-e-merito/"
     },
     {
-     "t": "Hoje: grade antecipada no feriado — Gil 20h30, drones 21h45, Elton John 23h (fim 0h45)",
+     "t": "Belo fecha o Espaço Favela no feriado — com Tiee e Mart'nália na grade da tarde",
+     "src": "Exame · Terra (Estadão Conteúdo)",
+     "when": "07/09",
+     "s": "Fora dos dois palcos principais, o dia teve pagode e samba no Espaço Favela: Tiee (14h40), Mart'nália (16h30) e Belo encerrando às 18h20 — reforço de peso na programação nacional do feriado, com transmissão pelo Multishow/Globoplay a partir das 15h15.",
+     "u": "https://exame.com/pop/rock-in-rio-belo-fecha-espaco-favela-nesta-segunda-veja-programacao/"
+    },
+    {
+     "t": "Grade antecipada da noite confirmada: pirotecnia 20h25, Gil 20h30, drones 21h45, Elton John 23h–0h45",
      "src": "Vivente Andante (grade oficial atualizada)",
      "when": "04/09 (válido para 07/09)",
-     "s": "Palco Mundo: The Flight 16h, Luísa Sonza + Roberto Menescal 16h10, Jon Batiste 18h15, pirotecnia 20h25, Gilberto Gil 20h30 (despedida da 'Tempo Rei'), show de drones 21h45 e Elton John 23h–0h45, de volta ao Brasil após 2017. Sunset: Vanessa da Mata + Rubel 15h, Roupa Nova + Guilherme Arantes 17h10, Péricles canta Motown e Laufey 21h55. Fatboy Slim fecha o New Dance Order na madrugada.",
+     "s": "A grade antecipada do feriado seguiu de pé o dia todo: Palco Mundo com Jon Batiste 18h15, show pirotécnico 20h25, Gilberto Gil 20h30 (despedida da 'Tempo Rei'), drones 21h45 e Elton John 23h–0h45. Sunset: Péricles canta Motown 19h50 e Laufey 21h55. Fatboy Slim fecha o New Dance Order (1h30).",
      "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
-    },
-    {
-     "t": "Brinquedos seguem suspensos sem previsão (vento de até 85 km/h) e a segunda continua instável",
-     "src": "Exame",
-     "when": "06/09, 16h08",
-     "s": "Roda-gigante, tirolesa, Discovery, Mega Download e montanha-russa foram suspensos no domingo por rajadas de 52-85 km/h, 'sem previsão para retomada'. Para hoje: céu nublado a encoberto com chuva fraca a moderada isolada — a programação musical segue normal, mas a demanda por área coberta continua alta no dia dos 89 anos.",
-     "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
     }
    ],
    "ipiranga": [
     {
-     "t": "89 anos HOJE — e até as 9h a imprensa não tem uma linha nova sobre o aniversário",
+     "t": "89 anos sem pauta: da rodada das 9h à das 20h, nenhuma matéria nova sobre o aniversário",
      "src": "Leitura da varredura (âncora: Mundo do Marketing, 10/06)",
-     "when": "07/09, 9h",
-     "s": "O dia mais simbólico do patrocínio chegou: 89 anos no feriado da Independência, casa cheia (100 mil) e a noite Gil + Elton John. A varredura da manhã não encontrou NENHUMA matéria nova sobre o aniversário — a narrativa segue ancorada no material de junho. Tudo o que a marca publicar até o meio-dia (parabéns, história, ativação dos 89 anos no Espaço) tem a janela do feriado praticamente sozinha.",
+     "when": "07/09, 20h",
+     "s": "A janela mais simbólica do patrocínio — aniversário no feriado da Independência, casa cheia, noite Gil + Elton — se fechou sem NENHUM registro novo do 'parabéns' na imprensa ou no trade até as 20h. O que a marca tiver feito no Espaço hoje não chegou à mídia espontânea; a repercussão que restar (posts próprios, creators, cobertura da noite) precisa ser capturada amanhã pelas rotinas das 9h e 10h.",
      "u": "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
     },
     {
-     "t": "Lição operacional da véspera: público foi embora ANTES do fim na chuva — a jornada de saída é o novo ponto de atenção",
-     "src": "Diário do Grande ABC (Estadão Conteúdo)",
-     "when": "07/09, 8h11",
-     "s": "No domingo, parte grande do público abandonou a Cidade do Rock após 1h de Calvin Harris, perdendo os fogos. Com chuva isolada prevista e público de perfil mais velho/família hoje (Gil, Elton, Roupa Nova), o movimento de saída antecipada tende a se repetir: a pochete e o material dos 89 anos precisam chegar ao público ANTES do pico noturno, e o Espaço funciona como refúgio na saída — não só na chegada.",
-     "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+     "t": "A pauta de brindes mais recente é da véspera: pochete + 8 pins KMV e leques amarelos, com citação do VP de marketing",
+     "src": "Aurora Cultural",
+     "when": "06/09",
+     "s": "Matéria detalha os leques amarelos distribuídos nos gramados nos 7 dias e a pochete customizável no Espaço Ipiranga ao lado do Palco Mundo — com a escolha de até 8 pins colecionáveis como vantagem exclusiva KMV. O VP de marketing posiciona: 'itens úteis e personalizáveis, que acompanhem o fã em novas experiências' além do festival. É a narrativa que está de pé — utilidade + fidelidade, não o aniversário.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/de-pochetes-customizaveis-a-leques-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
     },
     {
-     "t": "Na pauta de serviço dos brindes, a Ipiranga aparece — no meio do pelotão de 15 marcas",
-     "src": "Seu Dinheiro",
-     "when": "05/09",
-     "s": "O guia 'brindes mais legais' lista a marca (30 mil leques amarelos, pochete customizável com 8 pins, benefícios KMV) como item 3 entre 15 empresas — atrás das minicâmeras do iFood e do espaço de 1.000 m² do Itaú, que seguem dominando o ranking de desejo. O aniversário de hoje é a chance única desta edição de virar pauta PRÓPRIA, não item de lista.",
-     "u": "https://www.seudinheiro.com/2026/lifestyle/de-mini-camera-a-bichinho-virtual-os-brindes-e-ativacoes-mais-legais-do-rock-in-rio-neste-ano-sama/"
+     "t": "Contexto competitivo do 1º fim de semana: 100+ experiências de marca e ~metade da receita vinda de patrocínio",
+     "src": "Times Brasil | CNBC (coluna Felipe Machado)",
+     "when": "04/09",
+     "s": "O balanço econômico que circulou no fim de semana dimensiona a disputa: R$ 3,36 bi injetados na economia do Rio (vs R$ 2,65 bi em 2017), 700 mil pessoas esperadas, ingressos +20% vs 2024 e mais de 100 experiências de marca — Itaú (master), Heineken (montanha-russa), iFood (drop tower), TIM (tirolesa), Vale (estreia do ECCO) e VW. Na guerra de atenção física, os brindes 'de mão' da Ipiranga disputam com brinquedos-âncora dos concorrentes — que seguem suspensos pelo vento, uma vantagem tática silenciosa dos itens portáteis.",
+     "u": "https://timesbrasil.com.br/colunas/felipe-machado/no-rock-in-rio-as-marcas-tambem-sao-rockstars-e-os-numeros-sao-superlativos-com-r-336-bi-movimentando-a-economia-da-cidade/"
     },
     {
-     "t": "O público de hoje é o mais 'jornada completa' da edição: feriado, família e clássicos — com chuva isolada no radar",
-     "src": "Vivente Andante + Exame (previsão)",
-     "when": "07/09",
-     "s": "Dia de Gil, Elton John, Roupa Nova, João Bosco e Péricles canta Motown no feriado: público mais velho, mais famílias, chegada mais cedo (grade começa 14h) e menor tolerância a desconforto. Com brinquedos suspensos e tempo instável, conforto coberto + customização + Bar AmPm + 'parabéns dos 89' é o pacote de experiência perfeito — sem precisar opinar sobre line-up.",
-     "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+     "t": "Leitura operacional da noite: chuva o dia todo muda o item-herói de conforto — e a saída antecipada segue no radar",
+     "src": "ErreJota Notícias + Exame (previsão)",
+     "when": "07/09, 19h04",
+     "s": "Com ~18°C e chuva desde a tarde, o leque perdeu função e a capa de chuva virou o item de desejo — a pochete (protege o celular) e a área coberta do Espaço ganham relevância na jornada. Público de feriado (Gil, Elton, Roupa Nova) chegou mais cedo e tende a sair antes do fim se a chuva apertar, como na debandada do Calvin Harris ontem: o fluxo de saída até 0h45 é o último ponto de contato do dia dos 89 anos.",
+     "u": "https://errejotanoticias.com.br/com-chuva-e-frio-rock-in-rio-encerra-primeiro-fim-de-semana-com-elton-john/"
     }
    ],
    "shows": {
-    "status": "Dia 4 — feriado de 7 de Setembro, ESGOTADO (2º dia seguido com 100 mil): despedidas históricas com grade antecipada. Palco Mundo: The Flight (16h), Luísa Sonza + Roberto Menescal (16h10), Jon Batiste (18h15), show pirotécnico (20h25), Gilberto Gil (20h30, despedida da turnê 'Tempo Rei'), show de drones (21h45) e Elton John (23h-0h45), primeiro show no Brasil desde 2017. Sunset: Vanessa da Mata + Rubel (15h), Roupa Nova + Guilherme Arantes (17h10), Péricles canta Motown (19h50) e Laufey (21h55). Fatboy Slim fecha o New Dance Order (1h30). Previsão: nublado a encoberto, chuva fraca a moderada isolada; brinquedos suspensos desde domingo (rajadas de até 85 km/h) sem previsão de retomada; ressaca da Marinha vale até a noite. É também o dia dos 89 anos da Ipiranga na Cidade do Rock. Transmissão: Multishow, Bis e Globoplay. Repercussão completa da noite na edição de amanhã (9h).",
+    "status": "Dia 4 (noite, atualizado ~20h) — feriado ESGOTADO encerrando o 1º fim de semana sob frio (~18°C) e chuva intermitente desde a tarde; público de capa de chuva e programação mantida sem alterações. JÁ ACONTECEU: Vanessa da Mata + Rubel abriram o Sunset (15h), Luísa Sonza + Roberto Menescal abriram o Palco Mundo (16h10) com público reduzido, problemas de som e o dueto 'Chico' como momento da tarde; Roupa Nova voltou ao festival após 35 anos com Guilherme Arantes (17h10); Jon Batiste (18h15) e Péricles canta Motown (19h50) completaram o pré-noite; no Espaço Favela, Tiee, Mart'nália e Belo (18h20). EM CURSO/A SEGUIR: pirotecnia 20h25, Gilberto Gil 20h30 (despedida da 'Tempo Rei'), show de drones 21h45, Laufey 21h55 no Sunset e Elton John 23h–0h45 (1º show no Brasil desde 2017) — previsão de chuva fraca a moderada isolada, sem certeza de pegar o show; rajadas mais fortes previstas após a meia-noite. Brinquedos suspensos desde domingo seguiram sem anúncio de retomada. Transmissão: Multishow (15h15), Bis e Globoplay. Repercussão completa da noite na edição de amanhã (9h).",
     "reperc": [
      {
       "date": "6/set (3ª noite — pop · esgotado · chuva)",
@@ -969,39 +969,39 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "'Chove Chuva' NA chuva: a homenagem do Black Eyed Peas a Sérgio Mendes é o corte da noite",
-      "src": "Terra (Estadão Conteúdo)",
-      "metric": "resenhas da madrugada",
-      "s": "Cantar 'Chove Chuva' debaixo de chuva de verdade, com Papatinho no palco e will.i.am exaltando a cultura brasileira, é o material de corte perfeito do domingo — emocional, brasileiro e meteorologicamente literal. A parceria inédita will.i.am + Papatinho anunciada no palco estica a conversa para a semana.",
-      "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
-     },
-     {
-      "t": "Tony Tornado aos 96 cantando 'Sossego' com o filho: o corte emocional que atravessa gerações",
-      "src": "A Setlist / Semana Pop",
-      "metric": "resenhas da madrugada",
-      "s": "A imagem do Tony Tornado no Sunset, com Jota Quest e os vocais originais de Tim Maia, é o vídeo de emoção geracional do fim de semana — mesmo DNA do viral do Barão de sábado ('pais e filhos no mesmo vídeo'). Território seguro e positivo.",
-      "u": "https://www.semanapop.com.br/jota-quest-celebra-tim-maia-com-tony-tornado-e-negra-li/"
-     },
-     {
-      "t": "'DJ pode headlinar o Rock in Rio?' — o debate do Calvin Harris + a debandada antes dos fogos",
-      "src": "Diário do Grande ABC (Estadão Conteúdo)",
-      "metric": "crítica publicada às 8h11",
-      "s": "O 1º DJ headliner da história do Palco Mundo rachou a conversa: pista gigante e hits de um lado, 'grande balada' com telão subusado e público indo embora após 1h do outro. É a polêmica musical da segunda — a marca observa e NÃO entra (mérito de line-up).",
-      "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
-     },
-     {
-      "t": "Renovação de votos no meio da chuva durante Ne-Yo: o corte fofo do domingo",
-      "src": "Sopa Cultural / O Reporter",
-      "metric": "cobertura da madrugada",
-      "s": "Casal de fãs renovou votos de casamento diante do Sunset lotado enquanto Ne-Yo cantava R&B dos anos 2000 sob chuva intensa — o tipo de história humana que rende repost de páginas de fofura e casamento. O chafariz da Cidade do Rock também virou ponto de selfie na chuva.",
-      "u": "https://sopacultural.com/rock-in-rio-2026-calvin-harris-transforma-a-cidade-do-rock-na-maior-pista-de-danca-do-mundo-e-publico-aproveita-programacao-intensa-do-inicio-ao-fim/"
-     },
-     {
-      "t": "Hoje: Elton John + Gil + drones no feriado é o dia com maior potencial de busca da edição",
-      "src": "Vivente Andante / Portal Democrata",
+      "t": "Elton John às 23h: o maior potencial de busca e de corte da edição está em curso agora",
+      "src": "ErreJota Notícias / Exame",
       "metric": "leitura editorial (sem medição de trends na rodada)",
-      "s": "Despedida de Elton John (1º show no Brasil desde 2017), último Rock in Rio da turnê final de Gil, show de drones e feriado nacional: se o festival vai entrar no Google Trends BR em algum dia, é hoje. A rodada das 20h tenta medir de novo — com a marca fazendo aniversário exatamente no meio dessa maré.",
-      "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+      "s": "1º show no Brasil desde 2017, aos 79 anos, fechando o feriado esgotado — com drones às 21h45 e a despedida de Gil imediatamente antes. É a noite com maior chance da edição de emplacar o festival no Google Trends BR; a medição ficou bloqueada de novo nesta rodada, então a confirmação vem na varredura das 9h de amanhã.",
+      "u": "https://errejotanoticias.com.br/com-chuva-e-frio-rock-in-rio-encerra-primeiro-fim-de-semana-com-elton-john/"
+     },
+     {
+      "t": "'Chico' com Menescal aos 88: o corte geracional da tarde",
+      "src": "Portal Democrata",
+      "metric": "cobertura das 20h18",
+      "s": "Luísa Sonza puxando bossa nova por 18 minutos e duetando 'Chico' em versão adaptada com Roberto Menescal é o vídeo 'avó e neta no mesmo palco' do feriado — mesmo DNA dos virais de Tony Tornado (ontem) e do Barão (sábado). Território seguro e positivo.",
+      "u": "https://portaldemocrata.com.br/2026/09/07/luisa-sonza-canta-chico-com-menescal-no-rock-in-rio-publico-pequeno-e-problemas-com-o-som/"
+     },
+     {
+      "t": "'Show mais vazio' + som falhando: a conversa espinhosa da tarde é sobre Luísa Sonza",
+      "src": "Semana Pop / Portal Democrata",
+      "metric": "resenhas da tarde",
+      "s": "O contraste entre o dia esgotado e o gramado ralo às 16h10 — somado aos problemas de áudio — deve dominar o debate de redes da tarde. Conversa de mérito de line-up e operação de som: a marca observa e NÃO entra.",
+      "u": "https://www.semanapop.com.br/luisa-sonza-faz-show-mais-vazio-no-rock-in-rio/"
+     },
+     {
+      "t": "Capa de chuva no feriado: a estética do 'público resistente' segue rendendo — e toca a marca",
+      "src": "ErreJota Notícias",
+      "metric": "cobertura das 19h04",
+      "s": "Quarto dia seguido de conteúdo 'fé no rolê': capas, frio de 18°C e casa cheia mesmo assim. Para a Ipiranga, é o gancho direto de conforto na jornada — pochete protegendo o celular, área coberta do Espaço, benefício KMV na saída — sem opinar sobre shows.",
+      "u": "https://errejotanoticias.com.br/com-chuva-e-frio-rock-in-rio-encerra-primeiro-fim-de-semana-com-elton-john/"
+     },
+     {
+      "t": "Roupa Nova 35 anos depois: a nostalgia do feriado que atravessa gerações",
+      "src": "abc+ (Estadão Conteúdo)",
+      "metric": "entrevista + cobertura da tarde",
+      "s": "A volta da banda ao festival desde 1991, com Guilherme Arantes no Sunset, é o conteúdo de nostalgia familiar do dia — 'pais e filhos cantando junto', o formato que mais performou no fim de semana. Complementa (e disputa com) os cortes de Gil e Elton da noite.",
+      "u": "https://www.abcmais.com/pais/roupa-nova-retorna-ao-rock-in-rio-35-anos-depois-se-temos-melodias-populares-nao-e-demerito-e-merito/"
      }
     ],
     "sources": [
@@ -1010,21 +1010,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "O feed trends.google.com/trending/rss?geo=BR não pôde ser coletado nesta rodada — bloqueio de permissão de rede no ambiente da rotina agendada, sem usuário presente para aprovar (3ª rodada consecutiva sem medição BR: manhã e noite de 06/09, manhã de 07/09). Nova tentativa na rodada das 20h."
+      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 20h — mesmo bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar (4ª rodada consecutiva sem medição BR: manhã e noite de 06/09, manhã e noite de 07/09). Nova tentativa na rodada das 9h de amanhã — a mais importante da edição, com a madrugada de Elton John no retrovisor."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "A página pública tiktok.com/tag/rockinrio não pôde ser coletada nesta rodada (mesmo bloqueio de rede da rotina, sem usuário para aprovar). Última leitura válida: 5,7 mi de views em 06/09 às ~20h — valor idêntico desde 03/09, contador público defasado que já não servia de termômetro diário. Nova tentativa às 20h."
+      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 20h (mesmo bloqueio de rede, sem usuário para aprovar). Sem curva do dia para mostrar: a última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa às 9h."
      }
     ],
-    "note": "Rodada das 9h de 07/09: NENHUMA das duas fontes quantitativas pôde ser medida (bloqueio de permissão de rede no ambiente da rotina para trends.google.com e tiktok.com; WebSearch e imprensa seguiram normais). Bloco viral é 100% leitura editorial da cobertura da madrugada, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h de 07/09: nenhuma das duas fontes quantitativas pôde ser medida (bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina; WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura do dia, com fonte e link em todo item; a noite de Gil + Elton estava em curso no fechamento — repercussão e nova tentativa de medição na edição das 9h. Nenhum número estimado."
    },
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
