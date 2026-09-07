@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 25,
-  "updatedAt": "06/09/2026, 20h20 (BRT)",
-  "updatedISO": "2026-09-06",
+  "version": 26,
+  "updatedAt": "07/09/2026, 09h50 (BRT)",
+  "updatedISO": "2026-09-07",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,788 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "07/09/2026",
+   "dateISO": "2026-09-07",
+   "weekday": "segunda-feira (feriado — 7 de Setembro)",
+   "edition": 15,
+   "phase": "festival — dia 4 (despedida de Elton John · 89 anos da Ipiranga · esgotado)",
+   "pulse": [
+    "🎂 <b>Hoje é O dia da marca:</b> a Ipiranga faz 89 anos no feriado da Independência, no 2º dia consecutivo esgotado (100 mil) e na noite mais simbólica do festival — Gilberto Gil às 20h30 na turnê de despedida e Elton John às 23h de volta ao Brasil após 2017, em grade antecipada com pirotecnia (20h25) e show de drones (21h45). Até as 9h, NENHUMA pauta nova do aniversário na imprensa: o 'parabéns' que pautar a manhã ainda precisa sair da própria marca.",
+    "🌧️ <b>A véspera entregou a melhor noite pop — debaixo d'água:</b> primeira data com 100 mil ingressos vendidos, chuva persistente e 17°C. Black Eyed Peas fez 'uma das apresentações mais energéticas e lotadas' do festival (Papatinho no palco, homenagem a Sérgio Mendes com 'Chove Chuva' NA chuva), Jota Quest estreou o tributo a Tim Maia com Tony Tornado (96 anos) e Negra Li, e Calvin Harris entrou para a história como 1º DJ a fechar o Palco Mundo — com debate na crítica ('balada ou show?') e parte do público indo embora antes dos fogos.",
+    "📵 <b>Trends sem medição na rodada da manhã:</b> Google Trends BR e página da #rockinrio no TikTok ficaram inacessíveis no ambiente da rotina (bloqueio de rede, sem usuário para aprovar) — colunas publicadas como 'off', bloco viral sustentado pela cobertura de imprensa. Última leitura do TikTok segue 5,7 mi (contador público parado desde 03/09). Previsão de hoje: nublado com chuva fraca a moderada isolada; brinquedos suspensos ontem (vento de até 85 km/h) seguem sem previsão de retomada."
+   ],
+   "news": [
+    {
+     "t": "Balanço do dia 3: primeira data com TODOS os 100 mil ingressos vendidos — e chuva persistente do início ao fim",
+     "src": "Agenda do Poder",
+     "when": "07/09, 6h11",
+     "s": "O balanço da madrugada confirma: o domingo pop foi o primeiro dia da edição com lotação máxima integral, plateia predominantemente jovem e chuva que atravessou todos os shows. Destaques do texto: Black Eyed Peas (com anúncio de faixa nova) e a formação original do Barão Vermelho. Sem incidentes graves reportados.",
+     "u": "https://agendadopoder.com.br/rock-in-rio-3o-dia-de-festival-tem-black-eyed-peas-e-barao-vermelho-como-destaques/"
+    },
+    {
+     "t": "Calvin Harris transforma o Rock in Rio em 'grande balada' — que terminou mais cedo para parte do público",
+     "src": "Diário do Grande ABC (Estadão Conteúdo)",
+     "when": "07/09, 8h11",
+     "s": "O 1º DJ a headlinar o Palco Mundo entregou 90 minutos de hits ('Feel So Close', 'Summer', 'How Deep Is Your Love', 'We Found Love') sob chuva e 17°C — mas após 1h de set uma parcela grande do público deixou a Cidade do Rock, perdendo os fogos do encerramento. A crítica aponta subuso do telão e reabre o debate sobre DJ como atração principal do festival.",
+     "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+    },
+    {
+     "t": "Sem Fergie, Black Eyed Peas comanda festa anos 2000 com exaltação ao Brasil, Papatinho e homenagem a Sérgio Mendes",
+     "src": "Terra (Estadão Conteúdo)",
+     "when": "07/09, 0h29",
+     "s": "'Uma das apresentações mais energéticas e lotadas' do festival: J. Rey Soul no lugar de Fergie, 'Let's Get It Started' a 'I Gotta Feeling', Papatinho no palco para anunciar parceria inédita com will.i.am, 'Chove Chuva' em tributo a Sérgio Mendes — debaixo de chuva de verdade — e will.i.am rendido: 'vocês têm uma música e uma cultura incríveis'.",
+     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
+    },
+    {
+     "t": "Jota Quest estreia ao vivo o tributo a Tim Maia com Tony Tornado (96 anos) e Negra Li no Sunset",
+     "src": "A Setlist / Semana Pop",
+     "when": "06/09-07/09",
+     "s": "Estreia do projeto 'Jota Quest & Tim Maia – Dance Enquanto É Tempo' nos 30 anos da banda: 16 faixas com vocais originais de Tim Maia cedidos pelo espólio, Tony Tornado cantando 'Sossego' ao lado do filho Lincoln e Negra Li em 'Descobridor dos Sete Mares'. Crítica destacou a fidelidade ao soul/funk original — sem 'modernização de algoritmo'.",
+     "u": "https://www.asetlist.com.br/2026/09/jota-quest-encontra-suas-proprias.html"
+    },
+    {
+     "t": "Hoje: grade antecipada no feriado — Gil 20h30, drones 21h45, Elton John 23h (fim 0h45)",
+     "src": "Vivente Andante (grade oficial atualizada)",
+     "when": "04/09 (válido para 07/09)",
+     "s": "Palco Mundo: The Flight 16h, Luísa Sonza + Roberto Menescal 16h10, Jon Batiste 18h15, pirotecnia 20h25, Gilberto Gil 20h30 (despedida da 'Tempo Rei'), show de drones 21h45 e Elton John 23h–0h45, de volta ao Brasil após 2017. Sunset: Vanessa da Mata + Rubel 15h, Roupa Nova + Guilherme Arantes 17h10, Péricles canta Motown e Laufey 21h55. Fatboy Slim fecha o New Dance Order na madrugada.",
+     "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+    },
+    {
+     "t": "Brinquedos seguem suspensos sem previsão (vento de até 85 km/h) e a segunda continua instável",
+     "src": "Exame",
+     "when": "06/09, 16h08",
+     "s": "Roda-gigante, tirolesa, Discovery, Mega Download e montanha-russa foram suspensos no domingo por rajadas de 52-85 km/h, 'sem previsão para retomada'. Para hoje: céu nublado a encoberto com chuva fraca a moderada isolada — a programação musical segue normal, mas a demanda por área coberta continua alta no dia dos 89 anos.",
+     "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "89 anos HOJE — e até as 9h a imprensa não tem uma linha nova sobre o aniversário",
+     "src": "Leitura da varredura (âncora: Mundo do Marketing, 10/06)",
+     "when": "07/09, 9h",
+     "s": "O dia mais simbólico do patrocínio chegou: 89 anos no feriado da Independência, casa cheia (100 mil) e a noite Gil + Elton John. A varredura da manhã não encontrou NENHUMA matéria nova sobre o aniversário — a narrativa segue ancorada no material de junho. Tudo o que a marca publicar até o meio-dia (parabéns, história, ativação dos 89 anos no Espaço) tem a janela do feriado praticamente sozinha.",
+     "u": "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
+    },
+    {
+     "t": "Lição operacional da véspera: público foi embora ANTES do fim na chuva — a jornada de saída é o novo ponto de atenção",
+     "src": "Diário do Grande ABC (Estadão Conteúdo)",
+     "when": "07/09, 8h11",
+     "s": "No domingo, parte grande do público abandonou a Cidade do Rock após 1h de Calvin Harris, perdendo os fogos. Com chuva isolada prevista e público de perfil mais velho/família hoje (Gil, Elton, Roupa Nova), o movimento de saída antecipada tende a se repetir: a pochete e o material dos 89 anos precisam chegar ao público ANTES do pico noturno, e o Espaço funciona como refúgio na saída — não só na chegada.",
+     "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+    },
+    {
+     "t": "Na pauta de serviço dos brindes, a Ipiranga aparece — no meio do pelotão de 15 marcas",
+     "src": "Seu Dinheiro",
+     "when": "05/09",
+     "s": "O guia 'brindes mais legais' lista a marca (30 mil leques amarelos, pochete customizável com 8 pins, benefícios KMV) como item 3 entre 15 empresas — atrás das minicâmeras do iFood e do espaço de 1.000 m² do Itaú, que seguem dominando o ranking de desejo. O aniversário de hoje é a chance única desta edição de virar pauta PRÓPRIA, não item de lista.",
+     "u": "https://www.seudinheiro.com/2026/lifestyle/de-mini-camera-a-bichinho-virtual-os-brindes-e-ativacoes-mais-legais-do-rock-in-rio-neste-ano-sama/"
+    },
+    {
+     "t": "O público de hoje é o mais 'jornada completa' da edição: feriado, família e clássicos — com chuva isolada no radar",
+     "src": "Vivente Andante + Exame (previsão)",
+     "when": "07/09",
+     "s": "Dia de Gil, Elton John, Roupa Nova, João Bosco e Péricles canta Motown no feriado: público mais velho, mais famílias, chegada mais cedo (grade começa 14h) e menor tolerância a desconforto. Com brinquedos suspensos e tempo instável, conforto coberto + customização + Bar AmPm + 'parabéns dos 89' é o pacote de experiência perfeito — sem precisar opinar sobre line-up.",
+     "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+    }
+   ],
+   "shows": {
+    "status": "Dia 4 — feriado de 7 de Setembro, ESGOTADO (2º dia seguido com 100 mil): despedidas históricas com grade antecipada. Palco Mundo: The Flight (16h), Luísa Sonza + Roberto Menescal (16h10), Jon Batiste (18h15), show pirotécnico (20h25), Gilberto Gil (20h30, despedida da turnê 'Tempo Rei'), show de drones (21h45) e Elton John (23h-0h45), primeiro show no Brasil desde 2017. Sunset: Vanessa da Mata + Rubel (15h), Roupa Nova + Guilherme Arantes (17h10), Péricles canta Motown (19h50) e Laufey (21h55). Fatboy Slim fecha o New Dance Order (1h30). Previsão: nublado a encoberto, chuva fraca a moderada isolada; brinquedos suspensos desde domingo (rajadas de até 85 km/h) sem previsão de retomada; ressaca da Marinha vale até a noite. É também o dia dos 89 anos da Ipiranga na Cidade do Rock. Transmissão: Multishow, Bis e Globoplay. Repercussão completa da noite na edição de amanhã (9h).",
+    "reperc": [
+     {
+      "date": "6/set (3ª noite — pop · esgotado · chuva)",
+      "headline": "Black Eyed Peas entrega a noite mais energética debaixo d'água, Jota Quest emociona com Tony Tornado aos 96, e Calvin Harris faz história como 1º DJ headliner — com debate e debandada antes dos fogos",
+      "artists": [
+       {
+        "name": "Black Eyed Peas (Palco Mundo, 21h20)",
+        "verdict": "'Uma das apresentações mais energéticas e lotadas' do festival (Terra/Estadão): festa anos 2000 de 'Let's Get It Started' a 'I Gotta Feeling', J. Rey Soul segurando o posto de Fergie, exaltação ao Brasil ('vocês têm uma música e uma cultura incríveis'), Papatinho no palco anunciando parceria inédita com will.i.am, funk carioca ('Rap do Silva') e o momento da noite: 'Chove Chuva' em homenagem a Sérgio Mendes — cantada debaixo de chuva de verdade. Público pulando o show inteiro, com poucos celulares no ar.",
+        "links": [
+         [
+          "Terra (Estadão Conteúdo)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
+         ],
+         [
+          "Sopa Cultural",
+          "https://sopacultural.com/rock-in-rio-2026-calvin-harris-transforma-a-cidade-do-rock-na-maior-pista-de-danca-do-mundo-e-publico-aproveita-programacao-intensa-do-inicio-ao-fim/"
+         ]
+        ]
+       },
+       {
+        "name": "Calvin Harris (Palco Mundo, 0h05)",
+        "verdict": "Histórico e polêmico na mesma medida: 1º DJ a fechar o Palco Mundo em 41 anos de festival, no ano dos 25 anos da eletrônica no evento. 90 minutos de hits ('One Kiss', 'We Found Love', 'Feel So Close', 'Summer'), lasers e fogos no encerramento — mas a crítica viu 'grande balada' mais que show (subuso do telão) e registrou parcela grande do público deixando a Cidade do Rock após 1h de set, perdendo os fogos. O debate 'DJ pode headlinar o Rock in Rio?' é a conversa musical da segunda-feira.",
+        "links": [
+         [
+          "Diário do Grande ABC (Estadão Conteúdo)",
+          "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+         ],
+         [
+          "Sopa Cultural",
+          "https://sopacultural.com/rock-in-rio-2026-calvin-harris-transforma-a-cidade-do-rock-na-maior-pista-de-danca-do-mundo-e-publico-aproveita-programacao-intensa-do-inicio-ao-fim/"
+         ]
+        ]
+       },
+       {
+        "name": "Jota Quest canta Tim Maia (Sunset, 20h10)",
+        "verdict": "A estreia ao vivo de 'Dance Enquanto É Tempo' virou o momento emocional da noite: Tony Tornado, aos 96 anos, cantou 'Sossego' ao lado do filho Lincoln; Negra Li entrou em 'Descobridor dos Sete Mares'; e vocais originais de Tim Maia (cedidos pelo espólio) costuraram as 16 faixas. Crítica elogiou a fidelidade ao soul/funk das gravações originais, 'sem adaptação a algoritmo' — tributo que 'uniu velhas e novas gerações' (Portal Democrata).",
+        "links": [
+         [
+          "A Setlist",
+          "https://www.asetlist.com.br/2026/09/jota-quest-encontra-suas-proprias.html"
+         ],
+         [
+          "Semana Pop",
+          "https://www.semanapop.com.br/jota-quest-celebra-tim-maia-com-tony-tornado-e-negra-li/"
+         ]
+        ]
+       },
+       {
+        "name": "Ne-Yo (Sunset, 22h45)",
+        "verdict": "'Show elegante e lotado que precisava estar em palco maior' (Estadão Conteúdo): R&B dos anos 2000 ('So Sick', 'Miss Independent', 'Closer') com dança, terno e interação — o público ficou sob chuva intensa até o fim, e um casal de fãs renovou os votos de casamento diante do palco, o corte fofo da noite. A leitura crítica: memória afetiva venceu a novidade.",
+        "links": [
+         [
+          "Tribuna do Sertão (Estadão Conteúdo)",
+          "https://www.tribunadosertao.com.br/variedades/2026/09/07/974420-ne-yo-faz-show-elegante-e-lotado-que-precisava-estar-em-palco-maior-no-rock-in-rio"
+         ],
+         [
+          "O Reporter",
+          "https://oreporter.com/rock-in-rio/ne-yo-hits-anos-2000-rock-in-rio-2026"
+         ]
+        ]
+       },
+       {
+        "name": "Nelly (Palco Mundo, 19h00)",
+        "verdict": "Estreia no Brasil 'parado no tempo' (Estadão Conteúdo): 55 minutos enxutos de nostalgia — 'Country Grammar', 'Nellyville', 'Just a Dream' — sem banda ao vivo nem direção artística elaborada ('basicamente grito palavras de ordem, rimo e canto', definiu ele). A plateia dançou nos hits e conversou no resto; Nelly revelou ter passado mal dois dias antes. A nostalgia funcionou; o show, menos.",
+        "links": [
+         [
+          "Semana Pop",
+          "https://www.semanapop.com.br/nelly-faz-festa-anos-2000-em-estreia-no-rock-in-rio/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/06/nelly-traz-nostalgia-dos-anos-2000-em-performance-descontraida-que-agita-publico-no-rock-in-rio/"
+         ]
+        ]
+       },
+       {
+        "name": "Tarde consolidada: Barão Vermelho, Calema e BaianaSystem",
+        "verdict": "O balanço da madrugada confirma a leitura de ontem: a formação original do Barão Vermelho fechando com 'Pro Dia Nascer Feliz' 41 anos depois é o momento histórico do fim de semana; Calema estreou no país com Dilsinho e o BaianaSystem transformou a chuva em cenário ('Água' na abertura). O domingo pop, primeiro dia 100% vendido, entregou a noite mais completa da edição — debaixo d'água do início ao fim.",
+        "links": [
+         [
+          "Agenda do Poder (balanço)",
+          "https://agendadopoder.com.br/rock-in-rio-3o-dia-de-festival-tem-black-eyed-peas-e-barao-vermelho-como-destaques/"
+         ],
+         [
+          "Portal Democrata (balanço)",
+          "https://portaldemocrata.com.br/2026/09/07/rock-in-rio-2026-surpreende-com-performances-inesqueciveis-no-terceiro-dia-do-festival/"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "'Chove Chuva' NA chuva: a homenagem do Black Eyed Peas a Sérgio Mendes é o corte da noite",
+      "src": "Terra (Estadão Conteúdo)",
+      "metric": "resenhas da madrugada",
+      "s": "Cantar 'Chove Chuva' debaixo de chuva de verdade, com Papatinho no palco e will.i.am exaltando a cultura brasileira, é o material de corte perfeito do domingo — emocional, brasileiro e meteorologicamente literal. A parceria inédita will.i.am + Papatinho anunciada no palco estica a conversa para a semana.",
+      "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
+     },
+     {
+      "t": "Tony Tornado aos 96 cantando 'Sossego' com o filho: o corte emocional que atravessa gerações",
+      "src": "A Setlist / Semana Pop",
+      "metric": "resenhas da madrugada",
+      "s": "A imagem do Tony Tornado no Sunset, com Jota Quest e os vocais originais de Tim Maia, é o vídeo de emoção geracional do fim de semana — mesmo DNA do viral do Barão de sábado ('pais e filhos no mesmo vídeo'). Território seguro e positivo.",
+      "u": "https://www.semanapop.com.br/jota-quest-celebra-tim-maia-com-tony-tornado-e-negra-li/"
+     },
+     {
+      "t": "'DJ pode headlinar o Rock in Rio?' — o debate do Calvin Harris + a debandada antes dos fogos",
+      "src": "Diário do Grande ABC (Estadão Conteúdo)",
+      "metric": "crítica publicada às 8h11",
+      "s": "O 1º DJ headliner da história do Palco Mundo rachou a conversa: pista gigante e hits de um lado, 'grande balada' com telão subusado e público indo embora após 1h do outro. É a polêmica musical da segunda — a marca observa e NÃO entra (mérito de line-up).",
+      "u": "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+     },
+     {
+      "t": "Renovação de votos no meio da chuva durante Ne-Yo: o corte fofo do domingo",
+      "src": "Sopa Cultural / O Reporter",
+      "metric": "cobertura da madrugada",
+      "s": "Casal de fãs renovou votos de casamento diante do Sunset lotado enquanto Ne-Yo cantava R&B dos anos 2000 sob chuva intensa — o tipo de história humana que rende repost de páginas de fofura e casamento. O chafariz da Cidade do Rock também virou ponto de selfie na chuva.",
+      "u": "https://sopacultural.com/rock-in-rio-2026-calvin-harris-transforma-a-cidade-do-rock-na-maior-pista-de-danca-do-mundo-e-publico-aproveita-programacao-intensa-do-inicio-ao-fim/"
+     },
+     {
+      "t": "Hoje: Elton John + Gil + drones no feriado é o dia com maior potencial de busca da edição",
+      "src": "Vivente Andante / Portal Democrata",
+      "metric": "leitura editorial (sem medição de trends na rodada)",
+      "s": "Despedida de Elton John (1º show no Brasil desde 2017), último Rock in Rio da turnê final de Gil, show de drones e feriado nacional: se o festival vai entrar no Google Trends BR em algum dia, é hoje. A rodada das 20h tenta medir de novo — com a marca fazendo aniversário exatamente no meio dessa maré.",
+      "u": "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "sem medição na rodada da manhã",
+      "items": [],
+      "note": "O feed trends.google.com/trending/rss?geo=BR não pôde ser coletado nesta rodada — bloqueio de permissão de rede no ambiente da rotina agendada, sem usuário presente para aprovar (3ª rodada consecutiva sem medição BR: manhã e noite de 06/09, manhã de 07/09). Nova tentativa na rodada das 20h."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "off",
+      "statusLabel": "sem medição na rodada da manhã",
+      "items": [],
+      "note": "A página pública tiktok.com/tag/rockinrio não pôde ser coletada nesta rodada (mesmo bloqueio de rede da rotina, sem usuário para aprovar). Última leitura válida: 5,7 mi de views em 06/09 às ~20h — valor idêntico desde 03/09, contador público defasado que já não servia de termômetro diário. Nova tentativa às 20h."
+     }
+    ],
+    "note": "Rodada das 9h de 07/09: NENHUMA das duas fontes quantitativas pôde ser medida (bloqueio de permissão de rede no ambiente da rotina para trends.google.com e tiktok.com; WebSearch e imprensa seguiram normais). Bloco viral é 100% leitura editorial da cobertura da madrugada, com fonte e link em todo item. Nenhum número estimado."
+   },
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 06/09 às 18h40 via perfis logados (Claude para Chrome)",
+    "headline": "Dia 3: @divasuburbana publicou 9 vezes em 24h e o Itaú chegou a comentar no perfil dela ('#ItaúnoRockinRio2026'). São 29 publicações na janela, 4 publis de outras marcas — e zero menção à Ipiranga.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 25,
+      "citouIpiranga": false,
+      "resumo": "25 publicações desde 01/09 — 9 novas em 24h, o dia mais intenso da cobertura. Virou o canal de serviço do festival (como chegar, como voltar, comida, brindes, chuva) e já rodou 4 publis/collabs de terceiros: iFood+Itaú, MetrôRio, Parque Bondinho e o perfil do Rock in Rio Lisboa. Segue sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "ativo",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "4 posts na janela. O de maior alcance (58,3 mil curtidas) não é cobertura do festival: é um react sobre um episódio de homofobia, publicado com #rockinrio. A cobertura de fato do RiR ficou em look do dia 1 e 'dia de rock' no dia 2. Nenhuma marca tageada."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Sexto dia sem nenhuma publicação sobre RiR. Segue com conteúdo próprio e de outras marcas (@bidayaparfums.br, Red Bull)."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Nenhuma publicação sobre RiR. Publicou nesse período o reel de maior alcance do grupo fora do festival (97 mil curtidas) e uma nova parceria (@meucrushcookie) — audiência grande e disponível, sem uso para o evento."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Nenhuma publicação sobre RiR. Continua em Londres — os posts do fim de semana são de moda e hotel (@theguardsmanhotel, @riachuelo, @louisvuitton)."
+     }
+    ],
+    "posts": [
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 58300,
+      "coments": 3300,
+      "shares": 3400,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 O Itaú já está dentro dos comentários da nossa creator",
+      "s": "No reel de ativação de hoje da @divasuburbana, o perfil oficial do <b>@itau</b> comentou <b>'Diva investigativa 🔍 #ItaúnoRockinRio2026'</b> — e o público respondeu perguntando <b>'como faz pra ver? tem que agendar?'</b>. Além dos 2 publis (minicâmera iFood+Itaú, agora com 9,5 mil curtidas), a marca ocupa agora também o espaço de resposta e de dúvida no perfil. É o comportamento de social listening ativo que a Ipiranga ainda não está fazendo nesses perfis."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 29 publicações na janela, nenhuma cita a Ipiranga",
+      "s": "Seis dias de janela e <b>4 entregas patrocinadas/conjuntas de terceiros</b> nos perfis do plano: <b>iFood + Itaú</b>, <b>MetrôRio</b>, <b>Parque Bondinho/Pão de Açúcar</b> e hoje o collab com o <b>@rockinriolisboa</b>. A marca não aparece em nenhuma das 29 publicações mapeadas. Faltam 1 dia da semana 1 e os 3 dias da semana 2 — é a última janela útil para acionar entregas."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A chuva virou a pauta do dia 3 — e é território de pochete e leque",
+      "s": "Dois dos posts de hoje são sobre encarar a chuva ('A GENTE TÁ PREPARADO, CHUVAAAA', <b>2,4 mil curtidas</b>; e o reel de manhã com <b>2,5 mil curtidas e 98 comentários</b> no tom 'com ou sem chuva a gente vai'). Com guarda-chuva proibido no evento, <b>pochete e leque da Ipiranga</b> são exatamente o item funcional dessa conversa — e ninguém está ocupando esse ângulo."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Pico de audiência: 9 posts em 24h e recorde de compartilhamento",
+      "s": "O reel <b>'ninguém me tira do palco hoje'</b> fez <b>6,2 mil curtidas e 330 compartilhamentos</b> — o maior share da janela — e o post de feedback do dia 2 puxou <b>146 comentários</b>. A creator está em ritmo de cobertura ao vivo, com o público pedindo indicação: é o melhor momento do festival para encaixar o Espaço Ipiranga num roteiro de 'o que fazer'."
+     },
+     {
+      "tone": "neg",
+      "t": "⚠️ Brand safety: o maior post da janela é um react de polêmica",
+      "s": "O post de maior alcance de todos os perfis é do @jeffmattias e tem <b>58,3 mil curtidas, 3,3 mil comentários e 3,4 mil compartilhamentos</b> — mas é um react sobre um episódio de <b>homofobia</b> envolvendo outro criador, publicado com a hashtag #rockinrio. Não é cobertura do festival e não é ambiente de marca: vale acompanhar o desdobramento antes de acionar qualquer entrega patrocinada com ele. Em paralelo, <b>3 dos 5 creators seguem sem publicar nada de RiR</b>."
+     }
+    ],
+    "note": "Coleta de 06/09 às 18h40 nos 5 perfis logados. Métricas lidas na própria publicação (curtidas/comentários/compartilhamentos) — números do dia, ainda em crescimento nos posts de hoje. Em 1 post o autor oculta o contador de curtidas e em 4 posts de 02/09 e no post Beats (01/09) o contador não é exposto: campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   },
+   "direcionais": {
+    "leitura": "O dia amanhece com a melhor matéria-prima possível para a marca: 89 anos EXATAMENTE no feriado da Independência, casa cheia de novo (2º dia seguido com 100 mil) e a noite mais 'legado' do festival — Gil se despedindo e Elton John voltando ao Brasil depois de nove anos. A véspera deixou duas lições e uma vantagem: lição 1, o público vai embora mais cedo na chuva (a debandada no Calvin Harris), então a janela de ativação de hoje é MAIS CEDO que nos outros dias; lição 2, a pauta de fila de brinde sob chuva já existe e não citou a Ipiranga — manter assim. A vantagem: até as 9h nenhuma marca é dona da narrativa do feriado + aniversário, e a imprensa de serviço está faminta por pauta nova (o balanço da madrugada saiu às 6h11). O que a marca publicar até o meio-dia tem o dia praticamente sozinho. Guard-rail de sempre, redobrado hoje: o debate 'DJ pode headlinar?' e qualquer comparação Gil x Elton são mérito musical — território proibido.",
+    "dirs": [
+     {
+      "t": "O 'parabéns' tem que sair ANTES do portão abrir — a janela de imprensa do feriado fecha ao meio-dia",
+      "s": "A varredura das 9h não achou uma linha nova sobre os 89 anos. O balanço do dia 3 já saiu (6h11) e os veículos precisam de pauta para o feriado: release + fotos do Espaço + o número redondo ('89 anos no dia da Independência, na maior edição do festival') entregues de manhã têm chance real de emplacar antes da cobertura dos shows engolir o dia. À noite será tarde."
+     },
+     {
+      "t": "Antecipar TODA a ativação: a lição do Calvin Harris é que o público de chuva vai embora antes do fim",
+      "s": "Parcela grande dos 100 mil deixou a Cidade do Rock após 1h de set do headliner ontem. Hoje o perfil é ainda mais 'chego cedo, saio cedo' (famílias, feriado com trabalho amanhã, grade começando 14h). Distribuição de brinde, customização e o momento-parabéns devem estar na rua até o fim da tarde — quem planejar ativação para depois do Gil (20h30) vai falar com um gramado esvaziando."
+     },
+     {
+      "t": "Assumir de vez o papel de refúgio: brinquedos parados + chuva isolada = experiência coberta é o produto do dia",
+      "s": "Com roda-gigante, tirolesa, Discovery, Mega Download e montanha-russa suspensos sem previsão e chuva fraca/moderada no radar, a concorrência de entretenimento fora dos palcos está reduzida — é o melhor dia da edição para o Espaço Ipiranga capturar fluxo ocioso. Comunicar 'ponto seco + customização + Bar AmPm + parabéns dos 89' nos canais e no local, e repetir a oferta na SAÍDA (o novo momento de fila descoberto ontem)."
+     },
+     {
+      "t": "Usar o feriado a favor: 89 anos da marca no dia do Brasil é narrativa de patriotismo leve — sem political stunt",
+      "s": "A coincidência de aniversários (marca de 89 anos, Independência de 204) permite uma narrativa de 'história brasileira na estrada' que nenhum outro patrocinador tem hoje. Tom certo: celebração, estrada, jornada, gerações — na linha do que o público já está consumindo (Barão, Tim Maia, Gil). Tom errado: qualquer coisa que resvale em política no dia em que 'sem anistia' do BaianaSystem ainda ecoa como a polêmica do fim de semana."
+     },
+     {
+      "t": "Guard-rail do dia: zero opinião sobre 'DJ headliner', debandada do Calvin ou hierarquia Gil x Elton",
+      "s": "A conversa musical da segunda é o debate sobre o Calvin Harris ('balada ou show?') e a expectativa das despedidas. A marca não compara artistas, não comenta quem 'merece' o Palco Mundo e não usa a debandada de ontem como piada. Nossa fala é experiência, jornada e os 89 anos — o mérito musical é do festival e da imprensa."
+     }
+    ],
+    "acion": [
+     "Disparar até 10h o release dos 89 anos (número redondo + feriado + fotos do Espaço e do bolo/momento-parabéns planejado) para os veículos que cobriram o balanço da madrugada (Agenda do Poder, Estadão Conteúdo/Terra, portais de serviço) — oferta de pauta exclusiva de manhã, antes da cobertura de shows.",
+     "Push/e-mail KMV + social até 12h com o roteiro do feriado: grade antecipada (Gil 20h30, Elton 23h), aviso de chuva isolada e brinquedos suspensos, e o convite dos 89 anos ('a festa é nossa, o bolo é de vocês') com mapa do Espaço Ipiranga como ponto coberto.",
+     "Reprogramar a operação de brinde para o pico da TARDE (14h-19h): janelas comunicadas, fila coberta, estoque garantido antes do Gil — e um posto de distribuição/interação na rota de SAÍDA para capturar quem for embora após os drones ou no meio do Elton John.",
+     "Registrar em vídeo o momento-parabéns no Espaço (equipe + público cantando) ainda com luz do dia e subir nos canais da marca ANTES do show do Gil — material pronto para a imprensa usar na cobertura da noite e para a rodada das 20h medir a repercussão.",
+     "Brief reforçado a social/influenciadores: hoje NÃO se comenta debate de DJ headliner, debandada de público nem comparação entre artistas; pauta única = 89 anos, experiência coberta e jornada do feriado. Monitorar 'fila + Ipiranga' a cada 2h (a pauta de fila sob chuva segue viva na imprensa)."
+    ]
+   },
+   "sources": [
+    [
+     "Agenda do Poder — balanço do 3º dia (100 mil, chuva)",
+     "https://agendadopoder.com.br/rock-in-rio-3o-dia-de-festival-tem-black-eyed-peas-e-barao-vermelho-como-destaques/"
+    ],
+    [
+     "Diário do Grande ABC (Estadão) — Calvin Harris, 'grande balada' e debandada",
+     "https://www.dgabc.com.br/Noticia/4345500/calvin-harris-transforma-rock-in-rio-em-grande-balada-que-terminou-mais-cedo-para-alguns"
+    ],
+    [
+     "Terra (Estadão) — Black Eyed Peas sem Fergie, Papatinho e Sérgio Mendes",
+     "https://www.terra.com.br/diversao/musica/rock-in-rio/sem-fergie-black-eyed-peas-comanda-festa-em-clima-de-anos-2000-e-exaltacao-ao-brasil-no-rock-in-rio,11bfae2772473d7cbdb3dc05cbf989b39w7yboe8.html"
+    ],
+    [
+     "A Setlist — Jota Quest encontra suas raízes no tributo a Tim Maia",
+     "https://www.asetlist.com.br/2026/09/jota-quest-encontra-suas-proprias.html"
+    ],
+    [
+     "Semana Pop — Jota Quest com Tony Tornado e Negra Li",
+     "https://www.semanapop.com.br/jota-quest-celebra-tim-maia-com-tony-tornado-e-negra-li/"
+    ],
+    [
+     "Tribuna do Sertão (Estadão) — Ne-Yo elegante em palco pequeno",
+     "https://www.tribunadosertao.com.br/variedades/2026/09/07/974420-ne-yo-faz-show-elegante-e-lotado-que-precisava-estar-em-palco-maior-no-rock-in-rio"
+    ],
+    [
+     "O Reporter — Ne-Yo mantém público cantando na chuva",
+     "https://oreporter.com/rock-in-rio/ne-yo-hits-anos-2000-rock-in-rio-2026"
+    ],
+    [
+     "Semana Pop — Nelly, festa anos 2000 em estreia no Brasil",
+     "https://www.semanapop.com.br/nelly-faz-festa-anos-2000-em-estreia-no-rock-in-rio/"
+    ],
+    [
+     "Portal Democrata — Nelly e a nostalgia descontraída",
+     "https://portaldemocrata.com.br/2026/09/06/nelly-traz-nostalgia-dos-anos-2000-em-performance-descontraida-que-agita-publico-no-rock-in-rio/"
+    ],
+    [
+     "Portal Democrata — balanço 'performances inesquecíveis' do 3º dia",
+     "https://portaldemocrata.com.br/2026/09/07/rock-in-rio-2026-surpreende-com-performances-inesqueciveis-no-terceiro-dia-do-festival/"
+    ],
+    [
+     "Sopa Cultural — Calvin Harris e a maior pista de dança do mundo",
+     "https://sopacultural.com/rock-in-rio-2026-calvin-harris-transforma-a-cidade-do-rock-na-maior-pista-de-danca-do-mundo-e-publico-aproveita-programacao-intensa-do-inicio-ao-fim/"
+    ],
+    [
+     "Vivente Andante — grade antecipada do 7/09 (Gil 20h30, Elton 23h)",
+     "https://viventeandante.com/rock-in-rio-muda-horarios-de-shows-confira/"
+    ],
+    [
+     "Exame — brinquedos suspensos e previsão instável para 7/09",
+     "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
+    ],
+    [
+     "Seu Dinheiro — guia de brindes (Ipiranga item 3 entre 15 marcas)",
+     "https://www.seudinheiro.com/2026/lifestyle/de-mini-camera-a-bichinho-virtual-os-brindes-e-ativacoes-mais-legais-do-rock-in-rio-neste-ano-sama/"
+    ],
+    [
+     "Mundo do Marketing — âncora dos 89 anos (10/06)",
+     "https://mundodomarketing.com.br/ipiranga-celebra-aniversario-de-89-anos-com-acoes-especiais-no-rock-in-rio"
+    ]
+   ]
+  },
   {
    "date": "06/09/2026",
    "dateISO": "2026-09-06",
