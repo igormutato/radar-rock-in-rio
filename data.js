@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 29,
-  "updatedAt": "08/09/2026, 9h34 (BRT)",
+  "version": 30,
+  "updatedAt": "08/09/2026, 10h10 (BRT)",
   "updatedISO": "2026-09-08",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -1024,16 +1024,16 @@ window.RADAR = {
    },
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
-    "updatedFrom": "coleta de 07/09 às 13h55 via perfis logados (Claude para Chrome)",
-    "headline": "Último dia da semana 1: a @divasuburbana explodiu no dia 3 (31 mil curtidas e 3 mil shares num único reel) e publicou um 'OBRIGADA @itau' por um encontro com a Pabllo Vittar. São 38 publicações na janela e a Ipiranga segue sem uma única citação.",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
     "creators": [
      {
       "handle": "@divasuburbana",
       "nome": "Desirré Andrade",
       "status": "ativo",
-      "posts": 34,
+      "posts": 41,
       "citouIpiranga": false,
-      "resumo": "34 publicações desde 01/09 — 9 novas em 19h. Saiu do conteúdo de serviço para o registro de show e explodiu: 31 mil curtidas num reel e 21,4 mil noutro, com 3 mil e 1,7 mil compartilhamentos. Já rodou 4 publis/collabs de terceiros e agora agradece publicamente ao Itaú por uma experiência. Sem citar a Ipiranga."
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
      },
      {
       "handle": "@jeffmattias",
@@ -1041,7 +1041,15 @@ window.RADAR = {
       "status": "parado",
       "posts": 4,
       "citouIpiranga": false,
-      "resumo": "Nenhum post novo de RiR desde 05/09 — voltou para reacts de TV (MasterChef, Dança dos Famosos). O react de polêmica com #rockinrio segue crescendo e chegou a 61,3 mil curtidas e 3,5 mil comentários."
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
      },
      {
       "handle": "@cassialourencogomes",
@@ -1049,7 +1057,7 @@ window.RADAR = {
       "status": "silencioso",
       "posts": 0,
       "citouIpiranga": false,
-      "resumo": "Sete dias sem nenhuma publicação sobre RiR. Nada novo desde 06/09."
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
      },
      {
       "handle": "@camilatrianda",
@@ -1057,18 +1065,110 @@ window.RADAR = {
       "status": "silencioso",
       "posts": 0,
       "citouIpiranga": false,
-      "resumo": "Nenhuma publicação sobre RiR. Está no Rio e publicou hoje conteúdo de praia com parceria (@sermota) — na cidade do festival, produzindo para outra marca."
-     },
-     {
-      "handle": "@vittorfernando",
-      "nome": "Vittor Fernando",
-      "status": "silencioso",
-      "posts": 0,
-      "citouIpiranga": false,
-      "resumo": "Nenhuma publicação sobre RiR em toda a semana 1. Segue em Londres."
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
      }
     ],
     "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
      {
       "date": "07/09",
       "handle": "@divasuburbana",
@@ -1558,31 +1658,31 @@ window.RADAR = {
     "alerts": [
      {
       "tone": "neg",
-      "t": "🚨 'OBRIGADA @itau' — a creator agradeceu publicamente ao concorrente",
-      "s": "A @divasuburbana publicou hoje de madrugada uma foto com a <b>Pabllo Vittar</b> escrevendo <b>'OBRIGADA @itau 🥺♥️'</b> (2,6 mil curtidas). Não é publi contratada: é gratidão espontânea por uma <b>experiência entregue</b> — o formato de earned media mais valioso do festival, e o Itaú comprou com meet &amp; greet, não com post patrocinado. É o modelo a replicar na semana 2 com o Espaço Ipiranga."
-     },
-     {
-      "tone": "neg",
-      "t": "🚨 Itaú e iFood também fazem community management no perfil dela",
-      "s": "Depois do <b>@itau</b> ontem ('Diva investigativa 🔍 #ItaúnoRockinRio2026'), foi a vez do <b>@ifoodbrasil</b> comentar no reel de show ('é nostalgia puraaaa 🥹🪩 #iFoodNoRockinRio2026', 13 curtidas). Duas marcas concorrentes estão presentes nos comentários dos creators do nosso plano, com hashtag própria. A Ipiranga não aparece em nenhuma das <b>38 publicações</b> nem nos comentários."
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
      },
      {
       "tone": "pos",
-      "t": "✅ O pico de audiência foi ontem — e a semana 2 repete a curva",
-      "s": "O conteúdo de show disparou: <b>31 mil curtidas, 473 comentários e 3 mil compartilhamentos</b> num reel, <b>21,4 mil e 1,7 mil shares</b> em outro — 5× o melhor conteúdo de serviço da semana. O padrão está claro: serviço constrói audiência antes do evento, momento de show explode durante. Vale planejar a entrega da semana 2 (11–13/09) para o horário dos shows, não para a véspera."
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
      },
      {
       "tone": "neg",
-      "t": "⚠️ A chuva rachou a percepção da experiência",
-      "s": "No reel de balanço do dia 3, o comentário mais curtido é crítico: <b>'admiro sua energia, eu DETESTEI a experiência de ir ao RiR com chuva'</b> (94 curtidas, 7 respostas), seguido de 'até agora a primeira mostrando a realidade'. Ao lado disso, quem gostou celebrou justamente dançar na chuva. Conforto e abrigo viraram o divisor de águas do público — território direto de <b>pochete, leque e ponto de encontro</b> da Ipiranga."
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
      },
      {
-      "tone": "neg",
-      "t": "⚠️ Semana 1 encerra com 3 dos 5 creators sem publicar nada",
-      "s": "@cassialourencogomes, @camilatrianda e @vittorfernando fecham os 4 dias da semana 1 com <b>zero</b> publicações de RiR. A @camilatrianda inclusive está no Rio, publicando hoje conteúdo de praia com outra parceria. Restam só os dias <b>11, 12 e 13/09</b> — é a última janela para acionar o que foi contratado."
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
      }
     ],
-    "note": "Coleta de 07/09 às 13h55 nos 5 perfis logados. Métricas lidas na própria publicação — os posts de hoje ainda estão em crescimento. Em 1 post o autor oculta o contador de curtidas e em 4 posts de 02/09 e no post Beats (01/09) o contador não é exposto: campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
    },
    "direcionais": {
     "leitura": "A semana 1 acabou e o placar é honesto: o festival saiu maior do que entrou (dois esgotados seguidos, despedidas históricas, zero crise grave), e a Ipiranga saiu como entrou — presente na pauta de serviço (brindes úteis, pochete + pins KMV), ausente da pauta emocional. O aniversário passou sem uma linha de earned media, e a noite mais simbólica do feriado terminou com a TIM assinando o momento coletivo (drones + IZA) e o Itaú colhendo o segundo 'obrigada' espontâneo da semana. O padrão dos vencedores é um só: experiência entregue no momento certo vale mais que item distribuído em fila. As 72h entre semanas são a única janela de replanejamento que resta — depois de sexta, acabou. Três insumos para usar hoje: o aprendizado operacional da semana 1 (frio/chuva muda o item-herói; público sai antes do fim; a fila também acontece na SAÍDA), o desenho da semana 2 (mais bate-volta com hotelaria em queda — mais estrada, nosso território) e o perfil do público de sexta (fandom K-pop: chega cedo, coleciona, documenta). Guard-rail intacto: despedida de Gil, debate sobre Sonza e comparações de público são mérito musical — a marca não toca.",
