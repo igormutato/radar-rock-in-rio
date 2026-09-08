@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 30,
-  "updatedAt": "08/09/2026, 10h10 (BRT)",
+  "version": 31,
+  "updatedAt": "08/09/2026, 20h19 (BRT)",
   "updatedISO": "2026-09-08",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,11 +793,39 @@ window.RADAR = {
    "edition": 16,
    "phase": "entre semanas — ressaca da despedida dupla (Gil + Elton) e prévia da semana 2",
    "pulse": [
-    "🌅 <b>A semana 1 fechou em tom de história, não de crise:</b> Elton John entregou 2h15 e 24 músicas num show 'imbatível' (Notícias Favoritas) para o segundo dia esgotado seguido, e Gilberto Gil, aos 84, deixou a frase da edição — 'talvez seja o último' — arrancando 'não!' do gramado. A imprensa da madrugada foi unânime no verbete 'histórico'; o único senão da noite foi a abertura esvaziada e com som ruim de Luísa Sonza. Repercussão completa em Shows & Horários.",
-    "🎂 <b>O placar do aniversário fechou em zero:</b> a varredura da manhã seguinte ao feriado não achou UMA matéria sobre os 89 anos da Ipiranga — a janela simbólica passou. Enquanto isso, a TIM comprou o momento coletivo da noite (show de drones com IZA entre Gil e Elton, projeto 'Música Conecta'): mais uma prova de que o earned media do festival vem de experiência entregue, não de brinde distribuído. A pauta de brindes da marca segue viva (Expresso Carioca, 06/09), mas é de serviço, não de celebração.",
-    "📅 <b>Entre semanas até quinta:</b> sem shows até sexta (11/set), quando o K-pop day com Stray Kids — que chega com álbum novo — abre a semana 2. Ainda há ingressos para sexta e domingo (R$ 870 inteira de gramado); sábado de Maroon 5 está esgotado. Hotelaria projeta queda de ocupação na semana 2 (Ipanema/Leblon: 75%→67%, ABIH-RJ) — mais bate-volta, mais estrada. Trends de novo sem medição (5ª rodada consecutiva com as duas fontes bloqueadas)."
+    "🌙 <b>Edição da noite — o entre-semanas rendeu uma tarde movimentada:</b> o debate sobre o show de Luísa Sonza ganhou segundo tempo (o diretor criativo Flávio Verne rebateu a crítica às 15h42: 'ela deu aula', enquadrando as críticas como preconceito de gênero), Gilberto Gil apareceu no gramado assistindo a Elton John — o registro afetivo do dia — e o Jornal de Brasília publicou o primeiro balanço qualitativo da semana 1: 'menos famosos, mais brindes e até robô', com as filas longas concentradas justamente nos estandes de brindes. A pauta onde a Ipiranga joga venceu a semana — mas a marca não é nomeada no balanço.",
+    "🌦️ <b>Saiu a previsão da semana 2 — e ela reorganiza a operação:</b> sexta e sábado de calor (22–30°C e 23–30°C, chuva só passageira/à tarde) devolvem o leque ao posto de item-herói; o domingo de encerramento vira o dia crítico — chuva persistente e frio de 18–23°C, com o maior público bate-volta da edição (hotelaria em queda, ABIH-RJ) pegando estrada molhada. Brinquedos seguem sem anúncio de retomada e a organização ainda não divulgou balanço oficial de público da semana 1.",
+    "📉 <b>Trends: 6ª rodada consecutiva sem medição quantitativa</b> — Google Trends BR e TikTok seguiram bloqueados também às 20h (permissão de rede do ambiente agendado). Na leitura editorial, o corte de Gil segue dominante e ganhou capítulo extra (ele no show de Elton), a polêmica Sonza reacendeu à tarde — e segue fora do nosso vocabulário — e o fandom do K-pop day já se organiza para sexta. Última leitura válida do TikTok: 5,7 mi (06/09)."
    ],
    "news": [
+    {
+     "t": "Diretor criativo de Luísa Sonza rebate críticas ao show: 'Ela deu aula' — a polêmica ganha segundo tempo",
+     "src": "POPLine",
+     "when": "08/09, 15h42",
+     "s": "Flávio Verne defendeu a apresentação ('sinceramente, gabaritou tudo o que se propôs'), acusou a mídia de buscar engajamento criticando artistas pop e enquadrou as críticas como preconceito de gênero e conservadorismo cultural. O que era resenha de show virou embate sobre mídia, gênero e line-up — a conversa mais espinhosa do entre-semanas, e integralmente fora da pauta da marca.",
+     "u": "https://portalpopline.com.br/diretor-criativo-rebate-criticas-show-luisa-sonza-rock-in-rio/"
+    },
+    {
+     "t": "Gilberto Gil assiste a Elton John do gramado e vira o registro afetivo do entre-semanas",
+     "src": "Portal Democrata",
+     "when": "08/09, 14h38",
+     "s": "Aos 84 anos, acompanhado de Flora Gil, o baiano prestigiou as 2h de show do britânico na madrugada de segunda e compartilhou o momento nas redes — com forte engajamento entre seus 7 milhões de seguidores. Depois do 'talvez seja o último', o encontro das duas despedidas prolonga a narrativa emocional da semana 1: legado e multigeração, o mesmo DNA dos maiores virais da edição.",
+     "u": "https://portaldemocrata.com.br/2026/09/08/gilberto-gil-acompanha-elton-john-no-rock-in-rio-2026-saiba-os-detalhes/"
+    },
+    {
+     "t": "Previsão para a semana 2: calor de 30°C na sexta e no sábado; domingo de encerramento com chuva persistente e 18–23°C",
+     "src": "Brasil em Folhas (Climatempo)",
+     "when": "08/09",
+     "s": "Sexta (11): sol, 22–30°C, chuva passageira e noite firme — o dia mais quente. Sábado (12): 23–30°C com pancadas à tarde e noite sem chuva. Domingo (13): o dia crítico — chuva durante todo o dia, parando só à noite, e frio de 18–23°C. Pancadas concentradas à tarde na semana toda, com menor volume que na semana 1.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuvas-persistentes/"
+    },
+    {
+     "t": "'Menos famosos, mais brindes e até robô': o primeiro balanço de imprensa da semana 1 coroa os estandes de marca",
+     "src": "Jornal de Brasília",
+     "when": "08/09, 8h55",
+     "s": "O balanço qualitativo descreve acesso fluido, camarotes esvaziados até Gil/Elton, um robô de vigilância que virou atração de selfies — e as filas longas concentradas nos estandes de brindes, consagrados como a memória material da edição. Os itens citados: 'copos, bolsas, cremes e até uma mini máquina fotográfica'. A Ipiranga não é nomeada — leitura completa na aba de marca.",
+     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+    },
     {
      "t": "Elton John fecha a semana 1 'imbatível': 2h15, 24 músicas e o posto de headliner mais velho da história do festival",
      "src": "Notícias Favoritas · Sopa Cultural · Portal Democrata",
@@ -820,20 +848,6 @@ window.RADAR = {
      "u": "https://agendadopoder.com.br/rock-in-rio-2026-ainda-tem-ingressos-disponiveis-para-sexta-11-e-domingo-13/"
     },
     {
-     "t": "Luísa Sonza: 'público disperso e som ruim' na abertura antecipada a pedido de Elton John",
-     "src": "Rolling Stone Brasil",
-     "when": "08/09, 1h22",
-     "s": "A crítica consolidou o que a cobertura da tarde já apontava: plateia bem menor que o padrão do Palco Mundo — o horário foi antecipado para as 16h10 a pedido do headliner e o frio afastou o público — e áudio embolado nas faixas de batida pesada. O trecho de bossa nova com Roberto Menescal ficou como o ponto alto. A conversa sobre 'show mais vazio' segue rendendo; mérito de line-up e operação de som não são pauta da marca.",
-     "u": "https://rollingstone.com.br/musica/publico-disperso-e-som-ruim-marcam-show-de-luisa-sonza-no-rock-in-rio/"
-    },
-    {
-     "t": "Stray Kids chega à sexta com álbum novo: 'This & That' amplia a expectativa do maior encontro de K-pop da América Latina",
-     "src": "CNN Brasil · Rolling Stone Brasil",
-     "when": "contexto para 11/09",
-     "s": "O grupo — primeiro ato em 69 anos de Billboard a estrear sete álbuns consecutivos em nº 1 — lançou o 10º disco em agosto, às vésperas do show que encerra o Palco Mundo na sexta. O 11/09 foi desenhado como vitrine coreana (NEXZ e HWASA na grade) e deve trazer o público mais engajado e madrugador da edição: fandom que chega na abertura dos portões e documenta tudo.",
-     "u": "https://www.cnnbrasil.com.br/pop/musica/stray-kids-lanca-novo-album-as-vesperas-de-show-no-rock-in-rio-escute/"
-    },
-    {
      "t": "Hotelaria projeta queda na semana 2: Ipanema/Leblon caem de 75% para 67% de ocupação",
      "src": "ABIH-RJ / HotéisRIO",
      "when": "03–04/09 (projeção)",
@@ -842,6 +856,20 @@ window.RADAR = {
     }
    ],
    "ipiranga": [
+    {
+     "t": "A imprensa coroou a pauta de brindes como a marca da semana 1 — mas o balanço de hoje não nomeia a Ipiranga",
+     "src": "Jornal de Brasília",
+     "when": "08/09, 8h55",
+     "s": "O primeiro balanço qualitativo da semana consagra exatamente o território em que a marca jogou: filas longas nos estandes de brindes e o brinde como memória material da edição. Só que os itens citados são 'copos, bolsas, cremes e minicâmera' — leia-se Itaú, C&A, Natura e iFood — sem uma linha para pochete, pins ou leque. A marca venceu a pauta e perdeu o crédito nominal. Para a semana 2: municiar assessoria com dado próprio (pochetes customizadas, pins mais resgatados, resgates KMV) para entrar com nome nos balanços finais da imprensa.",
+     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+    },
+    {
+     "t": "A previsão da semana 2 redesenha o kit da marca: leque-herói na sexta/sábado de 30°C, pochete e capa no domingo de chuva e frio",
+     "src": "Brasil em Folhas (Climatempo) + ABIH-RJ",
+     "when": "08/09",
+     "s": "Sexta (22–30°C) e sábado (23–30°C) com chuva só passageira devolvem o cenário de calor da estreia — o leque volta a ser o item fotografado no gramado, e o estoque precisa estar dimensionado para o K-pop day, que chega cedo. O domingo de encerramento inverte tudo: chuva persistente e 18–23°C, com o maior público bate-volta da edição (hotelaria em queda) pegando estrada molhada na volta. Deixa direta para a frente de estrada — comunicação KMV/AmPm de 'volta segura', rota com paradas — e para o Espaço como refúgio coberto, o aprendizado do dia 3.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuvas-persistentes/"
+    },
     {
      "t": "Balanço de earned media dos 89 anos: zero matérias — a janela do feriado fechou sem registro do 'parabéns'",
      "src": "Leitura da varredura (âncoras: Mundo do Marketing 10/06 · Aurora Cultural 06/09)",
@@ -862,17 +890,10 @@ window.RADAR = {
      "when": "06/09 · 01/09",
      "s": "A matéria mais recente detalha os ~30 mil leques amarelos, a pochete personalizável com até 8 pins colecionáveis (exclusividade KMV), o Glambot, a fila climatizada e o resgate de transfer oficial por pontos — com a citação do VP Julio Sattamini sobre 'itens úteis e personalizáveis'. É a única frente em que a Ipiranga aparece de forma consistente no guia de marcas; nos rankings de ativação-âncora (montanha-russa Heineken, roda-gigante Itaú, drop tower iFood), a marca não disputa.",
      "u": "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
-    },
-    {
-     "t": "Entre semanas com hotelaria em queda: a semana 2 é mais 'estrada' — território natural de posto, KMV e AmPm",
-     "src": "ABIH-RJ + Agenda do Poder (ingressos)",
-     "when": "08/09",
-     "s": "Ocupação projetada menor nos dias 11–13 e ingressos ainda à venda para sexta e domingo desenham uma reta final com mais público regional chegando de carro/estrada no dia do show. É a única frente do festival em que a Ipiranga joga em casa: rota do festival com paradas AmPm, resgate KMV de transfer e comunicação 'abasteça a caminho da Cidade do Rock' podem capturar uma jornada que nenhum patrocinador de dentro da cidade disputa.",
-     "u": "https://abihrj.com.br/turismo/rock-in-rio-2026-numeros-impacto-hotelaria-ocupacao"
     }
    ],
    "shows": {
-    "status": "ENTRE SEMANAS (ter–qui, 8–10/set) — sem shows na Cidade do Rock até sexta (11/set). A semana 1 fechou com dois dias esgotados seguidos (6 e 7/set) e a noite mais 'histórica' da edição: Gil em possível despedida e Elton John encerrando com 2h15 de show. Pendências operacionais que atravessam a pausa: os brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download) tiveram agendamento suspenso pela chuva no domingo e seguem SEM anúncio público de retomada — item a monitorar antes de sexta; e a organização não divulgou balanço consolidado de público da semana 1 até o fechamento desta edição. SEMANA 2 (grade confirmada): sex 11/set = K-pop day com Stray Kids (00h05), Alok, HWASA e NEXZ no Mundo e Jamiroquai no Sunset — ingressos disponíveis; sáb 12/set = Maroon 5, Demi Lovato, J Balvin e Pedro Sampaio — ESGOTADO; dom 13/set = encerramento com Twenty One Pilots, Halsey, Lola Young e Ivete Sangalo — ingressos disponíveis (gramado R$ 870 inteira).",
+    "status": "ENTRE SEMANAS (ter–qui, 8–10/set) — sem shows na Cidade do Rock até sexta (11/set). Atualização da noite (8/set, 20h): a organização segue sem divulgar balanço consolidado de público da semana 1 e sem anúncio público de retomada dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — agendamento suspenso desde domingo, 'sem previsão' segundo a Exame). NOVO: saiu a previsão do tempo da semana 2 (Brasil em Folhas/Climatempo, 08/09) — sex 11: sol, 22–30°C, chuva passageira e noite firme; sáb 12: 23–30°C, pancadas à tarde e noite seca; dom 13: o dia crítico, chuva persistente durante todo o dia e frio de 18–23°C no encerramento. SEMANA 2 (grade confirmada): sex 11/set = K-pop day com Stray Kids (00h05), Alok, HWASA e NEXZ no Mundo e Jamiroquai no Sunset — ingressos disponíveis; sáb 12/set = Maroon 5, Demi Lovato, J Balvin e Pedro Sampaio — ESGOTADO; dom 13/set = encerramento com Twenty One Pilots, Halsey, Lola Young e Ivete Sangalo — ingressos disponíveis (gramado R$ 870 inteira).",
     "reperc": [
      {
       "date": "7/set (4ª noite — feriado · esgotado · frio)",
@@ -898,7 +919,7 @@ window.RADAR = {
        },
        {
         "name": "Gilberto Gil (Palco Mundo, 20h30)",
-        "verdict": "A frase da edição: 'talvez, quem sabe, seja o último' — dita aos 84 anos, na 5ª participação de quem esteve na inauguração de 1985, e respondida com um 'não!' coletivo do gramado. Foram 16 músicas em pouco mais de uma hora, um show 'agridoce' de celebração e adeus: depois de encerrar a turnê 'Tempo Rei' em março, Gil segue sem se comprometer com novos palcos grandes. A imprensa tratou como despedida histórica — e o corte da frase é o conteúdo emocional mais forte da manhã.",
+        "verdict": "A frase da edição: 'talvez, quem sabe, seja o último' — dita aos 84 anos, na 5ª participação de quem esteve na inauguração de 1985, e respondida com um 'não!' coletivo do gramado. Foram 16 músicas em pouco mais de uma hora, um show 'agridoce' de celebração e adeus: depois de encerrar a turnê 'Tempo Rei' em março, Gil segue sem se comprometer com novos palcos grandes. A imprensa tratou como despedida histórica — e o corte da frase é o conteúdo emocional mais forte da manhã. Capítulo extra consolidado nesta terça: Gil assistiu ao show de Elton John do gramado, ao lado de Flora, e compartilhou o momento nas redes (Portal Democrata, 08/09 14h38) — o encontro das duas despedidas prolongou a narrativa emocional do feriado.",
         "links": [
          [
           "Rolling Stone Brasil",
@@ -907,6 +928,10 @@ window.RADAR = {
          [
           "Agenda do Poder",
           "https://agendadopoder.com.br/gilberto-gil-volta-ao-rock-in-rio-aos-84-anos-e-emociona-publico-do-festival-talvez-seja-meu-ultimo/"
+         ],
+         [
+          "Portal Democrata (Gil no show de Elton)",
+          "https://portaldemocrata.com.br/2026/09/08/gilberto-gil-acompanha-elton-john-no-rock-in-rio-2026-saiba-os-detalhes/"
          ]
         ]
        },
@@ -965,32 +990,25 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "'Talvez seja o último': o corte de Gil é o conteúdo emocional dominante da manhã",
-      "src": "Rolling Stone Brasil / Agenda do Poder",
+      "t": "Gil no gramado de Elton: o 'encontro de lendas' é o conteúdo emocional que segue rendendo",
+      "src": "Portal Democrata",
       "metric": "leitura editorial (sem medição de trends na rodada)",
-      "s": "A frase dita no palco — e o 'não!' do público em resposta — tem o DNA dos maiores virais da semana 1 (Tony Tornado, Menescal, Barão): despedida, legado e multigeração. Deve puxar os cortes do feriado junto com o fecho de 'Your Song'. Território 100% seguro de conversa para quem cobre o festival; a marca acompanha sem opinar sobre o adeus.",
-      "u": "https://rollingstone.com.br/musica/gilberto-gil-deixa-tom-de-despedida-no-ar-em-show-no-rock-in-rio-2026-talvez-o-ultimo/"
+      "s": "Depois do corte do 'talvez seja o último', o registro de Gil, aos 84, assistindo a Elton John com Flora — e postando para 7 milhões de seguidores — deu ao entre-semanas seu momento afetivo: legado + multigeração, o mesmo DNA dos maiores virais da semana 1. Território 100% seguro de conversa; a marca acompanha sem opinar sobre despedidas.",
+      "u": "https://portaldemocrata.com.br/2026/09/08/gilberto-gil-acompanha-elton-john-no-rock-in-rio-2026-saiba-os-detalhes/"
      },
      {
-      "t": "Checagem: Dua Lipa NÃO subiu ao palco — 'Cold Heart' teve a cantora só no telão",
-      "src": "Rock on Board",
-      "metric": "checagem de cobertura",
-      "s": "Circulou expectativa de participação surpresa, mas a cobertura confirma: em 'Cold Heart', Dua Lipa apareceu apenas em vídeo, com Elton celebrando a popularidade da faixa no Brasil. Vale o alerta interno para não amplificar rumor em conteúdo próprio ou conversa com imprensa.",
-      "u": "https://www.rockonboard.com.br/2026/09/em-possivel-despedida-elton-john.html"
+      "t": "A polêmica Sonza reacendeu à tarde: 'ela deu aula', rebateu o diretor criativo — e o debate mudou de natureza",
+      "src": "POPLine",
+      "metric": "cobertura da tarde (15h42)",
+      "s": "O que era crítica de show ('público disperso e som ruim') virou embate sobre mídia, preconceito de gênero e line-up — o formato de conversa que mais engaja e mais queima quem entra. Guard-rail reforçado para a semana: nenhuma menção ao caso em canal da marca, resposta de comunidade ou brief de creator.",
+      "u": "https://portalpopline.com.br/diretor-criativo-rebate-criticas-show-luisa-sonza-rock-in-rio/"
      },
      {
-      "t": "Os drones da TIM com IZA devem dominar os planos aéreos do feriado",
-      "src": "Aurora Cultural",
-      "metric": "cobertura + formato nativo de vídeo",
-      "s": "Espetáculo inédito, posicionado entre Gil e Elton — horário de pico absoluto de celulares apontados para o céu. É o formato mais 'gravável' da noite e sai com assinatura de patrocinador embutida no conteúdo orgânico do público: o caso a estudar na aba Direcionais.",
-      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/iza-comanda-show-de-drones-inedito-apos-gilberto-gil-no-rock-in-rio/"
-     },
-     {
-      "t": "'Show mais vazio' de Luísa Sonza segue rendendo — conversa espinhosa que atravessa a semana",
-      "src": "Rolling Stone Brasil / Semana Pop",
-      "metric": "resenhas consolidadas na madrugada",
-      "s": "Com a crítica grande agora batendo o martelo ('público disperso e som ruim'), o debate sobre gramado vazio, horário antecipado e operação de áudio deve ser a polêmica musical do entre-semanas. Regra de sempre: mérito de line-up e falha de produção não são pauta da marca — em nenhum canal.",
-      "u": "https://rollingstone.com.br/musica/publico-disperso-e-som-ruim-marcam-show-de-luisa-sonza-no-rock-in-rio/"
+      "t": "O robô de vigilância virou personagem: selfie com robô é o conteúdo espontâneo do balanço da semana 1",
+      "src": "Jornal de Brasília",
+      "metric": "balanço de imprensa",
+      "s": "A matéria descreve o robô circulando 'entre curiosos, fotos e selfies' e compensando camarotes esvaziados — mais uma prova do padrão da edição: experiência inusitada gera post sem briefing (tirolesa, drones, agora o robô). Pergunta tática para a semana 2: o que no Espaço Ipiranga é 'fotografável sem roteiro'?",
+      "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
      },
      {
       "t": "K-pop day na sexta: o fandom de Stray Kids já se organiza — e muda o desenho do dia na Cidade do Rock",
@@ -998,6 +1016,13 @@ window.RADAR = {
       "metric": "leitura editorial (álbum novo + encontros de fãs)",
       "s": "Álbum novo na bagagem, encontros de fãs pelo país e o rótulo de 'maior encontro de K-pop da América Latina' apontam para o público mais madrugador e documentador da edição na sexta: fila desde a abertura dos portões, trend de looks/coreografia e colecionismo como linguagem nativa — deixa direta para pochete e pins (ver Direcionais).",
       "u": "https://www.cnnbrasil.com.br/pop/musica/stray-kids-lanca-novo-album-as-vesperas-de-show-no-rock-in-rio-escute/"
+     },
+     {
+      "t": "A previsão do tempo já virou pauta de serviço: o público planeja looks e mochila para 30°C — e para o domingo de chuva",
+      "src": "Brasil em Folhas (Climatempo)",
+      "metric": "leitura editorial",
+      "s": "Com a previsão da semana 2 publicada hoje, o ciclo de conteúdo 'o que levar' deve se repetir (na semana 1, capa, poncho e look de chuva dominaram o serviço). Deixa para conteúdo próprio útil: kit calor (leque) para sexta/sábado e kit chuva (pochete protegendo o celular, volta de estrada segura) para o domingo de encerramento.",
+      "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuvas-persistentes/"
      }
     ],
     "sources": [
@@ -1006,21 +1031,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 9h de 08/09 — mesmo bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar (5ª rodada consecutiva sem medição BR desde a manhã de 06/09). Ficou sem verificação justamente a madrugada de maior potencial de busca da edição (Elton + Gil). Nova tentativa na rodada das 20h."
+      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível também na rodada das 20h de 08/09 (mesmo bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar) — 6ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival no ranking do dia. Nova tentativa na rodada das 9h de 09/09."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 9h de 08/09 (mesmo bloqueio de rede, sem usuário para aprovar). Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa às 20h."
+      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 20h de 08/09 (mesmo bloqueio de rede). Sem leitura da curva do dia. Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa às 9h de 09/09."
      }
     ],
-    "note": "Rodada das 9h de 08/09: nenhuma das duas fontes quantitativas pôde ser medida (bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada; WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura da madrugada, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h de 08/09: nenhuma das duas fontes quantitativas pôde ser medida — 6ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura do dia, com fonte e link em todo item. Nenhum número estimado."
    },
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
@@ -1776,6 +1801,26 @@ window.RADAR = {
     [
      "CNN Brasil — chuva suspendeu agendamento dos brinquedos (pendência em aberto)",
      "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-chuva-forte-suspende-agendamento-de-brinquedos/"
+    ],
+    [
+     "Jornal de Brasília — balanço da semana 1: 'menos famosos, mais brindes e até robô'",
+     "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+    ],
+    [
+     "POPLine — diretor criativo de Luísa Sonza rebate críticas ('ela deu aula')",
+     "https://portalpopline.com.br/diretor-criativo-rebate-criticas-show-luisa-sonza-rock-in-rio/"
+    ],
+    [
+     "Portal Democrata — Gil assiste a Elton John do gramado e posta nas redes",
+     "https://portaldemocrata.com.br/2026/09/08/gilberto-gil-acompanha-elton-john-no-rock-in-rio-2026-saiba-os-detalhes/"
+    ],
+    [
+     "Brasil em Folhas — previsão do tempo da semana 2 (chuvas persistentes, calor sex/sáb, domingo frio)",
+     "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuvas-persistentes/"
+    ],
+    [
+     "Exame — brinquedos suspensos, sem previsão de retomada",
+     "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
     ]
    ]
   },
