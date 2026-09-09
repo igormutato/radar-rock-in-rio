@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 31,
-  "updatedAt": "08/09/2026, 20h19 (BRT)",
-  "updatedISO": "2026-09-08",
+  "version": 32,
+  "updatedAt": "09/09/2026, 9h45 (BRT)",
+  "updatedISO": "2026-09-09",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,988 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "09/09/2026",
+   "dateISO": "2026-09-09",
+   "weekday": "quarta-feira",
+   "edition": 17,
+   "phase": "entre semanas — dia do meio: logística da semana 2 e véspera da reta final (K-pop day na sexta)",
+   "pulse": [
+    "🚌 <b>O entre-semanas amanheceu com pauta de logística — e ela é nosso território:</b> a Prefeitura/MOBI-Rio divulgou o balanço do BRT da semana 1: <b>152 mil passageiros em 4 dias</b> (30 mil na sexta, 35 mil no sábado, 47 mil no domingo, 40 mil na segunda), com operação elogiada pela fluidez (compra antecipada pelo app + embarque organizado). Para a semana 2, serão <b>3 linhas especiais</b> (Jardim Oceânico, Alvorada e Paulo da Portela). Cruzando com a hotelaria em queda (ABIH-RJ), o desenho da reta final se confirma: mais bate-volta, jornada mais longa — chegada, volta e estrada ganham peso na conversa.",
+    "🎤 <b>O caso Sonza mudou de natureza — e ficou mais sensível:</b> depois de o diretor criativo rebater as críticas ('ela deu aula'), a própria artista respondeu na tarde de terça: chorou nos stories e desabafou ('vocês não sabem o que se passou pra conseguir botar duas bandas no palco'). O que era resenha de show virou narrativa pessoal e emocional — o tipo de conversa que mais engaja e mais queima quem entra. Guard-rail reforçado: a marca segue a 100 metros do assunto. No resto da pauta, a contagem regressiva do K-pop day domina: fandom de Stray Kids mobilizado desde o fim de semana (encontros de fãs pelo país) para a sexta que abre a reta final.",
+    "📉 <b>Trends: 7ª rodada consecutiva sem medição quantitativa</b> — Google Trends BR e TikTok seguiram inacessíveis também na rodada das 9h desta quarta (bloqueio de permissão de rede do ambiente agendado). Na leitura editorial: mobilidade e previsão do tempo viraram as pautas de serviço do dia, o choro de Sonza circula, e o festival segue sem balanço oficial de público da semana 1 e sem anúncio de retomada dos brinquedos. Última leitura válida do TikTok: 5,7 mi de views (06/09)."
+   ],
+   "news": [
+    {
+     "t": "BRT do Rock in Rio fecha a semana 1 com 152 mil passageiros e ganha 3 linhas especiais para a reta final",
+     "src": "Via Trolebus",
+     "when": "09/09, 7h00",
+     "s": "Balanço oficial da operação (SMTR/MOBI-Rio): 30 mil passageiros na sexta, 35 mil no sábado, 47 mil no domingo — o pico — e 40 mil na segunda de feriado. A leitura da matéria credita a fluidez à combinação de compra antecipada pelo app e embarques organizados. Para 11–13/09: linha direta do Jardim Oceânico (SE008), direta do Alvorada (SE009) e semidireta do Paulo da Portela com paradas em Praça Seca, Tanque e Taquara (SE010). É o primeiro dado público consolidado de jornada da edição.",
+     "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+    },
+    {
+     "t": "Luísa Sonza chora e responde à repercussão: 'Vocês não sabem o que se passou pra botar duas bandas no palco'",
+     "src": "Fala Canedo · Portal Democrata",
+     "when": "08/09, 15h50",
+     "s": "Um dia depois da defesa do diretor criativo, a própria artista entrou na conversa: em vídeos nos stories, emocionada, agradeceu quem esteve no gramado ('muito obrigada a todo mundo que tava lá') e expôs o custo de montar a apresentação dupla com Roberto Menescal. O caso deixou de ser crítica de show e virou narrativa pessoal — mídia, gênero, esforço e vulnerabilidade no mesmo caldo. Segue integralmente fora da pauta da marca.",
+     "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
+    },
+    {
+     "t": "Festival retoma na sexta com a grade da semana 2 fechada: Stray Kids às 00h05, Jamiroquai no Sunset e Ivete abrindo o domingo",
+     "src": "Brasil em Folhas",
+     "when": "08/09, 1h32",
+     "s": "Sexta (11): NEXZ (16h40), HWASA (19h), Alok (21h20) e Stray Kids (00h05) no Mundo; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset. Sábado (12, esgotado): Pedro Sampaio, J Balvin, Demi Lovato e Maroon 5 no Mundo; Gilsons, João Gomes e Mumford & Sons no Sunset. Domingo (13): Ivete Sangalo às 17h, Lola Young, Halsey e Twenty One Pilots encerrando às 00h05. Sexta e domingo ainda têm ingressos (gramado R$ 870 inteira, checagem de 08/09).",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-retoma-shows-nesta-sexta-feira-com-k-pop-e-pop/"
+    },
+    {
+     "t": "Previsão da semana 2 se consolida: 30°C na sexta e no sábado, domingo de chuva o dia todo e frio de 18–23°C",
+     "src": "Brasil em Folhas (Climatempo)",
+     "when": "08/09, 13h54",
+     "s": "Segunda leitura do Climatempo confirma a primeira: sexta (11) com sol, 22–30°C e chuva só passageira à tarde, noite firme; sábado (12) entre 23–30°C com pancadas à tarde e noite seca; domingo (13) com chuva durante todo o dia, parando só à noite, e queda para 18–23°C. O contraste é o dado operacional da semana: dois dias de calor de verão e um encerramento de capa de chuva.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+    },
+    {
+     "t": "Fandom em contagem regressiva: encontros de fãs do Stray Kids pelo país aquecem o K-pop day de sexta",
+     "src": "Rolling Stone Brasil",
+     "when": "18/08 (evento em 06/09)",
+     "s": "O STAY DAY: THIS & THAT, em Vila Velha (ES), no último domingo, é o retrato do público que chega sexta: oficina de personalização de cartões, audição do álbum novo, bingo temático e feirinha de produtos de fãs — colecionismo e ritual coletivo como linguagem nativa, dias antes do show. É o público mais madrugador e documentador da edição, e ele já está em movimento desde antes da porteira abrir.",
+     "u": "https://rollingstone.com.br/musica/stray-kids-encontro-de-fas-ganha-edicao-em-vila-velha-saiba-mais/"
+    },
+    {
+     "t": "Pendências que o festival carrega para a semana 2: sem balanço oficial de público e sem anúncio de retomada dos brinquedos",
+     "src": "Exame (suspensão) · varredura de 09/09",
+     "when": "09/09, 9h",
+     "s": "A varredura desta quarta não encontrou balanço consolidado de público da semana 1 divulgado pela organização, nem comunicado sobre a volta do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). Com dois dias de 30°C e um domingo de chuva pela frente, a retomada (ou não) muda o desenho de filas e fluxo da Cidade do Rock.",
+     "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "Varredura desta quarta: nenhuma menção nova à Ipiranga na imprensa — a narrativa pública segue sendo a dos brindes úteis",
+     "src": "Varredura de 09/09 (âncoras: Jornal de Brasília 08/09 · Expresso Carioca 06/09)",
+     "when": "09/09, 9h",
+     "s": "Nenhuma matéria nova nomeou a marca nas últimas 24h. O último retrato segue o de ontem: o balanço de imprensa da semana 1 coroou a pauta de brindes (filas nos estandes, brinde como memória material da edição) citando itens de Itaú, C&A, Natura e iFood — sem uma linha para pochete, pins ou leque. Tradução: a marca venceu a pauta e segue sem o crédito nominal. Restam os balanços finais da imprensa (14–15/09) — e eles serão escritos com os dados que as assessorias entregarem.",
+     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+    },
+    {
+     "t": "O balanço do BRT é o primeiro dado público de jornada da edição — e desenha o mapa da nossa frente de estrada",
+     "src": "Via Trolebus + ABIH-RJ",
+     "when": "09/09, 7h00",
+     "s": "152 mil passageiros de BRT em 4 dias mostram o tamanho do público que NÃO chegou de carro — e, por espelho, dimensionam o que chega de carro e de estrada, justamente o público que cresce na semana 2 (hotelaria em queda = mais bate-volta de fora da cidade). Leitura tática: a comunicação KMV/AmPm de rota, parada e 'volta segura' deve mirar sexta (chegada cedo do fandom) e principalmente o domingo de chuva — estrada molhada, público cansado, maior jornada de retorno da edição.",
+     "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+    },
+    {
+     "t": "Previsão consolidada confirma o kit por dia: leque-herói na sexta e no sábado de 30°C, pochete + capa no domingo de 18°C",
+     "src": "Brasil em Folhas (Climatempo)",
+     "when": "08/09, 13h54",
+     "s": "A segunda leitura do Climatempo bate com a primeira e trava o planejamento: sexta e sábado devolvem o cenário de calor em que o leque virou o item fotografado do gramado — com o detalhe de que o público do K-pop day chega no início da tarde, no pico do sol, então o estoque precisa estar na rua desde a abertura. O domingo inverte: chuva o dia inteiro e frio — pochete protegendo o celular, capa, e o Espaço como refúgio coberto (o aprendizado do dia 3).",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+    },
+    {
+     "t": "Relógio da semana 2: ~48h úteis para garantir o momento coletivo assinado que faltou na semana 1",
+     "src": "Leitura da varredura (casos TIM/drones · Itaú/meet & greet)",
+     "when": "09/09, 9h",
+     "s": "A semana 1 fechou com a TIM assinando o momento coletivo do feriado (drones + IZA entre Gil e Elton) e o Itaú colhendo 'obrigada' espontâneo de creator por experiência entregue. Se a Ipiranga quer um gesto equivalente na reta final (intervalo do Palco Mundo, ativação de saída, ponto de encontro), a negociação com a organização precisa estar fechada até quinta — sexta a operação já toma conta. Depois de domingo, o que não foi assinado vira aprendizado para 2027.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/iza-comanda-show-de-drones-inedito-apos-gilberto-gil-no-rock-in-rio/"
+    }
+   ],
+   "shows": {
+    "status": "ENTRE SEMANAS (quarta, 9/set) — sem shows na Cidade do Rock até sexta (11/set). Pendências da organização: sem balanço oficial de público da semana 1 e sem anúncio de retomada do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). NOVO (09/09): balanço do BRT da semana 1 divulgado — 152 mil passageiros em 4 dias (pico de 47 mil no domingo) — e semana 2 com 3 linhas especiais (Jardim Oceânico direto, Alvorada direto, Paulo da Portela semidireto). GRADE DA RETA FINAL (horários confirmados): sex 11/set = K-pop day: NEXZ (16h40), HWASA (19h), Alok (21h20) e Stray Kids (00h05) no Mundo; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset — ingressos disponíveis. Sáb 12/set = Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20) e Maroon 5 (00h05) no Mundo; Gilsons, João Gomes (20h10) e Mumford & Sons (22h45) no Sunset — ESGOTADO. Dom 13/set = encerramento: Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35) e Twenty One Pilots (00h05) no Mundo — ingressos disponíveis (gramado R$ 870 inteira). CLIMA: sex/sáb 30°C com chuva só passageira; domingo chuva o dia todo e 18–23°C.",
+    "reperc": [
+     {
+      "date": "7/set (4ª noite — feriado · esgotado · frio)",
+      "headline": "Elton John encerra a semana 1 'imbatível' com 2h15 de clássicos, Gilberto Gil deixa 'talvez seja o último' no ar, e a TIM assina o show de drones com IZA entre as duas despedidas — o único senão foi a abertura esvaziada de Luísa Sonza",
+      "artists": [
+       {
+        "name": "Elton John (Palco Mundo, 23h)",
+        "verdict": "'Imbatível' (Notícias Favoritas): 24 músicas em 2h15, blazer amarelo-fluorescente, headliner mais velho da história do festival (79) na sua 3ª participação. Do arranque com 'Funeral for a Friend/Love Lies Bleeding' ao fecho com 'Your Song' e 'Skyline Pigeon', voz preservada, arranjos mais rock e jams estendidas — 'uma lenda que não precisa provar mais nada' (Rock on Board). Ele explicou a vinda: 'precisava agradecer' ao público do Rock in Rio. Único reparo da crítica: projeções que nem sempre mostravam o artista. Medina coroou: 'famílias inteiras juntas, como desde 1985'.",
+        "links": [
+         [
+          "Notícias Favoritas (resumo do dia 4)",
+          "https://www.noticiasfavoritas.com.br/blog/4o-dia-de-rock-in-rio-tem-elton-john-imbativel-gil-em-possivel-ultimo-show-no-festival-e-luisa-sonza-esvaziada-veja-resumo"
+         ],
+         [
+          "Rock on Board",
+          "https://www.rockonboard.com.br/2026/09/em-possivel-despedida-elton-john.html"
+         ],
+         [
+          "Sopa Cultural",
+          "https://sopacultural.com/historico-elton-john-faz-show-arrebatador-e-encerra-primeiro-fim-de-semana-do-rock-in-rio-2026-com-chave-de-ouro-e-muito-brilho/"
+         ]
+        ]
+       },
+       {
+        "name": "Gilberto Gil (Palco Mundo, 20h30)",
+        "verdict": "A frase da edição: 'talvez, quem sabe, seja o último' — dita aos 84 anos, na 5ª participação de quem esteve na inauguração de 1985, e respondida com um 'não!' coletivo do gramado. Foram 16 músicas em pouco mais de uma hora, um show 'agridoce' de celebração e adeus: depois de encerrar a turnê 'Tempo Rei' em março, Gil segue sem se comprometer com novos palcos grandes. A imprensa tratou como despedida histórica — e o corte da frase é o conteúdo emocional mais forte da manhã. Capítulo extra consolidado nesta terça: Gil assistiu ao show de Elton John do gramado, ao lado de Flora, e compartilhou o momento nas redes (Portal Democrata, 08/09 14h38) — o encontro das duas despedidas prolongou a narrativa emocional do feriado.",
+        "links": [
+         [
+          "Rolling Stone Brasil",
+          "https://rollingstone.com.br/musica/gilberto-gil-deixa-tom-de-despedida-no-ar-em-show-no-rock-in-rio-2026-talvez-o-ultimo/"
+         ],
+         [
+          "Agenda do Poder",
+          "https://agendadopoder.com.br/gilberto-gil-volta-ao-rock-in-rio-aos-84-anos-e-emociona-publico-do-festival-talvez-seja-meu-ultimo/"
+         ],
+         [
+          "Portal Democrata (Gil no show de Elton)",
+          "https://portaldemocrata.com.br/2026/09/08/gilberto-gil-acompanha-elton-john-no-rock-in-rio-2026-saiba-os-detalhes/"
+         ]
+        ]
+       },
+       {
+        "name": "Show de drones TIM + IZA (21h45, entre Gil e Elton)",
+        "verdict": "O intervalo virou atração: coreografia aérea inédita do projeto 'Música Conecta', patrocinada pela TIM, com IZA como embaixadora anunciando o espetáculo do estande da marca — 'conectando a nova geração do pop à trajetória de um dos maiores ícones da MPB'. Posicionado entre as duas despedidas da noite, o formato garantiu à operadora a assinatura do momento mais coletivo do feriado — leitura completa na aba Direcionais.",
+        "links": [
+         [
+          "Aurora Cultural",
+          "https://auroracultural.com/noticias/musica/rock-in-rio/iza-comanda-show-de-drones-inedito-apos-gilberto-gil-no-rock-in-rio/"
+         ],
+         [
+          "Agenda do Poder (anúncio)",
+          "https://agendadopoder.com.br/rock-in-rio-tera-show-de-drones-entre-apresentacoes-de-gilberto-gil-e-elton-john/"
+         ]
+        ]
+       },
+       {
+        "name": "Péricles canta Motown (Sunset, 19h50)",
+        "verdict": "'Um dos nomes da noite' (Agenda do Poder): abandonou o pagode por completo num tributo exclusivo à Motown — Marvin Gaye, Diana Ross, Jackson 5, Temptations, Stevie Wonder (de óculos escuros, em homenagem) — com baixo, metais e quatro backing vocals. Sunset lotado, casais dançando agarrados mesmo com o chão molhado, e a chuva dando trégua justamente no set: a celebração da música negra que o palco pedia.",
+        "links": [
+         [
+          "Agenda do Poder",
+          "https://agendadopoder.com.br/pericles-transforma-palco-sunset-em-celebracao-a-musica-negra-no-rock-in-rio-2026/"
+         ]
+        ]
+       },
+       {
+        "name": "Laufey (Sunset, 21h55) e Jon Batiste (Mundo, 18h15): os achados da noite",
+        "verdict": "A islandesa de 27 anos misturou jazz, pop e bossa nova — com direito a cover de Luiz Bonfá num português charmoso — e agradou dos jovens aos pais na 2ª passagem pelo Brasil. Antes dela, Jon Batiste entregou o set 'transcendente' do dia: intensidade quase gospel unindo samba, jazz, blues e energia de carnaval com percussionistas brasileiros. Dois shows de descoberta que a crítica destacou acima de nomes maiores.",
+        "links": [
+         [
+          "Notícias Favoritas (resumo do dia 4)",
+          "https://www.noticiasfavoritas.com.br/blog/4o-dia-de-rock-in-rio-tem-elton-john-imbativel-gil-em-possivel-ultimo-show-no-festival-e-luisa-sonza-esvaziada-veja-resumo"
+         ]
+        ]
+       },
+       {
+        "name": "Luísa Sonza (Palco Mundo, 16h10)",
+        "verdict": "O senão da noite, agora consolidado pela crítica: 'público disperso e som ruim' (Rolling Stone) — horário antecipado a pedido de Elton John, frio afastando o público e áudio embolado nas faixas pesadas. Os 18 minutos de bossa nova com Roberto Menescal seguem como o resgate unânime. A conversa de redes sobre 'show mais vazio' continua ativa nesta terça — território de mérito musical e operação: a marca observa e não entra.",
+        "links": [
+         [
+          "Rolling Stone Brasil",
+          "https://rollingstone.com.br/musica/publico-disperso-e-som-ruim-marcam-show-de-luisa-sonza-no-rock-in-rio/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/07/luisa-sonza-reflete-sobre-a-carreira-apos-questionamento-surpreendente-dos-fas-no-rock-in-rio/"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "Contagem regressiva do K-pop day: o fandom de Stray Kids já se organiza em eventos próprios — e chega sexta em modo colecionador",
+      "src": "Rolling Stone Brasil · CNN Brasil",
+      "metric": "leitura editorial (sem medição de trends na rodada)",
+      "s": "Encontros de fãs pelo país (o STAY DAY de Vila Velha, domingo, teve oficina de personalização de cartões, bingo temático e feirinha de fãs) + álbum novo na bagagem = o público mais madrugador e documentador da edição chega sexta com colecionismo como linguagem nativa. É a deixa mais direta da semana para pochete e pins (ver Direcionais).",
+      "u": "https://rollingstone.com.br/musica/stray-kids-encontro-de-fas-ganha-edicao-em-vila-velha-saiba-mais/"
+     },
+     {
+      "t": "O choro de Sonza circula: a polêmica virou narrativa pessoal — e ainda mais intocável para marcas",
+      "src": "Fala Canedo · Portal Democrata",
+      "metric": "cobertura de 08/09 à tarde",
+      "s": "Os stories da artista emocionada ('vocês não sabem o que se passou') deram ao caso sua terceira camada em três dias: crítica de show → embate sobre mídia e gênero → vulnerabilidade pessoal. Conversa de altíssimo engajamento e altíssimo risco: guard-rail integral segue — nenhuma menção em canal da marca, resposta de comunidade ou brief de creator.",
+      "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
+     },
+     {
+      "t": "Mobilidade é a pauta de serviço do dia: 152 mil no BRT e 3 linhas novas — e conteúdo 'como chegar/voltar' é o que mais engaja fora do show",
+      "src": "Via Trolebus",
+      "metric": "balanço oficial (SMTR/MOBI-Rio)",
+      "s": "O dado público do dia alimenta o ciclo de conteúdo utilitário que já provou performance na semana 1 — o reel de 'como VOLTAR de BRT' da @divasuburbana rendeu 5,1 mil curtidas e 228 comentários, um dos maiores dela na janela. Com mais bate-volta na semana 2, o serviço de jornada (chegada, volta, estrada) tende a performar de novo — território natural da marca.",
+      "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+     },
+     {
+      "t": "O ciclo 'o que levar' se rearma com a previsão consolidada: looks para 30°C na sexta/sábado, kit chuva no domingo",
+      "src": "Brasil em Folhas (Climatempo)",
+      "metric": "leitura editorial",
+      "s": "Com a segunda leitura do Climatempo confirmando calor de verão nos dois primeiros dias e chuva persistente no encerramento, o conteúdo de serviço de véspera (o que vestir, o que levar na mochila) tende a dominar quinta e sexta — como dominou na semana 1. Deixa para conteúdo próprio útil por gatilho de clima: kit calor com leque, kit chuva com pochete protegendo o celular e volta segura de estrada.",
+      "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "sem medição na rodada da manhã",
+      "items": [],
+      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 9h de 09/09 (bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar) — 7ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival no ranking do dia. Nova tentativa na rodada das 20h."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "off",
+      "statusLabel": "sem medição na rodada da manhã",
+      "items": [],
+      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 9h de 09/09 (mesmo bloqueio de rede). Sem leitura da curva do dia. Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa na rodada das 20h."
+     }
+    ],
+    "note": "Rodada das 9h de 09/09: nenhuma das duas fontes quantitativas pôde ser medida — 7ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura do dia, com fonte e link em todo item. Nenhum número estimado."
+   },
+   "direcionais": {
+    "leitura": "Quarta-feira é o dia do meio: a última janela inteira de replanejamento antes de a operação tomar conta na sexta. O que o dia trouxe muda pouco o diagnóstico e muito a execução. Um: saiu o primeiro dado público de jornada da edição — 152 mil passageiros de BRT na semana 1, pico no domingo — e ele confirma que mobilidade é a pauta de serviço com dado disponível onde a marca pode falar com propriedade (chegada, volta, estrada) sem tocar em line-up; com a hotelaria em queda na semana 2, o público de carro e de estrada cresce justamente agora. Dois: a previsão se consolidou (30°C sexta e sábado, domingo de chuva o dia todo e 18°C) — o kit por dia está definido e o que falta é logística, não decisão. Três: o caso Sonza escalou para narrativa pessoal (choro, desabafo) — mais engajamento, mais risco, guard-rail mais rígido. Quatro: a Ipiranga segue sem earned media nova, e os balanços finais da imprensa (14–15/09) serão escritos com os dados que receberem — municiar a assessoria é a última alavanca de crédito nominal que resta. E o relógio do momento coletivo assinado, a lacuna nº 1 da semana 1, expira na prática amanhã.",
+    "dirs": [
+     {
+      "t": "Hoje trava o plano da sexta: o K-pop day é o dia mais operacional do festival, e ele começa na abertura dos portões",
+      "s": "O fandom de Stray Kids chega no início da tarde, no pico dos 30°C, e coleciona por natureza. Tudo o que depende de decisão — estoque de pins/pochetes antecipado, escala de equipe desde a abertura, leque na rua cedo, customização dimensionada — precisa estar fechado até quinta ao meio-dia. Quem tratar sexta como dia comum vai ativar à noite para um público que foi servido à tarde."
+     },
+     {
+      "t": "Mobilidade virou dado público — e é o único território de conversa do dia em que a marca tem propriedade natural",
+      "s": "152 mil no BRT, 3 linhas novas, hotelaria em queda: o desenho da semana 2 é de jornada mais longa e mais estrada. A marca não fala de show; fala de chegada, parada e volta — e agora tem número público para ancorar essa conversa. Usar o dado como gancho da frente KMV/AmPm (rota, abastecimento pré-festival, transfer por pontos) nos três dias, com ênfase no domingo de chuva."
+     },
+     {
+      "t": "Momento coletivo assinado: a decisão é hoje, a assinatura é amanhã — depois vira aprendizado para 2027",
+      "s": "O modelo está provado pela concorrência (TIM/drones no intervalo, Itaú/meet & greet). O que ainda pode estar disponível — intervalo do Palco Mundo, ativação de saída, ponto de encontro oficial — precisa ser negociado com a organização nesta quinta no mais tardar. Concentrar verba num único gesto no horário de pico emocional vale mais que qualquer volume adicional de brinde."
+     },
+     {
+      "t": "O kit por dia está decidido pelo clima; o que resta é executar por gatilho",
+      "s": "Leque-herói na sexta e no sábado de 30°C (na rua desde a abertura), pochete + capa + Espaço-refúgio no domingo de 18°C e chuva o dia todo. Domingo é também o maior risco reputacional de jornada da edição: público bate-volta, cansado, estrada molhada à noite — a comunicação de 'volta segura' (KMV/AmPm, paradas na rota) deve estar pronta antes, para subir no domingo de manhã."
+     },
+     {
+      "t": "Guard-rail atualizado: o caso Sonza agora é vulnerabilidade pessoal — a distância aumenta, não diminui",
+      "s": "Com o choro da artista, qualquer aproximação de marca ao assunto (mesmo empática) vira oportunismo. Zero menção em copy, comunidade ou brief de creator — vale também para despedidas (Gil) e comparações de público. Nossa fala pública da semana: experiência, jornada, estrada, reta final."
+     }
+    ],
+    "acion": [
+     "Fechar HOJE o cronograma operacional da sexta (K-pop day): estoque de pins e pochetes posicionado para o início da tarde, escala de equipe desde a abertura dos portões, leque distribuído no pico do calor e customização dimensionada para público colecionador — decisões travadas até quinta 12h.",
+     "Disparar até quinta a frente de estrada com o dado novo: push/e-mail KMV segmentado para quem vem de fora (rota Cidade do Rock com postos e AmPm no caminho, benefício de abastecimento pré-festival, resgate de transfer por pontos) — o balanço do BRT + hotelaria em queda comprovam que o bate-volta de carro cresce na reta final.",
+     "Levar HOJE à organização a proposta de momento coletivo assinado para a semana 2 (intervalo do Palco Mundo, ativação de saída ou ponto de encontro), com o case TIM/drones como referência de formato — prazo real de assinatura termina quinta.",
+     "Deixar prontos dois kits de conteúdo próprio acionáveis por gatilho de clima: 'kit calor' (leque, hidratação, sombra do Espaço) para sexta/sábado e 'kit chuva + volta segura' (pochete protegendo o celular, capa, rota de retorno com paradas) para o domingo — publicação decidida pela previsão da véspera, sem improviso.",
+     "Municiar a assessoria ainda hoje com os números próprios da semana 1 (pochetes customizadas, pins mais resgatados, resgates KMV, fluxo do Espaço, vendas do Bar AmPm) e ofertar pauta aos veículos que farão os balanços finais (14–15/09) — o balanço de ontem provou que a pauta de brindes vence SEM o nome da marca quando a imprensa não recebe dado próprio."
+    ]
+   },
+   "sources": [
+    [
+     "Via Trolebus — BRT do Rock in Rio soma 152 mil passageiros na semana 1; 3 linhas na semana 2",
+     "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+    ],
+    [
+     "Fala Canedo — Luísa Sonza compartilha emoções após o show ('experiência intensa')",
+     "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
+    ],
+    [
+     "Portal Democrata — Luísa Sonza chora após show no Rock in Rio",
+     "https://portaldemocrata.com.br/2026/09/08/luisa-sonza-chora-apos-show-no-rock-in-rio-emocoes-e-desafios-no-palco/"
+    ],
+    [
+     "Brasil em Folhas — festival retoma na sexta com K-pop e pop (grade e horários da semana 2)",
+     "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-retoma-shows-nesta-sexta-feira-com-k-pop-e-pop/"
+    ],
+    [
+     "Brasil em Folhas (Climatempo) — segunda semana terá chuva e calor (previsão consolidada por dia)",
+     "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+    ],
+    [
+     "Rolling Stone Brasil — encontro de fãs do Stray Kids (STAY DAY) aquece o K-pop day",
+     "https://rollingstone.com.br/musica/stray-kids-encontro-de-fas-ganha-edicao-em-vila-velha-saiba-mais/"
+    ],
+    [
+     "CNN Brasil — Stray Kids lança álbum às vésperas do show no Rock in Rio",
+     "https://www.cnnbrasil.com.br/pop/musica/stray-kids-lanca-novo-album-as-vesperas-de-show-no-rock-in-rio-escute/"
+    ],
+    [
+     "Exame — brinquedos suspensos, sem previsão de retomada (pendência em aberto)",
+     "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
+    ],
+    [
+     "Jornal de Brasília — balanço da semana 1: 'menos famosos, mais brindes e até robô' (sem nomear a Ipiranga)",
+     "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+    ],
+    [
+     "Agenda do Poder — ingressos disponíveis para sexta (11) e domingo (13); preços",
+     "https://agendadopoder.com.br/rock-in-rio-2026-ainda-tem-ingressos-disponiveis-para-sexta-11-e-domingo-13/"
+    ],
+    [
+     "ABIH-RJ — ocupação hoteleira e projeção de queda na semana 2",
+     "https://abihrj.com.br/turismo/rock-in-rio-2026-numeros-impacto-hotelaria-ocupacao"
+    ],
+    [
+     "Aurora Cultural — IZA comanda show de drones da TIM (referência de momento coletivo assinado)",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/iza-comanda-show-de-drones-inedito-apos-gilberto-gil-no-rock-in-rio/"
+    ],
+    [
+     "Jornal Expresso Carioca — brindes da Ipiranga (pochete, pins KMV, 30 mil leques)",
+     "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ]
+   ],
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 41,
+      "citouIpiranga": false,
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "parado",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
+     }
+    ],
+    "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+      "likes": 505,
+      "coments": 13,
+      "shares": 38,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+      "likes": 1783,
+      "coments": 78,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+      "likes": 1840,
+      "coments": 15,
+      "shares": 77,
+      "marcas": [
+       "@calvinharrisbrasil"
+      ],
+      "collab": "@calvinharrisbrasil",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+      "likes": 1641,
+      "coments": 11,
+      "shares": 43,
+      "marcas": [],
+      "collab": "@matheuscarvalh.o",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+      "likes": 2644,
+      "coments": 45,
+      "shares": 142,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+      "likes": 2629,
+      "coments": 63,
+      "shares": 31,
+      "marcas": [
+       "@itau",
+       "@pabllovittar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+      "likes": 2954,
+      "coments": 40,
+      "shares": 73,
+      "marcas": [
+       "@ifoodbrasil"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+      "likes": 31000,
+      "coments": 473,
+      "shares": 3000,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Esse é o significado?' — momento de show do dia 3",
+      "likes": 21400,
+      "coments": 390,
+      "shares": 1700,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 61300,
+      "coments": 3500,
+      "shares": 3500,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
+     }
+    ],
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   }
+  },
   {
    "date": "08/09/2026",
    "dateISO": "2026-09-08",
