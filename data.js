@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 32,
-  "updatedAt": "09/09/2026, 9h45 (BRT)",
+  "version": 33,
+  "updatedAt": "09/09/2026, 20h15 (BRT)",
   "updatedISO": "2026-09-09",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,24 +793,38 @@ window.RADAR = {
    "edition": 17,
    "phase": "entre semanas — dia do meio: logística da semana 2 e véspera da reta final (K-pop day na sexta)",
    "pulse": [
-    "🚌 <b>O entre-semanas amanheceu com pauta de logística — e ela é nosso território:</b> a Prefeitura/MOBI-Rio divulgou o balanço do BRT da semana 1: <b>152 mil passageiros em 4 dias</b> (30 mil na sexta, 35 mil no sábado, 47 mil no domingo, 40 mil na segunda), com operação elogiada pela fluidez (compra antecipada pelo app + embarque organizado). Para a semana 2, serão <b>3 linhas especiais</b> (Jardim Oceânico, Alvorada e Paulo da Portela). Cruzando com a hotelaria em queda (ABIH-RJ), o desenho da reta final se confirma: mais bate-volta, jornada mais longa — chegada, volta e estrada ganham peso na conversa.",
-    "🎤 <b>O caso Sonza mudou de natureza — e ficou mais sensível:</b> depois de o diretor criativo rebater as críticas ('ela deu aula'), a própria artista respondeu na tarde de terça: chorou nos stories e desabafou ('vocês não sabem o que se passou pra conseguir botar duas bandas no palco'). O que era resenha de show virou narrativa pessoal e emocional — o tipo de conversa que mais engaja e mais queima quem entra. Guard-rail reforçado: a marca segue a 100 metros do assunto. No resto da pauta, a contagem regressiva do K-pop day domina: fandom de Stray Kids mobilizado desde o fim de semana (encontros de fãs pelo país) para a sexta que abre a reta final.",
-    "📉 <b>Trends: 7ª rodada consecutiva sem medição quantitativa</b> — Google Trends BR e TikTok seguiram inacessíveis também na rodada das 9h desta quarta (bloqueio de permissão de rede do ambiente agendado). Na leitura editorial: mobilidade e previsão do tempo viraram as pautas de serviço do dia, o choro de Sonza circula, e o festival segue sem balanço oficial de público da semana 1 e sem anúncio de retomada dos brinquedos. Última leitura válida do TikTok: 5,7 mi de views (06/09)."
+    "🌙 <b>Edição da noite — e a lacuna nº 1 da semana fechou:</b> a Ipiranga assina, com o festival, o momento coletivo da reta final. Anúncio distribuído nesta quarta e repercutido com a marca na manchete (Aurora Cultural, DJ Sound, Juventude BM): <b>~30 mil leques amarelos</b> para o público criar um 'mar' sincronizado durante trecho do show de <b>Pedro Sampaio (sáb 12, Palco Mundo, 16h40)</b> — ação exclusiva artista + marca, no modelo que a TIM inaugurou com os drones. O formato é provado: Sampaio fez a 'maior bateção de leques do mundo' no RiR Lisboa. É a primeira earned media nominal da marca desde o ciclo de brindes da abertura — e agora com gesto assinado, não só brinde.",
+    "🎤 <b>A contagem regressiva do K-pop day virou pauta de veículo grande:</b> a Exame publicou às 18h48 o provável setlist do Stray Kids (18 músicas, base no Governors Ball), lembrando que é o <b>primeiro headliner de K-pop da história do festival</b> — e que ainda há gramado para sexta. As pendências da organização seguem as mesmas da manhã: sem balanço oficial de público da semana 1 e sem anúncio de retomada dos brinquedos. No balanço editorial que circulou (O Reporter), os números da semana 1: ~100 mil pessoas no dia Elton/Gil, 90+ marcas, ~8 mil horas de experiências e <b>1 milhão de brindes distribuídos</b> — com crítica a filas e à divergência app × placas. Caso Sonza sem camada nova desde ontem à tarde: esfriando, guard-rail mantido.",
+    "📉 <b>Trends: 8ª rodada consecutiva sem medição quantitativa</b> — Google Trends BR e TikTok seguiram bloqueados também na rodada das 20h (permissão de rede do ambiente agendado). Na leitura editorial da noite: o 'mar de leques' da Ipiranga entrou na pauta com a marca nomeada, o conteúdo de setlist/K-pop day acelera na véspera, e mobilidade + 'o que levar' seguem como os ciclos de serviço que antecedem a sexta. Última leitura válida do TikTok: 5,7 mi de views (06/09)."
    ],
    "news": [
+    {
+     "t": "Ipiranga e Rock in Rio anunciam 'mar' de 30 mil leques amarelos no show de Pedro Sampaio — ação exclusiva artista + marca no sábado",
+     "src": "Aurora Cultural · DJ Sound · Juventude BM",
+     "when": "09/09 (tarde)",
+     "s": "Anúncio distribuído nesta quarta e publicado por ao menos três veículos com a marca na manchete: ~30 mil leques na cor amarela da distribuidora serão entregues ao público para uma coreografia coletiva sincronizada em trecho específico do show de Pedro Sampaio (sáb 12, Palco Mundo, 16h40). O artista é o dono do formato — fez a 'maior bateção de leques do mundo' no Rock in Rio Lisboa, com ~10 mil unidades; aqui a escala triplica e a cor é a da marca. É o primeiro momento coletivo assinado pela Ipiranga na edição.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
+    },
+    {
+     "t": "Exame projeta o setlist do Stray Kids: 18 músicas no primeiro headliner de K-pop da história do festival",
+     "src": "Exame",
+     "when": "09/09, 18h48",
+     "s": "Com base no show do Governors Ball (junho, NY), a projeção é de 18 faixas cobrindo as eras do grupo — de 'God's Menu' a 'Chk Chk Boom'. A matéria lembra o tamanho do fenômeno no Brasil (175 mil pessoas em dois estádios em abril) e que ainda há ingressos de gramado para sexta na Ticketmaster. O conteúdo de véspera do K-pop day começou a rodar nos veículos grandes — quinta tende a ser o pico.",
+     "u": "https://exame.com/pop/stray-kids-no-rock-in-rio-2026-veja-o-provavel-setlist-do-show-do-grupo-de-k-pop/"
+    },
+    {
+     "t": "Balanço editorial da semana 1: 'aprovado na música, a melhorar na operação' — ~100 mil no dia Elton/Gil e 1 milhão de brindes distribuídos",
+     "src": "O Reporter",
+     "when": "08/09, 0h43",
+     "s": "O balanço mais completo publicado até aqui consolida os números da semana 1: ~100 mil pessoas no dia de Elton John e Gilberto Gil, 90+ empresas com 100+ ativações, ~8 mil horas de experiências promocionais e 1 milhão de brindes distribuídos. No débito: resposta da infraestrutura à chuva persistente do domingo, gestão de filas em serviços básicos e divergência entre app e placas físicas (banheiro '37% disponível' na placa, '25%' no app). Segue sem balanço OFICIAL da organização.",
+     "u": "https://oreporter.com/rock-in-rio/rock-in-rio-2026-balanco-primeira-semana"
+    },
     {
      "t": "BRT do Rock in Rio fecha a semana 1 com 152 mil passageiros e ganha 3 linhas especiais para a reta final",
      "src": "Via Trolebus",
      "when": "09/09, 7h00",
      "s": "Balanço oficial da operação (SMTR/MOBI-Rio): 30 mil passageiros na sexta, 35 mil no sábado, 47 mil no domingo — o pico — e 40 mil na segunda de feriado. A leitura da matéria credita a fluidez à combinação de compra antecipada pelo app e embarques organizados. Para 11–13/09: linha direta do Jardim Oceânico (SE008), direta do Alvorada (SE009) e semidireta do Paulo da Portela com paradas em Praça Seca, Tanque e Taquara (SE010). É o primeiro dado público consolidado de jornada da edição.",
      "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
-    },
-    {
-     "t": "Luísa Sonza chora e responde à repercussão: 'Vocês não sabem o que se passou pra botar duas bandas no palco'",
-     "src": "Fala Canedo · Portal Democrata",
-     "when": "08/09, 15h50",
-     "s": "Um dia depois da defesa do diretor criativo, a própria artista entrou na conversa: em vídeos nos stories, emocionada, agradeceu quem esteve no gramado ('muito obrigada a todo mundo que tava lá') e expôs o custo de montar a apresentação dupla com Roberto Menescal. O caso deixou de ser crítica de show e virou narrativa pessoal — mídia, gênero, esforço e vulnerabilidade no mesmo caldo. Segue integralmente fora da pauta da marca.",
-     "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
     },
     {
      "t": "Festival retoma na sexta com a grade da semana 2 fechada: Stray Kids às 00h05, Jamiroquai no Sunset e Ivete abrindo o domingo",
@@ -827,27 +841,34 @@ window.RADAR = {
      "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
     },
     {
-     "t": "Fandom em contagem regressiva: encontros de fãs do Stray Kids pelo país aquecem o K-pop day de sexta",
-     "src": "Rolling Stone Brasil",
-     "when": "18/08 (evento em 06/09)",
-     "s": "O STAY DAY: THIS & THAT, em Vila Velha (ES), no último domingo, é o retrato do público que chega sexta: oficina de personalização de cartões, audição do álbum novo, bingo temático e feirinha de produtos de fãs — colecionismo e ritual coletivo como linguagem nativa, dias antes do show. É o público mais madrugador e documentador da edição, e ele já está em movimento desde antes da porteira abrir.",
-     "u": "https://rollingstone.com.br/musica/stray-kids-encontro-de-fas-ganha-edicao-em-vila-velha-saiba-mais/"
+     "t": "Luísa Sonza chora e responde à repercussão: 'Vocês não sabem o que se passou pra botar duas bandas no palco'",
+     "src": "Fala Canedo · Portal Democrata",
+     "when": "08/09, 15h50",
+     "s": "Um dia depois da defesa do diretor criativo, a própria artista entrou na conversa: em vídeos nos stories, emocionada, agradeceu quem esteve no gramado e expôs o custo de montar a apresentação dupla com Roberto Menescal. Na varredura da noite desta quarta, nenhuma camada nova desde então — o caso esfria, mas segue integralmente fora da pauta da marca.",
+     "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
     },
     {
-     "t": "Pendências que o festival carrega para a semana 2: sem balanço oficial de público e sem anúncio de retomada dos brinquedos",
-     "src": "Exame (suspensão) · varredura de 09/09",
-     "when": "09/09, 9h",
-     "s": "A varredura desta quarta não encontrou balanço consolidado de público da semana 1 divulgado pela organização, nem comunicado sobre a volta do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). Com dois dias de 30°C e um domingo de chuva pela frente, a retomada (ou não) muda o desenho de filas e fluxo da Cidade do Rock.",
+     "t": "Pendências que o festival leva para a semana 2 (checadas às 20h): sem balanço oficial de público e sem anúncio de retomada dos brinquedos",
+     "src": "Exame (suspensão) · varredura de 09/09, 20h",
+     "when": "09/09, 20h",
+     "s": "A varredura da noite confirmou a da manhã: nenhum balanço consolidado de público divulgado pela organização e nenhum comunicado sobre a volta do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). Com 30°C na sexta/sábado e chuva no domingo, a retomada (ou não) muda o desenho de filas e fluxo da Cidade do Rock.",
      "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
     }
    ],
    "ipiranga": [
     {
-     "t": "Varredura desta quarta: nenhuma menção nova à Ipiranga na imprensa — a narrativa pública segue sendo a dos brindes úteis",
-     "src": "Varredura de 09/09 (âncoras: Jornal de Brasília 08/09 · Expresso Carioca 06/09)",
-     "when": "09/09, 9h",
-     "s": "Nenhuma matéria nova nomeou a marca nas últimas 24h. O último retrato segue o de ontem: o balanço de imprensa da semana 1 coroou a pauta de brindes (filas nos estandes, brinde como memória material da edição) citando itens de Itaú, C&A, Natura e iFood — sem uma linha para pochete, pins ou leque. Tradução: a marca venceu a pauta e segue sem o crédito nominal. Restam os balanços finais da imprensa (14–15/09) — e eles serão escritos com os dados que as assessorias entregarem.",
-     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
+     "t": "A lacuna nº 1 fechou: Ipiranga assina o momento coletivo da semana 2 — 'mar' de 30 mil leques no show de Pedro Sampaio",
+     "src": "Aurora Cultural · DJ Sound · Juventude BM",
+     "when": "09/09 (anúncio desta quarta)",
+     "s": "O que os direcionais cobravam desde a segunda ('assinar um momento coletivo até quinta') saiu no prazo: ação exclusiva artista + marca, anunciada hoje, com ~30 mil leques amarelos distribuídos para coreografia sincronizada em trecho do show de Pedro Sampaio (sáb 12, Palco Mundo, 16h40 — dia ESGOTADO). O paralelo direto é o show de drones da TIM no feriado — só que aqui o público É o espetáculo, com a cor da marca na mão de cada pessoa. Bônus de formato: Sampaio já fez a 'maior bateção de leques do mundo' no RiR Lisboa (~10 mil unidades) — dinâmica testada, agora em escala 3x e amarela. E é a primeira earned media com a marca na manchete desde o ciclo de brindes da abertura.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
+    },
+    {
+     "t": "Execução do 'mar de leques': o gesto é às 16h40 de um sábado de 30°C — logística, captura e assessoria decidem o tamanho do case",
+     "src": "Leitura da varredura da noite (Climatempo · precedente Lisboa)",
+     "when": "09/09, 20h",
+     "s": "Três frentes para amanhã (quinta): (1) LOGÍSTICA — show no fim da tarde de um dia esgotado e de calor: distribuição precisa começar na abertura dos portões, com o leque dobrando de função (refresco + adereço do momento); (2) CAPTURA — o 'mar' dura segundos: garantir vídeo próprio de altura (drone/grua autorizado), brief dos creators monitorados e corte vertical pronto para subir ainda no sábado; (3) ASSESSORIA — empacotar número (30 mil), foto aérea e nome da marca para os balanços finais da imprensa (14–15/09). A semana 1 provou que a pauta de brindes vence sem crédito quando a marca não entrega o dado — desta vez o dado é nosso e tem imagem.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
     },
     {
      "t": "O balanço do BRT é o primeiro dado público de jornada da edição — e desenha o mapa da nossa frente de estrada",
@@ -860,19 +881,12 @@ window.RADAR = {
      "t": "Previsão consolidada confirma o kit por dia: leque-herói na sexta e no sábado de 30°C, pochete + capa no domingo de 18°C",
      "src": "Brasil em Folhas (Climatempo)",
      "when": "08/09, 13h54",
-     "s": "A segunda leitura do Climatempo bate com a primeira e trava o planejamento: sexta e sábado devolvem o cenário de calor em que o leque virou o item fotografado do gramado — com o detalhe de que o público do K-pop day chega no início da tarde, no pico do sol, então o estoque precisa estar na rua desde a abertura. O domingo inverte: chuva o dia inteiro e frio — pochete protegendo o celular, capa, e o Espaço como refúgio coberto (o aprendizado do dia 3).",
+     "s": "A segunda leitura do Climatempo bate com a primeira e trava o planejamento: sexta e sábado devolvem o cenário de calor em que o leque virou o item fotografado do gramado — agora com o sábado ganhando função dupla (o leque do brinde é o adereço do momento assinado no show de Pedro Sampaio). O público do K-pop day chega no início da tarde, no pico do sol: estoque na rua desde a abertura. O domingo inverte: chuva o dia inteiro e frio — pochete protegendo o celular, capa, e o Espaço como refúgio coberto (o aprendizado do dia 3).",
      "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
-    },
-    {
-     "t": "Relógio da semana 2: ~48h úteis para garantir o momento coletivo assinado que faltou na semana 1",
-     "src": "Leitura da varredura (casos TIM/drones · Itaú/meet & greet)",
-     "when": "09/09, 9h",
-     "s": "A semana 1 fechou com a TIM assinando o momento coletivo do feriado (drones + IZA entre Gil e Elton) e o Itaú colhendo 'obrigada' espontâneo de creator por experiência entregue. Se a Ipiranga quer um gesto equivalente na reta final (intervalo do Palco Mundo, ativação de saída, ponto de encontro), a negociação com a organização precisa estar fechada até quinta — sexta a operação já toma conta. Depois de domingo, o que não foi assinado vira aprendizado para 2027.",
-     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/iza-comanda-show-de-drones-inedito-apos-gilberto-gil-no-rock-in-rio/"
     }
    ],
    "shows": {
-    "status": "ENTRE SEMANAS (quarta, 9/set) — sem shows na Cidade do Rock até sexta (11/set). Pendências da organização: sem balanço oficial de público da semana 1 e sem anúncio de retomada do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). NOVO (09/09): balanço do BRT da semana 1 divulgado — 152 mil passageiros em 4 dias (pico de 47 mil no domingo) — e semana 2 com 3 linhas especiais (Jardim Oceânico direto, Alvorada direto, Paulo da Portela semidireto). GRADE DA RETA FINAL (horários confirmados): sex 11/set = K-pop day: NEXZ (16h40), HWASA (19h), Alok (21h20) e Stray Kids (00h05) no Mundo; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset — ingressos disponíveis. Sáb 12/set = Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20) e Maroon 5 (00h05) no Mundo; Gilsons, João Gomes (20h10) e Mumford & Sons (22h45) no Sunset — ESGOTADO. Dom 13/set = encerramento: Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35) e Twenty One Pilots (00h05) no Mundo — ingressos disponíveis (gramado R$ 870 inteira). CLIMA: sex/sáb 30°C com chuva só passageira; domingo chuva o dia todo e 18–23°C.",
+    "status": "ENTRE SEMANAS (quarta, 9/set — rodada da noite, 20h) — sem shows na Cidade do Rock até sexta (11/set). NOVO NA NOITE: (1) Ipiranga e festival anunciaram ação exclusiva no show de Pedro Sampaio (sáb 12, Palco Mundo, 16h40): ~30 mil leques amarelos para um 'mar' sincronizado no gramado — primeiro momento coletivo assinado pela marca na edição; (2) Exame publicou (18h48) o provável setlist do Stray Kids — 18 músicas, primeiro headliner de K-pop da história do festival; ainda há gramado para sexta. PENDÊNCIAS (checadas às 20h, sem mudança desde a manhã): sem balanço oficial de público da semana 1 e sem anúncio de retomada do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspenso desde domingo, 'sem previsão' segundo a Exame). Balanço editorial da semana 1 (O Reporter): ~100 mil pessoas no dia Elton/Gil, 1 milhão de brindes, 90+ marcas — 'aprovado na música, a melhorar na operação' (filas e divergência app × placas). BRT: 152 mil passageiros na semana 1 (pico de 47 mil no domingo); semana 2 com 3 linhas especiais (Jardim Oceânico direto, Alvorada direto, Paulo da Portela semidireto). GRADE DA RETA FINAL (horários confirmados): sex 11/set = K-pop day: NEXZ (16h40), HWASA (19h), Alok (21h20) e Stray Kids (00h05) no Mundo; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset — ingressos disponíveis. Sáb 12/set = Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20) e Maroon 5 (00h05) no Mundo; Gilsons, João Gomes (20h10) e Mumford & Sons (22h45) no Sunset — ESGOTADO. Dom 13/set = encerramento: Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35) e Twenty One Pilots (00h05) no Mundo — ingressos disponíveis (gramado R$ 870 inteira). CLIMA: sex/sáb 30°C com chuva só passageira; domingo chuva o dia todo e 18–23°C.",
     "reperc": [
      {
       "date": "7/set (4ª noite — feriado · esgotado · frio)",
@@ -969,21 +983,21 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "Contagem regressiva do K-pop day: o fandom de Stray Kids já se organiza em eventos próprios — e chega sexta em modo colecionador",
-      "src": "Rolling Stone Brasil · CNN Brasil",
-      "metric": "leitura editorial (sem medição de trends na rodada)",
-      "s": "Encontros de fãs pelo país (o STAY DAY de Vila Velha, domingo, teve oficina de personalização de cartões, bingo temático e feirinha de fãs) + álbum novo na bagagem = o público mais madrugador e documentador da edição chega sexta com colecionismo como linguagem nativa. É a deixa mais direta da semana para pochete e pins (ver Direcionais).",
-      "u": "https://rollingstone.com.br/musica/stray-kids-encontro-de-fas-ganha-edicao-em-vila-velha-saiba-mais/"
+      "t": "'Mar de leques' entra na pauta com a marca na manchete: a ação Ipiranga + Pedro Sampaio é o assunto de marca da noite",
+      "src": "Aurora Cultural · DJ Sound · Juventude BM",
+      "metric": "3 veículos publicaram no dia do anúncio (09/09), todos nomeando a marca",
+      "s": "O anúncio da coreografia de 30 mil leques amarelos no show de sábado rendeu, no mesmo dia, a primeira leva de earned media nominal da marca desde a abertura. O precedente de Lisboa ('maior bateção de leques do mundo', com fila para pegar o leque) indica o potencial de UGC: adereço na mão de 30 mil pessoas num dia esgotado = matéria-prima de vídeo em volume. O pico orgânico será sábado à tarde — a captura própria e o corte vertical precisam estar prontos antes.",
+      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
      },
      {
-      "t": "O choro de Sonza circula: a polêmica virou narrativa pessoal — e ainda mais intocável para marcas",
-      "src": "Fala Canedo · Portal Democrata",
-      "metric": "cobertura de 08/09 à tarde",
-      "s": "Os stories da artista emocionada ('vocês não sabem o que se passou') deram ao caso sua terceira camada em três dias: crítica de show → embate sobre mídia e gênero → vulnerabilidade pessoal. Conversa de altíssimo engajamento e altíssimo risco: guard-rail integral segue — nenhuma menção em canal da marca, resposta de comunidade ou brief de creator.",
-      "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
+      "t": "Conteúdo de setlist virou o motor da véspera do K-pop day: Exame projeta as 18 músicas do Stray Kids",
+      "src": "Exame · Rolling Stone Brasil (fandom)",
+      "metric": "publicado às 18h48 de 09/09",
+      "s": "A especulação de setlist é o formato clássico de véspera de fandom — e chegou aos veículos grandes nesta quarta à noite. Com o grupo lembrado como primeiro headliner de K-pop da história do festival e o fandom em modo colecionador (STAY DAY, álbum novo), quinta e sexta concentram o conteúdo de contagem regressiva. Deixa direta para pins e pochete customizável no dia de público mais colecionista da edição.",
+      "u": "https://exame.com/pop/stray-kids-no-rock-in-rio-2026-veja-o-provavel-setlist-do-show-do-grupo-de-k-pop/"
      },
      {
-      "t": "Mobilidade é a pauta de serviço do dia: 152 mil no BRT e 3 linhas novas — e conteúdo 'como chegar/voltar' é o que mais engaja fora do show",
+      "t": "Mobilidade segue como a pauta de serviço com dado público: 152 mil no BRT e 3 linhas novas para a reta final",
       "src": "Via Trolebus",
       "metric": "balanço oficial (SMTR/MOBI-Rio)",
       "s": "O dado público do dia alimenta o ciclo de conteúdo utilitário que já provou performance na semana 1 — o reel de 'como VOLTAR de BRT' da @divasuburbana rendeu 5,1 mil curtidas e 228 comentários, um dos maiores dela na janela. Com mais bate-volta na semana 2, o serviço de jornada (chegada, volta, estrada) tende a performar de novo — território natural da marca.",
@@ -993,8 +1007,15 @@ window.RADAR = {
       "t": "O ciclo 'o que levar' se rearma com a previsão consolidada: looks para 30°C na sexta/sábado, kit chuva no domingo",
       "src": "Brasil em Folhas (Climatempo)",
       "metric": "leitura editorial",
-      "s": "Com a segunda leitura do Climatempo confirmando calor de verão nos dois primeiros dias e chuva persistente no encerramento, o conteúdo de serviço de véspera (o que vestir, o que levar na mochila) tende a dominar quinta e sexta — como dominou na semana 1. Deixa para conteúdo próprio útil por gatilho de clima: kit calor com leque, kit chuva com pochete protegendo o celular e volta segura de estrada.",
+      "s": "Com calor de verão nos dois primeiros dias e chuva persistente no encerramento, o conteúdo de serviço de véspera (o que vestir, o que levar na mochila) tende a dominar quinta e sexta — como dominou na semana 1. Deixa para conteúdo próprio útil por gatilho de clima: kit calor com leque (que no sábado também é o adereço do momento assinado), kit chuva com pochete protegendo o celular e volta segura de estrada.",
       "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+     },
+     {
+      "t": "Caso Sonza esfria: nenhuma camada nova desde os stories de terça — o guard-rail segue, sem novidade",
+      "src": "Varredura da noite de 09/09",
+      "metric": "sem cobertura nova nas últimas 24h",
+      "s": "A varredura das 20h não encontrou desdobramento novo do caso (crítica → embate → choro). A conversa remanescente é residual. Guard-rail integral mantido — nenhuma menção em canal da marca, resposta de comunidade ou brief de creator — mas o assunto deixou de ser o centro da pauta, substituído pela contagem regressiva da semana 2.",
+      "u": "https://falacanedo.com.br/2026/09/08/luisa-sonza-compartilha-emocoes-apos-show-no-rock-in-rio-foi-uma-experiencia-intensa/"
      }
     ],
     "sources": [
@@ -1003,21 +1024,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição também na rodada da noite",
       "items": [],
-      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 9h de 09/09 (bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar) — 7ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival no ranking do dia. Nova tentativa na rodada das 20h."
+      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 20h de 09/09 (bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar) — 8ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival no ranking. Nova tentativa na rodada das 9h de quinta."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição também na rodada da noite",
       "items": [],
-      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 9h de 09/09 (mesmo bloqueio de rede). Sem leitura da curva do dia. Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa na rodada das 20h."
+      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 20h de 09/09 (mesmo bloqueio de rede) — sem leitura da curva do dia (manhã e noite bloqueadas). Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa na rodada das 9h de quinta."
      }
     ],
-    "note": "Rodada das 9h de 09/09: nenhuma das duas fontes quantitativas pôde ser medida — 7ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura do dia, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h de 09/09: nenhuma das duas fontes quantitativas pôde ser medida — 8ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura do dia, com fonte e link em todo item. Nenhum número estimado."
    },
    "direcionais": {
     "leitura": "Quarta-feira é o dia do meio: a última janela inteira de replanejamento antes de a operação tomar conta na sexta. O que o dia trouxe muda pouco o diagnóstico e muito a execução. Um: saiu o primeiro dado público de jornada da edição — 152 mil passageiros de BRT na semana 1, pico no domingo — e ele confirma que mobilidade é a pauta de serviço com dado disponível onde a marca pode falar com propriedade (chegada, volta, estrada) sem tocar em line-up; com a hotelaria em queda na semana 2, o público de carro e de estrada cresce justamente agora. Dois: a previsão se consolidou (30°C sexta e sábado, domingo de chuva o dia todo e 18°C) — o kit por dia está definido e o que falta é logística, não decisão. Três: o caso Sonza escalou para narrativa pessoal (choro, desabafo) — mais engajamento, mais risco, guard-rail mais rígido. Quatro: a Ipiranga segue sem earned media nova, e os balanços finais da imprensa (14–15/09) serão escritos com os dados que receberem — municiar a assessoria é a última alavanca de crédito nominal que resta. E o relógio do momento coletivo assinado, a lacuna nº 1 da semana 1, expira na prática amanhã.",
@@ -1103,6 +1124,30 @@ window.RADAR = {
     [
      "Jornal Expresso Carioca — brindes da Ipiranga (pochete, pins KMV, 30 mil leques)",
      "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ],
+    [
+     "Aurora Cultural — público de Pedro Sampaio terá 30 mil leques amarelos (ação Ipiranga, anúncio de 09/09)",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
+    ],
+    [
+     "DJ Sound — Ipiranga e Rock in Rio Brasil 2026 completam a experiência do público no show de Pedro Sampaio",
+     "https://djsound.com.br/?p=14910"
+    ],
+    [
+     "Juventude BM — Ipiranga e Rock in Rio Brasil 2026 no show de Pedro Sampaio ('mar' de leques)",
+     "https://www.juventudebm.com/2026/09/ipiranga-e-rock-in-rio-brasil-2026.html"
+    ],
+    [
+     "Exame — provável setlist do Stray Kids no Rock in Rio (09/09, 18h48)",
+     "https://exame.com/pop/stray-kids-no-rock-in-rio-2026-veja-o-provavel-setlist-do-show-do-grupo-de-k-pop/"
+    ],
+    [
+     "O Reporter — balanço da primeira semana: o que funcionou e onde o festival tropeçou",
+     "https://oreporter.com/rock-in-rio/rock-in-rio-2026-balanco-primeira-semana"
+    ],
+    [
+     "Sapo/Quinto Canal — precedente Lisboa: Pedro Sampaio e a 'festa dos leques' no RiR Lisboa",
+     "https://quinto-canal.com/coberturas/especial-rock-in-rio-lisboa-2026-pedro-sampaio-e-a-festa-dos-leques"
     ]
    ],
    "influencia": {
