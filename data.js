@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 34,
-  "updatedAt": "10/09/2026, 09h39 (BRT)",
+  "version": 35,
+  "updatedAt": "10/09/2026, 20h15 (BRT)",
   "updatedISO": "2026-09-10",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,31 +793,45 @@ window.RADAR = {
    "edition": 18,
    "phase": "entre semanas — véspera da semana 2: D-1 do K-pop day (sexta) e D-2 do 'mar de leques' Ipiranga (sábado)",
    "pulse": [
-    "🎤 <b>Véspera do K-pop day — e a cobertura de contagem regressiva chegou ao pico:</b> madrugada e manhã desta quinta já trouxeram duas matérias novas de veículos médios (Portal Democrata, 3h19; GLP4, 8h11) tratando a sexta como marco histórico — primeiro headliner de K-pop em 41 anos de festival, com números de peso (30 milhões de álbuns do Stray Kids, K-pop como gênero que mais cresceu na história do Spotify, 61 bilhões de streams fora da Coreia em 2025). Os setlists prováveis de Stray Kids e HWASA saíram na Exame entre a tarde e a noite de ontem. Detalhe operacional que muda a leitura da sexta: o plano oficial do dia inclui o 'maior oceano de lightsticks da história do festival' — ou seja, a véspera do nosso 'mar de leques' terá um ensaio geral de gesto coletivo, orquestrado pelo próprio festival.",
-    "🟡 <b>D-2 do 'mar de leques': a pauta segue viva (4º veículo em ~24h) e a mecânica está confirmada</b> — o EncontraIpiranga detalhou que os leques serão entregues na chegada do público, sem cadastro, com o gesto sincronizado convocado em momento específico do show de Pedro Sampaio (sáb, Palco Mundo, 16h40, dia esgotado). O que ainda NÃO aconteceu: o trade de marketing (propmark, Meio & Mensagem, Mundo do Marketing) não repercutiu a ação — a janela de assessoria para transformar o anúncio em pauta de negócio fecha hoje/amanhã, antes de o gesto virar imagem no sábado.",
-    "📉 <b>Trends: 9ª rodada consecutiva sem medição quantitativa</b> (Google Trends BR e TikTok seguiram bloqueados no ambiente da rotina; última leitura válida do TikTok: 5,7 mi views em 06/09). Na leitura editorial da manhã: conteúdo de véspera de fandom (setlist, 'o que levar', caravana) domina a conversa; ingressos da sexta oscilam entre 'últimos lotes' e 'esgotado' conforme o veículo — sinal de lotação máxima; e as duas pendências da organização seguem em aberto (sem balanço oficial da semana 1, sem anúncio de retomada dos brinquedos)."
+    "🌙 <b>Edição da noite (20h) — a véspera da semana 2 fechou com o 'como assistir' resolvido e o 'esgotado' desmentido à tarde:</b> a transmissão da reta final foi detalhada hoje (11h37): Multishow no ar a partir de 15h15 (Mundo + Sunset), Bis às 15h50 (Favela, New Dance Order e Supernova), sinal aberto alternando entre os dois a cada 30 min desde 15h30, Globoplay Premium com os 5 palcos em 4K e Globo com melhores momentos. E a novela do ingresso de sexta ganhou capítulo à tarde: às 14h58 a Exame ainda via gramado disponível na Ticketmaster (inteira, meia e 15% Itaú) — na prática, o K-pop day opera em lotação máxima, mas 'esgotado' seguia impreciso ao fim da tarde.",
+    "🟡 <b>D-2 virou véspera de gesto televisionado: o show do 'mar de leques' ganhou preview próprio hoje — e a conta de TV fecha a nosso favor.</b> O Portal Democrata revelou o formato do show de Pedro Sampaio no sábado: estreia no Palco Mundo com show novo ('Abraça o Amigo e Pula'), J Balvin como convidado (parceria de 'Perversa') e ensaios na Barra. Mais holofote no show = mais câmeras no momento do leque; e com o Multishow entrando no ar às 15h15 de sábado, o show das 16h40 será transmitido ao vivo — a imagem aérea do 'mar amarelo' nasce televisionada, não só em UGC. A pauta chegou ao 5º veículo (Glow Pop Brasil, hoje), mas o trade (propmark, M&M, Mundo do Marketing) fechou o dia sem publicar: a janela de assessoria pré-gesto acabou na prática — o plano B é empacotar a IMAGEM de sábado para os balanços de 14–15/09.",
+    "📉 <b>Trends: 10ª rodada sem medição quantitativa (Google Trends e TikTok seguiram bloqueados às 20h) — e a previsão do fim de semana foi revisada à noite:</b> a Exame (18h28) desenha sexta como o dia mais quente e seco da semana 2 (22–31°C), sábado 22–30°C nublando ao longo do dia e domingo com frente fria, 19–22°C e a maior chance de chuva — encerramento de capa confirmado. Na leitura editorial da noite: conteúdo de véspera segue no pico (setlists, 'onde assistir', guias de fandom), e as duas pendências da organização atravessaram o dia sem resposta — sem balanço oficial da semana 1 e sem anúncio sobre os brinquedos (4ª varredura consecutiva; a decisão agora só aparece na reabertura dos portões)."
    ],
    "news": [
+    {
+     "t": "Transmissão da reta final detalhada: Multishow a partir de 15h15, Bis às 15h50, sinal aberto alternado e Globoplay Premium com os 5 palcos em 4K",
+     "src": "Brasil em Folhas",
+     "when": "10/09, 11h37",
+     "s": "O guia consolidado do último fim de semana saiu nesta quinta: Multishow abre às 15h15 com Mundo e Sunset; o Bis entra às 15h50 com Espaço Favela, New Dance Order e Supernova; a partir de 15h30 o sinal aberto alterna entre os dois canais a cada 30 minutos; assinantes do Globoplay Premium têm os 5 palcos ao vivo (com o feed do Multishow em 4K); e a TV Globo fica com melhores momentos na programação. Implicação direta para sábado: o show de Pedro Sampaio (16h40) cai dentro da janela do Multishow — o 'mar de leques' será transmitido ao vivo.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-comeca-ultimo-fim-de-semana-com-transmissoes-ao-vivo/"
+    },
+    {
+     "t": "Capítulo da tarde na novela do ingresso: às 14h58 a Exame ainda via gramado disponível para a sexta — 'esgotado' seguia impreciso no fim do dia",
+     "src": "Exame ('quem toca amanhã')",
+     "when": "10/09, 14h58",
+     "s": "Depois de a GLP4 tratar a sexta como esgotada pela manhã, a checagem da Exame no meio da tarde ainda encontrava gramado à venda na Ticketmaster para o K-pop day — inteira, meia e benefício Itaú (15% off). O histórico completo: dia 11 esgotou oficialmente em julho, lotes extras voltaram em setembro e a véspera terminou com venda aberta. Para a operação nada muda: tratar sexta como lotação de dia esgotado, com caravanas e chegada antecipada do fandom desde o meio-dia. Domingo segue com ingressos.",
+     "u": "https://exame.com/pop/rock-in-rio-2026-quem-toca-amanha-veja-programacao-e-horarios/"
+    },
+    {
+     "t": "Previsão revisada à noite: sexta é o dia mais quente e seco da semana 2 (22–31°C); domingo entra frente fria, 19–22°C e a maior chance de chuva",
+     "src": "Exame (previsão do 2º fim de semana)",
+     "when": "10/09, 18h28",
+     "s": "Atualização que destrava o consolidado de terça: sexta (11) com calor, sol entre nuvens e nebulosidade aumentando ao longo do dia, 22–31°C — o dia mais quente e seco do fim de semana; sábado (12) 22–30°C, nublando, com chance de chuva crescente mas sem chuva contínua; domingo (13) com passagem de frente fria, ar mais fresco e úmido, 19–22°C e a maior probabilidade de precipitação dos três dias. Tradução: leque como refresco nos dois primeiros dias, capa e plano de chuva no encerramento.",
+     "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-o-segundo-fim-de-semana/"
+    },
+    {
+     "t": "O show do sábado ganhou preview: Pedro Sampaio estreia no Palco Mundo com show novo ('Abraça o Amigo e Pula') e J Balvin como convidado",
+     "src": "Portal Democrata",
+     "when": "10/09, madrugada",
+     "s": "Matéria publicada nesta quinta revela o formato da apresentação de sábado (16h40): show inédito que encerra a era 'Caos', com sofás em níveis diferentes no palco (referência aos Simpsons), repertório e coreografias novos, projeções e ~60 minutos de duração. J Balvin — parceiro de 'Perversa' (2024) e atração das 19h do mesmo palco — está confirmado como participação. Sampaio foi flagrado em ensaios na Barra da Tijuca. É exatamente nesse show que acontece o 'mar de leques' Ipiranga: quanto maior o holofote sobre a estreia, mais câmeras no momento do gesto.",
+     "u": "https://portaldemocrata.com.br/2026/09/10/pedro-sampaio-novidades-e-novo-show-no-rock-in-rio-2026/"
+    },
     {
      "t": "K-pop toma o Palco Mundo nesta sexta: 'de nicho a protagonista', com sexta tratada como esgotada e números de recorde",
      "src": "GLP4",
      "when": "10/09, 8h11",
      "s": "Matéria da manhã consolida o tamanho do marco: primeira noite inteira do Palco Mundo dedicada ao K-pop em 41 anos, com NEXZ (16h40), HWASA (19h), Alok (21h20) e Stray Kids (00h05). Os números do contexto: 30+ milhões de álbuns vendidos pelo Stray Kids, 61 bilhões de streams de K-pop fora da Coreia em 2025 e o gênero como o que mais cresceu na história do Spotify. A sexta é tratada como esgotada — ver item de ingressos abaixo.",
      "u": "https://glp4.com/noticia/de-nicho-a-protagonista-k-pop-toma-o-palco-mundo-do-rock-in-rio-nesta-sexta"
-    },
-    {
-     "t": "Stray Kids como headliner: o que muda no festival — reposicionamento geracional vira pauta de análise",
-     "src": "Portal Democrata",
-     "when": "10/09, 3h19",
-     "s": "Análise publicada na madrugada desta quinta lê o K-pop day como 'novo símbolo de inovação' do festival: com 20+ milhões de seguidores no Instagram, o Stray Kids puxa um público mais jovem e diversificado, na mesma lógica de repositionamento que Lollapalooza e Coachella fizeram. Para as marcas, a leitura é direta: o público de sexta é outro — mais colecionador, mais organizado em comunidade e mais produtor de conteúdo do que a média do festival.",
-     "u": "https://portaldemocrata.com.br/2026/09/10/stray-kids-e-headliner-de-estreia-do-k-pop-no-rock-in-rio-o-que-muda-no-festival/"
-    },
-    {
-     "t": "HWASA ganha projeção de setlist na Exame: 'Maria', 'I Love My Body' e faixa do Mamamoo às 19h de sexta",
-     "src": "Exame",
-     "when": "09/09, 16h17",
-     "s": "Segundo capítulo do conteúdo de véspera da Exame (o do Stray Kids saiu às 18h48): a cantora da P Nation (empresa do Psy) deve levar 'TWIT', 'Maria' (357 mi de views no YouTube), 'I Love My Body', 'Snooze', 'Lemon' e 'Chili' do Mamamoo. O formato 'setlist provável' rodando em veículo de negócios confirma que o fandom de K-pop virou pauta de interesse geral — não só de nicho.",
-     "u": "https://exame.com/pop/hwasa-no-rock-in-rio-confira-o-possivel-setlist-do-show-da-cantora-de-k-pop/"
     },
     {
      "t": "Mecânica do 'mar de leques' confirmada em 4º veículo: entrega na chegada, sem cadastro, gesto convocado em momento específico do show",
@@ -827,13 +841,6 @@ window.RADAR = {
      "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
     },
     {
-     "t": "Ingressos da sexta: veículos divergem entre 'últimos lotes' e 'esgotado' — na prática, o K-pop day opera em lotação máxima",
-     "src": "Exame (09/09, 18h48) × GLP4 (10/09, 8h11)",
-     "when": "checagem de 10/09, manhã",
-     "s": "A Exame ainda via gramado disponível para sexta na Ticketmaster na noite de ontem; a GLP4 desta manhã trata o dia como esgotado. O histórico explica a confusão: o dia 11 esgotou oficialmente em julho (release do festival), e lotes voltaram à venda em setembro (checagens da Exame em 03/09 e 09/09). Domingo segue com ingressos (gramado R$ 870 inteira; Comfort Zone R$ 1.950; 15% off Itaú). Para planejamento: tratar sexta como dia de lotação de esgotado, com chegada antecipada do fandom.",
-     "u": "https://exame.com/pop/stray-kids-no-rock-in-rio-2026-veja-o-provavel-setlist-do-show-do-grupo-de-k-pop/"
-    },
-    {
      "t": "Plano oficial do K-pop day prevê o 'maior oceano de lightsticks da história do festival' — com caravanas do Brasil e da América Latina",
      "src": "Jornal de Brasília (release oficial do festival)",
      "when": "release oficial (jul), recirculando na véspera",
@@ -841,52 +848,52 @@ window.RADAR = {
      "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-entra-na-contagem-regressiva-para-a-estreia-do-k-pop-no-festival/"
     },
     {
-     "t": "Pendências da organização seguem em aberto na véspera: sem balanço oficial de público da semana 1 e sem anúncio sobre os brinquedos",
-     "src": "Exame (suspensão) · varredura de 10/09, manhã",
-     "when": "10/09, ~9h",
-     "s": "Terceira varredura consecutiva sem novidade: nenhum balanço consolidado de público divulgado pela organização e nenhum comunicado sobre a retomada do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspensos desde o domingo de chuva, 'sem previsão' segundo a Exame). Com sexta e sábado de 30°C e portões lotados desde cedo, a decisão sobre os brinquedos redesenha filas e fluxo — e ainda não veio.",
-     "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
+     "t": "Stray Kids como headliner: o que muda no festival — reposicionamento geracional vira pauta de análise",
+     "src": "Portal Democrata",
+     "when": "10/09, 3h19",
+     "s": "Análise publicada na madrugada desta quinta lê o K-pop day como 'novo símbolo de inovação' do festival: com 20+ milhões de seguidores no Instagram, o Stray Kids puxa um público mais jovem e diversificado, na mesma lógica de repositionamento que Lollapalooza e Coachella fizeram. Para as marcas, a leitura é direta: o público de sexta é outro — mais colecionador, mais organizado em comunidade e mais produtor de conteúdo do que a média do festival.",
+     "u": "https://portaldemocrata.com.br/2026/09/10/stray-kids-e-headliner-de-estreia-do-k-pop-no-rock-in-rio-o-que-muda-no-festival/"
     },
     {
-     "t": "Clima da reta final segue travado: 30°C com sol na sexta e no sábado, domingo de chuva o dia todo e 18–23°C",
-     "src": "Brasil em Folhas (Climatempo)",
-     "when": "08/09 (previsão consolidada, sem revisão desde então)",
-     "s": "Nenhuma atualização relevante da previsão nas últimas 24h — o cenário da semana 2 segue o consolidado de terça: sexta (11) com sol, 22–30°C e chuva só passageira à tarde; sábado (12) entre 23–30°C com pancadas à tarde e noite seca; domingo (13) com chuva persistente o dia inteiro e queda para 18–23°C. Dois dias de verão e um encerramento de capa de chuva — o kit por dia definido desde terça permanece válido.",
-     "u": "https://www.brasilemfolhas.com.br/2026/09/segunda-semana-do-rock-in-rio-tera-chuva-e-calor/"
+     "t": "Pendências atravessaram o dia sem resposta: 4ª varredura consecutiva sem balanço oficial da semana 1 e sem anúncio sobre os brinquedos",
+     "src": "varredura da noite (20h) · Exame (suspensão)",
+     "when": "10/09, ~20h",
+     "s": "A varredura da noite confirmou o silêncio da manhã: nenhum balanço consolidado de público da semana 1 divulgado pela organização e nenhum comunicado sobre a retomada do agendamento dos brinquedos (roda-gigante, tirolesa, montanha-russa, Discovery e Mega Download — suspensos desde o domingo de chuva, 'sem previsão' segundo a Exame). Com os portões reabrindo amanhã ao meio-dia de um dia de 31°C e lotação máxima, a definição sobre os brinquedos agora só aparece na prática, na reabertura — quem chegar cedo vai descobrir na hora se o agendamento voltou.",
+     "u": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/"
     }
    ],
    "ipiranga": [
     {
-     "t": "D-2 do 'mar de leques': pauta viva (4 veículos em ~24h), mecânica confirmada — e o trade ainda não publicou",
-     "src": "EncontraIpiranga · Aurora Cultural · DJ Sound · Juventude BM",
-     "when": "09–10/09",
-     "s": "O anúncio de quarta seguiu rendendo: o EncontraIpiranga virou o 4º veículo a publicar, agora com a mecânica completa (entrega na chegada, sem cadastro, gesto convocado em momento específico do show). O que falta é o degrau de cima: propmark, Meio & Mensagem e Mundo do Marketing não repercutiram — e são eles que transformam a ação em case de negócio nos balanços de 14–15/09. A janela de assessoria para ofertar a pauta (número, mecânica, precedente Lisboa, paralelo TIM/drones) é HOJE, antes de o gesto existir em imagem.",
-     "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
+     "t": "O 'mar de leques' será transmitido ao vivo: com o Multishow no ar desde 15h15 de sábado, o gesto das 16h40 nasce televisionado — não só em UGC",
+     "src": "Brasil em Folhas (grade de transmissão) + grade oficial",
+     "when": "10/09, 11h37",
+     "s": "O detalhe mais importante do dia para a ação saiu embutido no guia de transmissão: o show de Pedro Sampaio (sáb, 16h40, Palco Mundo) cai dentro da janela do Multishow (no ar às 15h15) e dos 5 palcos do Globoplay Premium — ou seja, o momento do gesto coletivo terá imagem aérea profissional ao vivo, além dos vídeos do público. Para o time: monitorar e clipar a transmissão em tempo real no sábado (o corte da TV é o ativo de earned media mais nobre do fim de semana) e garantir que o momento exato do gesto esteja mapeado com a produção do festival.",
+     "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-comeca-ultimo-fim-de-semana-com-transmissoes-ao-vivo/"
     },
     {
-     "t": "A sexta é o ensaio geral do nosso sábado: o 'oceano de lightsticks' oficial testa, 24h antes, o mesmo tipo de gesto coletivo",
-     "src": "Jornal de Brasília (release oficial) + GLP4",
+     "t": "O show do gesto ganhou holofote próprio: preview de hoje revela estreia no Mundo, show novo e J Balvin convidado — mais câmeras no momento do leque",
+     "src": "Portal Democrata",
      "when": "10/09",
-     "s": "O plano oficial do K-pop day (público convocado a erguer lightsticks, 'maior oceano da história do festival') é estruturalmente o mesmo formato do 'mar de leques' — adereço na mão, convocação em momento certo, imagem aérea como produto. Oportunidade rara: observar AMANHÃ, ao vivo, como o festival orquestra a convocação (telões? locução? artista?), em que momento o gesto rende mais imagem e como o público reage — e calibrar a execução de sábado com 24h de antecedência. Escalar alguém do time com esse brief específico.",
-     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-entra-na-contagem-regressiva-para-a-estreia-do-k-pop-no-festival/"
+     "s": "O preview do show de Pedro Sampaio ('Abraça o Amigo e Pula', sofás no palco, J Balvin na participação, ensaios na Barra) muda o tamanho da vitrine: a estreia dele no Palco Mundo agora tem narrativa editorial própria, e a participação de J Balvin — atração das 19h do mesmo dia — deve segurar público e imprensa no gramado desde a tarde. O 'mar de leques' acontece dentro desse show: cada matéria de preview amplia a audiência do nosso momento. Sugestão: cruzar com a produção do artista o timing exato do gesto vs. roteiro do show (evitar que caia no bloco do convidado).",
+     "u": "https://portaldemocrata.com.br/2026/09/10/pedro-sampaio-novidades-e-novo-show-no-rock-in-rio-2026/"
     },
     {
-     "t": "Público da sexta é o mais colecionador da edição — e chega cedo, no pico dos 30°C: leque na rua desde a abertura, pochete e pins dimensionados",
-     "src": "Portal Democrata · GLP4 · precedente STAY DAY",
+     "t": "Pauta dos leques chegou ao 5º veículo (Glow Pop, hoje) — mas o trade fechou a véspera sem publicar: janela pré-gesto acabou; o plano agora é a imagem",
+     "src": "Glow Pop Brasil · EncontraIpiranga · Aurora Cultural · DJ Sound · Juventude BM",
      "when": "10/09",
-     "s": "As análises da madrugada confirmam o perfil: fandom organizado em comunidade, produtor de conteúdo, colecionador por natureza (lightsticks, photocards, pins) — e com caravanas chegando de todo o país. Tradução operacional para o nosso portfólio: pochete customizável e pins são o produto certo no dia certo; o leque amarelo entra como refresco às 14h e vira adereço espontâneo nos vídeos da tarde; estoque e escala precisam estar posicionados na abertura dos portões, não no fim da tarde.",
-     "u": "https://portaldemocrata.com.br/2026/09/10/stray-kids-e-headliner-de-estreia-do-k-pop-no-rock-in-rio-o-que-muda-no-festival/"
+     "s": "O Glow Pop Brasil publicou nesta quinta o 5º texto nomeando a marca ('mar amarelo' de 30 mil leques, 'a plateia vira parte do espetáculo') — a pauta segue viva no entretenimento, ~48h depois do anúncio. Já propmark, Meio & Mensagem e Mundo do Marketing terminaram a véspera sem repercutir a ação (a única presença no trade segue sendo o guia geral de brindes da propmark, de 28/08, pré-evento). Na prática, a janela de assessoria PRÉ-gesto fechou: o pivô agora é empacotar a imagem de sábado (aérea da TV + números de distribuição + precedente lightsticks da sexta) e ofertá-la no domingo/segunda, direto para os balanços de 14–15/09.",
+     "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
     },
     {
-     "t": "Jornada da sexta termina às 00h05+ — a frente KMV/AmPm de 'volta segura' tem madrugada garantida para trabalhar",
-     "src": "Grade oficial + Via Trolebus (linhas especiais)",
-     "when": "10/09",
-     "s": "O Stray Kids encerra à 00h05 — a saída da Cidade do Rock na sexta acontece de madrugada, com público jovem, caravanas e bate-volta rodoviário. As 3 linhas especiais de BRT da reta final (Jardim Oceânico direto, Alvorada direto, Paulo da Portela semidireto) seguem como o dado público de mobilidade. Nossa frente: conteúdo de 'chegada e volta do K-pop day' (rota, paradas AmPm 24h, abastecimento KMV) publicado HOJE e amanhã cedo — antes de o público sair de casa.",
-     "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+     "t": "Clima revisado joga a favor do portfólio: sexta de 31°C (leque como refresco desde os portões) e domingo de frente fria (rotação para capa e abrigo)",
+     "src": "Exame (previsão 18h28) + Portal Democrata/GLP4 (perfil do público)",
+     "when": "10/09, noite",
+     "s": "A revisão da noite confirma o cenário operacional: sexta é o dia mais quente e seco da semana 2 (22–31°C) com o público mais colecionador da edição chegando cedo — leque em uso como refresco horas antes de qualquer gesto, pochete e pins dimensionados para caravana e fandom desde a abertura; sábado segue quente (22–30°C) para o dia do 'mar'; domingo vira com frente fria (19–22°C, maior chance de chuva) — último dia pede narrativa de 'abrigo e volta segura' (AmPm 24h, KMV na estrada de volta das caravanas) no lugar do refresco. O Stray Kids encerra 00h05+: a frente de madrugada (rota de volta, paradas AmPm, linhas especiais de BRT) tem janela final de publicação amanhã cedo, antes de o público sair de casa.",
+     "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-o-segundo-fim-de-semana/"
     }
    ],
    "shows": {
-    "status": "ENTRE SEMANAS (quinta, 10/set — véspera da retomada) — sem shows na Cidade do Rock hoje; portões reabrem AMANHÃ (sex, 11/set) para o K-pop day. VÉSPERA EM NÚMEROS: cobertura de contagem regressiva no pico (Portal Democrata 3h19, GLP4 8h11, setlists de Stray Kids e HWASA na Exame); sexta tratada como lotação máxima — dia esgotou oficialmente em julho, lotes extras voltaram em setembro e ontem à noite a Exame ainda via gramado na Ticketmaster; domingo segue com ingressos (gramado R$ 870 inteira). PLANO OFICIAL DA SEXTA: 'maior oceano de lightsticks da história do festival', com caravanas do Brasil e América Latina — ensaio geral público do formato 'gesto coletivo' 24h antes do 'mar de leques' Ipiranga (sáb, show de Pedro Sampaio, 16h40). PENDÊNCIAS (3ª varredura consecutiva sem resposta): sem balanço oficial de público da semana 1; brinquedos suspensos desde domingo, sem anúncio de retomada ('sem previsão', Exame). GRADE DA RETA FINAL: sex 11 = NEXZ (16h40), HWASA (19h), Alok (21h20), Stray Kids (00h05) no Mundo; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset. Sáb 12 = Pedro Sampaio (16h40, com o 'mar de leques'), J Balvin (19h), Demi Lovato (21h20), Maroon 5 (00h05) no Mundo; Gilsons, João Gomes (20h10) e Mumford & Sons (22h45) no Sunset — ESGOTADO. Dom 13 = Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35), Twenty One Pilots (00h05) no Mundo; Zara Larsson fecha o Sunset. CLIMA (consolidado de 08/09, sem revisão): sex/sáb 30°C com sol e pancadas passageiras; domingo chuva o dia todo, 18–23°C.",
+    "status": "ENTRE SEMANAS — leitura da noite (quinta, 10/set, 20h — véspera da retomada): sem shows na Cidade do Rock hoje; portões reabrem AMANHÃ (sex, 11/set) para o K-pop day. O QUE A NOITE CONSOLIDOU: (1) TRANSMISSÃO detalhada (Brasil em Folhas, 11h37) — Multishow no ar 15h15 (Mundo+Sunset), Bis 15h50 (Favela, NDO, Supernova), sinal aberto alternando a cada 30 min desde 15h30, Globoplay Premium com os 5 palcos em 4K, Globo com melhores momentos; o show de Pedro Sampaio (sáb, 16h40) cai dentro da janela ao vivo. (2) INGRESSOS de sexta: às 14h58 a Exame ainda via gramado na Ticketmaster (inteira/meia/15% Itaú) apesar do 'esgotado' de outros veículos — operar como lotação máxima, com caravanas desde o meio-dia; domingo segue com ingressos (gramado R$ 870 inteira). (3) PREVISÃO REVISADA (Exame, 18h28): sexta é o dia mais quente e seco da semana 2 (22–31°C, nebulosidade crescendo), sábado 22–30°C nublando com chuva possível, domingo com FRENTE FRIA — 19–22°C e a maior chance de chuva dos três dias. (4) PENDÊNCIAS mantidas na varredura da noite (4ª consecutiva): sem balanço oficial de público da semana 1 e sem anúncio de retomada dos brinquedos — a definição agora só aparece na reabertura dos portões. (5) SHOW DE SÁBADO revelado: Pedro Sampaio estreia no Mundo com show novo ('Abraça o Amigo e Pula') e J Balvin convidado — é o show do 'mar de leques'. GRADE DA RETA FINAL: sex 11 = NEXZ (16h40), HWASA (19h), Alok (21h20), Stray Kids (00h05) no Mundo, com o 'maior oceano de lightsticks da história' convocado pelo festival; Jota.Pê (15h30) e Jamiroquai (22h45) no Sunset. Sáb 12 = Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20), Maroon 5 (00h05) no Mundo; Gilsons, João Gomes (20h10) e Mumford & Sons (22h45) no Sunset — ESGOTADO. Dom 13 = Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35), Twenty One Pilots (00h05) no Mundo; Zara Larsson fecha o Sunset. Repercussão completa da sexta fica para a edição das 9h de amanhã.",
     "reperc": [
      {
       "date": "7/set (4ª noite — feriado · esgotado · frio)",
@@ -983,39 +990,39 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "Contagem regressiva do K-pop day domina a véspera: setlists, 'o que muda no festival' e guias de sobrevivência do fandom",
-      "src": "Exame · GLP4 · Portal Democrata · Café com Kimchi",
-      "metric": "4+ matérias novas entre a tarde de 09/09 e a manhã de 10/09",
-      "s": "O formato clássico de véspera de fandom está no pico exato previsto: setlists prováveis (Stray Kids 18h48, HWASA 16h17, ambos na Exame), análises de madrugada sobre 'o que muda' e guias práticos de preparação circulando nos veículos de nicho. Quinta e sexta de manhã são o pico do conteúdo de contagem regressiva — a janela para a marca entrar na conversa de serviço (chegada, calor, volta) é agora.",
-      "u": "https://glp4.com/noticia/de-nicho-a-protagonista-k-pop-toma-o-palco-mundo-do-rock-in-rio-nesta-sexta"
+      "t": "Preview do show de Pedro Sampaio vira a pauta nova da véspera: 'Abraça o Amigo e Pula', sofás no palco e J Balvin convidado",
+      "src": "Portal Democrata",
+      "metric": "matéria publicada em 10/09",
+      "s": "O sábado ganhou narrativa própria nesta quinta: estreia no Palco Mundo, show inédito encerrando a era 'Caos', J Balvin (parceiro de 'Perversa') confirmado como participação e ensaios flagrados na Barra. Para a marca, é o melhor cenário possível: o show onde acontece o 'mar de leques' entra no fim de semana com holofote editorial próprio — e o corte do gesto disputa menos atenção quando o show inteiro já é pauta.",
+      "u": "https://portaldemocrata.com.br/2026/09/10/pedro-sampaio-novidades-e-novo-show-no-rock-in-rio-2026/"
      },
      {
-      "t": "'Oceano de lightsticks' na sexta: o gesto coletivo do fandom é o conteúdo anunciado do K-pop day — e o precedente direto do nosso sábado",
-      "src": "Jornal de Brasília (release oficial do festival)",
-      "metric": "plano oficial do festival para 11/09",
-      "s": "O festival convocou o maior 'oceano de lightsticks' da sua história — adereço luminoso na mão de dezenas de milhares de fãs, erguido em sincronia. É o mesmo mecanismo visual do 'mar de leques' Ipiranga de sábado, um dia antes e sem custo de observação: a imagem aérea da sexta vai viralizar pelo festival; a de sábado pode viralizar pela marca. Quem assistir à sexta com olhar de execução ajusta o sábado em 24h.",
-      "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-entra-na-contagem-regressiva-para-a-estreia-do-k-pop-no-festival/"
+      "t": "'Onde assistir' é o formato da noite: o guia de transmissão da reta final circulou o dia inteiro em múltiplos veículos",
+      "src": "Brasil em Folhas (11h37) · Portal TV e Streaming · Recreio · TMDQA!",
+      "metric": "4+ veículos com guias de transmissão em circulação na véspera",
+      "s": "O conteúdo prático de véspera migrou do 'setlist' (pico de ontem/manhã) para o 'como assistir': Multishow 15h15, Bis 15h50, sinal aberto alternado, Globoplay Premium 4K com 5 palcos. O dado que importa para sábado: a janela ao vivo cobre o show das 16h40 — o 'mar amarelo' terá imagem de TV, e o público casual em casa também vê o gesto. Véspera de show histórico + transmissão aberta = pico previsível de segunda tela na sexta à noite.",
+      "u": "https://www.brasilemfolhas.com.br/2026/09/rock-in-rio-comeca-ultimo-fim-de-semana-com-transmissoes-ao-vivo/"
      },
      {
-      "t": "'Mar de leques' completa 24h de pauta com 4º veículo e mecânica pública — earned media nominal segue crescendo fora do trade",
-      "src": "EncontraIpiranga · Aurora Cultural · DJ Sound · Juventude BM",
-      "metric": "4 veículos nomeando a marca em ~24h",
-      "s": "A ação Ipiranga + Pedro Sampaio seguiu rendendo no ciclo da manhã: o detalhamento da mecânica (entrega na chegada, sem cadastro) amplia o potencial de UGC — público sabendo de antemão que haverá gesto coletivo tende a filmar. Ausência notável: nenhum veículo de trade de marketing publicou ainda — a pauta está vencendo no entretenimento e inédita no negócio, exatamente onde os balanços de 14–15/09 serão escritos.",
-      "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
+      "t": "Contagem regressiva do K-pop day segue no pico — e a novela do 'esgotado ou não' ganhou capítulo à tarde, alimentando o FOMO da última hora",
+      "src": "Exame (14h58, gramado disponível) × GLP4 (manhã, 'esgotado') · Vanity Brasil ('esgotado' desde julho)",
+      "metric": "divergência aberta entre veículos ao fim da véspera",
+      "s": "A véspera terminou com a confusão intacta: veículos tratando a sexta como esgotada enquanto a checagem da tarde da Exame ainda encontrava gramado (inteira/meia/15% Itaú). O vai-e-vem (esgotou em julho → lotes extras em setembro → venda aberta na véspera) mantém 'ingresso Rock in Rio' como busca de urgência até a hora do portão. Sinal operacional inalterado: lotação máxima, caravanas e fandom desde o meio-dia.",
+      "u": "https://exame.com/pop/rock-in-rio-2026-quem-toca-amanha-veja-programacao-e-horarios/"
      },
      {
-      "t": "'Esgotado ou não?' — a confusão sobre ingressos da sexta vira conteúdo de urgência na véspera",
-      "src": "Exame (gramado disponível, 09/09 à noite) × GLP4 (esgotado, 10/09 de manhã)",
-      "metric": "divergência entre veículos nas últimas 12h",
-      "s": "O vai-e-vem (esgotou em julho → lotes extras em setembro → 'últimos ingressos' na véspera) alimenta o FOMO clássico de reta final e mantém 'ingresso Rock in Rio' como busca quente. Para a operação, o sinal é único: sexta terá lotação de dia esgotado, com chegada antecipada de caravana e fandom — filas desde o meio-dia.",
-      "u": "https://exame.com/pop/rock-in-rio-2026-o-festival-ainda-tem-ingressos-disponiveis/"
+      "t": "'Mar de leques' chegou ao 5º veículo na véspera do gesto — earned nominal cresce no entretenimento; trade segue em silêncio",
+      "src": "Glow Pop Brasil (10/09) · EncontraIpiranga · Aurora Cultural · DJ Sound · Juventude BM",
+      "metric": "5 veículos nomeando a marca em ~48h",
+      "s": "O Glow Pop publicou nesta quinta com o framing mais compartilhável até aqui ('a plateia vira parte do espetáculo', 'imagem coletiva criada por milhares de fãs') — exatamente a promessa visual que o UGC de sábado vai entregar. A ausência que persiste: nenhum veículo de trade repercutiu a ação até o fim da véspera — a disputa agora é pela imagem de sábado (TV ao vivo + aérea) entrar nos balanços de marketing de 14–15/09.",
+      "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
      },
      {
-      "t": "Serviço de jornada segue como pauta perene: linhas especiais de BRT e 'como chegar' recirculam na véspera da retomada",
-      "src": "Via Trolebus · ABIH-RJ",
-      "metric": "pauta recorrente na semana (dado oficial SMTR/MOBI-Rio)",
-      "s": "Com 152 mil passageiros na semana 1 e 3 linhas novas para a reta final, o conteúdo de mobilidade volta a circular na véspera — e o precedente de performance é nosso conhecido (o reel 'como voltar de BRT' da @divasuburbana foi um dos maiores dela na janela). O show de sexta termina 00h05: 'como voltar de madrugada' é a variação com mais espaço editorial aberto.",
-      "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+      "t": "A virada do tempo virou conteúdo: 'vai chover no Rock in Rio?' volta ao ciclo com a frente fria de domingo",
+      "src": "Exame (18h28) · Rock on Board · Terra",
+      "metric": "3 veículos com a pauta de previsão na noite da véspera",
+      "s": "A revisão da noite (sexta 22–31°C como dia mais quente e seco; domingo 19–22°C com frente fria e a maior chance de chuva) reativou o formato 'o que levar' — agora com kit por dia: refresco na sexta e sábado, capa no domingo. Para a marca, é o gancho perene do leque (refresco de 31°C) nos dois primeiros dias e de 'abrigo e volta segura' no encerramento. O trauma do domingo de chuva da semana 1 (brinquedos suspensos até hoje) dá peso extra à pauta.",
+      "u": "https://exame.com/pop/vai-chover-no-rock-in-rio-2026-veja-a-previsao-para-o-segundo-fim-de-semana/"
      }
     ],
     "sources": [
@@ -1024,21 +1031,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 9h de 10/09 (bloqueio de permissão de rede do ambiente da rotina agendada, sem usuário presente para aprovar) — 9ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival/K-pop no ranking. Nova tentativa na rodada das 20h."
+      "note": "O feed trends.google.com/trending/rss?geo=BR seguiu inacessível na rodada das 20h de 10/09 (bloqueio de permissão de rede do ambiente da rotina agendada, 2 tentativas) — 10ª rodada consecutiva sem medição BR. Sem verificação quantitativa de entrada de termos do festival/K-pop no ranking na véspera — justamente a noite de maior chance de entrada. Nova tentativa na rodada das 9h de sexta."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada da noite",
       "items": [],
-      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 9h de 10/09 (mesmo bloqueio de rede) — 9ª rodada consecutiva. Última leitura válida segue 5,7 mi de views (06/09, ~20h — contador público parado desde 03/09). Nova tentativa na rodada das 20h."
+      "note": "A página pública tiktok.com/tag/rockinrio também não pôde ser coletada às 20h de 10/09 (mesmo bloqueio, 2 tentativas) — 10ª rodada consecutiva. Última leitura válida segue 5,7 mi de views (06/09, ~20h; contador público parado desde 03/09). Sem curva manhã→noite publicável. Nova tentativa na rodada das 9h de sexta."
      }
     ],
-    "note": "Rodada das 9h de 10/09: nenhuma das duas fontes quantitativas pôde ser medida — 9ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e WebFetch de veículos de imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura da véspera, com fonte e link em todo item. Nenhum número estimado."
+    "note": "Rodada das 20h de 10/09: nenhuma das duas fontes quantitativas pôde ser medida — 10ª rodada consecutiva com bloqueio de permissão de rede para trends.google.com e tiktok.com no ambiente da rotina agendada (WebSearch e WebFetch de veículos de imprensa funcionaram normalmente). Bloco viral é 100% leitura editorial da cobertura da véspera, com fonte e link em todo item. Nenhum número estimado."
    },
    "direcionais": {
     "leitura": "Quinta-feira é a última véspera limpa da edição — amanhã a operação toma conta e não há mais janela de planejamento. Três coisas definem o dia. Um: a sexta virou oficialmente um dia de lotação máxima com o público mais colecionador e organizado da edição (caravanas, fandom de K-pop, chegada no meio da tarde sob 30°C) — tudo o que depende de estoque, escala e posicionamento se decide hoje até meio-dia. Dois: descobrimos que a sexta é também o ensaio geral do nosso sábado — o 'oceano de lightsticks' oficial do K-pop day é o mesmo formato de gesto coletivo do 'mar de leques', executado 24h antes e sem custo para nós: observar a convocação, o timing e a captura de amanhã é a última chance de calibrar a execução de sábado com evidência real. Três: a pauta dos leques está vencendo no entretenimento (4 veículos em 24h) e inédita no trade — e são os veículos de negócio que escrevem os balanços de 14–15/09; a oferta de pauta com número, mecânica e precedente Lisboa precisa sair hoje, porque depois de sábado a imprensa escreve com ou sem a nossa versão. O pano de fundo não mudou: clima travado (30°C sex/sáb, dilúvio no domingo), pendências da organização em aberto (balanço e brinquedos) e o guard-rail de mérito musical valendo em dobro numa sexta de fandom — a marca fala de jornada, calor, chegada e volta; nunca de line-up ou de comparação entre públicos.",
