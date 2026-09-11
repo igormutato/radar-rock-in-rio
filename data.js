@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 36,
-  "updatedAt": "11/09/2026, 09h45 (BRT)",
+  "version": 37,
+  "updatedAt": "11/09/2026, 20h15 (BRT)",
   "updatedISO": "2026-09-11",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,11 +793,39 @@ window.RADAR = {
    "edition": 19,
    "phase": "festival — semana 2, dia 1 (K-pop day) · D-1 do 'mar de leques' Ipiranga",
    "pulse": [
-    "🎤 <b>O festival volta HOJE — e a cidade inteira se organizou para o K-pop day:</b> portões às 14h, 100 mil pessoas esperadas e um fato operacional inédito na edição: Prefeitura e Governo do Estado reduziram o expediente das repartições públicas para 8h–15h nesta sexta (decretos de 10/09) 'para minimizar impactos no trânsito e facilitar a chegada do público à Cidade do Rock'. Tradução: a curva de chegada será mais cedo e mais compacta — a cidade libera às 15h, o público colecionador do K-pop já planejava chegar na abertura, e o dia mais quente da semana 2 (22–31°C) começa nos portões. No Mundo: NEXZ (16h40), HWASA (19h, primeira solista coreana da história do palco), Alok com 'Keep Art Human' (21h20, 1.500 drones — recorde na América Latina) e Stray Kids (00h05). Jamiroquai fecha o Sunset (22h45) na 7ª passagem pelo Brasil.",
-    "🟡 <b>D-1 do 'mar de leques' — e hoje o festival ensaia o nosso formato em público:</b> os lightsticks foram autorizados pela primeira vez na história do evento (Portal Tela, 10/09 23h14) e o festival convocou o 'maior oceano de lightsticks' da história — ou seja, esta noite é o ensaio geral, executado pela organização, do gesto coletivo que a Ipiranga assina amanhã às 16h40 com Pedro Sampaio. A transmissão também estreia hoje o nosso cenário de amanhã: Multishow no ar desde 15h15 — mesma janela que cobrirá o show do gesto ao vivo. O contraponto que não mudou: o trade (propmark, M&M, Mundo do Marketing) chegou à manhã do D-1 sem publicar uma linha sobre a ação — a varredura de hoje confirma; a última chamada de assessoria é hoje, ou o plano vira definitivamente 'empacotar a imagem de sábado' para os balanços de 14–15/09.",
-    "📈 <b>Trends: PRIMEIRA medição quantitativa em 11 rodadas — e o dado é a ausência:</b> a página Trending Now do Google Trends BR pôde ser lida nesta manhã (leitura parcial: top 25 de 305 termos): nenhum termo do festival/K-pop no topo do ranking às ~9h, que amanheceu dominado por futebol e clima. Com sexta esgotada, Stray Kids às 00h05 e TV aberta alternando desde 15h30, a entrada do festival no ranking hoje à noite é o desfecho esperado — a rodada das 20h verifica. TikTok seguiu incoletável neste ambiente (bloqueio de robots.txt); última leitura válida segue 5,7 mi (06/09). Pendências da organização: 5ª varredura consecutiva sem balanço oficial da semana 1 e sem anúncio sobre os brinquedos — a resposta agora aparece na prática, nos portões de hoje."
+    "🌙 <b>EDIÇÃO DA NOITE (20h) — o K-pop day saiu do papel exatamente como desenhado de manhã, e mais cedo:</b> os fãs nem esperaram o expediente reduzido — acamparam na madrugada nos arredores da Cidade do Rock para garantir grade no Stray Kids (Portal Democrata, 11/09), e a cidade liberou os servidores às 15h com os portões já abertos desde as 14h no dia mais quente da semana 2 (~31°C). Até o fechamento desta edição: Sunset rodando desde 15h30 (Jota.Pê + Luedji Luna + Zaynara → Os Garotin → PJ Morton), NEXZ estreou no Brasil às 16h40 e HWASA entrou às 19h como a primeira solista coreana da história do Palco Mundo — sem registro de incidente nas buscas até as 20h. O que ainda vem: Alok 'Keep Art Human' (21h20, 1.500 drones), Jamiroquai (22h45) e Stray Kids (00h05) com o 'maior oceano de lightsticks' da história do evento — o ensaio público, executado pela organização, do gesto que a Ipiranga assina amanhã às 16h40.",
+    "🟡 <b>A assessoria SAIU no D-1 — mas pela porta do pop, não do trade:</b> a varredura das 20h encontrou o release do 'mar de leques' publicado em cadeia nos portais de música/pop — Expresso Carioca ('De pochete customizável ao leque amarelo'), Aurora Cultural (2 matérias, incluindo 'Público de Pedro Sampaio terá 30 mil leques amarelos'), Glow Pop ('mar amarelo'), Juventude BM e DJ Sound (release na íntegra) — nenhuma dessas matérias constava na varredura da manhã. O alerta que fica: propmark, Meio & Mensagem e Mundo do Marketing seguem sem uma linha específica sobre a ação às 20h do D-1; a pauta de trade agora só se resolve como case com imagem (aérea da TV + número final), a ser ofertada domingo/segunda para os balanços de 14–15/09. Contexto a favor: matéria de negócios do dia ('Rock in Rio bate recorde de marcas e atrai negócios', 11/09, em vários portais) mantém patrocínio como pauta quente.",
+    "📈 <b>Trends: a rodada da noite ficou SEM medição — bloqueio de permissão de rede, não de fonte:</b> nesta execução agendada, as chamadas de coleta (Google Trends RSS e página de hashtag do TikTok) exigiram aprovação de rede que ninguém estava presente para conceder — as duas colunas publicam com selo OFF e a explicação, sem número estimado (regra da casa). A leitura editorial da noite, por fontes com link: o K-pop domina a conversa do dia (acampamento de madrugada, filhos de celebridades no show do Stray Kids via CNN, lightsticks liberados pela 1ª vez), e a hipótese da manhã — festival entrando no Google Trends à noite com TV aberta + Stray Kids — fica para a rodada das 9h de amanhã verificar. Operacional: habilitar 'agir sem perguntar' na tarefa das 20h destrava a medição das próximas noites."
    ],
    "news": [
+    {
+     "t": "Fãs de K-pop acamparam na madrugada para garantir lugar na grade do Stray Kids — a chegada antecipada prevista pelos decretos virou fato antes mesmo do expediente reduzido",
+     "src": "Portal Democrata",
+     "when": "11/09",
+     "s": "A cena que confirma a leitura operacional da manhã: fandoms acampados nos arredores da Cidade do Rock desde a madrugada de sexta para garantir posição no gramado do show das 00h05 — antes de qualquer efeito dos decretos de expediente reduzido (8h–15h). Para as operações de marca, é o dado de comportamento do dia: o público do K-pop chega horas antes dos portões (14h) e passa o dia inteiro dentro da arena no dia mais quente da semana 2 (~31°C) — exatamente o fluxo que estressa hidratação, sombra e brindes de refresco.",
+     "u": "https://portaldemocrata.com.br/2026/09/11/fas-de-k-pop-acampam-durante-a-madrugada-para-garantir-lugar-no-rock-in-rio/"
+    },
+    {
+     "t": "'Rock in Rio bate recorde de marcas e atrai negócios': matéria de economia do dia circula em cadeia nacional no D-1 do fim de semana final",
+     "src": "Diário do Grande ABC · Tribuna do Sertão · GMC Online (matéria replicada)",
+     "when": "11/09",
+     "s": "No dia da retomada, a pauta de negócios do festival ganhou circulação nacional: a edição 2026 é tratada como recorde de marcas presentes (a organização vinha comunicando 90+ marcas e 100+ ativações desde agosto, via propmark) e como plataforma de negócios além da música. Para o radar: patrocínio segue pauta quente na imprensa generalista na véspera do dia Ipiranga — janela favorável para a marca disputar o noticiário de sábado com imagem própria.",
+     "u": "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
+    },
+    {
+     "t": "BRT do Rock in Rio soma 152 mil passageiros — o primeiro número consolidado de transporte da semana 1 aparece na véspera do teste máximo de fluxo",
+     "src": "Via Trolebus",
+     "when": "set/2026 (dado da semana 1, visto na varredura de 11/09)",
+     "s": "O modal mais sensível da operação ganhou número: 152 mil passageiros transportados pelo BRT dedicado na primeira semana (4 dias). O dado chega no dia em que a linha enfrenta seu maior estresse — 100 mil pessoas com chegada antecipada e volta madrugada adentro após o Stray Kids (00h05+), com 3 linhas especiais. Segue sem balanço OFICIAL geral da semana 1 pela organização (6ª varredura consecutiva) — o número de transporte é, até aqui, o proxy público mais concreto de fluxo.",
+     "u": "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+    },
+    {
+     "t": "CNN registra 'filhos de celebridades' no show do Stray Kids — o K-pop day vira pauta de colunismo social, não só de música",
+     "src": "CNN Brasil",
+     "when": "11/09",
+     "s": "A cobertura do dia extrapolou a editoria de música: a CNN destacou a presença de filhos de celebridades no público do Stray Kids, sinal de que a noite virou evento social — o tipo de enquadramento que multiplica UGC de camarote e área VIP. Balanços editoriais da semana 1 publicados no mesmo ciclo (Jornal de Brasília: 'menos famosos, mais brindes e até robô'; OReporter: 'o que funcionou e onde tropeçou') haviam apontado justamente a queda de celebridades como marca da edição — o K-pop day inverte a curva em um dia.",
+     "u": "https://www.cnnbrasil.com.br/pop/celebridades/filhos-de-celebridades-vao-ao-rock-in-rio-para-show-do-stray-kids/"
+    },
     {
      "t": "Prefeitura E Governo do Estado reduzem expediente para 8h–15h nesta sexta, citando a chegada de 100 mil pessoas à Cidade do Rock",
      "src": "Rolling Stone Brasil (2 matérias)",
@@ -857,6 +885,20 @@ window.RADAR = {
    ],
    "ipiranga": [
     {
+     "t": "VIROU NOTÍCIA no D-1: release do 'mar de leques' propagou em cadeia nos portais de pop/música durante o dia — Expresso Carioca, Aurora Cultural (2x), Glow Pop, Juventude BM e DJ Sound",
+     "src": "Expresso Carioca · Aurora Cultural · Glow Pop Brasil · Juventude BM · DJ Sound",
+     "when": "10–11/09 (nenhuma constava na varredura das 9h; visíveis na das 20h)",
+     "s": "A 'última chamada' apontada de manhã foi atendida — no pop, não no trade: a ação dos 30 mil leques no show de Pedro Sampaio (sáb, 16h40, Palco Mundo) chegou à imprensa de música/entretenimento em cadeia, com títulos que já entregam a imagem pronta ('mar amarelo', 'leque amarelo', 'pochete customizável'). O framing das matérias é o desejado: gesto coletivo + brinde útil no calor + assinatura da marca. Amanhã a história muda de fase: transformar essa antecipação em imagem (corte da TV com o gramado amarelo) é o que leva a pauta ao trade.",
+     "u": "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    },
+    {
+     "t": "Trade segue em silêncio às 20h do D-1 — propmark, M&M e Mundo do Marketing sem linha específica; a matéria de negócios do dia ('recorde de marcas') mantém a janela aberta para o case de sábado",
+     "src": "varredura de 11/09, ~20h (propmark · Meio & Mensagem · Mundo do Marketing) · Diário do Grande ABC (contexto)",
+     "when": "11/09, ~20h",
+     "s": "Confirmado o cenário desenhado de manhã: a ação não entrou no trade como antecipação. Com o release já rodando no pop e a pauta 'Rock in Rio bate recorde de marcas e atrai negócios' circulando em cadeia nacional hoje, o caminho de segunda-feira está claro: ofertar o case fechado (imagem aérea do 'mar amarelo' + número final de leques distribuídos + paralelo com o oceano de lightsticks desta sexta) para os balanços de patrocínio de 14–15/09. O material de captura desta noite (como o festival convoca o gesto no Stray Kids) é insumo direto desse case.",
+     "u": "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
+    },
+    {
      "t": "D-1 do 'mar de leques': o expediente reduzido na cidade antecipa a chegada — e o corredor 14h–17h de hoje é o ensaio da distribuição de amanhã",
      "src": "Rolling Stone (decretos + 100 mil) · EncontraIpiranga (mecânica)",
      "when": "10/09–11/09",
@@ -893,7 +935,7 @@ window.RADAR = {
     }
    ],
    "shows": {
-    "status": "DIA DE FESTIVAL — semana 2, dia 1 (sexta, 11/set — K-pop day, edição das 9h): portões às 14h, 100 mil pessoas esperadas, dia mais quente da semana 2 (22–31°C). O QUE MUDA HOJE: (1) CIDADE EM MODO FESTIVAL — Prefeitura e Governo do Estado reduziram expediente para 8h–15h (decretos de 10/09) para escoar o público; operação especial de trânsito na Barra Olímpica e acessos; chegada antecipada é o fato operacional do dia. (2) GRADE (Exame, 5h00): Mundo — NEXZ 16h40, HWASA 19h (1ª solista coreana da história do palco), Alok 'Keep Art Human' 21h20 (1.500 drones, recorde na América Latina), Stray Kids 00h05; Sunset — Jota.Pê + Luedji Luna + Zaynara 15h30, Os Garotin + Duquesa 17h50, PJ Morton 20h10, Jamiroquai 22h45 (7ª vez no Brasil, 1ª desde 2017); NDO — ANNA 21h05 abre a noite. (3) LIGHTSTICKS liberados pela 1ª vez na história do festival — 'maior oceano de lightsticks' convocado para o Stray Kids; caravanas do Brasil e vizinhos; Comfort Zone esgotada desde julho. (4) TRANSMISSÃO — Multishow 15h15 (Mundo+Sunset), Bis 15h50, sinal aberto alternando desde 15h30, Globoplay Premium com os 5 palcos em 4K. (5) INGRESSOS — sexta tratada como esgotada/lotação máxima (venda ainda aparecia aberta na véspera à tarde — divergência nunca resolvida); domingo segue com ingressos. (6) PENDÊNCIAS na manhã da retomada (5ª varredura): sem balanço oficial da semana 1 e sem anúncio sobre os brinquedos — roteiro da Sopa Cultural assume agendamento via app, mas a confirmação só virá na prática, nos portões. Repercussão completa da noite de hoje na edição das 9h de sábado; o bloco abaixo preserva a última noite realizada (feriado, 7/set).",
+    "status": "DIA DE FESTIVAL — semana 2, dia 1 (sexta, 11/set — K-pop day) · ATUALIZAÇÃO DAS 20h: (1) CHEGADA — os fãs anteciparam tudo: acampamento na madrugada nos arredores da Cidade do Rock para garantir grade no Stray Kids (Portal Democrata, 11/09); portões abertos às 14h com a cidade em expediente reduzido (8h–15h, decretos de 10/09) e operação especial na Barra; dia mais quente da semana 2 (~31°C). (2) JÁ ACONTECEU até as 20h — Sunset desde 15h30: Jota.Pê + Luedji Luna + Zaynara, Os Garotin + Duquesa (17h50); Mundo: NEXZ estreou no Brasil às 16h40 e HWASA fez história às 19h como 1ª solista coreana do palco. Transmissão no ar desde 15h15 (Multishow) / 15h50 (Bis), sinal aberto alternando desde 15h30. (3) SEM INCIDENTE registrado nas buscas até as 20h — nenhuma matéria de confusão, fila travada ou ocorrência médica de massa na varredura da noite (chegada madrugadora + expediente reduzido parecem ter diluído o pico). (4) AINDA NESTA NOITE — PJ Morton (20h10, Sunset), Alok 'Keep Art Human' (21h20, 1.500 drones — recorde na América Latina), Jamiroquai (22h45, 7ª vez no Brasil) e Stray Kids (00h05) com o 'maior oceano de lightsticks' da história do evento (liberados pela 1ª vez) — colunismo já registra filhos de celebridades no público (CNN). (5) TRANSPORTE — primeiro número consolidado da semana 1: BRT dedicado somou 152 mil passageiros em 4 dias (Via Trolebus); hoje é o teste máximo do modal, com volta madrugada adentro. (6) PENDÊNCIA que segue: sem balanço oficial da semana 1 pela organização (6ª varredura). Repercussão completa da noite (verdicts + críticas) na edição das 9h de sábado; o bloco abaixo preserva a última noite realizada (feriado, 7/set).",
     "reperc": [
      {
       "date": "7/set (4ª noite — feriado · esgotado · frio)",
@@ -990,39 +1032,25 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "PRIMEIRA medição do Google Trends em 11 rodadas — e o festival está AUSENTE do top 25 BR na manhã do K-pop day",
-      "src": "Google Trends BR (página Trending Now, leitura parcial ~9h)",
-      "metric": "top 25 de 305 termos lidos: nenhum termo do festival",
-      "s": "A página Trending Now pôde ser lida nesta manhã (o RSS segue bloqueado neste ambiente): entre os 25 termos visíveis do ranking de 305, nenhum ligado a Rock in Rio, K-pop ou artistas do dia — o topo amanheceu de futebol (Vila Nova x Goiás, jogo do Flamengo, 50K+ cada) e clima ('Alerta laranja: tempestade', 200K+, ligada ao temporal no Sul do país). A leitura: às 9h o festival ainda não é assunto de busca de massa — com sexta esgotada, TV aberta desde 15h30 e Stray Kids às 00h05, a entrada no ranking hoje à noite é o movimento esperado. A rodada das 20h confere (e a ausência, se persistir, também é insight).",
-      "u": "https://trends.google.com/trending?geo=BR"
+      "t": "O acampamento de madrugada dos fandoms é a imagem UGC do dia — a chegada virou conteúdo antes do primeiro acorde",
+      "src": "Portal Democrata (11/09)",
+      "metric": "fato registrado pela imprensa; sem medição quantitativa nesta rodada",
+      "s": "Fãs de K-pop acamparam na madrugada para garantir posição no gramado do Stray Kids — a estética de caravana/acampamento (barracas, lightsticks, coreografia de fila) é o formato de vídeo que historicamente puxa a conversa do K-pop day antes dos shows. Somado ao registro de filhos de celebridades no público (CNN), o dia produz UGC em duas pontas: a fila de manhã e o camarote à noite.",
+      "u": "https://portaldemocrata.com.br/2026/09/11/fas-de-k-pop-acampam-durante-a-madrugada-para-garantir-lugar-no-rock-in-rio/"
      },
      {
-      "t": "Lightsticks liberados pela 1ª vez + 'oceano de luzes' convocado: a pauta que atravessou a véspera e define a estética da noite",
-      "src": "Portal Tela (10/09, 23h14) · Jornal de Brasília (release oficial)",
-      "metric": "autorização inédita confirmada na noite da véspera",
-      "s": "A confirmação de que os lightsticks entram pela primeira vez na Cidade do Rock consolidou a narrativa visual do dia: o 'maior oceano de lightsticks da história do festival' no show do Stray Kids, com caravanas de todo o Brasil e América Latina. É o formato de UGC mais previsível da noite (gramado piscando em sincronia) — e o precedente direto, executado pela organização, do 'mar de leques' que a Ipiranga assina amanhã no mesmo gramado.",
+      "t": "'Oceano de lightsticks' + 1.500 drones do Alok: as duas imagens aéreas programadas da noite ainda estavam por vir às 20h",
+      "src": "Portal Tela (autorização, 10/09) · Brasil em Folhas (drones, 11/09)",
+      "metric": "eventos programados para 21h20 (drones) e 00h05 (Stray Kids)",
+      "s": "No fechamento desta edição, os dois picos visuais do dia ainda não tinham acontecido: o manifesto com 1.500 drones do Alok (21h20) e o primeiro oceano de lightsticks da história do festival no Stray Kids (00h05). São os candidatos óbvios a dominar os cortes e o UGC da madrugada — e o ensaio público direto do 'mar de leques' que a Ipiranga assina amanhã às 16h40, no mesmo gramado, com objeto distribuído pela marca.",
       "u": "https://www.portaltela.com/entretenimento/2026/09/10/rock-in-rio-tem-sexta-feira-com-foco-no-k-pop-confira-atracoes/"
      },
      {
-      "t": "1.500 drones do Alok: o 'recorde da América Latina' é a segunda imagem aérea garantida da noite",
-      "src": "Brasil em Folhas (11/09, 0h54) · Rolling Stone (entrevista, 03/09)",
-      "metric": "recorde de drones em show na América Latina (1.500)",
-      "s": "O 'Keep Art Human' das 21h20 chega como o espetáculo visual programado do dia: 1.500 drones (maior número já usado em show na América Latina), 45 bailarinos e manifesto sobre IA e criatividade humana. Depois do case TIM/drones da semana 1, o céu volta a ser protagonista — entre o oceano de lightsticks e os drones, a noite de hoje produz as imagens aéreas que devem dominar o UGC e os cortes de TV até amanhã de manhã.",
-      "u": "https://www.brasilemfolhas.com.br/2026/09/alok-apresenta-dois-shows-diferentes-no-rock-in-rio/"
-     },
-     {
-      "t": "'O Rio parou para o Rock in Rio': expediente reduzido na cidade e no estado vira pauta de mobilidade na manhã do retorno",
-      "src": "Rolling Stone Brasil (2 matérias, 10/09)",
-      "metric": "decretos municipal e estadual publicados na véspera",
-      "s": "A dupla de decretos (repartições fechando às 15h para 100 mil pessoas chegarem à Barra) é o tipo de fato administrativo que vira conversa de cidade: afeta quem trabalha, quem circula e quem vai ao festival. Para as marcas com operação na Cidade do Rock, é o sinal objetivo de que a curva de chegada de hoje se antecipa — e de que trânsito, BRT lotado e fila de entrada devem ser os primeiros assuntos da tarde nas redes.",
-      "u": "https://rollingstone.com.br/musica/prefeitura-reduz-expediente-de-reparticoes-publicas-na-ultima-sexta-do-rock-in-rio-2026/"
-     },
-     {
-      "t": "K-pop day como marco de mercado: consumo do gênero cresceu 213% no Brasil (Spotify) — o subtexto de todas as matérias da manhã",
-      "src": "Portal Tela (dado Spotify) · Billboard (HWASA) · AGITOMAX (11/09, 3h29)",
-      "metric": "+213% de consumo de K-pop no Brasil (2020–2025, Spotify)",
-      "s": "A imprensa da manhã trata o dia como inflexão histórica: primeira noite inteira de K-pop no Mundo em 41 anos, primeira solista coreana (HWASA) no palco principal e o dado de mercado que explica tudo — consumo do gênero 213% maior no Brasil em 5 anos. O enquadramento 'de nicho a protagonista' já venceu a disputa editorial; a pergunta que resta para os balanços é se o público do K-pop lota a Cidade do Rock como o do rock não lotou os dias 4 e 5.",
-      "u": "https://www.portaltela.com/entretenimento/2026/09/10/rock-in-rio-tem-sexta-feira-com-foco-no-k-pop-confira-atracoes/"
+      "t": "A pauta do brinde amarelo entrou em circulação: release dos 30 mil leques rodou nos portais de pop/música ao longo do D-1",
+      "src": "Expresso Carioca · Aurora Cultural · Glow Pop · Juventude BM · DJ Sound (10–11/09)",
+      "metric": "5 veículos publicaram entre a varredura das 9h e a das 20h",
+      "s": "O que toca a marca diretamente: 'mar amarelo', 'leque amarelo' e 'pochete customizável' viraram título em cadeia nos portais de entretenimento — a narrativa do gesto de amanhã chega ao público final pré-formatada. Com o público do K-pop treinado hoje no gesto coletivo (lightsticks), o terreno simbólico para o leque erguido em sincronia está preparado; a medição de volume (hashtag/buscas) fica para as rodadas de amanhã.",
+      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
      }
     ],
     "sources": [
@@ -1030,38 +1058,22 @@ window.RADAR = {
       "id": "google",
       "icon": "🔍",
       "name": "Google Trends · Brasil",
-      "status": "partial",
-      "statusLabel": "leitura parcial (página Trending Now)",
-      "items": [
-       {
-        "t": "Alerta laranja: tempestade — 200K+ buscas (temporal no Sul do país)",
-        "s": "Maior volume entre os termos visíveis; ligado à tempestade em Pelotas (RS), não ao Rio.",
-        "u": "https://trends.google.com/trending?geo=BR"
-       },
-       {
-        "t": "Vila Nova x Goiás · jogo do Flamengo · Bayern x Bodø/Glimt — 50K+ cada",
-        "s": "Futebol domina o top do ranking na manhã de sexta.",
-        "u": "https://trends.google.com/trending?geo=BR"
-       },
-       {
-        "t": "Nenhum termo do festival no top 25 (~9h)",
-        "s": "Rock in Rio, Stray Kids, HWASA, Alok, Jamiroquai e 'Cidade do Rock' ausentes dos 25 termos visíveis de 305 — a entrada é esperada à noite; a rodada das 20h verifica.",
-        "u": "https://trends.google.com/trending?geo=BR"
-       }
-      ],
-      "note": "Primeira medição em 11 rodadas: o RSS (trends.google.com/trending/rss?geo=BR) seguiu bloqueado no ambiente da rotina (aprovação de rede não concedida, 2 tentativas), mas a página Trending Now pôde ser lida ~9h de 11/09 — leitura PARCIAL: 25 termos visíveis de um ranking de 305. Nenhum número estimado; volumes conforme exibidos pela página."
+      "status": "off",
+      "statusLabel": "sem medição na rodada das 20h",
+      "items": [],
+      "note": "A chamada ao RSS (trends.google.com/trending/rss?geo=BR) exigiu aprovação de rede que a execução agendada não pôde conceder (negada automaticamente; a página Trending Now nem chegou a ser tentada — o ambiente bloqueou todas as chamadas WebFetch da rodada). A hipótese da manhã (festival entrando no ranking à noite, com TV aberta + Stray Kids 00h05) fica SEM verificação hoje — a rodada das 9h de sábado herda a checagem. Habilitar 'agir sem perguntar' na tarefa das 20h destrava as próximas noites. Nenhum número estimado."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada da manhã",
+      "statusLabel": "sem medição na rodada das 20h",
       "items": [],
-      "note": "A página tiktok.com/tag/rockinrio não pôde ser coletada às ~9h de 11/09 — nesta rodada o bloqueio veio por robots.txt do TikTok (não pelo bloqueio de permissão de rede das rodadas anteriores). Última leitura válida segue 5,7 mi de views (06/09, ~20h; contador público parado desde 03/09). A rotina das 10h (via navegador do usuário) pode obter a leitura do dia; nova tentativa desta rotina às 20h."
+      "note": "A página tiktok.com/tag/rockinrio não pôde ser coletada às ~20h de 11/09 — mesmo bloqueio de aprovação de rede da rodada (as chamadas WebFetch foram negadas automaticamente na execução agendada). Última leitura válida segue 5,7 mi de views (06/09, ~20h). A curva do K-pop day (o dia com maior potencial de salto da hashtag em toda a edição) ficou sem registro quantitativo — comparação retomada quando a coleta voltar."
      }
     ],
-    "note": "Rodada das 9h de 11/09: Google Trends BR voltou a ser mensurável após 10 rodadas bloqueadas — leitura parcial via página Trending Now (top 25 de 305 termos; RSS segue bloqueado): NENHUM termo do festival no topo do ranking na manhã do K-pop day, que amanheceu dominado por futebol e clima; a entrada é esperada na rodada das 20h, com TV aberta e Stray Kids. TikTok seguiu incoletável (robots.txt neste ambiente; última leitura válida: 5,7 mi em 06/09). Bloco viral combina a medição parcial com leitura editorial da cobertura — fonte e link em todo item; nenhum número estimado."
+    "note": "Rodada das 20h de 11/09: SEM medição quantitativa — todas as chamadas de coleta (WebFetch) exigiram aprovação de rede e foram negadas automaticamente na execução agendada (ninguém presente para aprovar); correção operacional: modo 'agir sem perguntar' na tarefa das 20h. As duas colunas publicam com selo OFF em vez de número estimado (regra da casa). O bloco viral desta rodada é leitura EDITORIAL da varredura de imprensa da noite, com fonte e link em todo item. Os dois picos visuais do dia (drones 21h20, oceano de lightsticks 00h05) ocorrem após o fechamento — ficam para a edição das 9h de sábado, junto com a verificação da entrada do festival no Google Trends."
    },
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
@@ -1830,6 +1842,46 @@ window.RADAR = {
     [
      "Google Trends BR — Trending Now (leitura parcial de 11/09, ~9h)",
      "https://trends.google.com/trending?geo=BR"
+    ],
+    [
+     "Portal Democrata — Fãs de K-pop acampam durante a madrugada para garantir lugar no Rock in Rio (11/09)",
+     "https://portaldemocrata.com.br/2026/09/11/fas-de-k-pop-acampam-durante-a-madrugada-para-garantir-lugar-no-rock-in-rio/"
+    ],
+    [
+     "Diário do Grande ABC — Rock in Rio bate recorde de marcas e atrai negócios (11/09)",
+     "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
+    ],
+    [
+     "Via Trolebus — BRT do Rock in Rio soma 152 mil passageiros (set/2026)",
+     "https://viatrolebus.com.br/2026/09/brt-do-rock-in-rio-soma-152-mil-passageiros/"
+    ],
+    [
+     "CNN Brasil — Filhos de celebridades vão ao Rock in Rio para show do Stray Kids (11/09)",
+     "https://www.cnnbrasil.com.br/pop/celebridades/filhos-de-celebridades-vao-ao-rock-in-rio-para-show-do-stray-kids/"
+    ],
+    [
+     "Jornal Expresso Carioca — De pochete customizável ao leque amarelo: os brindes da Ipiranga no RiR 2026",
+     "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ],
+    [
+     "Aurora Cultural — Público de Pedro Sampaio terá 30 mil leques amarelos no Rock in Rio",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/publico-de-pedro-sampaio-tera-30-mil-leques-amarelos-no-rock-in-rio/"
+    ],
+    [
+     "Aurora Cultural — De pochetes customizáveis a leques: os brindes da Ipiranga no RiR 2026",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/de-pochetes-customizaveis-a-leques-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ],
+    [
+     "Glow Pop Brasil — Pedro Sampaio terá 'mar amarelo' de 30 mil leques em ação da Ipiranga",
+     "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
+    ],
+    [
+     "Juventude BM — Ipiranga e Rock in Rio Brasil 2026 completam a experiência do público no show de Pedro Sampaio (release)",
+     "https://www.juventudebm.com/2026/09/ipiranga-e-rock-in-rio-brasil-2026.html"
+    ],
+    [
+     "Jornal de Brasília — Rock in Rio tem menos famosos, mais brindes e até robô na primeira semana",
+     "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-tem-menos-famosos-mais-brindes-e-ate-robo-na-primeira-semana/"
     ]
    ]
   },
