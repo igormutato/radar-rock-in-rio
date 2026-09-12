@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 38,
-  "updatedAt": "12/09/2026, 09h30 (BRT)",
+  "version": 39,
+  "updatedAt": "12/09/2026, 20h25 (BRT)",
   "updatedISO": "2026-09-12",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,115 +793,114 @@ window.RADAR = {
    "edition": 20,
    "phase": "festival — semana 2, dia 2 (sábado esgotado · Maroon 5) · D-DAY do 'mar de leques' Ipiranga (16h40)",
    "pulse": [
-    "☀️ <b>EDIÇÃO DA MANHÃ (9h) — D-DAY do 'mar de leques', com um fator novo na equação: chuva na janela da ação.</b> Hoje, no sábado esgotado do Maroon 5, a Ipiranga executa às 16h40 a sua maior ação da edição — 30 mil leques amarelos no gramado do Palco Mundo durante o show de Pedro Sampaio, que declarou à Rolling Stone (11/09) estar investindo 'na casa dos milhões' na apresentação ('não tenho problema em investir mais do que ganho'). O clima muda o roteiro: previsão de pancadas na madrugada/manhã e chuva fraca a moderada A PARTIR DA TARDE (18–29°C — ABIH-RJ/alerta de 11/09), exatamente a janela da ação. O gesto foi desenhado para o calor (leque = refresco); até meio-dia a operação precisa de um plano B de narrativa, distribuição seca e captura protegida.",
-    "🎤 <b>A véspera entregou o ensaio perfeito do gesto: K-pop day histórico, e o 'oceano de lightsticks' aconteceu exatamente como projetado — no mesmo gramado que hoje recebe os leques.</b> Stray Kids fez 'show de gente grande' de 1h45 (Estadão/Terra) com plateia lotada de lightsticks acesos do início ao fim, trecho de Michel Teló em coreano que viralizou até na Coreia e Felix dançando passinho viral; Alok pôs 1.500 drones 'falantes' no céu com balé futurista e colab inédita com o Twice; HWASA fez história como 1ª solista coreana do Palco Mundo ('reencontro emotivo', Billboard); Jamiroquai 'hipnotizou' o Sunset (Rolling Stone). O senão foi operacional: gente passando mal por calor/aglomeração na frente do palco, com telões pedindo recuo (Notícias Favoritas) — aviso direto para o dia esgotado de hoje.",
-    "📈 <b>Trends da manhã: o festival NÃO emplacou no Google Trends BR — e o sábado disputa atenção com F1, final de US Open e casamento de celebridade.</b> O RSS das ~9h é dominado por 'f1 horarios' (2 mil+ buscas, GP em Madri), 'us open 2026' (1 mil+, final Zverev x Shelton) e o casamento de Ana Hickmann; nenhum termo do festival, dos artistas ou da Cidade do Rock no ranking, mesmo após a noite histórica do K-pop — a conversa ficou nos nichos/fandoms. Leitura tática: a chance de entrar no ranking é o pico da noite (TV aberta + Maroon 5); o conteúdo da ação das 16h40 precisa sair em tempo real, não no dia seguinte. TikTok: sem medição nesta rodada (bloqueio de aprovação de rede na execução agendada; última leitura válida segue 5,7 mi em 06/09).",
-    "🟡 <b>Trade amanhece em silêncio no D-day — o case agora só nasce da imagem.</b> A varredura das 9h não encontrou linha nova sobre a ação em propmark, Meio & Mensagem ou Mundo do Marketing; o release seguiu circulando apenas no circuito pop (Glow Pop, Aurora Cultural, Expresso Carioca). Com a pauta 'recorde de marcas e negócios' ainda quente na imprensa econômica (matéria em cadeia de 11/09), o material que destrava o trade é objetivo: corte aéreo da TV com o gramado amarelo + número final de leques distribuídos + paralelo com o oceano de lightsticks da véspera — a captura de hoje é o insumo do case de domingo/segunda."
+    "🌙 <b>EDIÇÃO DA NOITE (20h) — ACONTECEU: o 'mar de leques' saiu do papel às 16h40 e virou manchete ainda durante o festival.</b> Pedro Sampaio abriu o Palco Mundo do sábado esgotado com o show 'Abraça o Amigo e Pula' e a imprensa registrou em tempo real: 'Pedro Sampaio causa alvoroço com mar de leques no Rock in Rio 2026' (Portal Democrata, 20h56) — 25 mil leques amarelos levantados diante de ~25 mil pessoas no gramado, nos números da imprensa (Semana Pop, 18h54, fala em '25 mil leques amarelos com azul' distribuídos; o release anunciava 30 mil — fechar o número oficial com a operação antes do case). A chuva que ameaçava a janela da ação não aparece em nenhuma cobertura do show, e a galeria da Billboard registra a tarde com céu firme. Atenção: até as 20h NENHUMA foto aérea do gramado amarelo foi publicada — o corte aéreo da transmissão é a pendência nº 1 do case e precisa ser recolhido ainda hoje.",
+    "🎡 <b>A tarde rodou limpa e a noite grande ainda está toda por vir.</b> Portões às 14h, bloqueios viários a partir de 14h18, estágio 2 e BRT dedicado no desenho previsto (COR); previsão das 14h era de pancadas ISOLADAS moderadas à tarde (ventos até 51,9 km/h, mínima 18°C) — e, diferente da véspera, o COR não registrou incidentes nem mal-estares até o fechamento desta edição. No campo artístico, o Sunset 100% Brasil entregou Criolo + Amaro Freitas + Dino d'Santiago e Gilsons + Daniela Mercury + Olodum (galeria Billboard, atualizada 18h31). No fechamento, J Balvin estava no ar (19h); ainda vêm João Gomes + Orquestra Brasileira (20h10), Demi Lovato (21h20), Mumford & Sons (22h45), Maroon 5 (00h05) e Alok no New Dance Order (01h30) — repercussão completa na edição das 9h de domingo.",
+    "📊 <b>Trends sem medição na rodada da noite (bloqueio de rede persiste) — mas o trade ganhou régua de valor nova hoje, e a Ipiranga segue fora da foto.</b> As duas fontes (Google Trends RSS e página da hashtag no TikTok) exigiram aprovação de rede que a execução agendada não pôde conceder — a checagem noturna do ranking (a janela de maior chance, com Maroon 5 e TV aberta) fica para as 9h de domingo, e a curva do TikTok segue sem registro desde 5,7 mi (06/09). No trade: a Promoview atualizou HOJE o exclusivo 'quanto custa ativar uma marca no Rock in Rio' — ativações de R$ 2 mi a R$ 60 mi, R$ 100 mi de mídia Globo para 4 marcas (Itaú, VW, Natura, Google), earned media de R$ 111 mi em 2024 — SEM citar a Ipiranga entre as marcas destacadas. 8ª varredura de propmark/M&M/Mundo do Marketing segue zerada sobre a ação: a oferta do case (imagem aérea + número final de leques + paralelo lightsticks→leques + dia esgotado) sai domingo/segunda."
    ],
    "news": [
     {
-     "t": "Vai chover no dia da ação: previsão de pancadas de madrugada/manhã e chuva fraca a moderada a partir da TARDE no sábado do Maroon 5 (18–29°C)",
-     "src": "ABIH-RJ (boletim)",
-     "when": "11/09, 14h04",
-     "s": "O boletim para o sábado 12/09 prevê pancadas na madrugada e manhã, seguidas de chuva fraca a moderada a partir da tarde — sem horário preciso para a Cidade do Rock. Para o festival, muda o kit do público (capa, proteção de celular, piso molhado); para a Ipiranga, atravessa exatamente a janela do 'mar de leques' (16h40). O precedente da semana 1 pesa: a infraestrutura não respondeu bem às chuvas persistentes do 1º fim de semana (balanço O Reporter, 08/09).",
-     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+     "t": "EXECUTADA: 'Pedro Sampaio causa alvoroço com mar de leques no Rock in Rio 2026' — primeira manchete da ação, publicada às 20h56 de hoje",
+     "src": "Portal Democrata",
+     "when": "12/09, 20h56",
+     "s": "A cobertura registra ~25 mil pessoas no gramado do Palco Mundo e 25 mil leques amarelos levantados durante o show de abertura ('alvoroço'), no espetáculo 'Abraça o Amigo e Pula' — proposta intimista com sofás coloridos e 20 dançarinos de pijama. É a primeira matéria que trata a ação como fato consumado, com a imagem coletiva como protagonista. Divergência a fechar: o release falava em 30 mil leques; a imprensa registrou 25 mil.",
+     "u": "https://portaldemocrata.com.br/2026/09/12/pedro-sampaio-causa-alvoroco-com-mar-de-leques-no-rock-in-rio-2026/"
     },
     {
-     "t": "O alerta operacional da noite K-pop: público passou mal por calor e aglomeração na frente do palco, e telões pediram recuo durante os shows",
-     "src": "Notícias Favoritas",
-     "when": "11/09, 21h07",
-     "s": "Mesmo sem lotação máxima (havia ingresso à tarde), a concentração de fandoms na grade produziu mal-estares por calor e congestionou a via principal de circulação — agravada por famílias com cangas nos corredores. Avisos nos telões pediram que o público recuasse. É o dado de comportamento que hoje escala: o dia está ESGOTADO, com pico de calor antes da chuva da tarde — hidratação, sombra e refresco na chegada deixam de ser cortesia e viram operação de segurança.",
-     "u": "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+     "t": "Semana Pop confirma a distribuição: '25 mil leques amarelos com azul' no show — 'festa do pijama eletrizante' com guerra de travesseiros e ~28 faixas",
+     "src": "Semana Pop",
+     "when": "12/09, 18h54",
+     "s": "A resenha publicada ainda no fim da tarde descreve o formato: mais de dez sofás em níveis, dançarinos de pijama, guerra de travesseiros com plumas, ~28 faixas ('JETSKI', 'Galopa', 'Dançarina'), remix inédito de 'Gnarly'—era 'Hootie Frutti' do KATSEYE—e forte conexão com o público LGBT+. A menção aos leques aparece integrada à narrativa do show — exatamente o cenário de atribuição que a marca queria: o objeto como parte da cena, não como brinde avulso.",
+     "u": "https://www.semanapop.com.br/pedro-sampaio-faz-festa-do-pijama-eletrizante-no-rock-in-rio/"
     },
     {
-     "t": "Hoje: sábado esgotado com Maroon 5, Demi Lovato, J Balvin e Pedro Sampaio no Mundo; Sunset 100% Brasil até o Mumford & Sons",
-     "src": "POPLine (horários) · Diário do Rio (esgotado)",
+     "t": "Sopa Cultural detalha a estreia: convidadas em 'Sequência Cunt', 'Aquele Abraço' de Gilberto Gil e a promessa do 'melhor dia das nossas vidas'",
+     "src": "Sopa Cultural",
+     "when": "12/09 (noite)",
+     "s": "Pedro Sampaio abriu o Palco Mundo às 16h40 com a plateia gritando o nome antes de ele entrar. Setlist com 'Pocpoc', 'Galopa', 'Joga pra Lua' e releituras ('Gasolina', 'Beauty and a Beat'), citação a Gilberto Gil e participações no número 'Sequência Cunt' (a Sopa lista Irmãs de Pau, Tasha Kaiala e Clementaum; a Semana Pop cita outros nomes — checar crédito oficial). Os 2.400 m² de LED do Mundo viraram elemento cênico — moldura audiovisual máxima para o gramado amarelo.",
+     "u": "https://sopacultural.com/pedro-sampaio-leva-funk-hits-e-convidados-a-estreia-no-palco-mundo-do-rock-in-rio/"
+    },
+    {
+     "t": "COR, 6º dia: tarde sem incidentes reportados — estágio 2, bloqueios a partir de 14h18, OCR nos acessos e BRT Expresso via app Jaé",
+     "src": "COR — Centro de Operações Rio",
+     "when": "12/09 (tempo real, até ~20h)",
+     "s": "A previsão divulgada às 14h falava em pancadas ISOLADAS de chuva moderada à tarde, temperatura em declínio até 18°C e ventos de até 51,9 km/h; os bloqueios no entorno do Parque Olímpico começaram 14h18 e o acesso de veículos roda com leitura de placas (OCR). Até o fechamento desta edição o COR não registrava incidentes, mal-estares ou número oficial de público — contraste direto com a véspera, quando telões pediram recuo na grade.",
+     "u": "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
+    },
+    {
+     "t": "Billboard publica a galeria do 6º dia: Soul de Brasileiro abre o Espaço Favela; Criolo + Amaro Freitas + Dino d'Santiago e Gilsons no Sunset; Pedro Sampaio no Mundo",
+     "src": "Billboard Brasil (fotos)",
+     "when": "12/09, 16h14 (atualizada 18h31)",
+     "s": "O fotojornalismo registra a tarde completa — incluindo o Sunset 100% Brasil e a abertura do Mundo — em condições de luz firme (sem registro de chuva nas imagens até a atualização das 18h31). Nenhuma foto aérea do 'mar amarelo' na galeria até as 20h: a imagem que prova a ação em escala ainda não circula na imprensa — reforça a urgência de recolher o corte da transmissão Multishow desta tarde.",
+     "u": "https://billboard.com.br/rock-in-rio-2026-fotos-do-sexto-dia-de-festival/"
+    },
+    {
+     "t": "Promoview atualiza HOJE o exclusivo 'quanto custa ativar uma marca no Rock in Rio': de R$ 2 mi a R$ 60 mi por ativação — e Ipiranga fora das marcas citadas",
+     "src": "Promoview (exclusivo, 08/09 — atualizado 12/09)",
      "when": "12/09",
-     "s": "Grade do dia 6: Palco Mundo com Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20) e Maroon 5 (00h05); Sunset com Criolo + Amaro Freitas + Dino D'Santiago (15h30), Gilsons + Daniela Mercury + Olodum (17h50), João Gomes + Orquestra Brasileira (20h10) e Mumford & Sons (22h45). Ingressos esgotados desde a pré-venda (dia vendido em ~2h, junto com o de Calvin Harris). Portões às 14h; transmissão Multishow/Bis/Globoplay com janelas na TV Globo.",
+     "s": "A régua de valor do trade está publicada: estratégia/criação R$ 300 mil–1,5 mi, arquitetura/cenografia R$ 1–8 mi, mídia de amplificação R$ 2–30 mi+; Itaú (master) na casa das 'dezenas de milhões'; R$ 100 mi de receita Globo com 4 marcas (Itaú, VW, Natura, Google); earned media de R$ 111 mi em 583 matérias em 2024. A matéria cita 15 patrocinadores nominalmente — a Ipiranga não está entre os destacados. É a moldura quantitativa pronta para o case do 'mar de leques' entrar em cena.",
+     "u": "https://www.promoview.com.br/exclusivo-promoview-quanto-custa-ativar-uma-marca-no-rock-in-rio/"
+    },
+    {
+     "t": "A noite grande do sábado esgotado: J Balvin (19h), Demi Lovato (21h20), Mumford & Sons (22h45) e Maroon 5 (00h05) — repercussão completa na edição de domingo",
+     "src": "POPLine (horários)",
+     "when": "12/09",
+     "s": "No fechamento desta edição, J Balvin estava no palco. Seguem na grade: João Gomes + Orquestra Brasileira (20h10, Sunset), Demi Lovato (21h20), Mumford & Sons (22h45) e Maroon 5 (00h05), com Alok fechando o New Dance Order (01h30, 2ª apresentação na edição). Transmissão Multishow/Bis desde a tarde, Globoplay integral e janelas na TV Globo — o pico de audiência (e a maior chance do festival entrar no Google Trends) é esta noite.",
      "u": "https://portalpopline.com.br/rock-in-rio-horarios-shows-sabado-12-9/"
     },
     {
-     "t": "Pedro Sampaio à Rolling Stone: 'não tenho problema em investir mais do que ganho' — show das 16h40 orçado 'na casa dos milhões'",
-     "src": "Rolling Stone Brasil",
-     "when": "11/09, 14h08",
-     "s": "Na véspera do show que recebe o 'mar de leques', o artista disse trabalhar ~10h/dia na preparação e revelou investimento milionário do próprio bolso para 'impressionar e mostrar qualidade', com adaptações possíveis até a hora de subir ao palco. Para a marca, o dado importa pela consequência prática: o palco das 16h40 terá produção acima do padrão do horário — mais câmeras, mais cortes de TV e mais motivo para o público filmar, ampliando o alcance potencial da imagem do gramado amarelo.",
+     "t": "Contexto que valorizou a imagem das 16h40: o show 'na casa dos milhões' que Pedro Sampaio prometeu à Rolling Stone na véspera se confirmou no palco",
+     "src": "Rolling Stone Brasil (véspera) · Sopa Cultural (confirmação)",
+     "when": "11/09 → 12/09",
+     "s": "O investimento declarado ('não tenho problema em investir mais do que ganho') virou produção real: cenografia de sofás em níveis, 20 dançarinos, convidadas e telões integrados. Para a marca, a aposta pagou: a moldura audiovisual do horário das 16h40 foi de headliner — e foi dentro dela que os 25 mil leques apareceram.",
      "u": "https://rollingstone.com.br/musica/pedro-sampaio-quer-impressionar-e-mostrar-qualidade-em-show-no-rock-in-rio-2026-nao-tenho-problema-em-investir/"
-    },
-    {
-     "t": "Estreia do K-pop no festival é tratada pela imprensa como 'mudança de identidade' do Rock in Rio — cobertura em cadeia da noite histórica",
-     "src": "Terra (Meu Sonora) · NelSons (resumo do 5º dia)",
-     "when": "11–12/09",
-     "s": "A leitura editorial da noite foi unânime: a entrada do K-pop no Palco Mundo 'amplia a programação para dialogar com diferentes cenas' e trouxe um público novo (fandoms multigeracionais, lightsticks, looks temáticos). O resumo do 5º dia registra Stray Kids 'dominante', Jamiroquai 'atemporal', HWASA 'digna de diva pop' e Alok com resposta positiva ao medley de funk + colab com Twice. Infraestrutura 'adaptada para K-pop' é citada como acerto — contexto favorável para marcas que dialogam com o gesto coletivo.",
-     "u": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/rock-in-rio-2026-k-pop-invade-o-palco-mundo-em-noite-historica-com-stray-kids-hwasa-e-alok,5dd99f2aa21021ed54706ccb44347e0becmn7s56.html"
-    },
-    {
-     "t": "Operação da cidade no 5º dia: estágio 2 acionado ao meio-dia, ventos de até 60,4 km/h e BRT dedicado com três serviços especiais",
-     "src": "COR — Centro de Operações Rio",
-     "when": "11/09 (última atualização 18h05)",
-     "s": "O COR registrou vento moderado a forte (rajada de 60,4 km/h no Vidigal), céu encoberto e previsão de chuva se intensificando na madrugada — a mesma frente que chega hoje. Mobilidade rodou no desenho previsto: SE 08/09/10 do BRT Expresso (18 a 40 min), cerca eletrônica com OCR nos acessos e interdições na Abelardo Bueno. Sem número oficial de público divulgado para o 5º dia até o fechamento desta edição — o balanço da semana 1 da organização segue pendente (7ª varredura).",
-     "u": "https://cor.rio/11-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-quinto-dia-de-evento/"
-    },
-    {
-     "t": "A pauta de negócios segue quente: 'Rock in Rio bate recorde de marcas e atrai negócios' continuou rodando em cadeia nacional na sexta",
-     "src": "Diário do Grande ABC · GMC Online · Tribuna do Sertão (replicada)",
-     "when": "11/09",
-     "s": "A matéria de economia que circulou em cadeia na véspera (90+ marcas, 100+ ativações, 1 milhão de brindes previstos) mantém patrocínio como pauta viva na imprensa generalista durante o fim de semana final. É a moldura ideal para o case da Ipiranga: um balanço de patrocínio já está 'encomendado' pelo noticiário — falta a imagem que o protagonize.",
-     "u": "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
-    },
-    {
-     "t": "Onde assistir hoje: Multishow e Bis desde a tarde, Globoplay integral e janelas na TV Globo — a transmissão que captura o 'mar amarelo'",
-     "src": "Exame",
-     "when": "12/09",
-     "s": "A transmissão do sábado começa no meio da tarde nos canais pagos e no Globoplay, com trechos na TV aberta. Para a operação de hoje: o show de Pedro Sampaio (16h40) entra na janela de transmissão — o corte aéreo do gramado com os 30 mil leques é material de captura obrigatória em tempo real (gravar, cortar e repostar em menos de 1h), porque é a única imagem que prova a ação em escala.",
-     "u": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-deste-sabado-12-ao-vivo-e-de-graca/"
     }
    ],
    "ipiranga": [
     {
-     "t": "D-DAY: às 16h40, a maior ação da Ipiranga na edição — 30 mil leques amarelos no gramado esgotado do Palco Mundo, no show de Pedro Sampaio",
-     "src": "Glow Pop · Aurora Cultural · Expresso Carioca (release da ação)",
-     "when": "10–11/09 (ação: 12/09, 16h40)",
-     "s": "O desenho está publicado: leques distribuídos na chegada (sem cadastro) para formar o 'mar amarelo' durante o show, somados ao arsenal permanente — Espaço Ipiranga com corredor instagramável, fila climatizada e Glambot; pochetes customizáveis com 8 pins; Bar AmPm; recarga de celular KMV. Hoje tudo converge para uma única imagem: o gramado amarelo visto de cima. É o entregável que define se a ação vira case ou fica na promessa.",
-     "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
+     "t": "A MAIOR AÇÃO DA EDIÇÃO FOI EXECUTADA: mar de leques às 16h40, com manchete em tempo real — 'Pedro Sampaio causa alvoroço com mar de leques no Rock in Rio 2026'",
+     "src": "Portal Democrata (20h56) · Semana Pop (18h54)",
+     "when": "12/09, 16h40 (cobertura: 18h54–20h56)",
+     "s": "O gesto coletivo aconteceu no gramado esgotado do Palco Mundo e a imprensa tratou como imagem do dia: 25 mil leques amarelos levantados diante de ~25 mil pessoas (Portal Democrata); 'festa do pijama' com os leques integrados à narrativa do show (Semana Pop). Divergência a resolver antes do case: release anunciava 30 mil leques, imprensa registrou 25 mil — fechar o número oficial de distribuição com a operação ainda neste fim de semana.",
+     "u": "https://portaldemocrata.com.br/2026/09/12/pedro-sampaio-causa-alvoroco-com-mar-de-leques-no-rock-in-rio-2026/"
     },
     {
-     "t": "O risco do dia tem nome: chuva prevista para a tarde — o leque foi desenhado para o calor, e a janela da ação cai exatamente na virada do tempo",
-     "src": "ABIH-RJ (boletim de 11/09) · COR (frente avançando na madrugada)",
+     "t": "O risco da chuva NÃO se materializou na janela da ação — mas a imagem aérea do 'mar amarelo' ainda não existe publicamente: recolher o corte da transmissão é a tarefa da noite",
+     "src": "COR (previsão 14h) · Billboard Brasil (galeria 16h14/18h31)",
+     "when": "12/09, até 20h",
+     "s": "A previsão das 14h falava em pancadas apenas ISOLADAS e nenhuma cobertura do show registra chuva; a galeria da Billboard mostra a tarde com luz firme. Porém, até as 20h nenhum veículo publicou foto/vídeo aéreo do gramado amarelo — sem essa imagem, o case fica nas palavras dos outros. Ação imediata: capturar os cortes aéreos da transmissão Multishow/Globoplay das 16h40–17h30 hoje mesmo (a transmissão é a única câmera alta garantida) e guardar o UGC de gramado com leques que subir esta noite.",
+     "u": "https://billboard.com.br/rock-in-rio-2026-fotos-do-sexto-dia-de-festival/"
+    },
+    {
+     "t": "Atribuição de marca na cobertura da noite: o objeto entrou na narrativa dos shows — monitorar se g1/UOL/Terra replicam o 'mar de leques' na cobertura do horário nobre",
+     "src": "Semana Pop · Portal Democrata",
+     "when": "12/09 (noite)",
+     "s": "As duas primeiras matérias da ação vêm do circuito pop — o mesmo que carregou o release. O teste de escala é a cobertura da noite dos grandes portais (Maroon 5/Demi): se o 'mar de leques' entrar nos resumos do dia como momento da tarde, a atribuição espontânea está feita; se não entrar, o case precisa nascer do material próprio + trade. A narrativa pré-formatada ('mar amarelo') converteu em manchete exatamente como desenhado — o nome da imagem já é o nosso.",
+     "u": "https://www.semanapop.com.br/pedro-sampaio-faz-festa-do-pijama-eletrizante-no-rock-in-rio/"
+    },
+    {
+     "t": "Trade: 8ª varredura zerada sobre a ação — mas a Promoview publicou HOJE a régua de valor das ativações (R$ 2–60 mi) sem citar a Ipiranga; a janela do case é dom/seg",
+     "src": "Promoview (atualizado 12/09) · varredura propmark/M&M/Mundo do Marketing (20h)",
+     "when": "12/09, ~20h",
+     "s": "O exclusivo da Promoview lista 15 patrocinadores, custos por camada e R$ 111 mi de earned media em 2024 — e a Ipiranga não aparece entre as marcas destacadas. Ou seja: a pauta 'quem ganhou o jogo das ativações' está aberta e ainda sem a nossa cadeira. O pacote de oferta está definido desde a manhã: imagem aérea do mar amarelo + número final de leques + dia esgotado + paralelo lightsticks→leques. Com a ação executada e coberta, falta só o material — domingo/segunda cedo é o prazo.",
+     "u": "https://www.promoview.com.br/exclusivo-promoview-quanto-custa-ativar-uma-marca-no-rock-in-rio/"
+    },
+    {
+     "t": "Serviço no dia esgotado: tarde sem registro de mal-estares pelo COR — e o leque somou refresco na chegada quente com souvenir do momento mais fotografado da tarde",
+     "src": "COR (6º dia) · Portal Democrata",
      "when": "12/09",
-     "s": "Pancadas de madrugada/manhã e chuva fraca a moderada a partir da tarde (18–29°C). Três decisões precisam estar batidas até meio-dia: (1) logística — como o leque chega seco à mão do público (distribuição na chegada, 14h–16h30, antes da chuva forte, se o padrão do boletim se confirmar); (2) narrativa — o roteiro B do 'amarelo contra o céu cinza' (o gesto coletivo funciona esteticamente até na garoa; o que não funciona é improvisar a legenda na hora); (3) captura — ponto coberto para o registro próprio, sem depender só do corte da TV.",
-     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+     "s": "Diferente da véspera (telões pedindo recuo, mal-estares na grade), o COR não reportou incidentes até as 20h. O mandato de serviço da manhã foi cumprido no desenho: distribuição na chegada (14h–16h30, janela seca), refresco no pico de calor e, às 16h40, o objeto virou participação no show. Para o balanço: leque entregue na mão + fila climatizada + recarga KMV no dia mais cheio da edição é o argumento de 'utilidade' pronto para o case interno.",
+     "u": "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
     },
     {
-     "t": "O festival 'ensaiou' o nosso gesto ontem: oceano de lightsticks no mesmo gramado, com aprovação unânime da crítica — o paralelo do case está pronto",
-     "src": "Terra/Estadão (Stray Kids) · Papelpop",
-     "when": "11→12/09",
-     "s": "A crítica registrou 'a multidão com lightsticks criando um oceano de luzes' como uma das imagens da noite histórica — lightsticks liberados pela 1ª vez, gesto sustentado do início ao fim do show. A narrativa para o trade escreve-se sozinha: sexta o público trouxe a luz de casa; sábado a Ipiranga entregou o gesto na mão de 30 mil pessoas. Guardar os links e frames da véspera para compor o material do case lado a lado.",
-     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
-    },
-    {
-     "t": "Trade segue zerado sobre a ação na manhã do D-day (7ª varredura) — mas a moldura de negócios está armada; o case de dom/seg depende só da imagem de hoje",
-     "src": "varredura de 12/09, ~9h (propmark · Meio & Mensagem · Mundo do Marketing)",
-     "when": "12/09, ~9h",
-     "s": "Nenhuma linha nova específica sobre o 'mar de leques' no trade; o release rodou apenas no circuito pop (Glow Pop, Aurora Cultural, Expresso Carioca, Juventude BM, DJ Sound). Com 'recorde de marcas' em cadeia na imprensa econômica e os balanços de patrocínio previstos para 14–15/09, a oferta ao trade deve sair domingo/segunda cedo com: imagem aérea do gramado amarelo, número final de leques distribuídos, dado do dia esgotado e o paralelo lightsticks→leques. Sem a imagem, não há pauta; com ela, a pauta é automática.",
-     "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
-    },
-    {
-     "t": "O aprendizado da véspera vira mandato de serviço: mal-estar por calor/aglomeração ontem + dia esgotado hoje = refresco e hidratação na chegada são a cara da marca",
-     "src": "Notícias Favoritas (11/09) · O Reporter (balanço semana 1, 08/09)",
+     "t": "Em 24h, o mesmo gramado produziu as duas imagens coletivas da semana 2: sexta o público trouxe a luz (lightsticks); sábado a Ipiranga entregou o gesto (leques) — o par comparativo do case está completo",
+     "src": "Terra/Estadão (sexta) · Portal Democrata (sábado)",
      "when": "11–12/09",
-     "s": "Ontem o público passou mal na grade em dia SEM lotação máxima; hoje o festival está esgotado, com calor até a chegada da chuva. O balanço da semana 1 já apontava filas simultâneas (banheiro, comida, ativação) forçando escolhas. A marca que entrega refresco (leque), fila climatizada (Espaço Ipiranga) e recarga (KMV) no momento de estresse ganha a única associação que importa hoje: utilidade. Priorizar visibilidade desses serviços na chegada (14h–17h), quando o pico de calor encontra o pico de entrada.",
-     "u": "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
-    },
-    {
-     "t": "Produção milionária no palco das 16h40: o investimento declarado de Pedro Sampaio multiplica o valor da imagem que carrega a assinatura da marca",
-     "src": "Rolling Stone Brasil",
-     "when": "11/09, 14h08",
-     "s": "O artista anunciou investimento 'na casa dos milhões' e disposição de ajustar o show até a última hora. Consequência direta para a ação: mais produção = mais cobertura de câmeras, mais cortes na transmissão e mais UGC do gramado — o cenário máximo para o 'mar de leques' aparecer. A marca não comenta o mérito artístico; o que importa é que a moldura audiovisual do gesto será a mais rica possível no horário.",
-     "u": "https://rollingstone.com.br/musica/pedro-sampaio-quer-impressionar-e-mostrar-qualidade-em-show-no-rock-in-rio-2026-nao-tenho-problema-em-investir/"
+     "s": "O 'oceano de lightsticks' do Stray Kids e o 'mar de leques' de Pedro Sampaio aconteceram no mesmo Palco Mundo, em noites consecutivas — um orgânico do fandom, o outro assinado pela marca. É o contraste que o trade entende em uma frase: o festival provou que o público executa gesto coletivo; a Ipiranga provou que sabe provocá-lo em escala, com 25 mil objetos na mão. Montar o lado-a-lado (frames + números + links) como peça central do material de dom/seg.",
+     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
     }
    ],
    "shows": {
-    "status": "DIA DE FESTIVAL — semana 2, dia 2 (sábado, 12/set — ESGOTADO · Maroon 5). Portões às 14h. Palco Mundo: Pedro Sampaio 16h40 (com a ação dos 30 mil leques da Ipiranga), J Balvin 19h, Demi Lovato 21h20, Maroon 5 00h05. Sunset: Criolo + Amaro Freitas + Dino D'Santiago 15h30, Gilsons + Daniela Mercury + Olodum 17h50, João Gomes + Orquestra Brasileira 20h10, Mumford & Sons 22h45. New Dance Order fecha com Alok 'Rave The World' (01h30) — 2ª apresentação dele na edição. CLIMA: pancadas de madrugada/manhã e chuva fraca a moderada a partir da tarde (18–29°C, ABIH-RJ) — piso molhado e capa no kit do público; frente confirmada pelo COR na noite de sexta. ALERTA herdado da véspera: mal-estares por calor/aglomeração na frente do palco em dia SEM lotação máxima — hoje esgotado, atenção redobrada à hidratação na chegada (pico 14h–17h). Transmissão: Multishow/Bis desde a tarde, Globoplay integral, janelas na TV Globo. Repercussão completa desta noite na edição das 9h de domingo; abaixo, a noite K-pop de sexta.",
+    "status": "DIA DE FESTIVAL — semana 2, dia 2 (sábado, 12/set — ESGOTADO · Maroon 5) · ATUALIZAÇÃO DAS 20h: (1) TARDE EXECUTADA — portões às 14h, bloqueios viários a partir de 14h18 (COR); Soul de Brasileiro abriu o Espaço Favela; Sunset 100% Brasil com Criolo + Amaro Freitas + Dino d'Santiago (15h30) e Gilsons + Daniela Mercury + Olodum (17h50), registrados na galeria da Billboard (atualizada 18h31); Pedro Sampaio abriu o Palco Mundo às 16h40 com o 'mar de leques' da Ipiranga — 25 mil leques levantados, nos números da imprensa (Portal Democrata, 20h56) — em show 'Abraça o Amigo e Pula' com sofás, dançarinos de pijama, guerra de travesseiros e convidadas em 'Sequência Cunt'. (2) CLIMA/OPERAÇÃO — a chuva prevista ficou em pancadas isoladas (previsão COR das 14h: moderadas e isoladas à tarde, mínima 18°C, ventos até 51,9 km/h); estágio 2, OCR nos acessos, BRT Expresso via Jaé; SEM incidentes, mal-estares ou público oficial reportados pelo COR até o fechamento — contraste com a véspera. (3) AINDA POR VIR — no fechamento, J Balvin no ar (19h); seguem João Gomes + Orquestra Brasileira (20h10), Demi Lovato (21h20), Mumford & Sons (22h45), Maroon 5 (00h05) e Alok no New Dance Order (01h30). Transmissão Multishow/Bis + Globoplay integral + janelas na TV Globo. Repercussão completa da noite na edição das 9h de domingo; abaixo, a noite K-pop de sexta.",
     "reperc": [
      {
       "date": "11/set (5ª noite — K-pop day · estreia do gênero no festival)",
@@ -992,25 +991,25 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "Os cortes 'brasileiros' do Stray Kids são o UGC dominante da manhã: Michel Teló em coreano (que viralizou até na Coreia), 'caraca' do Bang Chan e o passinho do Felix",
-      "src": "Estadão/Terra · Papelpop · Midiamax",
-      "metric": "viralização registrada pela imprensa (Estadão/Terra cita o cover 'que viralizou na Coreia do Sul'); sem medição própria de plataforma nesta rodada",
-      "s": "O padrão dos grandes momentos virais da edição se repete: não é o espetáculo, é o artista global fazendo gesto local. O trecho de 'Ai Se Eu Te Pego', o português do líder e a dança viral do Felix são os cortes que circulam — e alimentam fandom + público geral ao mesmo tempo. Para a marca, a lição vale para hoje: o conteúdo do 'mar de leques' que viaja é o que mostra o público fazendo o gesto, não o produto.",
-      "u": "https://www.papelpop.com/2026/09/rock-in-rio-2026-stray-kids-fecha-noite-de-k-pop-com-muito-portugues-energia-de-sobra-e-dominando-o-palco-mundo/"
+      "t": "A ação virou manchete em tempo real: 'Pedro Sampaio causa alvoroço com mar de leques' — a imagem-síntese da tarde já tem nome, e o nome é o nosso",
+      "src": "Portal Democrata (20h56) · Semana Pop (18h54)",
+      "metric": "2 matérias publicadas durante o próprio festival citando 25 mil leques; sem medição de plataforma nesta rodada (coleta bloqueada)",
+      "s": "O ciclo release→imagem→manchete fechou em menos de 5h: a narrativa pré-formatada da véspera ('mar amarelo', '30 mil leques') converteu em cobertura do fato consumado ainda antes do horário nobre. O que monitorar esta noite: se os resumos do dia dos grandes portais (g1, UOL, Terra) incorporam o 'mar de leques' como momento da tarde — e o UGC de gramado com leque que subir junto com os picos de Demi Lovato e Maroon 5.",
+      "u": "https://portaldemocrata.com.br/2026/09/12/pedro-sampaio-causa-alvoroco-com-mar-de-leques-no-rock-in-rio-2026/"
      },
      {
-      "t": "As duas imagens aéreas programadas aconteceram: oceano de lightsticks no Stray Kids e a cabeça de 1.500 drones do Alok — o benchmark visual direto do 'mar de leques' de hoje",
-      "src": "Estadão/Terra (2 críticas) · Sopa Cultural",
-      "metric": "fatos registrados pela crítica; sem medição quantitativa de plataforma nesta rodada",
-      "s": "A noite entregou os dois espetáculos aéreos previstos, ambos no gramado que hoje recebe os leques. O 'oceano de luzes' sustentado por 1h45 prova que o público do festival executa gesto coletivo em massa quando recebe o objeto e o motivo. A régua está posta: a imagem da Ipiranga às 16h40 será inevitavelmente comparada às da sexta — vantagem de quem distribui 30 mil objetos; risco se a chuva dispersar o gramado antes.",
+      "t": "O show foi desenhado para virar corte: pijamas, sofás, guerra de travesseiros com plumas, convidadas e 'Aquele Abraço' — UGC-friendly do início ao fim",
+      "src": "Semana Pop · Sopa Cultural",
+      "metric": "leitura editorial da cobertura da noite; sem medição de plataforma nesta rodada",
+      "s": "A estética 'festa do pijama' (~28 faixas, remix de 'Hootie Frutti' do KATSEYE, número 'Sequência Cunt' com convidadas, citação a Gilberto Gil) produz exatamente o tipo de corte que circula em fandom pop/LGBT+ — e os leques amarelos aparecem dentro dessas cenas, não à parte delas. Para a marca: o material orgânico do show é o veículo natural da atribuição; garimpar os cortes em que o leque aparece em massa.",
+      "u": "https://sopacultural.com/pedro-sampaio-leva-funk-hits-e-convidados-a-estreia-no-palco-mundo-do-rock-in-rio/"
+     },
+     {
+      "t": "Em 24h, o mesmo gramado gerou os dois gestos coletivos da semana: oceano de lightsticks (sexta, orgânico) e mar de leques (sábado, assinado) — falta ao par apenas a foto aérea de hoje",
+      "src": "Terra/Estadão (sexta) · Portal Democrata (sábado) · Billboard (galeria sem aéreas até 18h31)",
+      "metric": "fatos registrados pela imprensa; nenhuma imagem aérea do 'mar amarelo' publicada até as 20h",
+      "s": "O benchmark que a manhã projetou se cumpriu: o público que sustentou lightsticks por 1h45 na sexta levantou 25 mil leques no sábado. A comparação já está disponível para qualquer veículo que queira contá-la — mas a imagem aérea que prova o gesto em escala ainda não circula. Quem publicar primeiro (marca, festival ou TV) define o enquadramento; o corte da transmissão Multishow das 16h40 é a fonte garantida.",
       "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
-     },
-     {
-      "t": "A narrativa do 'mar amarelo' chegou pré-formatada ao público: release seguiu rodando no circuito pop na véspera — títulos já entregam a imagem antes de ela existir",
-      "src": "Glow Pop · Aurora Cultural · Expresso Carioca",
-      "metric": "5 veículos de pop/música publicaram entre 10 e 11/09; trade zerado até as 9h de 12/09",
-      "s": "'Mar amarelo', 'leque amarelo', '30 mil leques' viraram título em cadeia no circuito de entretenimento — quando a imagem real aparecer hoje à tarde, a audiência já sabe o nome do que está vendo. É o cenário ideal para viralização com atribuição de marca: a hashtag e a legenda já existem; falta o vídeo. O que toca a marca monitorar em tempo real: leque/pochete aparecendo em UGC de fila e gramado a partir das 14h.",
-      "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
      }
     ],
     "sources": [
@@ -1018,12 +1017,12 @@ window.RADAR = {
       "id": "google",
       "icon": "🔍",
       "name": "Google Trends · Brasil",
-      "status": "ok",
-      "statusLabel": "coletado ~9h20 (RSS)",
+      "status": "partial",
+      "statusLabel": "leitura das 9h20 mantida · checagem das 20h bloqueada",
       "items": [
        {
         "t": "'f1 horarios' — 2 mil+ buscas (maior volume do ranking): GP da Espanha em Madri domina a manhã do sábado",
-        "s": "Classificação do GP + dobradinha Mercedes no TL1 e Bortoleto exaltando o circuito puxam o pico esportivo do dia — a F1 ocupa exatamente a janela da tarde em que a ação da Ipiranga acontece.",
+        "s": "Classificação do GP + dobradinha Mercedes no TL1 e Bortoleto exaltando o circuito puxam o pico esportivo do dia — a F1 ocupou exatamente a janela da tarde em que a ação da Ipiranga aconteceu.",
         "u": "https://trends.google.com/trending/rss?geo=BR"
        },
        {
@@ -1032,29 +1031,29 @@ window.RADAR = {
         "u": "https://trends.google.com/trending/rss?geo=BR"
        },
        {
-        "t": "Celebridades no topo do ranking geral: casamento de Ana Hickmann (200+) e Bruna Biancardi (200+)",
-        "s": "O noticiário de celebridades ocupa o espaço 'social' da conversa do sábado — o festival precisa de imagem-evento (não de line-up) para furar esse bloqueio.",
+        "t": "Celebridades no topo do ranking geral da manhã: casamento de Ana Hickmann (200+) e Bruna Biancardi (200+)",
+        "s": "O noticiário de celebridades ocupou o espaço 'social' da conversa do sábado — o festival precisa de imagem-evento (não de line-up) para furar esse bloqueio.",
         "u": "https://trends.google.com/trending/rss?geo=BR"
        },
        {
-        "t": "AUSÊNCIA (o insight da rodada): nenhum termo do festival, de artista da grade ou 'Cidade do Rock' no ranking da manhã seguinte à noite histórica do K-pop",
-        "s": "Mesmo com Stray Kids, drones e estreia histórica, a conversa ficou nos nichos — não converteu em busca de massa na manhã. A janela realista de entrada no ranking é o pico da noite (TV aberta + Maroon 5 + final de dia esgotado), como ocorreu em edições anteriores.",
+        "t": "AUSÊNCIA (leitura da manhã, 9h20): nenhum termo do festival no ranking após a noite histórica do K-pop — e a checagem noturna, a de maior chance, não pôde rodar",
+        "s": "A verificação das 20h — a janela em que Maroon 5 + TV aberta + dia esgotado tornam a entrada no ranking mais provável — foi bloqueada por aprovação de rede na execução agendada. Fica para a edição das 9h de domingo confirmar se o pico da noite converteu em busca de massa.",
         "u": "https://trends.google.com/trending/rss?geo=BR"
        }
       ],
-      "note": "RSS coletado normalmente às ~9h20 de 12/09. Ranking dominado por esporte (F1 2 mil+, US Open 1 mil+) e celebridades; zero termos do festival. A checagem noturna (quando a chance de entrada é maior) fica para a rotina das 20h."
+      "note": "Rodada das 20h NÃO coletada: a chamada ao RSS exigiu aprovação de rede que a execução agendada não pôde conceder (3 tentativas, ~20h30 de 12/09; bloqueio persiste apesar da correção tentada em 11/09). Os itens acima são a leitura válida das ~9h20. Verificação da entrada noturna do festival no ranking: edição das 9h de domingo."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "sem medição na rodada das 9h",
+      "statusLabel": "sem medição na rodada das 20h",
       "items": [],
-      "note": "A página tiktok.com/tag/rockinrio não pôde ser coletada nesta rodada: a chamada exigiu aprovação de rede que a execução agendada não pôde conceder (2 tentativas, ~9h20 de 12/09). Última leitura válida segue 5,7 mi de views (06/09). A curva do K-pop day → sábado esgotado segue sem registro quantitativo; retomar a comparação quando a coleta voltar. Nenhum número estimado."
+      "note": "A página tiktok.com/tag/rockinrio não pôde ser coletada às ~20h30 de 12/09 — mesmo bloqueio de aprovação de rede das rodadas das 9h de hoje e das 20h de ontem. Última leitura válida segue 5,7 mi de views (06/09); a curva do fim de semana 2 (K-pop day → sábado esgotado com mar de leques) permanece sem registro quantitativo. Nenhum número estimado."
      }
     ],
-    "note": "Rodada das 9h de 12/09: Google Trends BR coletado normalmente (festival AUSENTE do ranking da manhã — esse é o insight); TikTok bloqueado por aprovação de rede na execução agendada. Nenhum número estimado."
+    "note": "Rodada das 20h de 12/09: SEM coleta quantitativa — Google Trends RSS e página de hashtag do TikTok bloqueados por aprovação de rede na execução agendada (o bloqueio persiste apesar da correção tentada em 11/09; escalar a configuração da tarefa se repetir domingo). A coluna Google mantém a leitura válida da manhã (9h20, selo PARTIAL); TikTok segue OFF. O bloco viral é leitura editorial da varredura de imprensa da noite, com fonte e link em todo item — destaque: a ação da Ipiranga virou manchete em tempo real."
    },
    "influencia": {
     "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
@@ -1863,6 +1862,30 @@ window.RADAR = {
     [
      "Google Trends Brasil — RSS Trending (coletado 12/09, ~9h20)",
      "https://trends.google.com/trending/rss?geo=BR"
+    ],
+    [
+     "Portal Democrata — Pedro Sampaio causa alvoroço com mar de leques no Rock in Rio 2026 (12/09, 20h56)",
+     "https://portaldemocrata.com.br/2026/09/12/pedro-sampaio-causa-alvoroco-com-mar-de-leques-no-rock-in-rio-2026/"
+    ],
+    [
+     "Semana Pop — Pedro Sampaio faz festa do pijama eletrizante no Rock in Rio (12/09, 18h54)",
+     "https://www.semanapop.com.br/pedro-sampaio-faz-festa-do-pijama-eletrizante-no-rock-in-rio/"
+    ],
+    [
+     "Sopa Cultural — Pedro Sampaio leva funk, hits e convidados à estreia no Palco Mundo (12/09)",
+     "https://sopacultural.com/pedro-sampaio-leva-funk-hits-e-convidados-a-estreia-no-palco-mundo-do-rock-in-rio/"
+    ],
+    [
+     "COR — 6º dia do Rock in Rio em tempo real (12/09)",
+     "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
+    ],
+    [
+     "Billboard Brasil — Fotos do sexto dia de festival (12/09, atualizada 18h31)",
+     "https://billboard.com.br/rock-in-rio-2026-fotos-do-sexto-dia-de-festival/"
+    ],
+    [
+     "Promoview — Exclusivo: quanto custa ativar uma marca no Rock in Rio (08/09, atualizado 12/09)",
+     "https://www.promoview.com.br/exclusivo-promoview-quanto-custa-ativar-uma-marca-no-rock-in-rio/"
     ]
    ]
   },
