@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 37,
-  "updatedAt": "11/09/2026, 20h15 (BRT)",
-  "updatedISO": "2026-09-11",
+  "version": 38,
+  "updatedAt": "12/09/2026, 09h30 (BRT)",
+  "updatedISO": "2026-09-12",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,1086 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "12/09/2026",
+   "dateISO": "2026-09-12",
+   "weekday": "sábado",
+   "edition": 20,
+   "phase": "festival — semana 2, dia 2 (sábado esgotado · Maroon 5) · D-DAY do 'mar de leques' Ipiranga (16h40)",
+   "pulse": [
+    "☀️ <b>EDIÇÃO DA MANHÃ (9h) — D-DAY do 'mar de leques', com um fator novo na equação: chuva na janela da ação.</b> Hoje, no sábado esgotado do Maroon 5, a Ipiranga executa às 16h40 a sua maior ação da edição — 30 mil leques amarelos no gramado do Palco Mundo durante o show de Pedro Sampaio, que declarou à Rolling Stone (11/09) estar investindo 'na casa dos milhões' na apresentação ('não tenho problema em investir mais do que ganho'). O clima muda o roteiro: previsão de pancadas na madrugada/manhã e chuva fraca a moderada A PARTIR DA TARDE (18–29°C — ABIH-RJ/alerta de 11/09), exatamente a janela da ação. O gesto foi desenhado para o calor (leque = refresco); até meio-dia a operação precisa de um plano B de narrativa, distribuição seca e captura protegida.",
+    "🎤 <b>A véspera entregou o ensaio perfeito do gesto: K-pop day histórico, e o 'oceano de lightsticks' aconteceu exatamente como projetado — no mesmo gramado que hoje recebe os leques.</b> Stray Kids fez 'show de gente grande' de 1h45 (Estadão/Terra) com plateia lotada de lightsticks acesos do início ao fim, trecho de Michel Teló em coreano que viralizou até na Coreia e Felix dançando passinho viral; Alok pôs 1.500 drones 'falantes' no céu com balé futurista e colab inédita com o Twice; HWASA fez história como 1ª solista coreana do Palco Mundo ('reencontro emotivo', Billboard); Jamiroquai 'hipnotizou' o Sunset (Rolling Stone). O senão foi operacional: gente passando mal por calor/aglomeração na frente do palco, com telões pedindo recuo (Notícias Favoritas) — aviso direto para o dia esgotado de hoje.",
+    "📈 <b>Trends da manhã: o festival NÃO emplacou no Google Trends BR — e o sábado disputa atenção com F1, final de US Open e casamento de celebridade.</b> O RSS das ~9h é dominado por 'f1 horarios' (2 mil+ buscas, GP em Madri), 'us open 2026' (1 mil+, final Zverev x Shelton) e o casamento de Ana Hickmann; nenhum termo do festival, dos artistas ou da Cidade do Rock no ranking, mesmo após a noite histórica do K-pop — a conversa ficou nos nichos/fandoms. Leitura tática: a chance de entrar no ranking é o pico da noite (TV aberta + Maroon 5); o conteúdo da ação das 16h40 precisa sair em tempo real, não no dia seguinte. TikTok: sem medição nesta rodada (bloqueio de aprovação de rede na execução agendada; última leitura válida segue 5,7 mi em 06/09).",
+    "🟡 <b>Trade amanhece em silêncio no D-day — o case agora só nasce da imagem.</b> A varredura das 9h não encontrou linha nova sobre a ação em propmark, Meio & Mensagem ou Mundo do Marketing; o release seguiu circulando apenas no circuito pop (Glow Pop, Aurora Cultural, Expresso Carioca). Com a pauta 'recorde de marcas e negócios' ainda quente na imprensa econômica (matéria em cadeia de 11/09), o material que destrava o trade é objetivo: corte aéreo da TV com o gramado amarelo + número final de leques distribuídos + paralelo com o oceano de lightsticks da véspera — a captura de hoje é o insumo do case de domingo/segunda."
+   ],
+   "news": [
+    {
+     "t": "Vai chover no dia da ação: previsão de pancadas de madrugada/manhã e chuva fraca a moderada a partir da TARDE no sábado do Maroon 5 (18–29°C)",
+     "src": "ABIH-RJ (boletim)",
+     "when": "11/09, 14h04",
+     "s": "O boletim para o sábado 12/09 prevê pancadas na madrugada e manhã, seguidas de chuva fraca a moderada a partir da tarde — sem horário preciso para a Cidade do Rock. Para o festival, muda o kit do público (capa, proteção de celular, piso molhado); para a Ipiranga, atravessa exatamente a janela do 'mar de leques' (16h40). O precedente da semana 1 pesa: a infraestrutura não respondeu bem às chuvas persistentes do 1º fim de semana (balanço O Reporter, 08/09).",
+     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+    },
+    {
+     "t": "O alerta operacional da noite K-pop: público passou mal por calor e aglomeração na frente do palco, e telões pediram recuo durante os shows",
+     "src": "Notícias Favoritas",
+     "when": "11/09, 21h07",
+     "s": "Mesmo sem lotação máxima (havia ingresso à tarde), a concentração de fandoms na grade produziu mal-estares por calor e congestionou a via principal de circulação — agravada por famílias com cangas nos corredores. Avisos nos telões pediram que o público recuasse. É o dado de comportamento que hoje escala: o dia está ESGOTADO, com pico de calor antes da chuva da tarde — hidratação, sombra e refresco na chegada deixam de ser cortesia e viram operação de segurança.",
+     "u": "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+    },
+    {
+     "t": "Hoje: sábado esgotado com Maroon 5, Demi Lovato, J Balvin e Pedro Sampaio no Mundo; Sunset 100% Brasil até o Mumford & Sons",
+     "src": "POPLine (horários) · Diário do Rio (esgotado)",
+     "when": "12/09",
+     "s": "Grade do dia 6: Palco Mundo com Pedro Sampaio (16h40), J Balvin (19h), Demi Lovato (21h20) e Maroon 5 (00h05); Sunset com Criolo + Amaro Freitas + Dino D'Santiago (15h30), Gilsons + Daniela Mercury + Olodum (17h50), João Gomes + Orquestra Brasileira (20h10) e Mumford & Sons (22h45). Ingressos esgotados desde a pré-venda (dia vendido em ~2h, junto com o de Calvin Harris). Portões às 14h; transmissão Multishow/Bis/Globoplay com janelas na TV Globo.",
+     "u": "https://portalpopline.com.br/rock-in-rio-horarios-shows-sabado-12-9/"
+    },
+    {
+     "t": "Pedro Sampaio à Rolling Stone: 'não tenho problema em investir mais do que ganho' — show das 16h40 orçado 'na casa dos milhões'",
+     "src": "Rolling Stone Brasil",
+     "when": "11/09, 14h08",
+     "s": "Na véspera do show que recebe o 'mar de leques', o artista disse trabalhar ~10h/dia na preparação e revelou investimento milionário do próprio bolso para 'impressionar e mostrar qualidade', com adaptações possíveis até a hora de subir ao palco. Para a marca, o dado importa pela consequência prática: o palco das 16h40 terá produção acima do padrão do horário — mais câmeras, mais cortes de TV e mais motivo para o público filmar, ampliando o alcance potencial da imagem do gramado amarelo.",
+     "u": "https://rollingstone.com.br/musica/pedro-sampaio-quer-impressionar-e-mostrar-qualidade-em-show-no-rock-in-rio-2026-nao-tenho-problema-em-investir/"
+    },
+    {
+     "t": "Estreia do K-pop no festival é tratada pela imprensa como 'mudança de identidade' do Rock in Rio — cobertura em cadeia da noite histórica",
+     "src": "Terra (Meu Sonora) · NelSons (resumo do 5º dia)",
+     "when": "11–12/09",
+     "s": "A leitura editorial da noite foi unânime: a entrada do K-pop no Palco Mundo 'amplia a programação para dialogar com diferentes cenas' e trouxe um público novo (fandoms multigeracionais, lightsticks, looks temáticos). O resumo do 5º dia registra Stray Kids 'dominante', Jamiroquai 'atemporal', HWASA 'digna de diva pop' e Alok com resposta positiva ao medley de funk + colab com Twice. Infraestrutura 'adaptada para K-pop' é citada como acerto — contexto favorável para marcas que dialogam com o gesto coletivo.",
+     "u": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/rock-in-rio-2026-k-pop-invade-o-palco-mundo-em-noite-historica-com-stray-kids-hwasa-e-alok,5dd99f2aa21021ed54706ccb44347e0becmn7s56.html"
+    },
+    {
+     "t": "Operação da cidade no 5º dia: estágio 2 acionado ao meio-dia, ventos de até 60,4 km/h e BRT dedicado com três serviços especiais",
+     "src": "COR — Centro de Operações Rio",
+     "when": "11/09 (última atualização 18h05)",
+     "s": "O COR registrou vento moderado a forte (rajada de 60,4 km/h no Vidigal), céu encoberto e previsão de chuva se intensificando na madrugada — a mesma frente que chega hoje. Mobilidade rodou no desenho previsto: SE 08/09/10 do BRT Expresso (18 a 40 min), cerca eletrônica com OCR nos acessos e interdições na Abelardo Bueno. Sem número oficial de público divulgado para o 5º dia até o fechamento desta edição — o balanço da semana 1 da organização segue pendente (7ª varredura).",
+     "u": "https://cor.rio/11-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-quinto-dia-de-evento/"
+    },
+    {
+     "t": "A pauta de negócios segue quente: 'Rock in Rio bate recorde de marcas e atrai negócios' continuou rodando em cadeia nacional na sexta",
+     "src": "Diário do Grande ABC · GMC Online · Tribuna do Sertão (replicada)",
+     "when": "11/09",
+     "s": "A matéria de economia que circulou em cadeia na véspera (90+ marcas, 100+ ativações, 1 milhão de brindes previstos) mantém patrocínio como pauta viva na imprensa generalista durante o fim de semana final. É a moldura ideal para o case da Ipiranga: um balanço de patrocínio já está 'encomendado' pelo noticiário — falta a imagem que o protagonize.",
+     "u": "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
+    },
+    {
+     "t": "Onde assistir hoje: Multishow e Bis desde a tarde, Globoplay integral e janelas na TV Globo — a transmissão que captura o 'mar amarelo'",
+     "src": "Exame",
+     "when": "12/09",
+     "s": "A transmissão do sábado começa no meio da tarde nos canais pagos e no Globoplay, com trechos na TV aberta. Para a operação de hoje: o show de Pedro Sampaio (16h40) entra na janela de transmissão — o corte aéreo do gramado com os 30 mil leques é material de captura obrigatória em tempo real (gravar, cortar e repostar em menos de 1h), porque é a única imagem que prova a ação em escala.",
+     "u": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-deste-sabado-12-ao-vivo-e-de-graca/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "D-DAY: às 16h40, a maior ação da Ipiranga na edição — 30 mil leques amarelos no gramado esgotado do Palco Mundo, no show de Pedro Sampaio",
+     "src": "Glow Pop · Aurora Cultural · Expresso Carioca (release da ação)",
+     "when": "10–11/09 (ação: 12/09, 16h40)",
+     "s": "O desenho está publicado: leques distribuídos na chegada (sem cadastro) para formar o 'mar amarelo' durante o show, somados ao arsenal permanente — Espaço Ipiranga com corredor instagramável, fila climatizada e Glambot; pochetes customizáveis com 8 pins; Bar AmPm; recarga de celular KMV. Hoje tudo converge para uma única imagem: o gramado amarelo visto de cima. É o entregável que define se a ação vira case ou fica na promessa.",
+     "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
+    },
+    {
+     "t": "O risco do dia tem nome: chuva prevista para a tarde — o leque foi desenhado para o calor, e a janela da ação cai exatamente na virada do tempo",
+     "src": "ABIH-RJ (boletim de 11/09) · COR (frente avançando na madrugada)",
+     "when": "12/09",
+     "s": "Pancadas de madrugada/manhã e chuva fraca a moderada a partir da tarde (18–29°C). Três decisões precisam estar batidas até meio-dia: (1) logística — como o leque chega seco à mão do público (distribuição na chegada, 14h–16h30, antes da chuva forte, se o padrão do boletim se confirmar); (2) narrativa — o roteiro B do 'amarelo contra o céu cinza' (o gesto coletivo funciona esteticamente até na garoa; o que não funciona é improvisar a legenda na hora); (3) captura — ponto coberto para o registro próprio, sem depender só do corte da TV.",
+     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+    },
+    {
+     "t": "O festival 'ensaiou' o nosso gesto ontem: oceano de lightsticks no mesmo gramado, com aprovação unânime da crítica — o paralelo do case está pronto",
+     "src": "Terra/Estadão (Stray Kids) · Papelpop",
+     "when": "11→12/09",
+     "s": "A crítica registrou 'a multidão com lightsticks criando um oceano de luzes' como uma das imagens da noite histórica — lightsticks liberados pela 1ª vez, gesto sustentado do início ao fim do show. A narrativa para o trade escreve-se sozinha: sexta o público trouxe a luz de casa; sábado a Ipiranga entregou o gesto na mão de 30 mil pessoas. Guardar os links e frames da véspera para compor o material do case lado a lado.",
+     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
+    },
+    {
+     "t": "Trade segue zerado sobre a ação na manhã do D-day (7ª varredura) — mas a moldura de negócios está armada; o case de dom/seg depende só da imagem de hoje",
+     "src": "varredura de 12/09, ~9h (propmark · Meio & Mensagem · Mundo do Marketing)",
+     "when": "12/09, ~9h",
+     "s": "Nenhuma linha nova específica sobre o 'mar de leques' no trade; o release rodou apenas no circuito pop (Glow Pop, Aurora Cultural, Expresso Carioca, Juventude BM, DJ Sound). Com 'recorde de marcas' em cadeia na imprensa econômica e os balanços de patrocínio previstos para 14–15/09, a oferta ao trade deve sair domingo/segunda cedo com: imagem aérea do gramado amarelo, número final de leques distribuídos, dado do dia esgotado e o paralelo lightsticks→leques. Sem a imagem, não há pauta; com ela, a pauta é automática.",
+     "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+    },
+    {
+     "t": "O aprendizado da véspera vira mandato de serviço: mal-estar por calor/aglomeração ontem + dia esgotado hoje = refresco e hidratação na chegada são a cara da marca",
+     "src": "Notícias Favoritas (11/09) · O Reporter (balanço semana 1, 08/09)",
+     "when": "11–12/09",
+     "s": "Ontem o público passou mal na grade em dia SEM lotação máxima; hoje o festival está esgotado, com calor até a chegada da chuva. O balanço da semana 1 já apontava filas simultâneas (banheiro, comida, ativação) forçando escolhas. A marca que entrega refresco (leque), fila climatizada (Espaço Ipiranga) e recarga (KMV) no momento de estresse ganha a única associação que importa hoje: utilidade. Priorizar visibilidade desses serviços na chegada (14h–17h), quando o pico de calor encontra o pico de entrada.",
+     "u": "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+    },
+    {
+     "t": "Produção milionária no palco das 16h40: o investimento declarado de Pedro Sampaio multiplica o valor da imagem que carrega a assinatura da marca",
+     "src": "Rolling Stone Brasil",
+     "when": "11/09, 14h08",
+     "s": "O artista anunciou investimento 'na casa dos milhões' e disposição de ajustar o show até a última hora. Consequência direta para a ação: mais produção = mais cobertura de câmeras, mais cortes na transmissão e mais UGC do gramado — o cenário máximo para o 'mar de leques' aparecer. A marca não comenta o mérito artístico; o que importa é que a moldura audiovisual do gesto será a mais rica possível no horário.",
+     "u": "https://rollingstone.com.br/musica/pedro-sampaio-quer-impressionar-e-mostrar-qualidade-em-show-no-rock-in-rio-2026-nao-tenho-problema-em-investir/"
+    }
+   ],
+   "shows": {
+    "status": "DIA DE FESTIVAL — semana 2, dia 2 (sábado, 12/set — ESGOTADO · Maroon 5). Portões às 14h. Palco Mundo: Pedro Sampaio 16h40 (com a ação dos 30 mil leques da Ipiranga), J Balvin 19h, Demi Lovato 21h20, Maroon 5 00h05. Sunset: Criolo + Amaro Freitas + Dino D'Santiago 15h30, Gilsons + Daniela Mercury + Olodum 17h50, João Gomes + Orquestra Brasileira 20h10, Mumford & Sons 22h45. New Dance Order fecha com Alok 'Rave The World' (01h30) — 2ª apresentação dele na edição. CLIMA: pancadas de madrugada/manhã e chuva fraca a moderada a partir da tarde (18–29°C, ABIH-RJ) — piso molhado e capa no kit do público; frente confirmada pelo COR na noite de sexta. ALERTA herdado da véspera: mal-estares por calor/aglomeração na frente do palco em dia SEM lotação máxima — hoje esgotado, atenção redobrada à hidratação na chegada (pico 14h–17h). Transmissão: Multishow/Bis desde a tarde, Globoplay integral, janelas na TV Globo. Repercussão completa desta noite na edição das 9h de domingo; abaixo, a noite K-pop de sexta.",
+    "reperc": [
+     {
+      "date": "11/set (5ª noite — K-pop day · estreia do gênero no festival)",
+      "headline": "Stray Kids domina o Palco Mundo em estreia histórica do K-pop — 1h45, oceano de lightsticks e Michel Teló em coreano; Alok põe 1.500 drones 'falantes' no céu com colab inédita com o Twice, HWASA faz história como 1ª solista coreana e Jamiroquai hipnotiza o Sunset. O senão da noite foi operacional: mal-estar por calor e aglomeração na grade",
+      "artists": [
+       {
+        "name": "Stray Kids (Palco Mundo, 00h05)",
+        "verdict": "'Show de gente grande' (Estadão/Terra): 1h45 de produção de arena com banda ao vivo, abertura cinematográfica dos bastidores, fogos na metade e multidão de dançarinos em 'Walkin On Water' — diante de 'uma plateia completamente lotada' com lightsticks acesos do início ao fim ('não consigo ver o final dessa galera', disseram do palco). Os cortes brasileiros dominaram: Bang Chan soltando 'caraca' e um trecho de Michel Teló que viralizou até na Coreia, Felix dançando passinho viral (Papelpop). Setlist de 'God's Menu' a 'Chk Chk Boom'. 'Dominante' é o adjetivo do resumo do dia (NelSons); a crítica converge que a estreia do K-pop 'mostrou os caminhos do futuro da música'.",
+        "links": [
+         [
+          "Terra/Estadão (crítica)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
+         ],
+         [
+          "Papelpop",
+          "https://www.papelpop.com/2026/09/rock-in-rio-2026-stray-kids-fecha-noite-de-k-pop-com-muito-portugues-energia-de-sobra-e-dominando-o-palco-mundo/"
+         ],
+         [
+          "Portal Democrata",
+          "https://portaldemocrata.com.br/2026/09/12/stray-kids-conquista-fas-em-grande-show-no-rock-in-rio/"
+         ]
+        ]
+       },
+       {
+        "name": "Alok — 'Keep Art Human' (Palco Mundo, 21h20)",
+        "verdict": "'Espetáculo atraente' que 'comprovou a capacidade de produzir shows de grande escala' (Estadão/Terra, Danilo Casaletti): os 1.500 drones formaram uma cabeça futurista que FALOU com o público ('não espere, só esteja por aqui. Grite, dance, seja você'), balé vanguardista do grupo italiano Urban Theory, Zeeba ao piano e os filhos no palco em 'Monday'. A ponte com a noite: colab inédita 'Inhibition' com o Twice (+ Mesto) e medley de funk carioca, com resposta calorosa. A turnê é um manifesto sobre IA — 'onde ainda permanecemos humanos'.",
+        "links": [
+         [
+          "Terra/Estadão (crítica)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/com-drones-falantes-e-bale-futurista-alok-comanda-espetaculo-atraente-no-rock-in-rio,0c6ce9f0990fd3754224e63e2b75a129415pgbmc.html"
+         ],
+         [
+          "Sopa Cultural",
+          "https://sopacultural.com/alok-leva-1-500-drones-e-surpresa-de-k-pop-ao-rock-in-rio-2026/"
+         ],
+         [
+          "PopNow",
+          "https://popnow.com.br/alok-leva-keep-art-human-ao-rock-in-rio-e-transforma-noite-de-k-pop-em-uma-grande-festa-eletronica/"
+         ]
+        ]
+       },
+       {
+        "name": "HWASA (Palco Mundo, 19h)",
+        "verdict": "História feita: 1ª solista coreana do Palco Mundo, em 'reencontro emotivo e memorável' (Billboard Brasil) 8 anos após vir com o MAMAMOO. Show 'sexy e de vocal potente' com 'Maria', 'I Love My Body' e medley do grupo; desceu do palco em 'So Cute' para tocar as mãos e abraçar fãs ('Eu realmente amo o Brasil. É muito o meu estilo'). Foi durante o horário dela que o alerta operacional acendeu: aglomeração na grade, mal-estares pelo calor e telões pedindo recuo (Notícias Favoritas).",
+        "links": [
+         [
+          "Billboard Brasil",
+          "https://billboard.com.br/hwasa-show-rock-in-rio-2026-brasil/"
+         ],
+         [
+          "Notícias Favoritas",
+          "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+         ]
+        ]
+       },
+       {
+        "name": "Jamiroquai (Palco Sunset, 22h45)",
+        "verdict": "O crítico dividiu a régua, não o veredito: para a Rolling Stone, 'o groove atemporal hipnotizou' — Jay Kay incansável, 'Space Cowboy' como ponto alto, descida à grade em 'Alright' e catarse final com 'Virtual Insanity' 30 anos depois ('não veio provar nada — e nem precisava'). O contraponto veio do Rock on Board: 'bom show, mas sem riscos e sem nunca decolar'. Consenso: fez 'pais e filhos dançarem juntos' (NelSons) no retorno após 8 anos, com público que ia dos fãs de TikTok a quem cresceu nos anos 90.",
+        "links": [
+         [
+          "Rolling Stone Brasil",
+          "https://rollingstone.com.br/guia-show/o-groove-atemporal-do-jamiroquai-hipnotizou-o-rock-in-rio-2026/"
+         ],
+         [
+          "Rock on Board (contraponto)",
+          "https://www.rockonboard.com.br/2026/09/jamiroquai-faz-bom-show-no-palco-sunset.html"
+         ]
+        ]
+       },
+       {
+        "name": "O resto da noite + o retrovisor operacional",
+        "verdict": "NEXZ abriu o Mundo com energia na estreia brasileira; PJ Morton segurou o Sunset apesar da concorrência do público teen; Os Garotin impressionaram e Jota.Pê conectou sonoridades brasileiras (resumo NelSons). Do lado da operação: COR em estágio 2 desde o meio-dia, rajadas de 60,4 km/h no Vidigal e BRT dedicado rodando no desenho previsto (SE 08/09/10); sem número oficial de público para o 5º dia e sem balanço da semana 1 pela organização (7ª varredura). O contraste que fica para hoje: a noite artística foi impecável, o atrito esteve todo no chão — calor, grade e circulação.",
+        "links": [
+         [
+          "NelSons (resumo do 5º dia)",
+          "https://www.nelsons.com.br/news-5-dia-de-rock-in-rio-tem-estreia-do-kpop-com-stray-kids-dominante-e-jamiroquai-atemporal-veja-resumo"
+         ],
+         [
+          "COR (5º dia em tempo real)",
+          "https://cor.rio/11-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-quinto-dia-de-evento/"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "Os cortes 'brasileiros' do Stray Kids são o UGC dominante da manhã: Michel Teló em coreano (que viralizou até na Coreia), 'caraca' do Bang Chan e o passinho do Felix",
+      "src": "Estadão/Terra · Papelpop · Midiamax",
+      "metric": "viralização registrada pela imprensa (Estadão/Terra cita o cover 'que viralizou na Coreia do Sul'); sem medição própria de plataforma nesta rodada",
+      "s": "O padrão dos grandes momentos virais da edição se repete: não é o espetáculo, é o artista global fazendo gesto local. O trecho de 'Ai Se Eu Te Pego', o português do líder e a dança viral do Felix são os cortes que circulam — e alimentam fandom + público geral ao mesmo tempo. Para a marca, a lição vale para hoje: o conteúdo do 'mar de leques' que viaja é o que mostra o público fazendo o gesto, não o produto.",
+      "u": "https://www.papelpop.com/2026/09/rock-in-rio-2026-stray-kids-fecha-noite-de-k-pop-com-muito-portugues-energia-de-sobra-e-dominando-o-palco-mundo/"
+     },
+     {
+      "t": "As duas imagens aéreas programadas aconteceram: oceano de lightsticks no Stray Kids e a cabeça de 1.500 drones do Alok — o benchmark visual direto do 'mar de leques' de hoje",
+      "src": "Estadão/Terra (2 críticas) · Sopa Cultural",
+      "metric": "fatos registrados pela crítica; sem medição quantitativa de plataforma nesta rodada",
+      "s": "A noite entregou os dois espetáculos aéreos previstos, ambos no gramado que hoje recebe os leques. O 'oceano de luzes' sustentado por 1h45 prova que o público do festival executa gesto coletivo em massa quando recebe o objeto e o motivo. A régua está posta: a imagem da Ipiranga às 16h40 será inevitavelmente comparada às da sexta — vantagem de quem distribui 30 mil objetos; risco se a chuva dispersar o gramado antes.",
+      "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
+     },
+     {
+      "t": "A narrativa do 'mar amarelo' chegou pré-formatada ao público: release seguiu rodando no circuito pop na véspera — títulos já entregam a imagem antes de ela existir",
+      "src": "Glow Pop · Aurora Cultural · Expresso Carioca",
+      "metric": "5 veículos de pop/música publicaram entre 10 e 11/09; trade zerado até as 9h de 12/09",
+      "s": "'Mar amarelo', 'leque amarelo', '30 mil leques' viraram título em cadeia no circuito de entretenimento — quando a imagem real aparecer hoje à tarde, a audiência já sabe o nome do que está vendo. É o cenário ideal para viralização com atribuição de marca: a hashtag e a legenda já existem; falta o vídeo. O que toca a marca monitorar em tempo real: leque/pochete aparecendo em UGC de fila e gramado a partir das 14h.",
+      "u": "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "ok",
+      "statusLabel": "coletado ~9h20 (RSS)",
+      "items": [
+       {
+        "t": "'f1 horarios' — 2 mil+ buscas (maior volume do ranking): GP da Espanha em Madri domina a manhã do sábado",
+        "s": "Classificação do GP + dobradinha Mercedes no TL1 e Bortoleto exaltando o circuito puxam o pico esportivo do dia — a F1 ocupa exatamente a janela da tarde em que a ação da Ipiranga acontece.",
+        "u": "https://trends.google.com/trending/rss?geo=BR"
+       },
+       {
+        "t": "'us open 2026' — 1 mil+ buscas: final Zverev x Shelton concentra a atenção esportiva da noite",
+        "s": "A final do US Open à noite disputa segunda tela com o pico do festival (Demi Lovato/Maroon 5) — mais um competidor pela conversa nacional no horário nobre.",
+        "u": "https://trends.google.com/trending/rss?geo=BR"
+       },
+       {
+        "t": "Celebridades no topo do ranking geral: casamento de Ana Hickmann (200+) e Bruna Biancardi (200+)",
+        "s": "O noticiário de celebridades ocupa o espaço 'social' da conversa do sábado — o festival precisa de imagem-evento (não de line-up) para furar esse bloqueio.",
+        "u": "https://trends.google.com/trending/rss?geo=BR"
+       },
+       {
+        "t": "AUSÊNCIA (o insight da rodada): nenhum termo do festival, de artista da grade ou 'Cidade do Rock' no ranking da manhã seguinte à noite histórica do K-pop",
+        "s": "Mesmo com Stray Kids, drones e estreia histórica, a conversa ficou nos nichos — não converteu em busca de massa na manhã. A janela realista de entrada no ranking é o pico da noite (TV aberta + Maroon 5 + final de dia esgotado), como ocorreu em edições anteriores.",
+        "u": "https://trends.google.com/trending/rss?geo=BR"
+       }
+      ],
+      "note": "RSS coletado normalmente às ~9h20 de 12/09. Ranking dominado por esporte (F1 2 mil+, US Open 1 mil+) e celebridades; zero termos do festival. A checagem noturna (quando a chance de entrada é maior) fica para a rotina das 20h."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "off",
+      "statusLabel": "sem medição na rodada das 9h",
+      "items": [],
+      "note": "A página tiktok.com/tag/rockinrio não pôde ser coletada nesta rodada: a chamada exigiu aprovação de rede que a execução agendada não pôde conceder (2 tentativas, ~9h20 de 12/09). Última leitura válida segue 5,7 mi de views (06/09). A curva do K-pop day → sábado esgotado segue sem registro quantitativo; retomar a comparação quando a coleta voltar. Nenhum número estimado."
+     }
+    ],
+    "note": "Rodada das 9h de 12/09: Google Trends BR coletado normalmente (festival AUSENTE do ranking da manhã — esse é o insight); TikTok bloqueado por aprovação de rede na execução agendada. Nenhum número estimado."
+   },
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 41,
+      "citouIpiranga": false,
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "parado",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
+     }
+    ],
+    "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+      "likes": 505,
+      "coments": 13,
+      "shares": 38,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+      "likes": 1783,
+      "coments": 78,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+      "likes": 1840,
+      "coments": 15,
+      "shares": 77,
+      "marcas": [
+       "@calvinharrisbrasil"
+      ],
+      "collab": "@calvinharrisbrasil",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+      "likes": 1641,
+      "coments": 11,
+      "shares": 43,
+      "marcas": [],
+      "collab": "@matheuscarvalh.o",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+      "likes": 2644,
+      "coments": 45,
+      "shares": 142,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+      "likes": 2629,
+      "coments": 63,
+      "shares": 31,
+      "marcas": [
+       "@itau",
+       "@pabllovittar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+      "likes": 2954,
+      "coments": 40,
+      "shares": 73,
+      "marcas": [
+       "@ifoodbrasil"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+      "likes": 31000,
+      "coments": 473,
+      "shares": 3000,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Esse é o significado?' — momento de show do dia 3",
+      "likes": 21400,
+      "coments": 390,
+      "shares": 1700,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 61300,
+      "coments": 3500,
+      "shares": 3500,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
+     }
+    ],
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   },
+   "direcionais": {
+    "leitura": "Hoje é o dia em que a Ipiranga deixa de patrocinar o festival e passa a assinar uma imagem: às 16h40, 30 mil leques amarelos num gramado esgotado, num show em que o próprio artista declarou investimento milionário. Tudo conspira a favor — o festival 'ensaiou' o gesto coletivo ontem com o oceano de lightsticks no mesmo gramado, o release já ensinou o público a chamar aquilo de 'mar amarelo', e a produção das 16h40 terá cobertura de câmeras acima do padrão do horário. Dois ventos contrários: a chuva prevista exatamente para a tarde (o leque é objeto de calor; o plano B de narrativa e logística precisa estar batido até meio-dia) e uma conversa nacional dispersa (F1 em Madri, final de US Open, casamento de celebridade — o festival nem entrou no Google Trends da manhã depois da noite histórica). A consequência tática é uma só: a imagem precisa nascer forte e circular em tempo real, porque nem o trade (zerado na 7ª varredura) nem o ranking de buscas vão dar o empurrão de graça. E o alerta operacional da véspera — gente passando mal por calor e aglomeração em dia SEM lotação — transforma o kit de serviço da marca (leque, fila climatizada, recarga, hidratação) em protagonista do dia mais cheio da semana 2.",
+    "dirs": [
+     {
+      "t": "Bater o plano B de chuva até meio-dia: logística seca, narrativa do 'amarelo contra o cinza' e captura protegida — a ação não pode ser decidida às 16h",
+      "s": "Boletim prevê chuva fraca a moderada a partir da tarde. Três decisões até 12h: distribuição concentrada na chegada (14h–16h30) para o leque estar na mão antes da virada; roteiro de legenda para os dois cenários (sol = refresco; chuva = 30 mil pontos amarelos acesos contra o cinza — o gesto coletivo funciona esteticamente até na garoa, improviso de última hora não); e ponto de captura coberto com registro próprio, sem depender só do corte da TV.",
+      "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+     },
+     {
+      "t": "Tratar a imagem aérea das 16h40 como O entregável da edição: gravar o corte da transmissão, cortar em menos de 1h e publicar antes do J Balvin (19h)",
+      "s": "A conversa nacional está dispersa (F1, US Open, celebridades) e o festival não emplacou no Trends nem após a noite histórica — ou seja: ninguém vai procurar a imagem; ela precisa ser distribuída. Janela tática: 16h40–19h, entre o fim do show e o próximo pico, marcando o artista. O paralelo com o oceano de lightsticks da véspera (mesmo gramado, 24h antes) já está escrito pela imprensa — usar.",
+      "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
+     },
+     {
+      "t": "Converter o alerta da véspera em operação de serviço visível: hidratação + refresco + recarga na chegada do dia ESGOTADO, com gente monitorando os pontos de atrito",
+      "s": "Ontem houve mal-estar por calor/aglomeração em dia com ingresso sobrando; hoje não sobra. O pico de calor (29°C) encontra o pico de entrada entre 14h e 17h — antes da chuva. Leque entregue junto com água na chegada, fila climatizada do Espaço Ipiranga comunicada como refúgio, recarga KMV sinalizada. Um responsável mapeando onde a fila enrosca — o dado alimenta o case operacional e evita que a marca distribua 30 mil objetos num gargalo.",
+      "u": "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+     },
+     {
+      "t": "Fechar o pacote do case de trade HOJE (não segunda): número final + imagem aérea + paralelo lightsticks→leques + dado do dia esgotado, pronto para disparo domingo cedo",
+      "s": "7ª varredura com trade zerado sobre a ação prova que release de antecipação não fura essa bolha — só resultado fura. Os balanços de patrocínio da imprensa saem 14–15/09; quem chega domingo cedo com case fechado vira fonte, quem chega segunda à tarde vira nota. O material se monta hoje à noite com o que o dia produzir: a oferta é 'a maior ação de brinde coreografado da edição, executada no único sábado esgotado'.",
+      "u": "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+     },
+     {
+      "t": "Colocar o leque na mão dos embaixadores hoje: 46 posts na semana 1, zero menção à Ipiranga — o dia mais fotografável da marca é a última boa chance orgânica",
+      "s": "O planejamento acompanha 5 creators e nenhum citou a marca até agora (leitura da rotina de Embaixadores de 11/09). Hoje existe, pela primeira vez, um objeto icônico + um momento coletivo com hora marcada — o cenário em que marcar presença deixa de ser publi e vira registro de evento. Acionar quem estiver na Cidade do Rock com o kit (leque + pochete) antes das 16h; a rotina das 10h de amanhã mede o resultado.",
+      "u": ""
+     }
+    ],
+    "acion": [
+     "Até 12h: reunião-relâmpago do plano B de chuva — decidir distribuição (concentrar na chegada 14h–16h30), legenda dos dois cenários ('refresco no calor' / 'amarelo contra o cinza') e ponto de captura coberto; designar dono único da decisão.",
+     "Escalar clipping em tempo real às 16h40: gravar a transmissão (Multishow/Globoplay), cortar a imagem aérea do gramado amarelo em <1h e publicar nos canais da marca até 19h marcando @pedrosampaio — antes do pico seguinte (J Balvin/Demi).",
+     "Reforçar a chegada (14h–17h): leque + água juntos nos pontos de entrada, fila climatizada do Espaço Ipiranga sinalizada como refúgio do calor, recarga KMV visível; 1 pessoa dedicada a mapear gargalos de fila (input do case operacional e resposta ao mal-estar da véspera).",
+     "Montar hoje à noite o kit de trade: imagem aérea + número final de leques distribuídos + 'sábado esgotado' + paralelo com o oceano de lightsticks de sexta (mesmo gramado, 24h antes); disparo para propmark/M&M/Mundo do Marketing domingo de manhã, mirando os balanços de 14–15/09.",
+     "Enviar o kit leque+pochete aos embaixadores presentes na Cidade do Rock antes das 16h e combinar registro no momento do 'mar amarelo'; conferir o resultado na rotina de Embaixadores das 10h de domingo (46 posts na semana 1, zero menção à marca até aqui)."
+    ]
+   },
+   "sources": [
+    [
+     "Terra/Estadão — Stray Kids faz show de gente grande no Rock in Rio (12/09, 2h49)",
+     "https://www.terra.com.br/diversao/musica/rock-in-rio/stray-kids-faz-show-de-gente-grande-no-rock-in-rio-e-mostra-os-caminhos-do-futuro-da-musica,b41e75131ded4324f2f4702b3adb1dfdgix10yc5.html"
+    ],
+    [
+     "Papelpop — Stray Kids fecha noite de K-pop com muito português e dominando o Palco Mundo (12/09)",
+     "https://www.papelpop.com/2026/09/rock-in-rio-2026-stray-kids-fecha-noite-de-k-pop-com-muito-portugues-energia-de-sobra-e-dominando-o-palco-mundo/"
+    ],
+    [
+     "Portal Democrata — Stray Kids conquista fãs em grande show (12/09)",
+     "https://portaldemocrata.com.br/2026/09/12/stray-kids-conquista-fas-em-grande-show-no-rock-in-rio/"
+    ],
+    [
+     "Web Rádio NelSons — 5º dia tem estreia do k-pop com Stray Kids dominante e Jamiroquai atemporal (12/09)",
+     "https://www.nelsons.com.br/news-5-dia-de-rock-in-rio-tem-estreia-do-kpop-com-stray-kids-dominante-e-jamiroquai-atemporal-veja-resumo"
+    ],
+    [
+     "Terra/Estadão — Com drones falantes e balé futurista, Alok comanda espetáculo atraente (11/09, 23h56)",
+     "https://www.terra.com.br/diversao/musica/rock-in-rio/com-drones-falantes-e-bale-futurista-alok-comanda-espetaculo-atraente-no-rock-in-rio,0c6ce9f0990fd3754224e63e2b75a129415pgbmc.html"
+    ],
+    [
+     "Sopa Cultural — Alok leva 1.500 drones e surpresa de k-pop (11/09)",
+     "https://sopacultural.com/alok-leva-1-500-drones-e-surpresa-de-k-pop-ao-rock-in-rio-2026/"
+    ],
+    [
+     "PopNow — Alok leva 'Keep Art Human' e transforma noite de K-pop em festa eletrônica (12/09)",
+     "https://popnow.com.br/alok-leva-keep-art-human-ao-rock-in-rio-e-transforma-noite-de-k-pop-em-uma-grande-festa-eletronica/"
+    ],
+    [
+     "Billboard Brasil — Hwasa leva show sexy e muito carinho aos fãs (11/09, 20h25)",
+     "https://billboard.com.br/hwasa-show-rock-in-rio-2026-brasil/"
+    ],
+    [
+     "Notícias Favoritas/Folha — K-pop de Hwasa agita o Rock in Rio com alerta de calor (11/09, 21h07)",
+     "https://www.noticiasfavoritas.com.br/blog/k-pop-de-hwasa-agita-o-rock-in-rio-com-alerta-de-calor-11-09-2026-ilustrada"
+    ],
+    [
+     "Rolling Stone Brasil — O groove atemporal do Jamiroquai hipnotizou o Rock in Rio (12/09)",
+     "https://rollingstone.com.br/guia-show/o-groove-atemporal-do-jamiroquai-hipnotizou-o-rock-in-rio-2026/"
+    ],
+    [
+     "Rock on Board — Jamiroquai faz bom show, mas sem riscos e sem nunca decolar (12/09)",
+     "https://www.rockonboard.com.br/2026/09/jamiroquai-faz-bom-show-no-palco-sunset.html"
+    ],
+    [
+     "Terra (Meu Sonora) — K-pop invade o Palco Mundo em noite histórica (11/09, 7h20)",
+     "https://www.terra.com.br/diversao/musica/meu-sonora/rock/rock-in-rio-2026-k-pop-invade-o-palco-mundo-em-noite-historica-com-stray-kids-hwasa-e-alok,5dd99f2aa21021ed54706ccb44347e0becmn7s56.html"
+    ],
+    [
+     "Midiamax — Atração do Rock in Rio, cantor coreano é fã de Michel Teló",
+     "https://midiamax.com.br/midiamais/famosos/2026/video-atracao-rock-in-rio-cantor-coreano-fa-michel-telo-ja-cantou-ai-eu-te-pego/"
+    ],
+    [
+     "ABIH-RJ — Vai chover no Rock in Rio no sábado (12/09)? (11/09, 14h04)",
+     "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-sabado-12-setembro-2026"
+    ],
+    [
+     "COR — 5º dia do Rock in Rio em tempo real (11/09, atualizado 18h05)",
+     "https://cor.rio/11-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-quinto-dia-de-evento/"
+    ],
+    [
+     "Rolling Stone Brasil — Pedro Sampaio quer 'impressionar': 'Não tenho problema em investir' (11/09, 14h08)",
+     "https://rollingstone.com.br/musica/pedro-sampaio-quer-impressionar-e-mostrar-qualidade-em-show-no-rock-in-rio-2026-nao-tenho-problema-em-investir/"
+    ],
+    [
+     "Glow Pop — Pedro Sampaio terá 'mar amarelo' de 30 mil leques em ação da Ipiranga",
+     "https://glowpopbr.com/rock-in-rio-2026-pedro-sampaio-leques-acao-ipiranga/"
+    ],
+    [
+     "Aurora Cultural — De pochetes customizáveis a leques: os brindes da Ipiranga",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/de-pochetes-customizaveis-a-leques-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ],
+    [
+     "Expresso Carioca — De pochete customizável ao leque amarelo: os brindes da Ipiranga",
+     "https://www.expressocarioca.com.br/de-pochete-customizavel-ao-leque-amarelo-conheca-os-brindes-da-ipiranga-no-rock-in-rio-2026/"
+    ],
+    [
+     "propmark — Quais são os brindes distribuídos pelos patrocinadores (28/08)",
+     "https://propmark.com.br/anunciantes/rock-in-rio-quais-sao-os-brindes-distribuidos-pelos-patrocinadores/"
+    ],
+    [
+     "Meio & Mensagem — Veja as ativações das marcas no festival (01/09)",
+     "https://www.meioemensagem.com.br/marketing/rock-in-rio-2026-ativacoes-marcas"
+    ],
+    [
+     "Diário do Grande ABC — Rock in Rio bate recorde de marcas e atrai negócios (11/09)",
+     "https://www.dgabc.com.br/Noticia/4346426/rock-in-rio-bate-recorde-de-marcas-e-atrai-negocios"
+    ],
+    [
+     "O Reporter — Balanço da primeira semana: o que funcionou e onde tropeçou (08/09)",
+     "https://oreporter.com/rock-in-rio/rock-in-rio-2026-balanco-primeira-semana"
+    ],
+    [
+     "POPLine — Horários dos shows de 12 de setembro",
+     "https://portalpopline.com.br/rock-in-rio-horarios-shows-sabado-12-9/"
+    ],
+    [
+     "Exame — Onde assistir aos shows deste sábado, 12, ao vivo e de graça (12/09)",
+     "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-deste-sabado-12-ao-vivo-e-de-graca/"
+    ],
+    [
+     "Diário do Rio — Rock in Rio esgota ingressos para dia de Maroon 5",
+     "https://diariodorio.com/rock-in-rio-2026-esgota-ingressos-para-dia-de-maroon-5-duas-datas-ja-estao-lotadas"
+    ],
+    [
+     "Google Trends Brasil — RSS Trending (coletado 12/09, ~9h20)",
+     "https://trends.google.com/trending/rss?geo=BR"
+    ]
+   ]
+  },
   {
    "date": "11/09/2026",
    "dateISO": "2026-09-11",
