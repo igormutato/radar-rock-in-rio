@@ -1,7 +1,7 @@
 window.RADAR = {
  "meta": {
-  "version": 40,
-  "updatedAt": "13/09/2026, 09h46 (BRT)",
+  "version": 41,
+  "updatedAt": "13/09/2026, 20h15 (BRT)",
   "updatedISO": "2026-09-13",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
@@ -793,17 +793,52 @@ window.RADAR = {
    "edition": 21,
    "phase": "festival — semana 2, dia 3 (domingo de encerramento · Twenty One Pilots) · ÚLTIMO DIA da edição 2026",
    "pulse": [
-    "🎤 <b>A noite do sábado esgotado entregou o que prometia — e o momento da noite não foi do headliner.</b> Maroon 5 fechou o Palco Mundo com 1h45 de 'coleção de sucessos' que virou coro coletivo, mas a crítica saiu dividida: 'arroz com feijão, simples mas eficaz' (Portal Democrata, 8h48), com trechos de plateia dispersa e nada do álbum de 2025. Quem levou a noite foi Demi Lovato: o dueto com Pabllo Vittar em 'Cool for the Summer' 'levou a Cidade do Rock ao delírio' (Papelpop) e é o corte mais compartilhado da madrugada (vídeo em Metrópoles). Mumford & Sons fez estreia emocional no Sunset — Marcus Mumford desceu à plateia com a bandeira do Brasil e pediu desculpas pelos 10 anos de espera — e Alok fechou a madrugada em família (pai, mãe e o gêmeo Bhaskar) no New Dance Order. A tarde segue imbatível como imagem do dia: o cavalinho gigante e o mar de leques de Pedro Sampaio.",
-    "🟡 <b>A ação da Ipiranga atravessou a noite com saldo raro: foto própria já circulando na imprensa — mas o maior portal que citou os leques não citou a marca.</b> A Aurora Cultural (20h47) publicou a cobertura da coreografia com '30 mil leques' usando fotos cedidas pela marca (crédito Carsten Horst/Ipiranga) e aspas institucionais; o Terra registrou o show com 'cerca de 30 mil leques amarelos' SEM nomear a Ipiranga — a atribuição no mainstream está incompleta e a divergência de número persiste (Portal Democrata falou em 25 mil ontem; release e Aurora, 30 mil). No trade, 9ª varredura zerada — e um relógio novo: a Promoview anuncia HOJE, no encerramento, seu reconhecimento editorial das melhores ativações do festival (20 categorias), com a cobertura dominada por Coca-Cola, Itaú e C&A até aqui. A janela para colocar o case do 'mar de leques' na mesa do trade fecha hoje.",
-    "🌧️ <b>Último dia da edição: chuva fraca a moderada o dia inteiro muda o papel da marca — de refresco para abrigo.</b> Previsão de céu encoberto, 16–24°C e chuva ao longo de todo o domingo (ABIH-RJ/Alerta Rio): o leque perde função e o Espaço Ipiranga (3 andares, bar AmPm, carregadores) vira refúgio — o serviço do dia é abrigo, recarga e escoamento. Na grade: Ivete Sangalo abre o Mundo às 17h, Halsey às 21h35 e Twenty One Pilots encerra a edição à 00h05; no Sunset, Joelma, Marina Sena + Céu e Zara Larsson. Trends: o TikTok voltou a ser medido após uma semana de bloqueio — e a leitura é um alerta: a tag #rockinrio segue nos MESMOS 5,7 mi de views da linha de base de 03/09, dois fins de semana de festival depois; o Google Trends BR segue incoletável (a rede devolve o feed dos EUA). Amanhã começa a semana de balanços — a edição final do radar sai ~15/09."
+    "🌙 <b>Edição da noite — o festival se despede com o balanço oficial já na mesa e o encerramento rodando sob chuva.</b> A organização anunciou no meio da tarde os números da edição: mais de 700 mil pessoas nos 7 dias, R$ 3,36 bi de impacto econômico, 33,9 mil empregos e público de 89 países (49% de fora do Rio) — e confirmou o Rock in Rio 2028, com a novidade de uma corrida de rua chegando à Cidade do Rock no evento-teste (Agenda do Poder). Na pista, o dia é o que a previsão desenhou: chuva fraca a moderada sem trégua e rajadas de até 51,9 km/h (COR, 17h20). Ivete Sangalo abriu o Mundo sob temporal com o inédito 'A La Sangalo' — 'tratou o temporal com bom humor' (Sopa Cultural) — e Joelma emocionou o Sunset com Vivi Batidão e homenagem ao Pará. Faltam Halsey (21h35), Zara Larsson (22h55) e a estreia do Twenty One Pilots fechando a edição à 00h05.",
+    "🟡 <b>A janela do trade fechou sem a Ipiranga: a Promoview publicou o reconhecimento das melhores ativações — 11 marcas premiadas, e o 'mar de leques' ficou de fora.</b> KitKat (Melhor Design), C&A (Melhor Jornada), Lagunitas, Seara, Piracanjuba, AXIA, Trident, Coca-Cola, Schweppes, Tic Tac e LATAM levaram os selos editoriais da redação (em parceria com a Lukka), publicados por volta do meio-dia — antes que o mini-case da manhã pudesse converter. A 10ª e última varredura de trade em tempo real termina zerada. O contrapeso veio do balanço oficial: 266 mil pessoas passaram por experiências de marcas na edição — o denominador público que o case do Espaço Ipiranga precisava. A disputa agora é o ciclo de balanços de 14–15/09, com o kit de atribuição (foto own creditada + número oficial + 'ação da Ipiranga' na primeira linha) na rua segunda cedo.",
+    "📡 <b>Trends: a rodada da noite ficou sem medição de plataforma — as duas fontes canônicas ficaram inacessíveis na execução agendada.</b> Os fetches do Google Trends BR e da página da #rockinrio no TikTok foram barrados pela camada de permissão de rede da tarefa (pedido de aprovação expirou sem operador presente): a curva do dia prometida de manhã (5,7 mi às ~9h → ?) não pôde ser fechada, e o Google Trends BR chega ao 4º dia sem leitura válida. O bloco viral desta rodada é leitura editorial da imprensa da noite: balanço de 700 mil/R$ 3,36 bi dominando a pauta, a Cidade do Rock de capa de chuva como imagem do encerramento e a lista da Promoview circulando no trade. Amanhã a rotina das 9h faz a repercussão completa da última noite; a edição final (balanço geral para a Ipiranga) sai ~15/09."
    ],
    "news": [
     {
-     "t": "Crítica do headliner: Maroon 5 entrega 'performance sólida' de 1h45 no sábado esgotado — 'arroz com feijão, simples mas eficaz', com Adam Levine na grade e plateia dividida entre coro e conversa",
+     "t": "Balanço oficial anunciado ainda no último dia: mais de 700 mil pessoas, R$ 3,36 bilhões de impacto e 2028 confirmado — com corrida de rua chegando à Cidade do Rock no evento-teste",
+     "src": "Agenda do Poder · Portal Democrata (e reprodução em cadeia por rádios e portais)",
+     "when": "13/09, tarde",
+     "s": "Roberta Medina divulgou os números da edição com o festival ainda em curso: 700 mil+ nos 7 dias, R$ 3,36 bi movimentados, 33,9 mil empregos diretos e indiretos, público de 89 países e 49% de fora do Rio. Para o mercado, os dados que importam: 266 mil pessoas participaram de experiências em espaços de marcas e 165 mil passaram pela Gourmet Square. O festival segue em setembro em 2028, com datas a anunciar — e a organização antecipou o ciclo de balanço para dentro do próprio encerramento.",
+     "u": "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+    },
+    {
+     "t": "Promoview divulga as 11 melhores ativações da edição: KitKat (Melhor Design), C&A (Melhor Jornada), Coca-Cola (Melhor Programação) — sem a Ipiranga na lista",
+     "src": "Promoview",
+     "when": "13/09, ~12h20",
+     "s": "O reconhecimento editorial anunciado na sexta saiu no dia do encerramento: KitKat, C&A, Lagunitas (Experiência Mais Criativa), Seara (Melhor Gastronômica), Piracanjuba (Mais Interativa), AXIA (Mais Sustentável), Trident (Mais Autêntica), Coca-Cola, Schweppes (Melhor UGC), Tic Tac (Melhor Photo Opportunity) e LATAM (Melhor Gamificação), por escolha da redação em parceria com a Lukka, a partir da cobertura em campo. O 'mar de leques' e o Espaço Ipiranga não aparecem em nenhuma categoria.",
+     "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    },
+    {
+     "t": "Ivete Sangalo abre o encerramento sob temporal com o inédito 'A La Sangalo': axé, salsa, cúmbia e lambada na 20ª apresentação dela na história do festival",
+     "src": "Sopa Cultural",
+     "when": "13/09, 19h55",
+     "s": "Sob a chuva que caiu sobre a Cidade do Rock, Ivete comandou coreografia do público logo na abertura do Palco Mundo, cantou 'Corazón Partío' (Alejandro Sanz) e desceu ao público em 'Alô, Paixão', num cenário de folhagens e flores vermelhas com projeções de animais. A crítica registra que ela 'tratou o temporal com bom humor' e incorporou a chuva ao diálogo com a plateia de capas.",
+     "u": "https://sopacultural.com/ivete-sangalo-rock-in-rio-2026-a-la-sangalo/"
+    },
+    {
+     "t": "Joelma leva o Pará ao Sunset sob forte chuva: 'Príncipe Encantado' adaptada em homenagem a Jesus e duetos com Viviane Batidão",
      "src": "Portal Democrata",
-     "when": "13/09, 8h48",
-     "s": "O show fechou o Palco Mundo com 'This Love', 'Sugar', 'Animals' e 'Maps', bis duplo e descida de Adam Levine para interagir com o público. A crítica reconhece a 'performance contagiante', mas registra 'certa apatia' em trechos — familiaridade excessiva com um repertório sem novidades (nada do álbum de 2025, como notou a Agenda do Poder). O Diário Carioca resume o efeito: a Cidade do Rock virou um 'enorme coro' de hits que atravessam gerações.",
-     "u": "https://portaldemocrata.com.br/2026/09/13/maroon-5-entrega-performance-solida-e-inedita-no-rock-in-rio-2026-mediados-por-grandes-hits/"
+     "when": "13/09, início da noite",
+     "s": "Abriu com 'Dançando Calypso' em figurino verde, amarelo e azul com penas, emendou 'Anjo', 'A Lua Me Traiu' e 'Passe de Mágica', trocou versos de 'Príncipe Encantado' por referências espirituais e apresentou o número gospel 'Um novo ser'. Com Vivi Batidão: 'Balanço do Norte' e 'Vem Meu Amor'. Fechou emocionada, dedicando o show ao estado do Pará — sob temporal, com o público respondendo.",
+     "u": "https://portaldemocrata.com.br/2026/09/13/joelma-adapta-principe-encantado-em-homenagem-a-jesus-e-faz-duetos-eletrizantes-com-vivi-batidao-no-rock-in-rio/"
+    },
+    {
+     "t": "Operação do último dia sob chuva e vento: rajadas de até 51,9 km/h, bloqueios desde 14h32 e esquema de trens e BRT madrugada adentro — sem incidentes reportados até as 17h20",
+     "src": "COR — Centro de Operações Rio",
+     "when": "13/09, 17h20 (última atualização)",
+     "s": "O COR registra céu encoberto com chuva fraca a moderada ao longo de todo o dia, ventos ocasionalmente moderados (18,5 a 51,9 km/h) e cidade em estágio 2 desde sexta, com 800 câmeras, 3 drones e ~250 operadores/dia. Trens com embarque só em Central, Madureira e Deodoro (desde as 17h); 'Expresso Rock in Rio' do BRT rodando das 11h às 5h. A dispersão da madrugada sob chuva é o ponto de atenção do encerramento.",
+     "u": "https://cor.rio/13-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-ultimo-dia-de-evento/"
+    },
+    {
+     "t": "O que falta para fechar a edição: Halsey (21h35), Zara Larsson (22h55) e a estreia do Twenty One Pilots à 00h05",
+     "src": "TMDQA! · Pipoca Moderna",
+     "when": "13/09",
+     "s": "Na reta final: Marina Sena + Céu (20h20) e Zara Larsson no Sunset; Halsey e Twenty One Pilots no Mundo — primeiro show da dupla no festival, com o provável setlist projetado pelo TMDQA! a partir da turnê atual; John Summit fecha o New Dance Order (01h30). Com a chuva persistente, a madrugada de despedida é também o último teste de piso e dispersão da edição — repercussão completa na edição de amanhã.",
+     "u": "https://www.tenhomaisdiscosqueamigos.com/2026/09/13/twenty-one-pilots-setlist-rock-in-rio-2026/"
     },
     {
      "t": "O momento da noite: Pabllo Vittar entra em 'Cool for the Summer' e Demi Lovato 'domina o festival' — o corte mais compartilhado da madrugada",
@@ -813,94 +848,52 @@ window.RADAR = {
      "u": "https://www.papelpop.com/2026/09/rock-in-rio-2026-demi-lovato-domina-festival-com-hits-amor-aos-fas-brasileiros-e-participacao-de-pabllo-vittar/"
     },
     {
-     "t": "Mumford & Sons 'faz as pazes com a banda que sempre foi': estreia no Sunset com bandeira do Brasil na plateia e pedido de desculpas por 10 anos de espera",
-     "src": "Moodgate",
-     "when": "13/09, 3h42",
-     "s": "A crítica descreve reconciliação com o folk original: 'The Cave' crescendo até fundir palco e plateia, 'Little Lion Man' intacta 17 anos depois, e Marcus Mumford descendo ao público com a bandeira do Brasil em 'Ditmas'. A frase da noite no Sunset: 'Faz 10 anos. Me desculpem por fazê-los esperar por tanto tempo. Mas eu amo vocês'. Fecha a régua de estreias bem-sucedidas da semana 2.",
-     "u": "https://moodgate.com.br/2026/09/13/mumford-sons-faz-as-pazes-com-a-banda-que-sempre-foi-no-rock-in-rio/"
-    },
-    {
      "t": "Terra cobre a tarde de Pedro Sampaio com o 'cavalinho gigante' e cita 'cerca de 30 mil leques amarelos' — SEM nomear a Ipiranga",
      "src": "Terra",
      "when": "12/09, 19h40 (atualizada 21h30)",
      "s": "O grande portal registrou 'uma das imagens mais divertidas da apresentação' — milhares de pessoas correndo de um lado para o outro na coreografia do 'Cavalinho' — e mencionou os leques preparados para distribuição, mas sem atribuição de marca. É o teste de atribuição espontânea da ação no mainstream: o objeto entrou na cobertura, o nome da marca não. O par com Lisboa (100 mil pessoas no 'maior Cavalinho do mundo' em junho) dá escala ao momento.",
      "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
-    },
-    {
-     "t": "Aurora Cultural publica a cobertura da coreografia dos leques com FOTOS DA PRÓPRIA MARCA (crédito Carsten Horst/Ipiranga) e aspas institucionais",
-     "src": "Aurora Cultural",
-     "when": "12/09, 20h47 (atualizada 20h59)",
-     "s": "A matéria crava '30 mil fãs' erguendo leques em sincronismo, lembra que o brinde retorna por demanda do público desde 2024 e descreve o Espaço Ipiranga (272 m², 3 andares, pochetes, pins, glambot, bar AmPm, carregadores). A citação da marca — 'ver milhares de pessoas participando juntas dessa brincadeira foi um daqueles momentos que traduzem bem o que buscamos fazer' — mostra o material own funcionando: a foto que a imprensa não tinha, a marca forneceu.",
-     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
-    },
-    {
-     "t": "A Promoview anuncia HOJE o reconhecimento editorial das melhores ativações do Rock in Rio 2026 — 20 categorias, resultado no Instagram @promoview após o encerramento",
-     "src": "Promoview",
-     "when": "publicado 11/09 · resultado 13/09",
-     "s": "Seleção da redação (sem júri externo), a partir da cobertura em tempo real do creator Ramon Araújo nos 7 dias, em categorias como 'ações no gramado', interatividade e engajamento — exatamente o território do 'mar de leques'. Na cobertura da Promoview até aqui, dominam Coca-Cola, Itaú, C&A e as ativações da Holding Clube; a Ipiranga não aparece. É a última janela de trade em tempo real da edição.",
-     "u": "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
-    },
-    {
-     "t": "Último dia: Ivete Sangalo abre o Mundo às 17h, Halsey às 21h35 e Twenty One Pilots encerra a edição à 00h05 — com chuva prevista o dia inteiro",
-     "src": "POPLine (horários) · ABIH-RJ/Alerta Rio (previsão)",
-     "when": "13/09",
-     "s": "Grade de encerramento: Lola Young (19h10) entre Ivete e Halsey no Mundo; no Sunset, Carol Biazin + Joyce Alane (15h50), Joelma + Viviane Batidão (18h05), Marina Sena + Céu (20h20) e Zara Larsson; John Summit fecha o New Dance Order (01h30). Previsão: céu encoberto, chuva fraca a moderada ao longo de todo o dia, 16–24°C e vento sudeste — o primeiro dia de chuva persistente da edição, com impacto direto em piso, fluxo e permanência em áreas cobertas.",
-     "u": "https://portalpopline.com.br/rock-in-rio-horarios-shows-domingo-13-9/"
-    },
-    {
-     "t": "Os encontros do 6º dia que a cobertura destacou: J Balvin chama Pedro Sampaio e Melody, João Gomes leva cortejo pernambucano ao Sunset e Alok toca em família na madrugada",
-     "src": "Agenda do Poder · Sopa Cultural · Pipoca Moderna",
-     "when": "12–13/09",
-     "s": "J Balvin ('Mi Gente', 'Bola Rebola') recebeu Pedro Sampaio em 'Perversa' e agradeceu: 'obrigado por me abrir as portas para o Brasil'. João Gomes cruzou a Cidade do Rock com Boi da Macuca, bonecos de Olinda, Mestrinho e Spok. E Alok fechou o New Dance Order com pai, mãe e o irmão gêmeo Bhaskar, em set 'Rave the World' com ~60% do repertório decidido ao vivo. A noite pop teve lastro brasileiro em todos os palcos.",
-     "u": "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
     }
    ],
    "ipiranga": [
     {
-     "t": "O case ganhou o ativo que faltava: a foto own do 'mar de leques' já circula na imprensa com crédito Carsten Horst/Ipiranga — antes de qualquer aérea de veículo",
-     "src": "Aurora Cultural",
-     "when": "12/09, 20h47",
-     "s": "A pendência nº 1 apontada ontem (nenhuma imagem do gesto em escala circulando) foi respondida pela própria marca: a Aurora publicou a cobertura com fotos cedidas e aspas institucionais, cravando 30 mil leques e amarrando a ação ao histórico do brinde de 2024 e ao Espaço de 272 m². O caminho está validado — o mesmo pacote (foto own + número + contexto) deve ir agora para o circuito que ainda não citou a marca: grandes portais e trade.",
+     "t": "A última janela de trade em tempo real fechou sem a Ipiranga: o reconhecimento da Promoview saiu com 11 marcas — e nenhuma menção ao 'mar de leques'",
+     "src": "Promoview",
+     "when": "13/09, ~12h20",
+     "s": "KitKat, C&A, Lagunitas, Seara, Piracanjuba, AXIA, Trident, Coca-Cola, Schweppes, Tic Tac e LATAM levaram os selos da redação (parceria com a Lukka), em categorias que incluíam exatamente o território da ação — interatividade, engajamento, experiência autêntica. O mini-case da manhã não converteu a tempo: o anúncio saiu por volta do meio-dia. Leitura fria: a 10ª e última varredura do trade em tempo real termina zerada, e o case externo agora depende inteiramente do ciclo de balanços de 14–15/09 — onde a pauta é aberta e o material own (foto Carsten Horst + 30 mil leques + sábado esgotado) é competitivo.",
+     "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    },
+    {
+     "t": "O balanço oficial entregou o denominador que faltava ao case: 266 mil pessoas em experiências de marcas na edição — e 2028 já confirmado, antecipando a conversa de renovação",
+     "src": "Agenda do Poder (balanço oficial da organização)",
+     "when": "13/09, tarde",
+     "s": "Com 700 mil de público total, os 266 mil que passaram por espaços de marcas são a régua pública contra a qual o fluxo do Espaço Ipiranga (272 m², 3 andares) será lido. Consolidar HOJE, com a operação ainda de pé, os números próprios — fluxo do espaço, leques e pochetes distribuídos, recargas de celular, transações KMV/AmPm — é o que permite ao case usar essa régua no balanço interno e externo. E o anúncio do RiR 2028 (com corrida de rua chegando à Cidade do Rock) abre desde já a mesa de renovação de patrocínio: o case desta edição é o argumento.",
+     "u": "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+    },
+    {
+     "t": "A chuva prevista virou realidade operacional: Ivete e Joelma sob temporal e rajadas de até 51,9 km/h — o Espaço como abrigo é o cenário real, e a imagem 'amarelo sob capas' tem as últimas horas para ser capturada",
+     "src": "COR (17h20) · Sopa Cultural · Portal Democrata",
+     "when": "13/09",
+     "s": "O mandato da manhã (abrigo, recarga, escoamento) deixou de ser plano e virou o dia como ele é: chuva fraca a moderada sem trégua e público de capa desde a abertura dos portões. Para o arco visual do case, a coleta own da noite — o amarelo da marca aceso no gramado de capas de chuva, o bar AmPm cheio, os carregadores em uso — é a última chance de fechar a narrativa 'do calor do leque ao abrigo da chuva' com imagem própria. Operação sem incidentes reportados pelo COR até as 17h20.",
+     "u": "https://cor.rio/13-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-ultimo-dia-de-evento/"
+    },
+    {
+     "t": "Nenhuma matéria da tarde citou a marca: a atribuição do 'mar de leques' segue pela metade e a divergência 25 vs 30 mil segue impressa — o kit de balanço de segunda cedo é o movimento que resta",
+     "src": "varredura da noite (imprensa geral e trade)",
+     "when": "13/09, 20h",
+     "s": "A pauta do dia foi tomada pelo balanço oficial e pelo encerramento — sem novas menções aos leques, com ou sem marca. O estado do case é o mesmo da manhã: foto own creditada circulando (Aurora), objeto sem marca no mainstream (Terra), trade agora definitivamente zerado. Tudo converge para um gesto: kit de atribuição (foto Carsten Horst + número oficial cravado + corte aéreo da transmissão + 'ação da Ipiranga com 30 mil leques no único sábado esgotado' na primeira linha) disparado segunda de manhã cedo, mirando quem escreverá 'o que as marcas fizeram no RiR 2026'.",
      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
     },
     {
-     "t": "Teste de atribuição no mainstream: o Terra citou 'cerca de 30 mil leques amarelos' na cobertura do show — sem nomear a Ipiranga",
-     "src": "Terra",
-     "when": "12/09, 19h40 (atualizada 21h30)",
-     "s": "O objeto furou a bolha pop e chegou ao grande portal junto com o 'cavalinho gigante' — mas anônimo. Meio cheio: o gesto coletivo virou pauta espontânea de mainstream em tempo real. Meio vazio: sem o nome da marca, o earned não conta para o case externo. A correção é operacional, não editorial: o kit de balanço (foto own creditada + número oficial + 'ação da Ipiranga' na primeira linha) precisa chegar às redações que cobrirão o encerramento e os balanços de 14–15/09.",
-     "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
-    },
-    {
-     "t": "Divergência de número segue aberta na imprensa — 25 mil (Portal Democrata) vs 30 mil (Aurora, Terra, release): cravar o oficial HOJE, antes do ciclo de balanços",
-     "src": "Portal Democrata (12/09) · Aurora Cultural (12/09) · EncontraIpiranga (release, 10/09)",
-     "when": "12–13/09",
-     "s": "O case não pode entrar na semana de balanços com dois números. O release e a cobertura com material own falam em 30 mil; a primeira manchete da ação registrou 25 mil levantados. Fechar com a operação o número de leques efetivamente DISTRIBUÍDOS (e, se possível, o estimado em uso às 16h40) e padronizar em todo material — a diferença entre 'distribuímos 30 mil' e '25 mil no ar' é inclusive uma narrativa melhor, porque separa logística de adesão.",
-     "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
-    },
-    {
-     "t": "Trade, 9ª varredura: cobertura da Promoview segue sem a Ipiranga — e o reconhecimento editorial das melhores ativações sai HOJE, em 20 categorias que incluem 'ações no gramado'",
-     "src": "Promoview (hub de cobertura + anúncio do reconhecimento)",
+     "t": "Onde os concorrentes terminam a edição: Coca-Cola, KitKat, C&A e LATAM saem premiados pelo trade — a régua de comparação dos balanços já está publicada",
+     "src": "Promoview",
      "when": "13/09",
-     "s": "O hub da maior cobertura de brand experience do festival destaca Coca-Cola, Itaú, C&A, LATAM, KitKat e Piracanjuba — nenhuma menção à Ipiranga, aos leques ou ao 'mar amarelo' até esta manhã. O resultado do reconhecimento sai hoje no @promoview, por escolha da redação a partir do que o creator Ramon Araújo viu em campo. Não é premiação oficial nem tem inscrição — mas redação se pauta por material: fazer o mini-case (foto own + 30 mil + sábado esgotado) chegar à equipe AINDA HOJE é a única jogada disponível.",
-     "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
-    },
-    {
-     "t": "Domingo de chuva muda o mandato do dia: o Espaço Ipiranga (3 andares, bar AmPm, carregadores) vira o produto — abrigo, recarga e permanência no lugar do leque",
-     "src": "ABIH-RJ/Alerta Rio · Aurora Cultural (descrição do espaço)",
-     "when": "13/09",
-     "s": "Chuva fraca a moderada o dia todo e 16–24°C invertem a lógica que funcionou no sábado: o brinde de calor perde função e cobertura + tomada viram o serviço mais valioso da Cidade do Rock. Sinalizar o espaço como refúgio de chuva, garantir escoamento de fila sob cobertura e capturar o contraste de imagem (o amarelo aceso sob capas de chuva no último dia) são as três entregas operacionais do encerramento. É também a última janela de coleta de material own da edição.",
-     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-domingo-13-setembro-2026"
-    },
-    {
-     "t": "Retrovisor do 6º dia: operação limpa no sábado esgotado — o COR não registrou incidentes nem mal-estares até o fechamento da tarde, e a chuva ficou nas pancadas isoladas",
-     "src": "COR — Centro de Operações Rio",
-     "when": "12/09",
-     "s": "O dia mais cheio da semana 2 rodou sem os alertas da véspera (quando telões pediram recuo na grade durante o K-pop): bloqueios às 14h18, OCR nos acessos, BRT dedicado e nenhum incidente reportado na página do 6º dia até a última atualização. Para o balanço da marca: o kit de serviço (leque + água na chegada, fila climatizada, recarga) operou no desenho planejado no dia de estresse máximo — argumento de 'utilidade em escala' pronto para o case interno.",
-     "u": "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
+     "s": "A lista da Promoview é, na prática, o primeiro ranking público de ativações da edição — e é com ela que os balanços de imprensa tendem a se pautar. Para o posicionamento da Ipiranga nesse ciclo: o diferencial do case não é o espaço (território onde as premiadas dominam), é o gesto de massa sincronizado no gramado — único da edição, com número (30 mil), artista (Pedro Sampaio) e prova visual own. É esse ângulo, não o de 'melhor estande', que tem chance de furar a lista pronta nos textos de 14–15/09.",
+     "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
     }
    ],
    "shows": {
-    "status": "DIA DE FESTIVAL — semana 2, dia 3 (domingo, 13/set — ENCERRAMENTO · Twenty One Pilots). Grade do último dia: Palco Mundo com Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35) e Twenty One Pilots (00h05); Sunset com Carol Biazin + Joyce Alane (15h50), Joelma + Viviane Batidão (18h05), Marina Sena + Céu (20h20) e Zara Larsson (22h55); John Summit fecha o New Dance Order (01h30) e DENNIS encerra o Espaço Favela (19h10). ATENÇÃO OPERACIONAL: previsão de céu encoberto com chuva fraca a moderada AO LONGO DE TODO O DIA, 16–24°C e vento sudeste (ABIH-RJ/Alerta Rio) — primeiro dia de chuva persistente da edição: piso, fluxo, permanência em áreas cobertas e dispersão na madrugada são os pontos de atrito a monitorar. Abaixo, a repercussão completa da 6ª noite (sábado esgotado).",
+    "status": "DIA DE FESTIVAL — encerramento EM CURSO (atualização das 20h). A tarde confirmou o dia de chuva: céu encoberto, chuva fraca a moderada sem trégua e rajadas de até 51,9 km/h (COR, 17h20), cidade em estágio 2, bloqueios viários desde 14h32, trens com embarque só em Central/Madureira/Deodoro e BRT 'Expresso Rock in Rio' rodando até as 5h — sem incidentes reportados até a última atualização do COR. No palco: Ivete Sangalo abriu o Mundo às 17h sob temporal com o inédito 'A La Sangalo' (axé, salsa, cúmbia e lambada; 'tratou o temporal com bom humor' — Sopa Cultural, na 20ª apresentação dela na história do festival) e Joelma emocionou o Sunset sob forte chuva com homenagem ao Pará e duetos com Vivi Batidão; Lola Young (19h10) e Marina Sena + Céu (20h20) na sequência. Ainda hoje: Halsey (21h35), Zara Larsson (22h55), Twenty One Pilots encerrando a edição à 00h05 (estreia da dupla no festival) e John Summit no New Dance Order (01h30). Em paralelo, a organização anunciou o balanço oficial ainda durante o evento: 700 mil pessoas, R$ 3,36 bi e 2028 confirmado. Pontos de atenção da madrugada: dispersão sob chuva e piso após 7 dias de evento. A repercussão completa da última noite fica para a edição das 9h de amanhã. Abaixo, a repercussão da 6ª noite (sábado esgotado).",
     "reperc": [
      {
       "date": "12/set (6ª noite — sábado ESGOTADO · noite pop)",
@@ -995,25 +988,25 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
-      "t": "Demi Lovato + Pabllo Vittar em 'Cool for the Summer': o corte da madrugada — dueto e caminhada de palco que 'levaram a Cidade do Rock ao delírio'",
-      "src": "Papelpop (0h05) · Metrópoles (vídeo) · PopNow",
-      "metric": "leitura editorial da cobertura (vídeo destacado em Metrópoles); sem medição de plataforma nesta rodada",
-      "s": "O encontro tem a anatomia clássica do viral de festival: hit reconhecível, surpresa anunciada de véspera confirmada no palco e ícone LGBT+ local dividindo cena com estrela internacional. É o momento do 6º dia que vai dominar os cortes do domingo — e concorre diretamente com qualquer conteúdo de marca pela atenção do feed no dia do encerramento.",
-      "u": "https://www.metropoles.com/entretenimento/video-pabllo-vittar-canta-hit-com-demi-lovato-no-rock-in-rio"
+      "t": "O balanço oficial dominou a conversa da noite: 700 mil pessoas, R$ 3,36 bi e 2028 confirmado — anunciado ainda com o festival em curso",
+      "src": "Agenda do Poder · Portal Democrata · reprodução em cadeia (rádios e portais)",
+      "metric": "leitura editorial da varredura de imprensa das 20h; sem medição de plataforma nesta rodada",
+      "s": "A organização antecipou o ciclo de balanço para dentro do próprio último dia e a imprensa replicou os mesmos números em série durante a tarde — é a moldura de todos os 'o que ficou do RiR 2026' de segunda. Para a marca: o dado de 266 mil pessoas em espaços de patrocinadores nasceu público e vira a régua dos cases de ativação.",
+      "u": "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
      },
      {
-      "t": "O 'cavalinho gigante' de Pedro Sampaio entrou no mainstream — multidão correndo em bloco no gramado, com os leques amarelos dentro da cena",
-      "src": "Terra (12/09, 21h30) · Diário Carioca",
-      "metric": "cobertura de grande portal em tempo real; sem medição de plataforma nesta rodada",
-      "s": "O Terra tratou a coreografia em massa como 'uma das imagens mais divertidas da apresentação' — e citou os 'cerca de 30 mil leques' na mesma matéria, sem nomear a marca. Para a Ipiranga, o UGC do cavalinho é o vetor natural de circulação do amarelo: os cortes de multidão correndo carregam o leque na mão do público. Garimpar os vídeos em que o objeto aparece em massa e amarrá-los ao case é trabalho de hoje.",
-      "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+      "t": "A imagem do encerramento é a Cidade do Rock de capa de chuva: Ivete abrindo o Mundo sob temporal é o conteúdo da tarde",
+      "src": "Sopa Cultural (19h55) · COR (clima, 17h20)",
+      "metric": "leitura editorial; sem medição de plataforma nesta rodada",
+      "s": "Chuva persistente do portão ao palco, coreografia coletiva sob capas e a artista incorporando o temporal ao show — o UGC do último dia carrega essa estética. Para a Ipiranga, é exatamente a cena onde a imagem own 'amarelo sob capas de chuva' existe: a coleta desta noite fecha (ou não) o arco visual da edição.",
+      "u": "https://sopacultural.com/ivete-sangalo-rock-in-rio-2026-a-la-sangalo/"
      },
      {
-      "t": "A foto own do 'mar de leques' virou a imagem oficial da ação em circulação — crédito Carsten Horst/Ipiranga na cobertura, antes de qualquer aérea de veículo",
-      "src": "Aurora Cultural (12/09, 20h47)",
-      "metric": "1 veículo publicando o material own com crédito; imagem aérea de imprensa segue inexistente (galeria Billboard sem registro até a última atualização)",
-      "s": "A marca resolveu com material próprio a lacuna que a imprensa não preencheu: a prova visual do gesto em escala. O risco agora é de teto de alcance — a foto own circula no circuito pop, mas grandes portais e trade ainda não a publicaram. A distribuição ativa do pacote (foto creditada + número oficial + primeira linha 'ação da Ipiranga') nos balanços de 14–15/09 decide se a imagem vira patrimônio do case ou nota de rodapé.",
-      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+      "t": "No trade, o que circula é a lista das 11 melhores ativações da Promoview — KitKat, C&A e Coca-Cola premiadas; a ausência da Ipiranga é o dado para a marca",
+      "src": "Promoview (~12h20, resultado também no Instagram @promoview)",
+      "metric": "leitura editorial; sem medição de plataforma nesta rodada",
+      "s": "O reconhecimento editorial virou o assunto do dia no circuito de brand experience, publicado estrategicamente no encerramento. A lista pronta tende a pautar os balanços de marketing de 14–15/09 — entrar nesses textos por outro ângulo (o gesto de massa dos 30 mil leques, não o estande) é a disputa da semana.",
+      "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
      }
     ],
     "sources": [
@@ -1022,27 +1015,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "feed BR incoletável — rede devolve ranking dos EUA",
+      "statusLabel": "fetch bloqueado na rodada da noite — 4º dia sem leitura BR",
       "items": [],
-      "note": "Rodada das 9h de 13/09: a chamada ao RSS (geo=BR) foi respondida, mas o conteúdo retornado é o ranking dos ESTADOS UNIDOS — a camada de rede da execução agendada ignora o parâmetro de país (provável geolocalização do proxy). Nenhuma leitura BR válida, portanto: a checagem prometida ontem (se a noite de Maroon 5 + TV aberta colocaria o festival no ranking) segue impossível de fazer. É o 3º dia com a fonte comprometida (bloqueio total nas rodadas de 12/09 à noite; feed errado hoje) — escalar a configuração de rede da tarefa. Última leitura BR válida: 12/09, ~9h20 (sem termos do festival)."
+      "note": "Rodada das 20h de 13/09: a chamada ao RSS (geo=BR) foi bloqueada pela camada de permissão de rede da execução agendada (pedido de aprovação expirou sem operador presente) — nesta rodada nem o feed errado dos EUA da manhã veio. 4º dia consecutivo sem leitura BR válida (12/09: bloqueio; 13/09 manhã: rede devolveu feed dos EUA; 13/09 noite: fetch bloqueado). A pergunta do fim de semana — o encerramento com Twenty One Pilots coloca o festival no ranking? — fica para a rodada das 9h de amanhã. Última leitura BR válida: 12/09, ~9h20 (sem termos do festival). Escalar a configuração de rede/permissão da tarefa segue pendente."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
-      "status": "ok",
-      "statusLabel": "medição retomada após 7 dias",
-      "items": [
-       {
-        "t": "#rockinrio: 5,7 mi de views (coleta 13/09, ~9h) — MESMO valor arredondado da linha de base de 03/09, dois fins de semana de festival depois",
-        "s": "Primeira leitura válida desde 06/09 (bloqueios de rede derrubaram as rodadas da semana). O contador público da tag não avançou um décimo em 10 dias de pico do evento — forte indício de que a conversa do festival no TikTok se acumula em outras hashtags (edição, artistas, cortes de fandom) e não na tag legada. Para medir a ação da Ipiranga na plataforma, buscar pelos termos do momento ('mar de leques', 'cavalinho', 'Pedro Sampaio Rock in Rio') renderá mais do que monitorar #rockinrio.",
-        "u": "https://www.tiktok.com/tag/rockinrio"
-       }
-      ],
-      "note": "Leitura de 13/09 (~9h BRT): 5,7 mi de views em tiktok.com/tag/rockinrio — estável ante a linha de base de 03/09 (5,7 mi). A página arredonda para uma casa decimal, então movimentos abaixo de ~0,1 mi ficam invisíveis; ainda assim, a ausência de salto após K-pop day e sábado esgotado é o dado. Sem leituras intermediárias entre 06/09 e hoje (bloqueio de rede nas rodadas)."
+      "status": "off",
+      "statusLabel": "sem leitura na rodada da noite — curva do dia não fechada",
+      "items": [],
+      "note": "A página pública da #rockinrio ficou inacessível às ~20h (mesma barreira de permissão de rede da execução agendada, em duas tentativas). A comparação manhã→noite prevista no processo (5,7 mi às ~9h → ?) não pôde ser feita; a curva do último dia fica para a rodada das 9h de amanhã. Contexto que segue valendo da leitura da manhã: a tag legada está estável em 5,7 mi desde 03/09 — a conversa do festival na plataforma corre nos termos do momento ('mar de leques', 'cavalinho', artistas), não na hashtag guarda-chuva."
      }
     ],
-    "note": "Rodada das 9h de 13/09: coleta PARCIAL — TikTok voltou a medir (5,7 mi, estável vs 03/09) após uma semana de bloqueio; Google Trends BR segue sem leitura válida (a rede da execução devolve o feed dos EUA apesar do geo=BR — 3º dia de fonte comprometida, escalar configuração). O bloco viral é leitura editorial da varredura de imprensa da madrugada, com fonte e link em todo item. Destaques: dueto Demi+Pabllo como corte da noite e a foto own do 'mar de leques' circulando com crédito da marca."
+    "note": "Rodada das 20h de 13/09: NENHUMA medição de plataforma — as duas fontes canônicas (Google Trends BR e página de hashtag do TikTok) foram bloqueadas pela camada de permissão de rede da execução agendada, sem operador presente para aprovar os acessos. O bloco viral é leitura editorial da varredura de imprensa da noite, com fonte e link em todo item. Destaques: balanço oficial (700 mil / R$ 3,36 bi / 2028) dominando a pauta, o encerramento sob chuva como estética do dia e a lista das 11 melhores ativações da Promoview publicada sem a Ipiranga."
    },
    "direcionais": {
     "leitura": "A ação-símbolo da Ipiranga nesta edição já aconteceu e deu certo — o que está em jogo hoje é quem fica com o crédito. O raio-x da manhã é preciso: a foto own circula com crédito da marca (Aurora), o objeto furou para o mainstream sem a marca (Terra citou '30 mil leques' anônimos), o trade segue zerado na 9ª varredura e a Promoview — dona da régua de valor publicada ontem — anuncia HOJE seu reconhecimento editorial das melhores ativações, em categorias que incluem exatamente 'ações no gramado'. Ou seja: o mérito existe, o material existe, e a atribuição está pela metade; as próximas 24–48h (encerramento hoje + balanços de 14–15/09) são a janela em que isso se resolve — ou se perde. Dois complicadores de contexto: a atenção orgânica do dia pertence ao dueto Demi+Pabllo e ao encerramento com Twenty One Pilots (nenhum conteúdo de marca compete com isso; o case compete no trade, não no feed), e a chuva prevista para o dia inteiro inverte o produto da marca no último dia — de refresco para abrigo. Em paralelo, a leitura do TikTok que voltou a funcionar traz um aprendizado de medição para o balanço: a tag legada #rockinrio está parada em 5,7 mi há 10 dias — o earned social da edição precisa ser medido nos termos do momento, não na hashtag guarda-chuva. E os embaixadores chegam à última noite com zero menção à marca: o que não acontecer hoje não acontece mais.",
@@ -1174,6 +1161,38 @@ window.RADAR = {
     [
      "Google Trends — RSS Trending geo=BR (13/09: rede devolveu feed dos EUA; sem leitura BR válida)",
      "https://trends.google.com/trending/rss?geo=BR"
+    ],
+    [
+     "Agenda do Poder — Rock in Rio reúne mais de 700 mil pessoas e movimenta R$ 3,36 bilhões (13/09, tarde)",
+     "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+    ],
+    [
+     "Portal Democrata — Rock in Rio 2026: 700 mil pessoas e R$ 3,36 bi de impacto econômico (13/09)",
+     "https://portaldemocrata.com.br/2026/09/13/rock-in-rio-2026-700-mil-pessoas-e-r-336-bilhoes-de-impacto-economico/"
+    ],
+    [
+     "Promoview — KitKat leva Melhor Design entre as 11 experiências reconhecidas no RiR 2026 (13/09, ~12h20)",
+     "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    ],
+    [
+     "Sopa Cultural — Ivete Sangalo leva a latinidade baiana ao Rock in Rio sob forte chuva (13/09, 19h55)",
+     "https://sopacultural.com/ivete-sangalo-rock-in-rio-2026-a-la-sangalo/"
+    ],
+    [
+     "Portal Democrata — Joelma adapta 'Príncipe Encantado' e faz duetos com Vivi Batidão (13/09)",
+     "https://portaldemocrata.com.br/2026/09/13/joelma-adapta-principe-encantado-em-homenagem-a-jesus-e-faz-duetos-eletrizantes-com-vivi-batidao-no-rock-in-rio/"
+    ],
+    [
+     "COR — 7º e último dia do Rock in Rio em tempo real (13/09, atualizado 17h20)",
+     "https://cor.rio/13-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-ultimo-dia-de-evento/"
+    ],
+    [
+     "TMDQA! — Twenty One Pilots: veja o provável setlist do show no RiR 2026 (13/09)",
+     "https://www.tenhomaisdiscosqueamigos.com/2026/09/13/twenty-one-pilots-setlist-rock-in-rio-2026/"
+    ],
+    [
+     "Pipoca Moderna — Twenty One Pilots encerra o Rock in Rio neste domingo (13/09)",
+     "https://pipocamoderna.com.br/2026/09/rock-in-rio-domingo-encerramento/"
     ]
    ],
    "influencia": {
