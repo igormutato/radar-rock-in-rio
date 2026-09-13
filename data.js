@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 39,
-  "updatedAt": "12/09/2026, 20h25 (BRT)",
-  "updatedISO": "2026-09-12",
+  "version": 40,
+  "updatedAt": "13/09/2026, 09h46 (BRT)",
+  "updatedISO": "2026-09-13",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,1059 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "13/09/2026",
+   "dateISO": "2026-09-13",
+   "weekday": "domingo",
+   "edition": 21,
+   "phase": "festival — semana 2, dia 3 (domingo de encerramento · Twenty One Pilots) · ÚLTIMO DIA da edição 2026",
+   "pulse": [
+    "🎤 <b>A noite do sábado esgotado entregou o que prometia — e o momento da noite não foi do headliner.</b> Maroon 5 fechou o Palco Mundo com 1h45 de 'coleção de sucessos' que virou coro coletivo, mas a crítica saiu dividida: 'arroz com feijão, simples mas eficaz' (Portal Democrata, 8h48), com trechos de plateia dispersa e nada do álbum de 2025. Quem levou a noite foi Demi Lovato: o dueto com Pabllo Vittar em 'Cool for the Summer' 'levou a Cidade do Rock ao delírio' (Papelpop) e é o corte mais compartilhado da madrugada (vídeo em Metrópoles). Mumford & Sons fez estreia emocional no Sunset — Marcus Mumford desceu à plateia com a bandeira do Brasil e pediu desculpas pelos 10 anos de espera — e Alok fechou a madrugada em família (pai, mãe e o gêmeo Bhaskar) no New Dance Order. A tarde segue imbatível como imagem do dia: o cavalinho gigante e o mar de leques de Pedro Sampaio.",
+    "🟡 <b>A ação da Ipiranga atravessou a noite com saldo raro: foto própria já circulando na imprensa — mas o maior portal que citou os leques não citou a marca.</b> A Aurora Cultural (20h47) publicou a cobertura da coreografia com '30 mil leques' usando fotos cedidas pela marca (crédito Carsten Horst/Ipiranga) e aspas institucionais; o Terra registrou o show com 'cerca de 30 mil leques amarelos' SEM nomear a Ipiranga — a atribuição no mainstream está incompleta e a divergência de número persiste (Portal Democrata falou em 25 mil ontem; release e Aurora, 30 mil). No trade, 9ª varredura zerada — e um relógio novo: a Promoview anuncia HOJE, no encerramento, seu reconhecimento editorial das melhores ativações do festival (20 categorias), com a cobertura dominada por Coca-Cola, Itaú e C&A até aqui. A janela para colocar o case do 'mar de leques' na mesa do trade fecha hoje.",
+    "🌧️ <b>Último dia da edição: chuva fraca a moderada o dia inteiro muda o papel da marca — de refresco para abrigo.</b> Previsão de céu encoberto, 16–24°C e chuva ao longo de todo o domingo (ABIH-RJ/Alerta Rio): o leque perde função e o Espaço Ipiranga (3 andares, bar AmPm, carregadores) vira refúgio — o serviço do dia é abrigo, recarga e escoamento. Na grade: Ivete Sangalo abre o Mundo às 17h, Halsey às 21h35 e Twenty One Pilots encerra a edição à 00h05; no Sunset, Joelma, Marina Sena + Céu e Zara Larsson. Trends: o TikTok voltou a ser medido após uma semana de bloqueio — e a leitura é um alerta: a tag #rockinrio segue nos MESMOS 5,7 mi de views da linha de base de 03/09, dois fins de semana de festival depois; o Google Trends BR segue incoletável (a rede devolve o feed dos EUA). Amanhã começa a semana de balanços — a edição final do radar sai ~15/09."
+   ],
+   "news": [
+    {
+     "t": "Crítica do headliner: Maroon 5 entrega 'performance sólida' de 1h45 no sábado esgotado — 'arroz com feijão, simples mas eficaz', com Adam Levine na grade e plateia dividida entre coro e conversa",
+     "src": "Portal Democrata",
+     "when": "13/09, 8h48",
+     "s": "O show fechou o Palco Mundo com 'This Love', 'Sugar', 'Animals' e 'Maps', bis duplo e descida de Adam Levine para interagir com o público. A crítica reconhece a 'performance contagiante', mas registra 'certa apatia' em trechos — familiaridade excessiva com um repertório sem novidades (nada do álbum de 2025, como notou a Agenda do Poder). O Diário Carioca resume o efeito: a Cidade do Rock virou um 'enorme coro' de hits que atravessam gerações.",
+     "u": "https://portaldemocrata.com.br/2026/09/13/maroon-5-entrega-performance-solida-e-inedita-no-rock-in-rio-2026-mediados-por-grandes-hits/"
+    },
+    {
+     "t": "O momento da noite: Pabllo Vittar entra em 'Cool for the Summer' e Demi Lovato 'domina o festival' — o corte mais compartilhado da madrugada",
+     "src": "Papelpop (0h05) · Metrópoles (vídeo) · PopNow",
+     "when": "13/09, madrugada",
+     "s": "Demi abriu com 'Fast', tocou 10 das 13 faixas do 'It's Not That Deep' e emendou 'Heart Attack', 'Confident', 'Skyscraper' e 'Sorry Not Sorry' — mas o pico foi o dueto e a caminhada de palco com Pabllo, que 'levou a Cidade do Rock ao delírio' (Papelpop). A PopNow cravou: o Rock in Rio virou 'Pop in Rio'. Declaração que rendeu manchete: os lovatics brasileiros 'são um exemplo do que significa ser fã'.",
+     "u": "https://www.papelpop.com/2026/09/rock-in-rio-2026-demi-lovato-domina-festival-com-hits-amor-aos-fas-brasileiros-e-participacao-de-pabllo-vittar/"
+    },
+    {
+     "t": "Mumford & Sons 'faz as pazes com a banda que sempre foi': estreia no Sunset com bandeira do Brasil na plateia e pedido de desculpas por 10 anos de espera",
+     "src": "Moodgate",
+     "when": "13/09, 3h42",
+     "s": "A crítica descreve reconciliação com o folk original: 'The Cave' crescendo até fundir palco e plateia, 'Little Lion Man' intacta 17 anos depois, e Marcus Mumford descendo ao público com a bandeira do Brasil em 'Ditmas'. A frase da noite no Sunset: 'Faz 10 anos. Me desculpem por fazê-los esperar por tanto tempo. Mas eu amo vocês'. Fecha a régua de estreias bem-sucedidas da semana 2.",
+     "u": "https://moodgate.com.br/2026/09/13/mumford-sons-faz-as-pazes-com-a-banda-que-sempre-foi-no-rock-in-rio/"
+    },
+    {
+     "t": "Terra cobre a tarde de Pedro Sampaio com o 'cavalinho gigante' e cita 'cerca de 30 mil leques amarelos' — SEM nomear a Ipiranga",
+     "src": "Terra",
+     "when": "12/09, 19h40 (atualizada 21h30)",
+     "s": "O grande portal registrou 'uma das imagens mais divertidas da apresentação' — milhares de pessoas correndo de um lado para o outro na coreografia do 'Cavalinho' — e mencionou os leques preparados para distribuição, mas sem atribuição de marca. É o teste de atribuição espontânea da ação no mainstream: o objeto entrou na cobertura, o nome da marca não. O par com Lisboa (100 mil pessoas no 'maior Cavalinho do mundo' em junho) dá escala ao momento.",
+     "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+    },
+    {
+     "t": "Aurora Cultural publica a cobertura da coreografia dos leques com FOTOS DA PRÓPRIA MARCA (crédito Carsten Horst/Ipiranga) e aspas institucionais",
+     "src": "Aurora Cultural",
+     "when": "12/09, 20h47 (atualizada 20h59)",
+     "s": "A matéria crava '30 mil fãs' erguendo leques em sincronismo, lembra que o brinde retorna por demanda do público desde 2024 e descreve o Espaço Ipiranga (272 m², 3 andares, pochetes, pins, glambot, bar AmPm, carregadores). A citação da marca — 'ver milhares de pessoas participando juntas dessa brincadeira foi um daqueles momentos que traduzem bem o que buscamos fazer' — mostra o material own funcionando: a foto que a imprensa não tinha, a marca forneceu.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+    },
+    {
+     "t": "A Promoview anuncia HOJE o reconhecimento editorial das melhores ativações do Rock in Rio 2026 — 20 categorias, resultado no Instagram @promoview após o encerramento",
+     "src": "Promoview",
+     "when": "publicado 11/09 · resultado 13/09",
+     "s": "Seleção da redação (sem júri externo), a partir da cobertura em tempo real do creator Ramon Araújo nos 7 dias, em categorias como 'ações no gramado', interatividade e engajamento — exatamente o território do 'mar de leques'. Na cobertura da Promoview até aqui, dominam Coca-Cola, Itaú, C&A e as ativações da Holding Clube; a Ipiranga não aparece. É a última janela de trade em tempo real da edição.",
+     "u": "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+    },
+    {
+     "t": "Último dia: Ivete Sangalo abre o Mundo às 17h, Halsey às 21h35 e Twenty One Pilots encerra a edição à 00h05 — com chuva prevista o dia inteiro",
+     "src": "POPLine (horários) · ABIH-RJ/Alerta Rio (previsão)",
+     "when": "13/09",
+     "s": "Grade de encerramento: Lola Young (19h10) entre Ivete e Halsey no Mundo; no Sunset, Carol Biazin + Joyce Alane (15h50), Joelma + Viviane Batidão (18h05), Marina Sena + Céu (20h20) e Zara Larsson; John Summit fecha o New Dance Order (01h30). Previsão: céu encoberto, chuva fraca a moderada ao longo de todo o dia, 16–24°C e vento sudeste — o primeiro dia de chuva persistente da edição, com impacto direto em piso, fluxo e permanência em áreas cobertas.",
+     "u": "https://portalpopline.com.br/rock-in-rio-horarios-shows-domingo-13-9/"
+    },
+    {
+     "t": "Os encontros do 6º dia que a cobertura destacou: J Balvin chama Pedro Sampaio e Melody, João Gomes leva cortejo pernambucano ao Sunset e Alok toca em família na madrugada",
+     "src": "Agenda do Poder · Sopa Cultural · Pipoca Moderna",
+     "when": "12–13/09",
+     "s": "J Balvin ('Mi Gente', 'Bola Rebola') recebeu Pedro Sampaio em 'Perversa' e agradeceu: 'obrigado por me abrir as portas para o Brasil'. João Gomes cruzou a Cidade do Rock com Boi da Macuca, bonecos de Olinda, Mestrinho e Spok. E Alok fechou o New Dance Order com pai, mãe e o irmão gêmeo Bhaskar, em set 'Rave the World' com ~60% do repertório decidido ao vivo. A noite pop teve lastro brasileiro em todos os palcos.",
+     "u": "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "O case ganhou o ativo que faltava: a foto own do 'mar de leques' já circula na imprensa com crédito Carsten Horst/Ipiranga — antes de qualquer aérea de veículo",
+     "src": "Aurora Cultural",
+     "when": "12/09, 20h47",
+     "s": "A pendência nº 1 apontada ontem (nenhuma imagem do gesto em escala circulando) foi respondida pela própria marca: a Aurora publicou a cobertura com fotos cedidas e aspas institucionais, cravando 30 mil leques e amarrando a ação ao histórico do brinde de 2024 e ao Espaço de 272 m². O caminho está validado — o mesmo pacote (foto own + número + contexto) deve ir agora para o circuito que ainda não citou a marca: grandes portais e trade.",
+     "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+    },
+    {
+     "t": "Teste de atribuição no mainstream: o Terra citou 'cerca de 30 mil leques amarelos' na cobertura do show — sem nomear a Ipiranga",
+     "src": "Terra",
+     "when": "12/09, 19h40 (atualizada 21h30)",
+     "s": "O objeto furou a bolha pop e chegou ao grande portal junto com o 'cavalinho gigante' — mas anônimo. Meio cheio: o gesto coletivo virou pauta espontânea de mainstream em tempo real. Meio vazio: sem o nome da marca, o earned não conta para o case externo. A correção é operacional, não editorial: o kit de balanço (foto own creditada + número oficial + 'ação da Ipiranga' na primeira linha) precisa chegar às redações que cobrirão o encerramento e os balanços de 14–15/09.",
+     "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+    },
+    {
+     "t": "Divergência de número segue aberta na imprensa — 25 mil (Portal Democrata) vs 30 mil (Aurora, Terra, release): cravar o oficial HOJE, antes do ciclo de balanços",
+     "src": "Portal Democrata (12/09) · Aurora Cultural (12/09) · EncontraIpiranga (release, 10/09)",
+     "when": "12–13/09",
+     "s": "O case não pode entrar na semana de balanços com dois números. O release e a cobertura com material own falam em 30 mil; a primeira manchete da ação registrou 25 mil levantados. Fechar com a operação o número de leques efetivamente DISTRIBUÍDOS (e, se possível, o estimado em uso às 16h40) e padronizar em todo material — a diferença entre 'distribuímos 30 mil' e '25 mil no ar' é inclusive uma narrativa melhor, porque separa logística de adesão.",
+     "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
+    },
+    {
+     "t": "Trade, 9ª varredura: cobertura da Promoview segue sem a Ipiranga — e o reconhecimento editorial das melhores ativações sai HOJE, em 20 categorias que incluem 'ações no gramado'",
+     "src": "Promoview (hub de cobertura + anúncio do reconhecimento)",
+     "when": "13/09",
+     "s": "O hub da maior cobertura de brand experience do festival destaca Coca-Cola, Itaú, C&A, LATAM, KitKat e Piracanjuba — nenhuma menção à Ipiranga, aos leques ou ao 'mar amarelo' até esta manhã. O resultado do reconhecimento sai hoje no @promoview, por escolha da redação a partir do que o creator Ramon Araújo viu em campo. Não é premiação oficial nem tem inscrição — mas redação se pauta por material: fazer o mini-case (foto own + 30 mil + sábado esgotado) chegar à equipe AINDA HOJE é a única jogada disponível.",
+     "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    },
+    {
+     "t": "Domingo de chuva muda o mandato do dia: o Espaço Ipiranga (3 andares, bar AmPm, carregadores) vira o produto — abrigo, recarga e permanência no lugar do leque",
+     "src": "ABIH-RJ/Alerta Rio · Aurora Cultural (descrição do espaço)",
+     "when": "13/09",
+     "s": "Chuva fraca a moderada o dia todo e 16–24°C invertem a lógica que funcionou no sábado: o brinde de calor perde função e cobertura + tomada viram o serviço mais valioso da Cidade do Rock. Sinalizar o espaço como refúgio de chuva, garantir escoamento de fila sob cobertura e capturar o contraste de imagem (o amarelo aceso sob capas de chuva no último dia) são as três entregas operacionais do encerramento. É também a última janela de coleta de material own da edição.",
+     "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-domingo-13-setembro-2026"
+    },
+    {
+     "t": "Retrovisor do 6º dia: operação limpa no sábado esgotado — o COR não registrou incidentes nem mal-estares até o fechamento da tarde, e a chuva ficou nas pancadas isoladas",
+     "src": "COR — Centro de Operações Rio",
+     "when": "12/09",
+     "s": "O dia mais cheio da semana 2 rodou sem os alertas da véspera (quando telões pediram recuo na grade durante o K-pop): bloqueios às 14h18, OCR nos acessos, BRT dedicado e nenhum incidente reportado na página do 6º dia até a última atualização. Para o balanço da marca: o kit de serviço (leque + água na chegada, fila climatizada, recarga) operou no desenho planejado no dia de estresse máximo — argumento de 'utilidade em escala' pronto para o case interno.",
+     "u": "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
+    }
+   ],
+   "shows": {
+    "status": "DIA DE FESTIVAL — semana 2, dia 3 (domingo, 13/set — ENCERRAMENTO · Twenty One Pilots). Grade do último dia: Palco Mundo com Ivete Sangalo (17h), Lola Young (19h10), Halsey (21h35) e Twenty One Pilots (00h05); Sunset com Carol Biazin + Joyce Alane (15h50), Joelma + Viviane Batidão (18h05), Marina Sena + Céu (20h20) e Zara Larsson (22h55); John Summit fecha o New Dance Order (01h30) e DENNIS encerra o Espaço Favela (19h10). ATENÇÃO OPERACIONAL: previsão de céu encoberto com chuva fraca a moderada AO LONGO DE TODO O DIA, 16–24°C e vento sudeste (ABIH-RJ/Alerta Rio) — primeiro dia de chuva persistente da edição: piso, fluxo, permanência em áreas cobertas e dispersão na madrugada são os pontos de atrito a monitorar. Abaixo, a repercussão completa da 6ª noite (sábado esgotado).",
+    "reperc": [
+     {
+      "date": "12/set (6ª noite — sábado ESGOTADO · noite pop)",
+      "headline": "O sábado esgotado virou karaokê de massa: Maroon 5 fecha com 1h45 de hits e crítica dividida ('simples mas eficaz'), mas o momento da noite foi de Demi Lovato com Pabllo Vittar em 'Cool for the Summer'. Mumford & Sons fez estreia emocional com bandeira do Brasil no Sunset, J Balvin trouxe Pedro Sampaio e Melody, Alok fechou a madrugada em família — e a tarde de Pedro Sampaio (cavalinho gigante + mar de leques da Ipiranga) seguiu como a imagem do dia. Operação limpa: sem incidentes reportados pelo COR",
+      "artists": [
+       {
+        "name": "Maroon 5 (Palco Mundo, 00h05)",
+        "verdict": "'Arroz com feijão, simples mas eficaz' (Portal Democrata): 1h45 de 'This Love', 'Sugar', 'Animals', 'Maps' e 'Payphone', bis duplo e Adam Levine descendo do palco para fazer a plateia cantar. O efeito coletivo foi inegável — a Cidade do Rock virou 'enorme coro' de hits de duas décadas (Diário Carioca) —, mas a crítica registrou 'certa apatia' e conversa na plateia em trechos, além da ausência de qualquer faixa do álbum de 2025 (Agenda do Poder). Na 3ª visita ao festival, a banda entregou exatamente o que o sábado esgotado comprou: previsibilidade de alto padrão.",
+        "links": [
+         [
+          "Portal Democrata (crítica)",
+          "https://portaldemocrata.com.br/2026/09/13/maroon-5-entrega-performance-solida-e-inedita-no-rock-in-rio-2026-mediados-por-grandes-hits/"
+         ],
+         [
+          "Diário Carioca (resumo da noite)",
+          "https://www.diariocarioca.com/2026/09/13/cultura/musica/rock-in-rio/rock-in-rio-faz-grande-festa-repleta-de-hits-com-maroon-5-demi-lovato-j-balvin-e-pedro-sampaio"
+         ],
+         [
+          "Agenda do Poder",
+          "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
+         ]
+        ]
+       },
+       {
+        "name": "Demi Lovato (Palco Mundo, 21h20)",
+        "verdict": "O show da noite: 'domina o festival com hits, amor aos fãs brasileiros e participação de Pabllo Vittar' (Papelpop). Abriu com 'Fast', sustentou 10 das 13 faixas do 'It's Not That Deep' ao lado de 'Heart Attack', 'Confident', 'Skyscraper', 'Stone Cold' e 'Sorry Not Sorry' — 'potência vocal, dança, emoção' (Diário Carioca). O pico: Pabllo Vittar em 'Cool for the Summer', dueto e caminhada de palco que 'levaram a Cidade do Rock ao delírio' e viraram o corte mais compartilhado da madrugada (vídeo em Metrópoles). A PopNow cunhou o resumo: 'Pop in Rio'. Declaração-manchete: os lovatics brasileiros 'são um exemplo do que significa ser fã'.",
+        "links": [
+         [
+          "Papelpop",
+          "https://www.papelpop.com/2026/09/rock-in-rio-2026-demi-lovato-domina-festival-com-hits-amor-aos-fas-brasileiros-e-participacao-de-pabllo-vittar/"
+         ],
+         [
+          "Metrópoles (vídeo do dueto)",
+          "https://www.metropoles.com/entretenimento/video-pabllo-vittar-canta-hit-com-demi-lovato-no-rock-in-rio"
+         ],
+         [
+          "PopNow",
+          "https://popnow.com.br/demi-lovato-transforma-rock-in-rio-em-pop-in-rio-com-hits-vocais-poderosos-e-dueto-com-pabllo-vittar/"
+         ]
+        ]
+       },
+       {
+        "name": "Mumford & Sons (Palco Sunset, 22h45 — estreia)",
+        "verdict": "'Faz as pazes com a banda que sempre foi' (Moodgate): a estreia no festival reconciliou o grupo com o folk original — 'The Cave' crescendo até fundir palco e plateia, 'Little Lion Man' intacta 17 anos depois, material novo ('Rushmere', 'Prizefighter', 'Rubber Band Man') alternado com os clássicos. O momento: Marcus Mumford desceu à plateia com a bandeira do Brasil em 'Ditmas' e pediu desculpas — 'faz 10 anos. Me desculpem por fazê-los esperar por tanto tempo. Mas eu amo vocês'. Público em coro assumindo os vocais nos crescendos.",
+        "links": [
+         [
+          "Moodgate (crítica)",
+          "https://moodgate.com.br/2026/09/13/mumford-sons-faz-as-pazes-com-a-banda-que-sempre-foi-no-rock-in-rio/"
+         ],
+         [
+          "Agenda do Poder",
+          "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
+         ]
+        ]
+       },
+       {
+        "name": "J Balvin (Palco Mundo, 19h)",
+        "verdict": "Reggaeton de estádio com lastro local: 'Mi Gente', 'Bola Rebola' e 'Con Altura' com balé e projeções, e a jogada certa de convidar Pedro Sampaio (em 'Perversa') e Melody — devolvendo ao palco, à noite, o artista da tarde. O agradecimento — 'obrigado por me abrir as portas para o Brasil' — coroou uma apresentação que a cobertura tratou como potente, ainda que sem o peso emocional dos vizinhos de grade.",
+        "links": [
+         [
+          "Agenda do Poder",
+          "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
+         ],
+         [
+          "Diário Carioca",
+          "https://www.diariocarioca.com/2026/09/13/cultura/musica/rock-in-rio/rock-in-rio-faz-grande-festa-repleta-de-hits-com-maroon-5-demi-lovato-j-balvin-e-pedro-sampaio"
+         ]
+        ]
+       },
+       {
+        "name": "A tarde, a madrugada e a operação",
+        "verdict": "Pedro Sampaio abriu o Mundo (16h40) com o 'cavalinho gigante' — 'milhares de pessoas correndo de um lado para o outro', 'uma das imagens mais divertidas da apresentação' (Terra) — e o mar de leques amarelos da Ipiranga, ecoando o recorde de Lisboa (100 mil no 'maior Cavalinho do mundo', jun/26). João Gomes levou cortejo pernambucano ao Sunset com Boi da Macuca, bonecos de Olinda, Mestrinho e Spok (Sopa Cultural). Na madrugada, Alok fechou o New Dance Order em família — pai, mãe e o gêmeo Bhaskar — com set 'Rave the World' ~60% decidido ao vivo (Pipoca Moderna). Operação: dia mais cheio da semana 2 sem incidentes nem mal-estares reportados pelo COR, com a chuva restrita a pancadas isoladas.",
+        "links": [
+         [
+          "Terra (cavalinho + leques)",
+          "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+         ],
+         [
+          "Sopa Cultural (João Gomes)",
+          "https://sopacultural.com/joao-gomes-rock-in-rio-2026-mestrinho-spok/"
+         ],
+         [
+          "Pipoca Moderna (Alok em família)",
+          "https://pipocamoderna.com.br/2026/09/rock-in-rio-sabado-maroon-5/"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "Demi Lovato + Pabllo Vittar em 'Cool for the Summer': o corte da madrugada — dueto e caminhada de palco que 'levaram a Cidade do Rock ao delírio'",
+      "src": "Papelpop (0h05) · Metrópoles (vídeo) · PopNow",
+      "metric": "leitura editorial da cobertura (vídeo destacado em Metrópoles); sem medição de plataforma nesta rodada",
+      "s": "O encontro tem a anatomia clássica do viral de festival: hit reconhecível, surpresa anunciada de véspera confirmada no palco e ícone LGBT+ local dividindo cena com estrela internacional. É o momento do 6º dia que vai dominar os cortes do domingo — e concorre diretamente com qualquer conteúdo de marca pela atenção do feed no dia do encerramento.",
+      "u": "https://www.metropoles.com/entretenimento/video-pabllo-vittar-canta-hit-com-demi-lovato-no-rock-in-rio"
+     },
+     {
+      "t": "O 'cavalinho gigante' de Pedro Sampaio entrou no mainstream — multidão correndo em bloco no gramado, com os leques amarelos dentro da cena",
+      "src": "Terra (12/09, 21h30) · Diário Carioca",
+      "metric": "cobertura de grande portal em tempo real; sem medição de plataforma nesta rodada",
+      "s": "O Terra tratou a coreografia em massa como 'uma das imagens mais divertidas da apresentação' — e citou os 'cerca de 30 mil leques' na mesma matéria, sem nomear a marca. Para a Ipiranga, o UGC do cavalinho é o vetor natural de circulação do amarelo: os cortes de multidão correndo carregam o leque na mão do público. Garimpar os vídeos em que o objeto aparece em massa e amarrá-los ao case é trabalho de hoje.",
+      "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+     },
+     {
+      "t": "A foto own do 'mar de leques' virou a imagem oficial da ação em circulação — crédito Carsten Horst/Ipiranga na cobertura, antes de qualquer aérea de veículo",
+      "src": "Aurora Cultural (12/09, 20h47)",
+      "metric": "1 veículo publicando o material own com crédito; imagem aérea de imprensa segue inexistente (galeria Billboard sem registro até a última atualização)",
+      "s": "A marca resolveu com material próprio a lacuna que a imprensa não preencheu: a prova visual do gesto em escala. O risco agora é de teto de alcance — a foto own circula no circuito pop, mas grandes portais e trade ainda não a publicaram. A distribuição ativa do pacote (foto creditada + número oficial + primeira linha 'ação da Ipiranga') nos balanços de 14–15/09 decide se a imagem vira patrimônio do case ou nota de rodapé.",
+      "u": "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "feed BR incoletável — rede devolve ranking dos EUA",
+      "items": [],
+      "note": "Rodada das 9h de 13/09: a chamada ao RSS (geo=BR) foi respondida, mas o conteúdo retornado é o ranking dos ESTADOS UNIDOS — a camada de rede da execução agendada ignora o parâmetro de país (provável geolocalização do proxy). Nenhuma leitura BR válida, portanto: a checagem prometida ontem (se a noite de Maroon 5 + TV aberta colocaria o festival no ranking) segue impossível de fazer. É o 3º dia com a fonte comprometida (bloqueio total nas rodadas de 12/09 à noite; feed errado hoje) — escalar a configuração de rede da tarefa. Última leitura BR válida: 12/09, ~9h20 (sem termos do festival)."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "ok",
+      "statusLabel": "medição retomada após 7 dias",
+      "items": [
+       {
+        "t": "#rockinrio: 5,7 mi de views (coleta 13/09, ~9h) — MESMO valor arredondado da linha de base de 03/09, dois fins de semana de festival depois",
+        "s": "Primeira leitura válida desde 06/09 (bloqueios de rede derrubaram as rodadas da semana). O contador público da tag não avançou um décimo em 10 dias de pico do evento — forte indício de que a conversa do festival no TikTok se acumula em outras hashtags (edição, artistas, cortes de fandom) e não na tag legada. Para medir a ação da Ipiranga na plataforma, buscar pelos termos do momento ('mar de leques', 'cavalinho', 'Pedro Sampaio Rock in Rio') renderá mais do que monitorar #rockinrio.",
+        "u": "https://www.tiktok.com/tag/rockinrio"
+       }
+      ],
+      "note": "Leitura de 13/09 (~9h BRT): 5,7 mi de views em tiktok.com/tag/rockinrio — estável ante a linha de base de 03/09 (5,7 mi). A página arredonda para uma casa decimal, então movimentos abaixo de ~0,1 mi ficam invisíveis; ainda assim, a ausência de salto após K-pop day e sábado esgotado é o dado. Sem leituras intermediárias entre 06/09 e hoje (bloqueio de rede nas rodadas)."
+     }
+    ],
+    "note": "Rodada das 9h de 13/09: coleta PARCIAL — TikTok voltou a medir (5,7 mi, estável vs 03/09) após uma semana de bloqueio; Google Trends BR segue sem leitura válida (a rede da execução devolve o feed dos EUA apesar do geo=BR — 3º dia de fonte comprometida, escalar configuração). O bloco viral é leitura editorial da varredura de imprensa da madrugada, com fonte e link em todo item. Destaques: dueto Demi+Pabllo como corte da noite e a foto own do 'mar de leques' circulando com crédito da marca."
+   },
+   "direcionais": {
+    "leitura": "A ação-símbolo da Ipiranga nesta edição já aconteceu e deu certo — o que está em jogo hoje é quem fica com o crédito. O raio-x da manhã é preciso: a foto own circula com crédito da marca (Aurora), o objeto furou para o mainstream sem a marca (Terra citou '30 mil leques' anônimos), o trade segue zerado na 9ª varredura e a Promoview — dona da régua de valor publicada ontem — anuncia HOJE seu reconhecimento editorial das melhores ativações, em categorias que incluem exatamente 'ações no gramado'. Ou seja: o mérito existe, o material existe, e a atribuição está pela metade; as próximas 24–48h (encerramento hoje + balanços de 14–15/09) são a janela em que isso se resolve — ou se perde. Dois complicadores de contexto: a atenção orgânica do dia pertence ao dueto Demi+Pabllo e ao encerramento com Twenty One Pilots (nenhum conteúdo de marca compete com isso; o case compete no trade, não no feed), e a chuva prevista para o dia inteiro inverte o produto da marca no último dia — de refresco para abrigo. Em paralelo, a leitura do TikTok que voltou a funcionar traz um aprendizado de medição para o balanço: a tag legada #rockinrio está parada em 5,7 mi há 10 dias — o earned social da edição precisa ser medido nos termos do momento, não na hashtag guarda-chuva. E os embaixadores chegam à última noite com zero menção à marca: o que não acontecer hoje não acontece mais.",
+    "dirs": [
+     {
+      "t": "Correr atrás do crédito HOJE no trade: o reconhecimento da Promoview sai hoje e a redação decide pelo que viu e recebeu — fazer o mini-case do 'mar de leques' chegar antes do anúncio",
+      "s": "Não há inscrição nem júri: é escolha editorial a partir da cobertura em campo (creator Ramon Araújo) — e a Ipiranga não aparece no hub até esta manhã. Enviar à redação e ao creator, ainda pela manhã, o pacote de 5 linhas: foto own creditada, 30 mil leques, sábado esgotado, coreografia às 16h40 com o artista, e o paralelo lightsticks→leques. Se entrar em qualquer categoria ('ações no gramado', engajamento), o case externo ganha um selo de terceiros no dia do encerramento — earned de trade que nenhum release compra.",
+      "u": "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+     },
+     {
+      "t": "Fechar a conta da atribuição no mainstream: o Terra provou que o objeto entra na pauta sem a marca — o kit de balanço precisa amarrar 'leques = Ipiranga' na primeira linha",
+      "s": "A cobertura espontânea tem teto: o circuito pop nomeia a marca, o grande portal não. Para os balanços de 14–15/09 (imprensa geral e trade), montar hoje o kit definitivo: foto Carsten Horst creditada + corte aéreo da transmissão de ontem (16h40–17h30, Multishow/Globoplay — recolher hoje, antes de expirar a janela de replay) + número oficial + a frase de atribuição pronta ('ação da Ipiranga com 30 mil leques no único sábado esgotado'). Distribuição segunda de manhã cedo, mirando quem escreverá 'o que as marcas fizeram no RiR 2026'.",
+      "u": "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+     },
+     {
+      "t": "Cravar o número oficial da ação até o fim da manhã: 25 mil vs 30 mil não pode chegar à semana de balanços — e a versão 'distribuímos 30 mil, 25 mil no ar' é a narrativa mais forte",
+      "s": "A divergência já está impressa (Portal Democrata: 25 mil levantados; Aurora/Terra/release: 30 mil). Fechar com a operação o número de leques efetivamente distribuídos e, se houver, a estimativa de uso no momento da coreografia. Separar logística ('entregamos X') de adesão ('Y no ar às 16h40') blinda o case contra checagem e ainda rende um dado de engajamento que nenhuma outra ativação da edição tem.",
+      "u": "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
+     },
+     {
+      "t": "Operar o último dia para a chuva: o Espaço Ipiranga é o produto de hoje — abrigo, tomada e bar como serviço de encerramento, e o contraste 'amarelo sob capas' como última imagem own da edição",
+      "s": "Chuva fraca a moderada o dia todo (16–24°C) tira o leque de cena e coloca os 3 andares cobertos, os carregadores e o bar AmPm no centro da jornada — o mesmo papel de refúgio que a fila climatizada cumpriu no calor. Sinalizar isso na comunicação de pista desde a abertura dos portões, monitorar o escoamento sob chuva (piso + fila são o atrito do dia, segundo a própria previsão) e escalar o fotógrafo para a última coleta own: o amarelo da marca aceso num gramado de capas de chuva fecha o arco visual da edição.",
+      "u": "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-domingo-13-setembro-2026"
+     },
+     {
+      "t": "Última chamada dos embaixadores: zero menção à marca até aqui — hoje é a última noite em que uma menção orgânica é possível; depois disso, só balanço",
+      "s": "Os 5 perfis do planejamento fecharam a semana 1 com 46 posts e nenhuma citação à Ipiranga (leitura da rotina de Embaixadores). O sábado do 'mar de leques' era a melhor janela e a rotina das 10h de hoje mede se converteu; o domingo de encerramento é a última. Confirmar quem está na Cidade do Rock, entregar kit (leque + pochete) e convidar para o Espaço — com chuva, oferecer o camarote coberto é argumento real, não cortesia. A partir de amanhã, a conversa com creators vira retrospectiva.",
+      "u": ""
+     }
+    ],
+    "acion": [
+     "Até 12h: disparar o mini-case do 'mar de leques' (foto own creditada + 30 mil + sábado esgotado + coreografia com o artista) para a redação da Promoview e para o creator Ramon Araújo, antes do anúncio das melhores ativações de hoje no @promoview.",
+     "Até o fim da manhã: fechar com a operação o número oficial (distribuídos vs em uso às 16h40) e padronizar em todo material — a divergência 25 vs 30 mil já está impressa e não pode entrar na semana de balanços.",
+     "Hoje: recolher o corte aéreo da transmissão de ontem (16h40–17h30, Multishow/Globoplay) enquanto o replay está disponível; montar o kit de balanço (foto Carsten Horst + corte + número + frase de atribuição) e agendar disparo para segunda cedo, mirando as matérias 'o que as marcas fizeram no RiR 2026' de 14–15/09.",
+     "Desde a abertura dos portões: reposicionar a operação do Espaço para dia de chuva — sinalização de abrigo/tomada/bar AmPm, escoamento de fila sob cobertura, e fotógrafo escalado para a imagem 'amarelo sob capas de chuva' no encerramento.",
+     "Antes das 16h: confirmar presença dos 5 embaixadores no último dia, entregar kit e convite ao Espaço (argumento: camarote coberto em dia de chuva); conferir na rotina das 10h de hoje se o sábado do 'mar de leques' rendeu a primeira menção — e medir o saldo final na rotina de amanhã.",
+     "Para o balanço (edição final ~15/09): registrar o aprendizado de medição — earned social da edição deve ser buscado nos termos do momento ('mar de leques', 'cavalinho') e não na tag #rockinrio, parada em 5,7 mi há 10 dias; consolidar hoje, com a operação ainda de pé, os números internos (leques, pochetes, fluxo do Espaço, recargas KMV)."
+    ]
+   },
+   "sources": [
+    [
+     "Portal Democrata — Maroon 5 entrega performance sólida e inédita, mediada por grandes hits (13/09, 8h48)",
+     "https://portaldemocrata.com.br/2026/09/13/maroon-5-entrega-performance-solida-e-inedita-no-rock-in-rio-2026-mediados-por-grandes-hits/"
+    ],
+    [
+     "Diário Carioca — Rock in Rio faz grande festa repleta de hits com Maroon 5, Demi Lovato, J Balvin e Pedro Sampaio (13/09, 3h32)",
+     "https://www.diariocarioca.com/2026/09/13/cultura/musica/rock-in-rio/rock-in-rio-faz-grande-festa-repleta-de-hits-com-maroon-5-demi-lovato-j-balvin-e-pedro-sampaio"
+    ],
+    [
+     "Papelpop — Demi Lovato domina festival com hits, amor aos fãs e participação de Pabllo Vittar (13/09, 0h05)",
+     "https://www.papelpop.com/2026/09/rock-in-rio-2026-demi-lovato-domina-festival-com-hits-amor-aos-fas-brasileiros-e-participacao-de-pabllo-vittar/"
+    ],
+    [
+     "Metrópoles — Vídeo: Pabllo Vittar canta hit com Demi Lovato no Rock in Rio (13/09)",
+     "https://www.metropoles.com/entretenimento/video-pabllo-vittar-canta-hit-com-demi-lovato-no-rock-in-rio"
+    ],
+    [
+     "PopNow — Demi Lovato transforma Rock in Rio em 'Pop in Rio' com dueto com Pabllo Vittar (13/09)",
+     "https://popnow.com.br/demi-lovato-transforma-rock-in-rio-em-pop-in-rio-com-hits-vocais-poderosos-e-dueto-com-pabllo-vittar/"
+    ],
+    [
+     "Moodgate — Mumford & Sons faz as pazes com a banda que sempre foi (13/09, 3h42)",
+     "https://moodgate.com.br/2026/09/13/mumford-sons-faz-as-pazes-com-a-banda-que-sempre-foi-no-rock-in-rio/"
+    ],
+    [
+     "Agenda do Poder — Rock in Rio tem Maroon 5, encontros especiais e festa brasileira no sexto dia (13/09)",
+     "https://agendadopoder.com.br/rock-in-rio-tem-maroon-5-encontros-especiais-e-festa-brasileira-no-sexto-dia/"
+    ],
+    [
+     "Sopa Cultural — João Gomes reúne Mestrinho, Spok e cortejo pernambucano (12/09)",
+     "https://sopacultural.com/joao-gomes-rock-in-rio-2026-mestrinho-spok/"
+    ],
+    [
+     "Pipoca Moderna — Maroon 5 comanda sábado pop (Alok em família no NDO) (13/09)",
+     "https://pipocamoderna.com.br/2026/09/rock-in-rio-sabado-maroon-5/"
+    ],
+    [
+     "Terra — Pedro Sampaio faz multidão 'correr' e cria cavalinho gigante; 'cerca de 30 mil leques' (12/09, 19h40, atualizada 21h30)",
+     "https://www.terra.com.br/diversao/musica/pedro-sampaio-faz-multidao-correr-no-rock-in-rio-e-cria-cavalinho-gigante,e730b8511ba66fd5a7f3e9fa9e1d1f31gtn9swms.html"
+    ],
+    [
+     "Aurora Cultural — Coreografia com 30 mil leques dita o ritmo de Pedro Sampaio (12/09, 20h47; fotos Carsten Horst/Ipiranga)",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+    ],
+    [
+     "Portal Democrata — Pedro Sampaio causa alvoroço com mar de leques (12/09, 20h56 — registro de 25 mil)",
+     "https://portaldemocrata.com.br/2026/09/12/pedro-sampaio-causa-alvoroco-com-mar-de-leques-no-rock-in-rio-2026/"
+    ],
+    [
+     "EncontraIpiranga (release) — Ipiranga e Rock in Rio vão distribuir 30 mil leques (10/09)",
+     "https://www.encontraipiranga.com/ipiranga-e-rock-in-rio-vao-distribuir-30-mil-leques-no-show-de-pedro-sampaio/"
+    ],
+    [
+     "Promoview — Promoview vai reconhecer as melhores ativações do Rock in Rio 2026 (11/09; resultado 13/09)",
+     "https://www.promoview.com.br/reconhecimento-melhores-ativacoes-rock-in-rio-2026/"
+    ],
+    [
+     "Promoview — Hub da cobertura de brand experience no Rock in Rio (consultado 13/09, 9h)",
+     "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    ],
+    [
+     "POPLine — Horários dos shows de domingo, 13 de setembro (13/09)",
+     "https://portalpopline.com.br/rock-in-rio-horarios-shows-domingo-13-9/"
+    ],
+    [
+     "Rolling Stone Brasil — Horários de shows do último dia (13/09)",
+     "https://rollingstone.com.br/musica/rock-in-rio-2026-confira-horarios-de-shows-do-ultimo-dia/"
+    ],
+    [
+     "ABIH-RJ/Alerta Rio — Vai chover no Rock in Rio no domingo (13/09)? (12/09)",
+     "https://abihrj.com.br/noticias/vai-chover-rock-in-rio-domingo-13-setembro-2026"
+    ],
+    [
+     "COR — 6º dia do Rock in Rio em tempo real (12/09)",
+     "https://cor.rio/12-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-sexto-dia-de-evento/"
+    ],
+    [
+     "Billboard Brasil — Fotos do sexto dia de festival (12/09; sem aéreas dos leques até a última atualização)",
+     "https://billboard.com.br/rock-in-rio-2026-fotos-do-sexto-dia-de-festival/"
+    ],
+    [
+     "Super Rádio Tupi — Rock in Rio reúne Maroon 5, Demi Lovato e grandes encontros no sexto dia (13/09)",
+     "https://www.tupi.fm/rio/rock-in-rio-reune-maroon-5-demi-lovato-e-grandes-encontros-no-sexto-dia/"
+    ],
+    [
+     "TikTok — página pública da hashtag #rockinrio (coletada 13/09, ~9h: 5,7 mi views)",
+     "https://www.tiktok.com/tag/rockinrio"
+    ],
+    [
+     "Google Trends — RSS Trending geo=BR (13/09: rede devolveu feed dos EUA; sem leitura BR válida)",
+     "https://trends.google.com/trending/rss?geo=BR"
+    ]
+   ],
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 41,
+      "citouIpiranga": false,
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "parado",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
+     }
+    ],
+    "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+      "likes": 505,
+      "coments": 13,
+      "shares": 38,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+      "likes": 1783,
+      "coments": 78,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+      "likes": 1840,
+      "coments": 15,
+      "shares": 77,
+      "marcas": [
+       "@calvinharrisbrasil"
+      ],
+      "collab": "@calvinharrisbrasil",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+      "likes": 1641,
+      "coments": 11,
+      "shares": 43,
+      "marcas": [],
+      "collab": "@matheuscarvalh.o",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+      "likes": 2644,
+      "coments": 45,
+      "shares": 142,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+      "likes": 2629,
+      "coments": 63,
+      "shares": 31,
+      "marcas": [
+       "@itau",
+       "@pabllovittar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+      "likes": 2954,
+      "coments": 40,
+      "shares": 73,
+      "marcas": [
+       "@ifoodbrasil"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+      "likes": 31000,
+      "coments": 473,
+      "shares": 3000,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Esse é o significado?' — momento de show do dia 3",
+      "likes": 21400,
+      "coments": 390,
+      "shares": 1700,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 61300,
+      "coments": 3500,
+      "shares": 3500,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
+     }
+    ],
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   }
+  },
   {
    "date": "12/09/2026",
    "dateISO": "2026-09-12",
