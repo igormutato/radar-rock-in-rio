@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 41,
-  "updatedAt": "13/09/2026, 20h15 (BRT)",
-  "updatedISO": "2026-09-13",
+  "version": 42,
+  "updatedAt": "14/09/2026, 09h45 (BRT)",
+  "updatedISO": "2026-09-14",
   "nextUpdate": "diária, ~9h (BRT)",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -786,6 +786,1023 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "14/09/2026",
+   "dateISO": "2026-09-14",
+   "weekday": "segunda-feira",
+   "edition": 22,
+   "phase": "balanço — D+1 do encerramento: repercussão completa da última noite + janela de balanços de 14–15/09 ABERTA",
+   "pulse": [
+    "🏁 <b>O festival acabou — e a última noite fechou a edição sob chuva do primeiro ao último show, com a estreia do Twenty One Pilots dividindo a conversa.</b> A crítica comprou: 'provou que sempre mereceu ser headliner' (Rolling Stone, 8h30), com Josh Dun arrebatador na bateria, covers de Cher e de 'Seven Nation Army' e estruturas no meio da plateia — mas o Palco Mundo teve o público mais esvaziado do dia e o Portal Democrata transformou isso em pauta ('provoca reflexões sobre público e expectativas'). No resto, consenso: noite das mulheres — Ivete Sangalo na 20ª apresentação, Halsey doente entregando 'um dos shows mais intensos e barulhentos', Zara Larsson com 'um dos shows mais divertidos de todo o RiR 2026' (e veredicto de que merece o Mundo), Joelma e Marina Sena coroando as divas brasileiras (Omelete). Operação sem incidentes reportados; a imagem final da edição é o 'mar de capas' sob chuva e fogo.",
+    "🟡 <b>A janela que decide o case abriu e ainda está vazia: até as 9h30 desta segunda, NENHUM 'o que as marcas fizeram no RiR 2026' foi publicado no trade.</b> A única referência pronta segue sendo a lista da Promoview de ontem (11 premiadas, sem a Ipiranga) — e é ela que os textos de balanço tendem a copiar se ninguém disputar o enquadramento. O balanço oficial deu ao case o que faltava: denominador público (266 mil pessoas em espaços de marcas, 700 mil no total, R$ 3,36 bi) ecoando em cadeia nacional, e horizonte de renovação (2028 confirmado, com corrida de rua no evento-teste). O movimento desta manhã é um só: kit de atribuição do 'mar de leques' (foto own creditada + número cravado + 'ação da Ipiranga' na primeira linha) na rua antes do meio-dia, mirando Promoview, Meio e Mensagem, Mundo do Marketing e propmark.",
+    "📡 <b>Trends: 5º dia sem leitura válida do Google Trends BR e curva final do TikTok não medida — as duas fontes canônicas seguiram bloqueadas na execução agendada desta manhã.</b> A camada de permissão de rede da tarefa barrou os fetches de novo (pedido de aprovação expira sem operador presente); a #rockinrio fica congelada na última leitura (5,7 mi, estável de 03 a 13/09 — a hashtag guarda-chuva não se moveu o festival inteiro, aprendizado de medição para o relatório final). O bloco viral desta rodada é leitura editorial da imprensa da manhã: o debate Twenty One Pilots (melhor show da edição vs público menor do dia), o 'mar de capas' como estética do encerramento e o balanço oficial em cadeia como moldura de todos os 'o que ficou do RiR 2026' de hoje."
+   ],
+   "news": [
+    {
+     "t": "Rolling Stone crava: 'Em show no Rock in Rio 2026, Twenty One Pilots provou que sempre mereceu ser headliner' — apesar da chuva e do gramado mais vazio",
+     "src": "Rolling Stone Brasil (Felipe Grutter)",
+     "when": "14/09, 8h30",
+     "s": "A crítica valida a escalação questionada: abertura com 'Overcompensate', estreias de 'The Contract' e 'Center Mass' no Brasil, 'Stressed Out' e 'Trees' no encerramento e três covers (incluindo 'Seven Nation Army'). Destaques: Josh Dun 'arrebatador' na bateria, o solo em plataforma elevada no 'Drum Show' e a interação com um segurança em 'Ride'. Ressalva registrada: 'faltou um pouco mais de criatividade no uso do gigantesco telão'.",
+     "u": "https://rollingstone.com.br/musica/em-show-no-rock-in-rio-2026-twenty-one-pilots-provou-que-sempre-mereceu-ser-headliner/"
+    },
+    {
+     "t": "O contraponto virou pauta: Twenty One Pilots encerra com a 'apresentação menos cheia do dia' e provoca debate sobre público e expectativas",
+     "src": "Portal Democrata",
+     "when": "14/09, madrugada/manhã",
+     "s": "O mesmo portal que elogiou o show ('marcante e sob forte chuva', 5h04 — precisão musical, 'Heathens', cover surpresa de Cher e estruturas no meio da plateia) publicou em seguida a leitura fria: gramado menor que nos outros dias, redes divididas entre 'melhor apresentação da edição' (fãs) e questionamento da escalação, que interrompeu a sequência feminina do dia. É o debate que fecha o festival nas redes nesta segunda.",
+     "u": "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-encerra-rock-in-rio-com-apresentacao-menos-cheia-do-dia-e-provoca-reflexoes-sobre-publico-e-expectativas/"
+    },
+    {
+     "t": "A moldura da última noite: 'Twenty One Pilots encerra Rock in Rio com noite marcada por mulheres'",
+     "src": "Agenda do Poder",
+     "when": "14/09",
+     "s": "O balanço editorial do encerramento consagra a grade feminina: Ivete Sangalo abrindo o Mundo com axé-pop e 'Corazón Partío', Halsey entre o pop alternativo e o rock em tom teatral, Lola Young, e no Sunset Zara Larsson, Marina Sena + Céu e Joelma com Viviane Batidão (calypso e tecnobrega). O fechamento da dupla americana usou estruturas do palco e efeitos de fogo — sob o 'mar de capas' que marcou o Parque Olímpico no último dia.",
+     "u": "https://agendadopoder.com.br/twenty-one-pilots-encerra-rock-in-rio-com-noite-marcada-por-mulheres/"
+    },
+    {
+     "t": "Halsey doente entrega 'um show de rock sólido' no Mundo: The Great Impersonator ao vivo é 'mais sujo e urgente' — com direito ao 'maior mosh de toda a turnê'",
+     "src": "Rolling Stone Brasil (Kadu Soares)",
+     "when": "14/09",
+     "s": "Cantando com uma infecção, no primeiro retorno ao Brasil em três anos, Halsey reinterpretou a discografia em arranjos mais roqueiros — 'uma das apresentações mais intensas e barulhentas' do festival, transitando do caos agressivo ao silêncio iluminado por lanternas de celular em versão acústica. 'Without Me' e 'Closer' seguraram o repertório popular; um fã de tirolesa protagonizou o imprevisto da noite.",
+     "u": "https://rollingstone.com.br/guia-show/halsey-entrega-um-show-de-rock-solido-no-palco-mundo-do-rock-in-rio-2026/"
+    },
+    {
+     "t": "Zara Larsson fecha o Sunset com 'um dos shows mais divertidos de todo o Rock in Rio 2026' — e sai com veredicto de upgrade: 'merece o Palco Mundo'",
+     "src": "Rolling Stone Brasil",
+     "when": "14/09",
+     "s": "Coreografia afiada, estética impecável e sincronia total com a plateia: 'Midnight Sun' abrindo e fechando, 'Lush Life', 'Symphony' em momento catártico, cover de 'She Did It Again' (Tyla) e fã convidada ao palco. A Pipoca Moderna registra a banda formada só por mulheres. Para a crítica, a sueca 'cresceu além do Sunset' — leitura que deve pautar o line-up de 2028.",
+     "u": "https://rollingstone.com.br/guia-show/zara-larsson-encerra-o-palco-sunset-com-um-dos-shows-mais-divertidos-de-todo-o-rock-in-rio-2026/"
+    },
+    {
+     "t": "'Ivete Sangalo e Joelma mostram a força das divas brasileiras': a análise do dia seguinte consagra a dupla nacional do encerramento",
+     "src": "Omelete (Alexandre Almeida) · Fala Canedo",
+     "when": "14/09",
+     "s": "'As divas brasileiras têm força de sobra para dominar a massa que ocupa o gramado' — Ivete, na 20ª apresentação da carreira no festival ('Sou baiana e faço o que quero'), evoluiu da estética espanhola ao deserto, desceu do palco e conversou com a plateia; Joelma provou alcance nacional com o calypso e Vivi Batidão confirmou a ascensão do tecnomelody num dos momentos mais cantados do festival. 'Um momento histórico para a música brasileira.'",
+     "u": "https://www.omelete.com.br/musica/rock-in-rio-ivete-sangalo-joelma-vivi-batidao-analise-critica"
+    },
+    {
+     "t": "Primeiro balanço artístico da edição: Stray Kids, Foo Fighters, Marina Sena, Elton John, Hwasa e Jamiroquai entre os melhores; Hot Milk, MGK, Nelly, Luísa Sonza e J Balvin entre as decepções",
+     "src": "AR News",
+     "when": "14/09",
+     "s": "A primeira lista consolidada de melhores e piores dos 7 dias mede relevância, reação de público, setlist, execução vocal e produção. Nos melhores, o K-pop sai duplamente premiado (Stray Kids e o marco solo de Hwasa) ao lado do folclore do festival (Foo Fighters com tributo a Taylor Hawkins, Elton John de amarelo fluorescente). Nas decepções, som ruim (Luísa Sonza), 'karaokê' sem banda (Nelly) e públicos apáticos (Hot Milk, MGK).",
+     "u": "https://www.arnewsnoticias.com/2026/09/os-melhores-e-os-piores-shows-do-rock.html"
+    },
+    {
+     "t": "O balanço oficial vira manchete nacional no dia seguinte: 700 mil pessoas, R$ 3,36 bilhões e 2028 confirmado ecoam em cadeia de portais e rádios",
+     "src": "Jornal de Brasília · Imirante · Rádio Manchete Rio · Rede 98 (reprodução em cadeia)",
+     "when": "13–14/09",
+     "s": "Os números anunciados por Roberta Medina ainda durante o encerramento — 700 mil+ em 7 dias, R$ 3,36 bi de impacto, 33,9 mil empregos, público de 89 países (49% de fora do Rio), 266 mil pessoas em experiências de marcas e edição 2028 confirmada com corrida de rua no evento-teste — são a moldura de toda a cobertura 'day after'. É contra essa régua pública que os balanços de marcas de 14–15/09 serão escritos.",
+     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "A janela de balanços abriu VAZIA: até as 9h30 de hoje, nenhum 'o que as marcas fizeram no RiR 2026' publicado no trade — o kit de atribuição ainda pode chegar primeiro",
+     "src": "varredura da manhã (Promoview, Meio e Mensagem, Mundo do Marketing, propmark)",
+     "when": "14/09, 9h30",
+     "s": "A última peça de trade segue sendo o reconhecimento da Promoview de ontem (~12h20). Nenhum texto consolidado de balanço de ativações saiu até esta varredura — ou seja, a tese de sexta se confirma: quem escrever primeiro pauta o ciclo. O kit do 'mar de leques' (foto Carsten Horst creditada + corte aéreo da transmissão + 'ação da Ipiranga com 30 mil leques no único sábado esgotado' na primeira linha + número oficial cravado) precisa estar nas caixas de entrada antes do meio-dia — depois que o primeiro balanço sem a marca for publicado, os seguintes copiam.",
+     "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    },
+    {
+     "t": "A régua pública do case está impressa em cadeia nacional: 266 mil pessoas em espaços de marcas, dentro de 700 mil de público total",
+     "src": "Jornal de Brasília · Imirante · Rede MRio (balanço oficial em reprodução)",
+     "when": "13–14/09",
+     "s": "O dado que a organização tornou público é o denominador que o case interno precisava: todo número own (fluxo do Espaço Ipiranga de 272 m², leques e pochetes distribuídos, recargas de celular, transações KMV/AmPm) agora pode ser lido como fração de uma régua auditável por terceiros. Consolidar HOJE, com a memória da operação fresca e a equipe ainda mobilizada, é o que permite o one-pager de balanço circular amanhã com autoridade — interna e externamente.",
+     "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+    },
+    {
+     "t": "A lista da Promoview segue sendo o único ranking público de ativações — e o ângulo da Ipiranga nos balanços não é 'melhor estande': é o único gesto de massa sincronizado da edição",
+     "src": "Promoview",
+     "when": "13/09 (vigente)",
+     "s": "KitKat, C&A, Coca-Cola, LATAM e outras 7 marcas carregam selos editoriais que os textos de balanço tendem a citar em bloco. A disputa da Ipiranga nesse ciclo é de enquadramento: nenhuma das 11 premiadas colocou 30 mil pessoas num gesto coordenado no gramado, com artista, no único sábado esgotado — esse é o dado que não existe em nenhum outro case da edição e o que pode furar a lista pronta nos textos de 14–15/09. Estande premiado o mercado tem 11; coreografia de massa com prova visual own, só uma.",
+     "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    },
+    {
+     "t": "O encerramento sob chuva fechou o arco operacional do Espaço — abrigo, tomada e bar na última noite, sem incidentes — e a pergunta da manhã é se a imagem 'amarelo sob capas' foi capturada",
+     "src": "COR (última atualização 17h20 de 13/09) · varredura da manhã",
+     "when": "13–14/09",
+     "s": "Chuva fraca a moderada sem trégua, rajadas de até 51,9 km/h e dispersão madrugada adentro com trens e BRT até as 5h — a operação terminou sem incidentes reportados pelo COR e o Espaço cumpriu na última noite o papel de refúgio desenhado de manhã. Para o acervo do case, falta confirmar a última coleta own: o amarelo da marca aceso no gramado de capas fecharia o arco visual da edição ('do calor do leque ao abrigo da chuva'). Se a imagem existe, entra no kit de hoje; se não, o arco fecha com o material do sábado.",
+     "u": "https://cor.rio/13-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-ultimo-dia-de-evento/"
+    },
+    {
+     "t": "2028 está confirmado — com corrida de rua chegando à Cidade do Rock no evento-teste — e a mesa de renovação abre com o case 2026 como argumento",
+     "src": "Agenda do Poder (balanço oficial da organização)",
+     "when": "13/09",
+     "s": "A organização antecipou o anúncio da próxima edição para dentro do próprio encerramento, e o novo formato (corrida de rua no evento-teste) toca diretamente o território natural da marca: mobilidade, energia, jornada. Para a conversa de renovação que começa agora, o dossiê tem dois capítulos prontos — o case do 'mar de leques' + Espaço como serviço (calor e chuva) desta edição, e uma primeira leitura de como a Ipiranga ocuparia um evento-teste de corrida (KMV, AmPm, abastecimento da jornada do corredor) antes de qualquer concorrente pensar nisso.",
+     "u": "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+    }
+   ],
+   "shows": {
+    "status": "FESTIVAL ENCERRADO — a 7ª e última noite (domingo, 13/09) fechou a edição 2026 sob chuva do primeiro ao último show, e a madrugada de dispersão correu sem incidentes reportados (COR; trens e BRT 'Expresso Rock in Rio' madrugada adentro, cidade em estágio 2 desde sexta). O Rock in Rio volta em setembro de 2028, com corrida de rua estreando no evento-teste. Abaixo, a repercussão completa do encerramento — a partir de hoje o radar entra em fase de balanço: sem grade, o foco é o ciclo de análises da edição (imprensa musical + trade) e o relatório final de amanhã (15/09).",
+    "reperc": [
+     {
+      "date": "13/set (7ª e última noite — domingo de encerramento · noite das mulheres)",
+      "headline": "A estreia do Twenty One Pilots como headliner venceu a crítica e perdeu o gramado: 'provou que sempre mereceu ser headliner' (Rolling Stone) vs 'apresentação menos cheia do dia' (Portal Democrata) — o debate que fecha o festival. No resto, consenso: Halsey doente entregou um dos shows mais intensos da edição, Zara Larsson fez 'um dos mais divertidos de todo o RiR 2026' e saiu com veredicto de Palco Mundo, e Ivete (20ª apresentação) e Joelma coroaram a noite das divas brasileiras sob o 'mar de capas'. Operação limpa até o fim",
+      "artists": [
+       {
+        "name": "Twenty One Pilots (Palco Mundo, 00h05 — estreia e encerramento da edição)",
+        "verdict": "A crítica comprou a aposta: 'provou que sempre mereceu ser headliner' (Rolling Stone, 8h30) — abertura com 'Overcompensate', estreias de 'The Contract' e 'Center Mass', 'Stressed Out' e 'Trees' no fim e três covers ('Seven Nation Army' incluso, mais o cover surpresa de Cher registrado pelo Portal Democrata). Josh Dun 'arrebatador' na bateria, solo em plataforma elevada e músicos no meio da plateia sob chuva ininterrupta. Os poréns: 'faltou criatividade no uso do gigantesco telão' (RS) e o gramado mais esvaziado do dia, que virou pauta própria — redes divididas entre 'melhor show da edição' e questionamento da escalação que interrompeu a sequência feminina.",
+        "links": [
+         [
+          "Rolling Stone Brasil (crítica)",
+          "https://rollingstone.com.br/musica/em-show-no-rock-in-rio-2026-twenty-one-pilots-provou-que-sempre-mereceu-ser-headliner/"
+         ],
+         [
+          "Portal Democrata (show)",
+          "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-fecha-o-rock-in-rio-com-show-marcante-e-sob-forte-chuva/"
+         ],
+         [
+          "Portal Democrata (debate do público)",
+          "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-encerra-rock-in-rio-com-apresentacao-menos-cheia-do-dia-e-provoca-reflexoes-sobre-publico-e-expectativas/"
+         ]
+        ]
+       },
+       {
+        "name": "Halsey (Palco Mundo, 21h35)",
+        "verdict": "'Um show de rock sólido' e 'uma das apresentações mais intensas e barulhentas' do festival (Rolling Stone) — cantando com uma infecção, no primeiro Brasil em três anos, Halsey transformou o pop eletrônico da própria discografia em algo 'mais sujo e urgente' na estética da turnê The Great Impersonator: do caos agressivo com guitarras e fogo ao silêncio de lanternas de celular em balada acústica, com 'o maior mosh de toda a turnê' e um fã de tirolesa como imprevisto da noite. 'Without Me' e 'Closer' seguraram o lado pop.",
+        "links": [
+         [
+          "Rolling Stone Brasil (crítica)",
+          "https://rollingstone.com.br/guia-show/halsey-entrega-um-show-de-rock-solido-no-palco-mundo-do-rock-in-rio-2026/"
+         ],
+         [
+          "Agenda do Poder (noite das mulheres)",
+          "https://agendadopoder.com.br/twenty-one-pilots-encerra-rock-in-rio-com-noite-marcada-por-mulheres/"
+         ]
+        ]
+       },
+       {
+        "name": "Zara Larsson (Palco Sunset, 22h55 — encerramento do palco na edição)",
+        "verdict": "'Um dos shows mais divertidos de todo o Rock in Rio 2026' (Rolling Stone): coreografia afiada com corpo de baile, banda só de mulheres (Pipoca Moderna), 'Midnight Sun' abrindo e fechando, 'Lush Life' e 'Never Forget You' no meio, cover de 'She Did It Again' (Tyla), fã dançando no palco e 'Symphony' como catarse. O veredicto que fica para 2028: a sueca 'cresceu além do Sunset' e merece o Palco Mundo.",
+        "links": [
+         [
+          "Rolling Stone Brasil (crítica)",
+          "https://rollingstone.com.br/guia-show/zara-larsson-encerra-o-palco-sunset-com-um-dos-shows-mais-divertidos-de-todo-o-rock-in-rio-2026/"
+         ],
+         [
+          "Pipoca Moderna (resumo do dia)",
+          "https://pipocamoderna.com.br/2026/09/rock-in-rio-ultimo-dia-shows/"
+         ]
+        ]
+       },
+       {
+        "name": "Ivete Sangalo + Joelma (as divas do encerramento)",
+        "verdict": "A análise do dia seguinte consagrou o capítulo brasileiro: 'as divas brasileiras têm força de sobra para dominar a massa que ocupa o gramado' (Omelete). Ivete, na 20ª apresentação da história do festival ('Sou baiana e faço o que quero' — Fala Canedo), levou o inédito 'A La Sangalo' da estética espanhola ao deserto, desceu do palco e incorporou o temporal ao show; Joelma provou alcance nacional com o calypso, adaptou 'Príncipe Encantado' e fez de Vivi Batidão a confirmação do tecnomelody — um dos momentos mais cantados do festival. 'Um momento histórico para a música brasileira.'",
+        "links": [
+         [
+          "Omelete (análise)",
+          "https://www.omelete.com.br/musica/rock-in-rio-ivete-sangalo-joelma-vivi-batidao-analise-critica"
+         ],
+         [
+          "Fala Canedo (Ivete, 20ª apresentação)",
+          "https://falacanedo.com.br/2026/09/13/ivete-sangalo-destaca-sua-essencia-latina-em-performance-marcante-no-20o-rock-in-rio-sou-baiana-e-faco-o-que-quero/"
+         ]
+        ]
+       },
+       {
+        "name": "Marina Sena + Céu (Palco Sunset, 20h20)",
+        "verdict": "Encenação teatral com personagens mascarados no encontro das duas (Pipoca Moderna) — e Marina Sena termina a edição citada entre os melhores shows dos 7 dias no primeiro balanço artístico consolidado (AR News), pela entrega orgânica de 'Coisas Naturais' com instrumentação brasileira. O Sunset fechou a edição como o palco das apostas certas.",
+        "links": [
+         [
+          "Pipoca Moderna (resumo do dia)",
+          "https://pipocamoderna.com.br/2026/09/rock-in-rio-ultimo-dia-shows/"
+         ],
+         [
+          "AR News (balanço artístico)",
+          "https://www.arnewsnoticias.com/2026/09/os-melhores-e-os-piores-shows-do-rock.html"
+         ]
+        ]
+       },
+       {
+        "name": "O balanço artístico da edição (primeira lista consolidada)",
+        "verdict": "Melhores dos 7 dias segundo o AR News: Stray Kids (precisão e fandom), Foo Fighters (tributo emocional a Taylor Hawkins), Marina Sena, Elton John (o headliner mais velho da história do festival, de amarelo fluorescente), Hwasa (marco do K-pop solo feminino) e Jamiroquai. Decepções: Hot Milk ('Brasil, cadê vocês?'), MGK (plateia hostil), Nelly ('karaokê' sem banda), Luísa Sonza (som ruim, menor público das 3 passagens) e J Balvin. Critérios: relevância, reação de público, setlist, voz e produção — a régua que os rankings dos grandes portais devem seguir nos próximos dias.",
+        "links": [
+         [
+          "AR News (melhores e piores)",
+          "https://www.arnewsnoticias.com/2026/09/os-melhores-e-os-piores-shows-do-rock.html"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "A conversa que fecha o festival: o debate Twenty One Pilots — 'melhor show da edição' para os fãs, 'apresentação menos cheia do dia' para os críticos",
+      "src": "Portal Democrata (14/09) · Rolling Stone Brasil (8h30)",
+      "metric": "leitura editorial da varredura da manhã; sem medição de plataforma nesta rodada",
+      "s": "O headliner que fechou a edição virou o assunto dividido da segunda-feira: a crítica validou a escalação, o gramado esvaziado virou pauta própria e as redes racharam. Para a marca, é o lembrete de que a conversa pós-festival é sobre a EDIÇÃO (rankings, balanços, 'o que ficou') — a janela perfeita para case de ativação entrar no meio.",
+      "u": "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-encerra-rock-in-rio-com-apresentacao-menos-cheia-do-dia-e-provoca-reflexoes-sobre-publico-e-expectativas/"
+     },
+     {
+      "t": "A imagem final da edição é o 'mar de capas': o encerramento sob chuva e fogo domina o UGC e as retrospectivas do dia seguinte",
+      "src": "Pipoca Moderna · Agenda do Poder",
+      "metric": "leitura editorial; sem medição de plataforma nesta rodada",
+      "s": "'Termina sob chuva e fogo após domingo dominado por cantoras' — a estética do último dia (capas de chuva, pirotecnia, despedida) é o que os cortes e carrosséis de retrospectiva vão carregar a semana inteira. Se a coleta own de ontem capturou o amarelo da marca nesse cenário, é a imagem de fechamento do case; o 'mar de leques' amarelo do sábado segue sendo a antítese visual perfeita ao 'mar de capas' do domingo.",
+      "u": "https://pipocamoderna.com.br/2026/09/rock-in-rio-ultimo-dia-shows/"
+     },
+     {
+      "t": "O balanço oficial em cadeia é a moldura do day after: 700 mil, R$ 3,36 bi, 89 países e 2028 confirmado replicados de portal em portal",
+      "src": "Jornal de Brasília · Imirante · Rádio Manchete Rio · Rede 98 · Rede MRio",
+      "metric": "leitura editorial; reprodução em cadeia verificada em 5+ veículos",
+      "s": "Todos os 'o que ficou do RiR 2026' desta semana abrem com os mesmos números — incluindo os 266 mil em espaços de marcas, que é a régua pública dos cases de ativação. Quem posicionar o próprio número contra essa régua primeiro define a comparação; quem não fizer, será comparado pelos outros.",
+      "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "fetch bloqueado na rodada da manhã — 5º dia sem leitura BR válida",
+      "items": [],
+      "note": "Rodada das 9h de 14/09: a chamada ao RSS (geo=BR) foi bloqueada pela camada de permissão de rede da execução agendada (pedido de aprovação expira sem operador presente), em duas tentativas. 5º dia consecutivo sem leitura BR válida (última: 12/09, ~9h20, sem termos do festival). A pergunta da edição — o festival chegou a entrar no ranking nacional de buscas em algum dos 7 dias? — ficará sem resposta de plataforma no relatório final, salvo se a configuração de rede da tarefa for corrigida hoje. Escalar segue pendente."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "off",
+      "statusLabel": "fetch bloqueado — curva final da hashtag não medida",
+      "items": [],
+      "note": "A página pública da #rockinrio seguiu inacessível na rodada das 9h de 14/09 (mesma barreira de permissão de rede). Última leitura válida: 5,7 mi de views (estável de 03/09 a 13/09 de manhã). O dado que fica para o relatório final: a hashtag guarda-chuva NÃO se moveu durante o festival inteiro — a conversa correu nos termos do momento ('mar de leques', 'cavalinho', nomes de artistas). Aprendizado de medição: earned social de evento se mede por termo de momento, não por hashtag institucional."
+     }
+    ],
+    "note": "Rodada das 9h de 14/09: nenhuma medição de plataforma — Google Trends BR (5º dia) e TikTok seguiram bloqueados pela camada de permissão de rede da execução agendada. O bloco viral é leitura editorial da varredura de imprensa da manhã, com fonte e link em todo item. Destaques: o debate Twenty One Pilots (crítica vs gramado), o 'mar de capas' como estética final da edição e o balanço oficial ecoando em cadeia como moldura dos textos de day after. Pendência operacional para o relatório final: corrigir a permissão de rede da tarefa ou aceitar que a edição fecha sem série quantitativa de plataforma."
+   },
+   "direcionais": {
+    "leitura": "O festival acabou; o que se disputa agora é narrativa — e com prazo. Hoje e amanhã (14–15/09) o mercado escreve 'o que as marcas fizeram no RiR 2026', e a varredura das 9h30 mostra a janela ABERTA: nenhum balanço de ativações publicado ainda, com a lista da Promoview de ontem (11 premiadas, sem a Ipiranga) como única referência pronta — quem não disputar o enquadramento herda a ausência. O balanço oficial deu ao case os dois insumos que faltavam: uma régua pública (266 mil pessoas em espaços de marcas, dentro de 700 mil) e um horizonte (2028 confirmado, com corrida de rua no evento-teste — a mesa de renovação abre agora, e o novo formato toca o território natural da marca: mobilidade). Na pista, o encerramento sob chuva fechou o arco operacional do Espaço como serviço — falta só confirmar se a imagem 'amarelo sob capas' foi capturada para fechar o arco visual. Nos embaixadores, a rotina das 10h fecha a medição da edição (46+ posts, zero menção até a última leitura) — o dado vira aprendizado de contratação para 2028, não mais gestão de expectativa. E das trends fica um aprendizado de medição para o relatório final: a #rockinrio passou o festival inteiro parada em 5,7 mi — earned social de evento se mede nos termos do momento, não na hashtag guarda-chuva. Prioridade absoluta da manhã: kit de atribuição na rua antes do primeiro balanço alheio ser publicado.",
+    "dirs": [
+     {
+      "t": "Kit de atribuição na rua ANTES DO MEIO-DIA: a janela de balanços abriu vazia — o primeiro texto publicado pauta os seguintes, e ele ainda não existe",
+      "s": "Nenhum 'o que as marcas fizeram' saiu até as 9h30. O kit está pronto desde ontem (foto Carsten Horst creditada + corte aéreo da transmissão + número oficial cravado + 'ação da Ipiranga com 30 mil leques no único sábado esgotado' na primeira linha): disparar agora para Promoview, Meio e Mensagem, Mundo do Marketing e propmark, com follow-up por telefone para as redações que cobrem balanço. Cada hora de atraso aumenta o risco de o primeiro balanço sair copiando a lista da Promoview — que não tem a marca.",
+      "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+     },
+     {
+      "t": "Fechar o balanço interno HOJE contra a régua pública: todo número own lido como fração dos 266 mil — antes que a memória da operação se desmobilize",
+      "s": "Fluxo total do Espaço Ipiranga (272 m², 3 andares, 7 dias), leques e pochetes distribuídos por dia, recargas de celular, transações KMV/AmPm — consolidar hoje, com a equipe de campo ainda contratada e os dashboards abertos. O formato de saída é um one-pager: 'X% das 266 mil experiências de marca da edição passaram pelo território Ipiranga', com a série diária (calor→leque, chuva→abrigo) como narrativa. É o documento que alimenta cliente, imprensa e a mesa de renovação — três públicos, um número.",
+      "u": "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+     },
+     {
+      "t": "Nos balanços, disputar o ENQUADRAMENTO, não o ranking: o ângulo da Ipiranga é o único gesto de massa sincronizado da edição — não 'melhor estande'",
+      "s": "As 11 premiadas da Promoview dominam o território do espaço físico; nenhuma colocou 30 mil pessoas num gesto coordenado no gramado, com artista, no único sábado esgotado. Todo material de balanço (kit, one-pager, conversa com jornalista) abre por aí — 'a maior coreografia de marca da edição' — e trata o Espaço como capítulo 2 (serviço: fila climatizada no calor, abrigo na chuva, 89 anos no dia 7). Contra 11 selos de estande, um recorde de participação é o único ângulo que rende manchete própria.",
+      "u": "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+     },
+     {
+      "t": "Abrir o dossiê 2028 esta semana: a renovação começa agora, e o evento-teste com corrida de rua é território de mobilidade que a marca pode reivindicar antes de todo mundo",
+      "s": "A organização confirmou 2028 dentro do próprio encerramento — sinal de venda antecipada de cotas. O dossiê de renovação tem dois capítulos: (1) o case 2026 fechado em números (mar de leques + Espaço como serviço + KMV/AmPm na jornada); (2) uma primeira proposta para o evento-teste de corrida de rua — abastecimento da jornada do corredor (hidratação AmPm, energia, KMV como programa de fidelidade do treino ao pódio) é leitura natural do portfólio, e chegar com ela ANTES da concorrência define a conversa. Meta: dossiê na mesa do cliente antes do fim do mês.",
+      "u": "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+     },
+     {
+      "t": "Fechar acervo e medição da edição: confirmar a imagem 'amarelo sob capas' de ontem e medir o earned social nos termos do momento — a #rockinrio provou que não mede nada",
+      "s": "Duas pendências de fechamento antes do relatório final de amanhã: (1) verificar se a coleta own do encerramento capturou o amarelo da marca no 'mar de capas' — se sim, é a imagem que fecha o arco visual do case ao lado do 'mar amarelo' do sábado; (2) montar a medição earned da edição por termos de momento ('mar de leques', 'cavalinho', 'leque amarelo') em vez da hashtag guarda-chuva, que passou os 7 dias parada em 5,7 mi. A rotina das 10h fecha hoje a medição dos embaixadores (zero menção até a última leitura) — o dado entra no relatório como aprendizado de contratação para 2028, com custo de oportunidade calculado.",
+      "u": "https://www.tiktok.com/tag/rockinrio"
+     }
+    ],
+    "acion": [
+     "Até 12h: disparar o kit de atribuição do 'mar de leques' (foto own creditada + corte aéreo + número oficial + 'ação da Ipiranga' na primeira linha) para Promoview, Meio e Mensagem, Mundo do Marketing e propmark, com follow-up telefônico — a varredura das 9h30 confirma que nenhum balanço de marcas foi publicado ainda.",
+     "Hoje: consolidar com a operação os números finais own (fluxo do Espaço nos 7 dias, brindes por dia, recargas, transações KMV/AmPm) e fechar o one-pager 'X% das 266 mil experiências de marca' com a série calor→chuva como narrativa.",
+     "Hoje: confirmar com o fotógrafo a captura 'amarelo sob capas' do encerramento e fechar o acervo visual do case (sábado: mar amarelo; domingo: abrigo na chuva) para o relatório final de amanhã.",
+     "Após a rotina das 10h: consolidar a medição final dos 5 embaixadores (posts, menções, alcance) e escrever a recomendação 2028 — critério de contratação com cláusula de menção e custo de oportunidade da edição 2026 calculado.",
+     "Esta semana: abrir o dossiê de renovação 2028 (case 2026 + proposta para o evento-teste com corrida de rua no território mobilidade/KMV/AmPm) com meta de mesa do cliente antes do fim do mês."
+    ]
+   },
+   "sources": [
+    [
+     "Rolling Stone Brasil — Em show no RiR 2026, Twenty One Pilots provou que sempre mereceu ser headliner (14/09, 8h30)",
+     "https://rollingstone.com.br/musica/em-show-no-rock-in-rio-2026-twenty-one-pilots-provou-que-sempre-mereceu-ser-headliner/"
+    ],
+    [
+     "Portal Democrata — Twenty One Pilots fecha o Rock in Rio com show marcante e sob forte chuva (14/09, 5h04)",
+     "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-fecha-o-rock-in-rio-com-show-marcante-e-sob-forte-chuva/"
+    ],
+    [
+     "Portal Democrata — TOP encerra com apresentação menos cheia do dia e provoca reflexões sobre público e expectativas (14/09)",
+     "https://portaldemocrata.com.br/2026/09/14/twenty-one-pilots-encerra-rock-in-rio-com-apresentacao-menos-cheia-do-dia-e-provoca-reflexoes-sobre-publico-e-expectativas/"
+    ],
+    [
+     "Agenda do Poder — Twenty One Pilots encerra Rock in Rio com noite marcada por mulheres (14/09)",
+     "https://agendadopoder.com.br/twenty-one-pilots-encerra-rock-in-rio-com-noite-marcada-por-mulheres/"
+    ],
+    [
+     "Rolling Stone Brasil — Halsey entrega um show de rock sólido no Palco Mundo (14/09)",
+     "https://rollingstone.com.br/guia-show/halsey-entrega-um-show-de-rock-solido-no-palco-mundo-do-rock-in-rio-2026/"
+    ],
+    [
+     "Rolling Stone Brasil — Zara Larsson encerra o Sunset com um dos shows mais divertidos de todo o RiR 2026 (14/09)",
+     "https://rollingstone.com.br/guia-show/zara-larsson-encerra-o-palco-sunset-com-um-dos-shows-mais-divertidos-de-todo-o-rock-in-rio-2026/"
+    ],
+    [
+     "Omelete — Ivete Sangalo e Joelma mostram a força das divas brasileiras (14/09)",
+     "https://www.omelete.com.br/musica/rock-in-rio-ivete-sangalo-joelma-vivi-batidao-analise-critica"
+    ],
+    [
+     "Fala Canedo — Ivete Sangalo destaca essência latina na 20ª apresentação: 'Sou baiana e faço o que quero' (13/09)",
+     "https://falacanedo.com.br/2026/09/13/ivete-sangalo-destaca-sua-essencia-latina-em-performance-marcante-no-20o-rock-in-rio-sou-baiana-e-faco-o-que-quero/"
+    ],
+    [
+     "Pipoca Moderna — Rock in Rio termina sob chuva e fogo após domingo dominado por cantoras (14/09)",
+     "https://pipocamoderna.com.br/2026/09/rock-in-rio-ultimo-dia-shows/"
+    ],
+    [
+     "AR News — Os melhores e os piores shows do Rock in Rio 2026 (14/09)",
+     "https://www.arnewsnoticias.com/2026/09/os-melhores-e-os-piores-shows-do-rock.html"
+    ],
+    [
+     "Jornal de Brasília — RiR 2026 reúne 700 mil pessoas em sete dias; edição 2028 confirmada (13–14/09, eco em cadeia)",
+     "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+    ],
+    [
+     "Agenda do Poder — Rock in Rio reúne mais de 700 mil pessoas e movimenta R$ 3,36 bilhões (13/09)",
+     "https://agendadopoder.com.br/rock-in-rio-reune-mais-de-700-mil-pessoas-e-movimenta-r-336-bilhoes/"
+    ],
+    [
+     "Promoview — KitKat leva Melhor Design entre as 11 experiências reconhecidas no RiR 2026 (13/09, vigente como único ranking público)",
+     "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    ],
+    [
+     "Promoview — Hub da cobertura de brand experience (varredura 14/09, 9h30: sem balanço novo publicado)",
+     "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    ],
+    [
+     "COR — 7º e último dia do Rock in Rio em tempo real (13/09, última atualização 17h20)",
+     "https://cor.rio/13-09-rock-in-rio-2026-acompanhe-em-tempo-real-as-informacoes-do-ultimo-dia-de-evento/"
+    ],
+    [
+     "Google Trends — RSS Trending geo=BR (14/09: fetch bloqueado pela permissão de rede da tarefa; 5º dia sem leitura BR)",
+     "https://trends.google.com/trending/rss?geo=BR"
+    ],
+    [
+     "TikTok — página pública da #rockinrio (14/09: fetch bloqueado; última leitura válida 5,7 mi, estável 03–13/09)",
+     "https://www.tiktok.com/tag/rockinrio"
+    ]
+   ],
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 41,
+      "citouIpiranga": false,
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "parado",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
+     }
+    ],
+    "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+      "likes": 505,
+      "coments": 13,
+      "shares": 38,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+      "likes": 1783,
+      "coments": 78,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+      "likes": 1840,
+      "coments": 15,
+      "shares": 77,
+      "marcas": [
+       "@calvinharrisbrasil"
+      ],
+      "collab": "@calvinharrisbrasil",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+      "likes": 1641,
+      "coments": 11,
+      "shares": 43,
+      "marcas": [],
+      "collab": "@matheuscarvalh.o",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+      "likes": 2644,
+      "coments": 45,
+      "shares": 142,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+      "likes": 2629,
+      "coments": 63,
+      "shares": 31,
+      "marcas": [
+       "@itau",
+       "@pabllovittar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+      "likes": 2954,
+      "coments": 40,
+      "shares": 73,
+      "marcas": [
+       "@ifoodbrasil"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+      "likes": 31000,
+      "coments": 473,
+      "shares": 3000,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Esse é o significado?' — momento de show do dia 3",
+      "likes": 21400,
+      "coments": 390,
+      "shares": 1700,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 61300,
+      "coments": 3500,
+      "shares": 3500,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
+     }
+    ],
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   }
+  },
   {
    "date": "13/09/2026",
    "dateISO": "2026-09-13",
