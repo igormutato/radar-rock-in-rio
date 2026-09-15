@@ -1,9 +1,9 @@
 window.RADAR = {
  "meta": {
-  "version": 43,
-  "updatedAt": "15/09/2026, 09h30 (BRT)",
+  "version": 44,
+  "updatedAt": "15/09/2026, 20h05 (BRT)",
   "updatedISO": "2026-09-15",
-  "nextUpdate": "radar encerrado — edição final (balanço) publicada em 15/09/2026",
+  "nextUpdate": "radar encerrado — edição final fechada na atualização da noite de 15/09/2026; rotinas de 9h, 10h e 20h desativadas",
   "festivalStart": "2026-09-04",
   "festivalDays": [
    "2026-09-04",
@@ -793,11 +793,32 @@ window.RADAR = {
    "edition": 23,
    "phase": "balanço — EDIÇÃO FINAL do radar: balanço geral do RiR 2026 + aprendizados para a Ipiranga · a operação diária encerra hoje (rotinas de 9h, 10h e 20h desativadas após esta publicação)",
    "pulse": [
-    "🏆 <b>O balanço artístico da edição está consolidado — e o show da ação da Ipiranga está no Top 10 oficial da crítica.</b> O g1 fechou seu Top 10 dos 7 dias (4 jornalistas; critérios: relevância, reação da plateia, setlist, execução e técnica) com Elton John em 1º, Hwasa em 2º e o rock em 3 posições — e Pedro Sampaio, o show do 'mar de leques' de 12/09, em 7º. Terra e Exame publicaram seus 'melhores e piores' no mesmo dia, com consenso nos vencedores (Elton John, Stray Kids/Hwasa, João Gomes, Zara Larsson) e nas decepções (MGK, Maroon 5, Luísa Sonza, Calvin Harris). Para o case, a leitura é uma só: a maior coreografia de marca da edição aconteceu dentro de um dos 10 melhores shows do festival segundo a crítica — credencial editorial que o kit de atribuição ainda não usou.",
-    "🔴 <b>Último dia da janela de balanços de marcas — e ela segue vazia: nenhum 'o que as marcas fizeram no RiR 2026' publicado até esta manhã.</b> A cobertura da Promoview não ganhou texto de balanço; o propmark fechou a segunda com pautas de fora do festival. O que circulou no day after foram dois movimentos de concorrentes de patrocínio: a LATAM iluminando o Cristo Redentor com a nova assinatura global ('Bem-vindo a ir mais alto') — a 'última palavra' visual da edição, emplacada em trade, aviação e turismo — e o dado de listening da Human Data no propmark (TIM com 55% das menções entre patrocinadores nos 4 primeiros dias) consolidando-se como a régua earned que os textos de balanço vão citar. O kit do 'mar de leques' sai HOJE com o gancho novo do Top 10 ou vira case retrospectivo.",
-    "🏁 <b>Esta é a edição final do radar: 23 edições em 43 dias de operação — e três aprendizados de medição ficam para 2028.</b> (1) Earned se mede em termos de momento, não em hashtag guarda-chuva: a #rockinrio passou o festival inteiro parada em 5,7 mi de views enquanto 'mar de leques' e 'cavalinho' carregavam a conversa. (2) A régua de share of voice é pública e impiedosa: TIM 55% com infraestrutura + pauta constante; gesto físico sem máquina de amplificação não vira menção. (3) Operação agendada precisa de rede liberada ANTES do evento: Google Trends BR e TikTok fecharam a edição bloqueados pela camada de permissão (6º dia), e a série quantitativa de plataforma ficou incompleta. As três rotinas do radar são desativadas após esta publicação; o histórico completo fica em RADAR.editions[] para o relatório final."
+    "🌙 <b>Edição da noite (20h) — última atualização do radar: a janela de balanços de marcas finalmente abriu, e quem abriu foi a Seara.</b> Depois de uma manhã com a janela vazia, a varredura da noite encontrou o primeiro balanço de resultados de patrocinador da edição: 'Seara dobra vendas no Rock in Rio e amplia estratégia de marca no festival' (Exame Marketing) e 'Seara dobra faturamento no Rock in Rio com presença ampliada em todos os palcos' (Times Brasil/CNBC), com reproduções em portais regionais. O formato que o mercado premiou não foi lista de ativações — foi resultado de negócio ('dobrou'). Tradução imediata para o case: o kit do 'mar de leques' passa a disputar espaço com balanços de venda, e a versão com números own (fluxo do Espaço, leques/pochetes, transações KMV/AmPm) vale mais do que qualquer versão institucional.",
+    "📈 <b>O tambor de 2028 bateu o dia inteiro: o Rock in Run chegou à imprensa musical de referência e ganhou detalhes de produto.</b> A Rolling Stone Brasil publicou a novidade ('Rock in Rio ganha novo evento em 2028'), a repercussão agregou a dimensão da corrida (~10 mil atletas e a janela de setembro, via rapmidia) e o encadeamento The Town 2027 → RiR 2028 apareceu na cobertura (Diário Carioca). Cada dia de repercussão aquece a precificação do evento-teste — mais um motivo para o dossiê de renovação chegar à mesa do cliente dentro de setembro, como recomendado pela edição da manhã.",
+    "🏁 <b>Encerramento operacional: esta é a última publicação do radar — e ela fecha com o aprendizado de medição confirmado até o fim.</b> Na rodada das 20h, a camada de permissão de rede bloqueou não só o Google Trends BR (7º dia) e o TikTok, mas TODOS os fetches diretos de página — inclusive imprensa; a varredura da noite rodou apenas com busca. A série quantitativa da edição encerra incompleta, como já registrado para o relatório final: fontes validadas ANTES do evento são pré-requisito de 2028. As rotinas de 9h, 10h e 20h são desativadas após esta publicação; o histórico das 23 edições fica preservado em RADAR.editions[]."
    ],
    "news": [
+    {
+     "t": "A janela de balanços abriu pelo lado dos resultados: Seara divulga que dobrou as vendas no RiR 2026 — primeiro balanço de patrocinador do pós-festival",
+     "src": "Exame Marketing · Times Brasil/CNBC",
+     "when": "varredura da noite de 15/09 (a rodada das 9h ainda não encontrava balanço algum no trade)",
+     "s": "A marca — que estreou o espaço de churrasco na Cidade do Rock e ampliou presença para todos os palcos — comunicou ter dobrado o faturamento no festival, e emplacou o número em pelo menos dois veículos de negócios, com reproduções em portais regionais. É o primeiro texto do gênero 'o que a marca colheu no RiR 2026' identificado na edição, e ele define o formato da conversa do pós-festival: resultado de negócio com número redondo, não descrição de ativação. A régua para os balanços que vierem está posta.",
+     "u": "https://exame.com/marketing/seara-dobra-vendas-no-rock-in-rio-e-amplia-estrategia-de-marca-no-festival/"
+    },
+    {
+     "t": "Times Brasil/CNBC dedica coluna ao lado B do festival: 'as marcas também são rockstars' — a moldura de negócios da edição vira pauta de colunista",
+     "src": "Times Brasil | CNBC (coluna Felipe Machado)",
+     "when": "pós-festival (varredura da noite de 15/09)",
+     "s": "A coluna consolida a leitura de negócios da edição — os R$ 3,36 bi movimentados e o peso das marcas na experiência do público — e, somada às matérias de resultado da Seara no mesmo veículo, mostra a editoria econômica tratando patrocínio como protagonista do festival. Para o radar: o capítulo final do RiR 2026 está sendo escrito pela imprensa de negócios, e é nela que o case da Ipiranga precisa circular para existir na memória da edição.",
+     "u": "https://timesbrasil.com.br/colunas/felipe-machado/no-rock-in-rio-as-marcas-tambem-sao-rockstars-e-os-numeros-sao-superlativos-com-r-336-bi-movimentando-a-economia-da-cidade/"
+    },
+    {
+     "t": "Rock in Run alcança a imprensa musical de referência: Rolling Stone Brasil publica a novidade de 2028, e a repercussão detalha corrida de ~10 mil atletas",
+     "src": "Rolling Stone Brasil · rapmidia · Diário Carioca",
+     "when": "13–15/09 (repercussão acumulada até a noite)",
+     "s": "Dois dias depois do anúncio no palco, a corrida de 2028 segue rendendo: a Rolling Stone Brasil levou a pauta ao público de música, a rapmidia registrou a dimensão do produto (cerca de 10 mil atletas, janela de setembro) e o Diário Carioca encadeou o calendário The Town 2027 → RiR 2028. Quanto mais a novidade circula, mais cedo o mercado precifica as cotas do evento-teste — o argumento de urgência do dossiê de renovação se confirma na prática.",
+     "u": "https://rollingstone.com.br/rock-in-rio/rock-in-rio-ganha-novo-evento-em-2028-saiba-mais-sobre-a-novidade/"
+    },
     {
      "t": "Top 10 oficial do g1 fecha a edição: Elton John em 1º, Hwasa em 2º, rock em 3 posições — e Pedro Sampaio, o show do 'mar de leques', em 7º",
      "src": "g1 (via Whiplash)",
@@ -843,6 +864,13 @@ window.RADAR = {
    ],
    "ipiranga": [
     {
+     "t": "Rodada das 20h: a janela abriu — mas quem entrou foi a Seara; o 'mar de leques' fecha o dia sem repercussão de kit registrada no trade",
+     "src": "varredura da noite (somente busca — fetch de páginas bloqueado na rodada)",
+     "when": "15/09, 20h",
+     "s": "A varredura da noite não encontrou balanço da Ipiranga publicado nem eco do kit de atribuição no trade — as peças da marca em circulação seguem sendo as reproduções do release pré-show dos 30 mil leques e a atribuição editorial da Aurora Cultural (12/09). Enquanto isso, a Seara estabeleceu o formato vencedor do pós-festival: resultado de negócio com número redondo ('dobrou as vendas'). Encaminhamento final do radar: o material do case migra de notícia do ciclo para case retrospectivo — e deve ser reempacotado no formato que o mercado está premiando, números own primeiro (fluxo do Espaço nos 7 dias, leques e pochetes distribuídos, recargas e transações KMV/AmPm), narrativa depois, mantendo o selo editorial do Top 10 do g1 como credencial.",
+     "u": "https://exame.com/marketing/seara-dobra-vendas-no-rock-in-rio-e-amplia-estrategia-de-marca-no-festival/"
+    },
+    {
      "t": "Último dia da janela — e ela segue vazia: nenhum balanço de ativações publicado até a manhã desta terça, nem na Promoview nem no restante do trade",
      "src": "varredura da manhã (cobertura Promoview · propmark · Mundo do Marketing · Meio e Mensagem)",
      "when": "15/09, 9h",
@@ -879,7 +907,7 @@ window.RADAR = {
     }
    ],
    "shows": {
-    "status": "FESTIVAL ENCERRADO (última noite: 13/09) — edição final do radar. O balanço artístico consolidou-se em três rankings publicados em 14/09 (g1, Terra e Exame), com Elton John como show da edição, o K-pop consagrado (Hwasa em 2º no g1; Stray Kids no Top 10 dos três) e Pedro Sampaio — o show do 'mar de leques' — em 7º no g1. A moldura oficial segue: 700 mil pessoas em 7 dias, R$ 3,36 bi de impacto, 266 mil em espaços de marcas, 89 países. O Rock in Rio volta em 2028, com o Rock in Run (5/10 km, chegada na Cidade do Rock) estreando no evento-teste.",
+    "status": "FESTIVAL ENCERRADO (última noite: 13/09) — edição final do radar. O balanço artístico consolidou-se em três rankings publicados em 14/09 (g1, Terra e Exame), com Elton John como show da edição, o K-pop consagrado (Hwasa em 2º no g1; Stray Kids no Top 10 dos três) e Pedro Sampaio — o show do 'mar de leques' — em 7º no g1. A moldura oficial segue: 700 mil pessoas em 7 dias, R$ 3,36 bi de impacto, 266 mil em espaços de marcas, 89 países. O Rock in Rio volta em 2028, com o Rock in Run (5/10 km, chegada na Cidade do Rock) estreando no evento-teste. · Rodada das 20h: o pós-festival entrou na fase de balanços de RESULTADO — a Seara abriu a fila divulgando vendas dobradas (Exame · Times Brasil/CNBC), primeiro patrocinador a publicar números da edição; o veredicto artístico dos três rankings de 14/09 (g1, Terra, Exame) segue como consolidado.",
     "reperc": [
      {
       "date": "Balanço da edição (4–7 e 11–13/set) — os rankings do day after",
@@ -922,6 +950,13 @@ window.RADAR = {
    "trends": {
     "viral": [
      {
+      "t": "O formato do pós-festival mudou de 'lista' para 'balanço de resultados': a Seara abriu a janela com 'dobrou as vendas' — e esse é o molde que o case de marca precisa adotar",
+      "src": "Exame Marketing · Times Brasil/CNBC",
+      "metric": "leitura editorial da varredura da noite (somente busca — fetch de páginas bloqueado na rodada das 20h)",
+      "s": "De manhã, o formato dominante da conversa era o ranking editorial (g1/Terra/Exame); à noite, o primeiro balanço de patrocinador com número de negócio assumiu o trade. Quem entra agora nessa fila entra com número próprio ou não entra — para a Ipiranga, os candidatos são as frações own das 266 mil experiências de marca: fluxo do Espaço, leques e pochetes do 'mar de leques', recargas e transações KMV/AmPm.",
+      "u": "https://exame.com/marketing/seara-dobra-vendas-no-rock-in-rio-e-amplia-estrategia-de-marca-no-festival/"
+     },
+     {
       "t": "O formato que domina o pós-festival é a LISTA: três 'melhores e piores' no mesmo dia (g1, Terra, Exame) — e é nesse formato que o case de marca precisa entrar para circular",
       "src": "g1 (via Whiplash) · Terra · Exame",
       "metric": "leitura editorial da varredura da manhã; sem medição de plataforma nesta rodada",
@@ -949,21 +984,21 @@ window.RADAR = {
       "icon": "🔍",
       "name": "Google Trends · Brasil",
       "status": "off",
-      "statusLabel": "fetch bloqueado — 6º dia; a edição fecha sem leitura BR válida desde 12/09",
+      "statusLabel": "fetch bloqueado também na rodada das 20h — 7º dia; a série encerra sem leitura BR válida desde 12/09",
       "items": [],
-      "note": "Rodada final (9h de 15/09): a chamada ao RSS (geo=BR) foi bloqueada de novo pela camada de permissão de rede da execução agendada — 6º dia consecutivo. Última leitura válida: 12/09, sem termos do festival no ranking. Registro para o relatório final: a série da edição ficou incompleta e a pergunta 'o festival entrou no ranking nacional de buscas?' fecha sem resposta de plataforma. Aprendizado operacional para 2028: validar as permissões de rede das rotinas agendadas ANTES do evento, com fetch de teste em cada fonte."
+      "note": "Rodada final (20h de 15/09): a chamada ao RSS (geo=BR) foi bloqueada de novo pela camada de permissão de rede — 7º dia consecutivo, incluindo as duas rodadas do dia do encerramento. Última leitura válida: 12/09, sem termos do festival no ranking. A série da edição fecha incompleta e a pergunta 'o festival entrou no ranking nacional de buscas?' encerra sem resposta de plataforma. Aprendizado operacional para 2028 (registrado para o relatório final): validar as permissões de rede das rotinas agendadas ANTES do evento, com fetch de teste em cada fonte."
      },
      {
       "id": "tiktok",
       "icon": "🎵",
       "name": "TikTok · hashtags",
       "status": "off",
-      "statusLabel": "fetch bloqueado — curva da edição fecha congelada em 5,7 mi (03→13/09)",
+      "statusLabel": "fetch bloqueado — série encerra com a curva congelada em 5,7 mi (03→13/09), sem medição final",
       "items": [],
-      "note": "A página pública da #rockinrio seguiu inacessível na rodada final (mesma barreira de permissão de rede). A série da edição fecha com o dado que virou aprendizado: a hashtag guarda-chuva ficou parada em 5,7 mi de views de 03/09 a 13/09 — o festival inteiro — enquanto a conversa correu nos termos de momento ('mar de leques', 'cavalinho', nomes de artistas). Para 2028: earned social de evento se mede por termo de momento e por show, não por hashtag institucional."
+      "note": "A página pública da #rockinrio seguiu inacessível também na rodada das 20h do encerramento (mesma barreira de permissão de rede). A série da edição fecha com o dado que virou aprendizado: a hashtag guarda-chuva ficou parada em 5,7 mi de views de 03/09 a 13/09 — o festival inteiro — enquanto a conversa correu nos termos de momento ('mar de leques', 'cavalinho', nomes de artistas). Para 2028: earned social de evento se mede por termo de momento e por show, não por hashtag institucional."
      }
     ],
-    "note": "Rodada final (9h de 15/09): nenhuma medição de plataforma — Google Trends BR (6º dia) e TikTok seguiram bloqueados pela camada de permissão de rede da execução agendada. O bloco viral é leitura editorial da varredura de imprensa, com fonte e link em todo item. Encerramento da série: a aba Trends fecha a edição 2026 com dois aprendizados de medição (termos de momento > hashtag guarda-chuva; permissões de rede validadas antes do evento) registrados nas notas das colunas para o relatório final."
+    "note": "Rodada final (20h de 15/09): nenhuma medição de plataforma — e nesta rodada a camada de permissão bloqueou TODOS os fetches de página, inclusive dos sites de imprensa que funcionavam de manhã; a varredura da noite rodou apenas com busca. Google Trends BR fecha a edição com 7 dias consecutivos de bloqueio e o TikTok sem leitura final da curva. O bloco viral é leitura editorial com fonte e link em todo item. A aba encerra o RiR 2026 reafirmando os dois aprendizados de medição da edição: termos de momento > hashtag guarda-chuva, e permissões de rede validadas antes do evento."
    },
    "direcionais": {
     "leitura": "Edição final. O festival terminou em 13/09; o que esta semana decide é quem escreve a história das marcas na edição — e, até a manhã desta terça, NINGUÉM escreveu: a janela de balanços segue vazia, com a lista das 11 premiadas da Promoview como única referência pronta e dois movimentos de concorrentes ocupando o vácuo (LATAM no Cristo como imagem de fechamento; TIM 55% como régua earned via Human Data/propmark). Hoje é o último dia em que o kit de atribuição do 'mar de leques' entra como notícia do ciclo — e ele ganhou ontem a credencial que faltava: Pedro Sampaio no Top 10 oficial do g1, ou seja, a ação da marca aconteceu dentro de um dos 10 melhores shows da edição pela crítica. O balanço da edição para a Ipiranga se escreve em três linhas: um case único de massa sincronizada com prova visual own (30 mil leques no único sábado esgotado) + um Espaço que virou serviço nos dois extremos do clima (calor→leque, chuva→abrigo) + os 89 anos celebrados dentro do festival; e três aprendizados estruturais para 2028: amplificação acoplada ao gesto físico (a régua TIM não perdoa), medição por termos de momento com rede validada antes do evento, e contratos de influência com entrega e menção em cláusula (46+ posts monitorados, zero menção espontânea à marca). O radar encerra a operação diária nesta edição — as três rotinas serão desativadas após esta publicação, e o histórico das 23 edições fica como base do relatório final.",
@@ -1051,6 +1086,30 @@ window.RADAR = {
     [
      "Jornal de Brasília — Rock in Rio 2026 reúne 700 mil pessoas em sete dias; edição 2028 confirmada (13/09; moldura oficial)",
      "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+    ],
+    [
+     "Exame — Seara dobra vendas no Rock in Rio e amplia estratégia de marca no festival (varredura da noite de 15/09)",
+     "https://exame.com/marketing/seara-dobra-vendas-no-rock-in-rio-e-amplia-estrategia-de-marca-no-festival/"
+    ],
+    [
+     "Times Brasil | CNBC — Seara dobra faturamento no Rock in Rio com presença ampliada em todos os palcos (varredura da noite de 15/09)",
+     "https://timesbrasil.com.br/entretenimento/seara-dobra-faturamento-no-rock-in-rio-com-presenca-ampliada-em-todos-os-palcos-do-festival/"
+    ],
+    [
+     "Times Brasil | CNBC — coluna Felipe Machado: No Rock in Rio, as marcas também são rockstars (pós-festival)",
+     "https://timesbrasil.com.br/colunas/felipe-machado/no-rock-in-rio-as-marcas-tambem-sao-rockstars-e-os-numeros-sao-superlativos-com-r-336-bi-movimentando-a-economia-da-cidade/"
+    ],
+    [
+     "Rolling Stone Brasil — Rock in Rio ganha novo evento em 2028; saiba mais sobre a novidade (repercussão Rock in Run)",
+     "https://rollingstone.com.br/rock-in-rio/rock-in-rio-ganha-novo-evento-em-2028-saiba-mais-sobre-a-novidade/"
+    ],
+    [
+     "rapmidia — Rock in Rio 2028 confirmado com corrida de 10 mil atletas e nova data em setembro",
+     "https://rapmidia.com.br/rock-in-rio-2028-confirmado-com-corrida-de-10-mil-atletas-e-nova-data-em-setembro/"
+    ],
+    [
+     "Diário Carioca — Rock in Rio celebra edição histórica de 26, prepara o The Town 27 e anuncia Rock in Run em 28 (13/09)",
+     "https://www.diariocarioca.com/2026/09/13/cultura/musica/rock-in-rio/rock-in-rio-celebra-edicao-historica-de-26-prepara-o-the-town-27-e-anuncia-rock-in-run-em-28"
     ]
    ],
    "influencia": {
