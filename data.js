@@ -1,9 +1,9 @@
 window.RADAR = {
  "meta": {
-  "version": 42,
-  "updatedAt": "14/09/2026, 09h45 (BRT)",
-  "updatedISO": "2026-09-14",
-  "nextUpdate": "diária, ~9h (BRT)",
+  "version": 43,
+  "updatedAt": "15/09/2026, 09h30 (BRT)",
+  "updatedISO": "2026-09-15",
+  "nextUpdate": "radar encerrado — edição final (balanço) publicada em 15/09/2026",
   "festivalStart": "2026-09-04",
   "festivalDays": [
    "2026-09-04",
@@ -786,6 +786,936 @@ window.RADAR = {
   }
  ],
  "editions": [
+  {
+   "date": "15/09/2026",
+   "dateISO": "2026-09-15",
+   "weekday": "terça-feira",
+   "edition": 23,
+   "phase": "balanço — EDIÇÃO FINAL do radar: balanço geral do RiR 2026 + aprendizados para a Ipiranga · a operação diária encerra hoje (rotinas de 9h, 10h e 20h desativadas após esta publicação)",
+   "pulse": [
+    "🏆 <b>O balanço artístico da edição está consolidado — e o show da ação da Ipiranga está no Top 10 oficial da crítica.</b> O g1 fechou seu Top 10 dos 7 dias (4 jornalistas; critérios: relevância, reação da plateia, setlist, execução e técnica) com Elton John em 1º, Hwasa em 2º e o rock em 3 posições — e Pedro Sampaio, o show do 'mar de leques' de 12/09, em 7º. Terra e Exame publicaram seus 'melhores e piores' no mesmo dia, com consenso nos vencedores (Elton John, Stray Kids/Hwasa, João Gomes, Zara Larsson) e nas decepções (MGK, Maroon 5, Luísa Sonza, Calvin Harris). Para o case, a leitura é uma só: a maior coreografia de marca da edição aconteceu dentro de um dos 10 melhores shows do festival segundo a crítica — credencial editorial que o kit de atribuição ainda não usou.",
+    "🔴 <b>Último dia da janela de balanços de marcas — e ela segue vazia: nenhum 'o que as marcas fizeram no RiR 2026' publicado até esta manhã.</b> A cobertura da Promoview não ganhou texto de balanço; o propmark fechou a segunda com pautas de fora do festival. O que circulou no day after foram dois movimentos de concorrentes de patrocínio: a LATAM iluminando o Cristo Redentor com a nova assinatura global ('Bem-vindo a ir mais alto') — a 'última palavra' visual da edição, emplacada em trade, aviação e turismo — e o dado de listening da Human Data no propmark (TIM com 55% das menções entre patrocinadores nos 4 primeiros dias) consolidando-se como a régua earned que os textos de balanço vão citar. O kit do 'mar de leques' sai HOJE com o gancho novo do Top 10 ou vira case retrospectivo.",
+    "🏁 <b>Esta é a edição final do radar: 23 edições em 43 dias de operação — e três aprendizados de medição ficam para 2028.</b> (1) Earned se mede em termos de momento, não em hashtag guarda-chuva: a #rockinrio passou o festival inteiro parada em 5,7 mi de views enquanto 'mar de leques' e 'cavalinho' carregavam a conversa. (2) A régua de share of voice é pública e impiedosa: TIM 55% com infraestrutura + pauta constante; gesto físico sem máquina de amplificação não vira menção. (3) Operação agendada precisa de rede liberada ANTES do evento: Google Trends BR e TikTok fecharam a edição bloqueados pela camada de permissão (6º dia), e a série quantitativa de plataforma ficou incompleta. As três rotinas do radar são desativadas após esta publicação; o histórico completo fica em RADAR.editions[] para o relatório final."
+   ],
+   "news": [
+    {
+     "t": "Top 10 oficial do g1 fecha a edição: Elton John em 1º, Hwasa em 2º, rock em 3 posições — e Pedro Sampaio, o show do 'mar de leques', em 7º",
+     "src": "g1 (via Whiplash)",
+     "when": "14/09",
+     "s": "A crítica assinada por 4 jornalistas mediu relevância, reação da plateia, setlist, execução e técnica nos 7 dias e mais de 120 atrações. A lista: Elton John, Hwasa, Bring Me The Horizon, Péricles, João Gomes, Jamiroquai, Pedro Sampaio, Marina Sena, Foo Fighters e Stray Kids. O rock levou 3 posições (1º, 3º e 9º) e o K-pop confirmou a consagração da edição com 2 (Hwasa e Stray Kids). Para o radar: o show que carregou a ação da Ipiranga está entre os 10 melhores do festival — argumento novo para o kit de atribuição.",
+     "u": "https://whiplash.net/materias/news_667/382900-rockinrio2026.html"
+    },
+    {
+     "t": "Balanço da Terra: Elton John é o show da edição ('voz e talento intactos aos 79'), e as decepções são MGK, Maroon 5, Luísa Sonza e Calvin Harris",
+     "src": "Terra",
+     "when": "14/09",
+     "s": "Entre os melhores: Elton John (2h+ de clássicos no retorno da aposentadoria), Jamiroquai, Roupa Nova com Guilherme Arantes, Jon Batiste, Demi Lovato, Péricles, Stray Kids, Criolo com Amaro Freitas e Dino D'Santiago, Black Eyed Peas e Ivete Sangalo. Nas decepções: MGK 'deslocado no dia do metal', Maroon 5 'previsível', Luísa Sonza 'desconexa' e Calvin Harris no contraste desfavorável com Alok. A avaliação geral registra a chuva 'democrática' (afetou todos), o telão como marco técnico e os 700 mil de público.",
+     "u": "https://www.terra.com.br/diversao/musica/rock-in-rio/balanco-rock-in-rio-2026-os-melhores-e-os-piores-shows-do-festival,4a4d1ffbba949179bfcf2650bd416966v690jlth.html"
+    },
+    {
+     "t": "Exame consolida o consenso dos balanços — e crava o dado duro das decepções: Luísa Sonza teve 'o menor público de sua história no festival'",
+     "src": "Exame",
+     "when": "14/09",
+     "s": "No topo, o mesmo bloco dos demais rankings: Elton John, Stray Kids ('coreografia impecável' na estreia histórica do K-pop como headliner), Hwasa (primeira artista solo feminina de K-pop do festival), João Gomes (com orquestra) e Zara Larsson ('pacote completo'). Nas decepções, além de Sonza (som ruim e público mínimo), MGK (hostilidade da plateia), Maroon 5 ('repetitivo e datado') e Calvin Harris. Três rankings publicados no mesmo dia (g1, Terra, Exame) confirmam: o formato da conversa pós-festival é lista e régua.",
+     "u": "https://exame.com/pop/quais-foram-os-melhores-e-os-piores-shows-do-rock-in-rio-2026/"
+    },
+    {
+     "t": "A régua earned da edição: TIM concentrou 55% das menções entre patrocinadores nos 4 primeiros dias, com 90% de sentimento positivo (Human Data)",
+     "src": "propmark · Human Data (Spark Group)",
+     "when": "11/09 (medição 01–07/09)",
+     "s": "O estudo mediu 259.075 menções e 1,33 mi de interações (X, Instagram, TikTok, YouTube, blogs e Facebook), com 80% de sentimento positivo geral e Foo Fighters liderando a repercussão entre shows na semana 1. Entre marcas, a TIM dominou com 55% das menções; iFood, Natura, KitKat e Heineken aparecem como as mais associadas a ativações físicas — a Ipiranga não figura no recorte publicado. É o dado de share of voice que os balanços de marca tendem a citar, e a régua contra a qual o case interno precisa se posicionar.",
+     "u": "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+    },
+    {
+     "t": "LATAM fecha o festival com a 'última palavra' visual: Cristo Redentor iluminado com a nova assinatura global 'Bem-vindo a ir mais alto'",
+     "src": "propmark · Aeroin · Brasilturis",
+     "when": "14/09",
+     "s": "No encerramento da edição, a patrocinadora projetou as cores e a nova assinatura de marca no monumento — e emplacou o day after em trade, imprensa de aviação e de turismo, única pauta de marca relevante do pós-festival até agora. O movimento é um benchmark de fechamento: em vez de esperar o balanço editorial (que não saiu), a LATAM criou a própria pauta de encerramento usando a cidade como mídia, fora da Cidade do Rock.",
+     "u": "https://propmark.com.br/anunciantes/latam-ilumina-cristo-redentor-com-nova-assinatura-global-da-marca/"
+    },
+    {
+     "t": "2028 ganha produto: Rock in Run terá 5 km e 10 km com largada ao pôr do sol e chegada dentro da Cidade do Rock — e Roberta Medina acena com mais K-pop",
+     "src": "Billboard Brasil · Máquina do Esporte",
+     "when": "13–14/09",
+     "s": "O evento-teste de 2028 nasce no movimento de 'sportainment': corrida aberta ao público (não restrita a atletas), com shows, kits especiais e medalhas, percursos de 5 e 10 km e chegada noturna dentro da Cidade do Rock. Sobre nova grade de K-pop em 2028, Medina: 'eu espero que sim' — a organização trabalha nas agendas. Para a marca, o formato publicado transforma o dossiê de renovação: mobilidade e jornada do corredor deixam de ser tese e viram produto concreto para ancorar proposta.",
+     "u": "https://maquinadoesporte.com.br/running/rock-in-rio-adere-ao-sportainment-e-tera-corrida-de-rua-em-2028/"
+    }
+   ],
+   "ipiranga": [
+    {
+     "t": "Último dia da janela — e ela segue vazia: nenhum balanço de ativações publicado até a manhã desta terça, nem na Promoview nem no restante do trade",
+     "src": "varredura da manhã (cobertura Promoview · propmark · Mundo do Marketing · Meio e Mensagem)",
+     "when": "15/09, 9h",
+     "s": "A varredura desta manhã confirma: a página de cobertura da Promoview segue sem texto de balanço pós-festival (a lista das 11 premiadas de 13/09 continua sendo a única referência), e o propmark fechou a segunda-feira com pautas de fora do festival — a exceção foi a LATAM no Cristo. Tradução prática: o kit de atribuição do 'mar de leques' ainda encontra a janela aberta, mas hoje é o último dia em que ele entra como NOTÍCIA do ciclo RiR 2026; a partir de amanhã disputa espaço com a semana nova do mercado como case retrospectivo.",
+     "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    },
+    {
+     "t": "O g1 deu ao case o selo que faltava: o show do 'mar de leques' está no Top 10 da edição — a ação aconteceu dentro de um dos 10 melhores shows do festival",
+     "src": "g1 (via Whiplash) · Aurora Cultural",
+     "when": "14/09 (ranking) · 12/09 (atribuição)",
+     "s": "Pedro Sampaio em 7º no Top 10 da crítica — e a Aurora Cultural já havia registrado, com atribuição nominal à Ipiranga, que 'a coreografia com 30 mil leques ditou o ritmo' do show ('Abraça o Amigo e Pula', retorno do leque amarelo de 2024). Combinar os dois é o upgrade imediato do kit: a ação não foi um brinde num show qualquer — foi parte constitutiva de um show validado pela crítica entre os 10 melhores de 120+ atrações. Argumento de imprensa hoje e de renovação amanhã.",
+     "u": "https://whiplash.net/materias/news_667/382900-rockinrio2026.html"
+    },
+    {
+     "t": "A régua earned é dura e pública: TIM com 55% das menções entre patrocinadores — o aprendizado estrutural do case é acoplar amplificação ao gesto físico",
+     "src": "propmark · Human Data",
+     "when": "11/09 (medição 01–07/09)",
+     "s": "O recorte público de listening não registra a Ipiranga entre as marcas mais mencionadas — no mesmo festival em que a marca entregou o maior gesto físico coordenado da edição. A leitura interna, sem meias-palavras: presença física não vira share of voice sozinha; a TIM dominou com infraestrutura de utilidade (conectividade, tirolesa) e pauta constante nos 7 dias. Para o relatório final e para 2028: todo gesto de massa nasce com plano de distribuição own/earned/influência acoplado — senão vira memória de quem estava no gramado, não conversa medida.",
+     "u": "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+    },
+    {
+     "t": "Benchmark do fechamento: a LATAM comprou a 'última palavra' da edição no Cristo — e a versão Ipiranga desse movimento já existe no portfólio: a rede como mídia",
+     "src": "propmark · Aeroin",
+     "when": "14/09",
+     "s": "Enquanto o balanço editorial não saía, a concorrente de patrocínio criou o próprio evento de encerramento com a cidade como mídia e a nova assinatura global como mensagem. O aprendizado transportável: a Ipiranga tem o único ativo de mídia física nacional entre os patrocinadores — milhares de postos amarelos na rua. Um gesto de fechamento na rede (o amarelo do festival chegando ao posto da esquina) custaria mídia própria e daria ao case a ponte experiência→varejo que nenhum estande tem. Entra como recomendação para o planejamento 2028.",
+     "u": "https://propmark.com.br/anunciantes/latam-ilumina-cristo-redentor-com-nova-assinatura-global-da-marca/"
+    },
+    {
+     "t": "Renovação 2028: com o Rock in Run publicado (5/10 km, chegada na Cidade do Rock), o dossiê de mobilidade ganha um produto concreto para ancorar a proposta",
+     "src": "Billboard Brasil · Máquina do Esporte",
+     "when": "13–14/09",
+     "s": "O evento-teste de 2028 é uma corrida de rua com largada ao pôr do sol e chegada noturna na Cidade do Rock — jornada completa no território natural da marca: hidratação e conveniência AmPm no percurso, energia, KMV como programa de fidelidade do treino ao pódio, frota e abastecimento da operação. A organização confirmou 2028 ainda no palco (sinal de venda antecipada de cotas): chegar com a proposta desenhada antes de o mercado precificar o evento-teste é a vantagem que a agência pode entregar ainda em setembro.",
+     "u": "https://maquinadoesporte.com.br/running/rock-in-rio-adere-ao-sportainment-e-tera-corrida-de-rua-em-2028/"
+    }
+   ],
+   "shows": {
+    "status": "FESTIVAL ENCERRADO (última noite: 13/09) — edição final do radar. O balanço artístico consolidou-se em três rankings publicados em 14/09 (g1, Terra e Exame), com Elton John como show da edição, o K-pop consagrado (Hwasa em 2º no g1; Stray Kids no Top 10 dos três) e Pedro Sampaio — o show do 'mar de leques' — em 7º no g1. A moldura oficial segue: 700 mil pessoas em 7 dias, R$ 3,36 bi de impacto, 266 mil em espaços de marcas, 89 países. O Rock in Rio volta em 2028, com o Rock in Run (5/10 km, chegada na Cidade do Rock) estreando no evento-teste.",
+    "reperc": [
+     {
+      "date": "Balanço da edição (4–7 e 11–13/set) — os rankings do day after",
+      "headline": "Três 'melhores e piores' publicados em 14/09 fecham o veredicto da edição: Elton John no topo dos três, K-pop consagrado como aposta vencedora, rock com 3 posições no Top 10 do g1 — e consenso também nas decepções (MGK, Maroon 5, Luísa Sonza, Calvin Harris). O show que carregou a ação da Ipiranga (Pedro Sampaio, 12/09) está no Top 10 oficial.",
+      "artists": [
+       {
+        "name": "Top 10 do g1 (4 críticos, 7 dias, 120+ atrações)",
+        "verdict": "1º Elton John · 2º Hwasa · 3º Bring Me The Horizon · 4º Péricles · 5º João Gomes · 6º Jamiroquai · 7º Pedro Sampaio · 8º Marina Sena · 9º Foo Fighters · 10º Stray Kids. Critérios: relevância, reação da plateia, setlist, execução e técnica. O rock leva o discurso ('três das dez posições'), o K-pop leva a consagração histórica — e o 7º lugar de Pedro Sampaio é a credencial editorial nova do case do 'mar de leques'.",
+        "links": [
+         [
+          "Whiplash (repercussão do Top 10 do g1)",
+          "https://whiplash.net/materias/news_667/382900-rockinrio2026.html"
+         ]
+        ]
+       },
+       {
+        "name": "Balanço da Terra — melhores e piores do festival",
+        "verdict": "Melhores: Elton John ('voz e talento intactos aos 79', 2h+ de clássicos), Jamiroquai, Roupa Nova com Guilherme Arantes, Jon Batiste, Demi Lovato, Péricles, Stray Kids, Criolo/Amaro Freitas/Dino D'Santiago, Black Eyed Peas e Ivete. Decepções: MGK ('deslocado no dia do metal'), Maroon 5 ('previsível'), Luísa Sonza ('desconexa'), Calvin Harris (no contraste com Alok). Registro geral: chuva 'democrática', telão como marco, 700 mil de público.",
+        "links": [
+         [
+          "Terra (balanço)",
+          "https://www.terra.com.br/diversao/musica/rock-in-rio/balanco-rock-in-rio-2026-os-melhores-e-os-piores-shows-do-festival,4a4d1ffbba949179bfcf2650bd416966v690jlth.html"
+         ]
+        ]
+       },
+       {
+        "name": "Balanço da Exame — o consenso e o dado duro",
+        "verdict": "Confirma o bloco vencedor (Elton John, Stray Kids, Hwasa, João Gomes, Zara Larsson) e endurece as decepções: Luísa Sonza com 'o menor público de sua história no festival' e som que engoliu os vocais; MGK enfrentando hostilidade da plateia; Maroon 5 'repetitivo e datado'. Com g1 e Terra no mesmo dia, sela o formato da conversa pós-festival: lista, régua e veredicto.",
+        "links": [
+         [
+          "Exame (melhores e piores)",
+          "https://exame.com/pop/quais-foram-os-melhores-e-os-piores-shows-do-rock-in-rio-2026/"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "trends": {
+    "viral": [
+     {
+      "t": "O formato que domina o pós-festival é a LISTA: três 'melhores e piores' no mesmo dia (g1, Terra, Exame) — e é nesse formato que o case de marca precisa entrar para circular",
+      "src": "g1 (via Whiplash) · Terra · Exame",
+      "metric": "leitura editorial da varredura da manhã; sem medição de plataforma nesta rodada",
+      "s": "A conversa da semana não é show, é régua: rankings, veredictos e 'o que ficou'. Consequência prática para a marca: material de balanço em formato de lista ('os 3 números da Ipiranga no RiR 2026') tem mais chance de ser absorvido pelas redações nesta semana do que release corrido — e o 7º lugar de Pedro Sampaio no g1 é o gancho que conecta o case ao formato dominante.",
+      "u": "https://whiplash.net/materias/news_667/382900-rockinrio2026.html"
+     },
+     {
+      "t": "A imagem de marca do encerramento é da LATAM: o Cristo iluminado com 'Bem-vindo a ir mais alto' rodou trade, aviação e turismo no day after",
+      "src": "propmark · Aeroin · Brasilturis · VoeNews",
+      "metric": "leitura editorial; reprodução verificada em 6+ veículos de 3 editorias",
+      "s": "Sem balanços editoriais publicados, a única pauta de marca que circulou no pós-festival foi fabricada pela própria patrocinadora, fora da Cidade do Rock. É o lembrete de que a janela de day after premia quem cria a própria pauta — e o modelo (ativo físico icônico + mensagem de marca) tem tradução direta no portfólio Ipiranga: a rede de postos como mídia.",
+      "u": "https://propmark.com.br/anunciantes/latam-ilumina-cristo-redentor-com-nova-assinatura-global-da-marca/"
+     },
+     {
+      "t": "O dado de marcas que o mercado vai citar: TIM com 55% das menções entre patrocinadores (Human Data) — a régua earned pública da edição",
+      "src": "propmark · Human Data (Spark Group)",
+      "metric": "leitura editorial; estudo de 259.075 menções e 1,33 mi de interações (01–07/09)",
+      "s": "Publicado na semana 2 e ainda sem concorrente metodológico, o recorte da Human Data tende a ser A referência de share of voice dos textos de balanço. Quem não aparece no recorte (caso da Ipiranga) precisa posicionar o próprio número — participação nas 266 mil experiências de marca, 30 mil leques num único show — antes de ser definido pela ausência.",
+      "u": "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+     }
+    ],
+    "sources": [
+     {
+      "id": "google",
+      "icon": "🔍",
+      "name": "Google Trends · Brasil",
+      "status": "off",
+      "statusLabel": "fetch bloqueado — 6º dia; a edição fecha sem leitura BR válida desde 12/09",
+      "items": [],
+      "note": "Rodada final (9h de 15/09): a chamada ao RSS (geo=BR) foi bloqueada de novo pela camada de permissão de rede da execução agendada — 6º dia consecutivo. Última leitura válida: 12/09, sem termos do festival no ranking. Registro para o relatório final: a série da edição ficou incompleta e a pergunta 'o festival entrou no ranking nacional de buscas?' fecha sem resposta de plataforma. Aprendizado operacional para 2028: validar as permissões de rede das rotinas agendadas ANTES do evento, com fetch de teste em cada fonte."
+     },
+     {
+      "id": "tiktok",
+      "icon": "🎵",
+      "name": "TikTok · hashtags",
+      "status": "off",
+      "statusLabel": "fetch bloqueado — curva da edição fecha congelada em 5,7 mi (03→13/09)",
+      "items": [],
+      "note": "A página pública da #rockinrio seguiu inacessível na rodada final (mesma barreira de permissão de rede). A série da edição fecha com o dado que virou aprendizado: a hashtag guarda-chuva ficou parada em 5,7 mi de views de 03/09 a 13/09 — o festival inteiro — enquanto a conversa correu nos termos de momento ('mar de leques', 'cavalinho', nomes de artistas). Para 2028: earned social de evento se mede por termo de momento e por show, não por hashtag institucional."
+     }
+    ],
+    "note": "Rodada final (9h de 15/09): nenhuma medição de plataforma — Google Trends BR (6º dia) e TikTok seguiram bloqueados pela camada de permissão de rede da execução agendada. O bloco viral é leitura editorial da varredura de imprensa, com fonte e link em todo item. Encerramento da série: a aba Trends fecha a edição 2026 com dois aprendizados de medição (termos de momento > hashtag guarda-chuva; permissões de rede validadas antes do evento) registrados nas notas das colunas para o relatório final."
+   },
+   "direcionais": {
+    "leitura": "Edição final. O festival terminou em 13/09; o que esta semana decide é quem escreve a história das marcas na edição — e, até a manhã desta terça, NINGUÉM escreveu: a janela de balanços segue vazia, com a lista das 11 premiadas da Promoview como única referência pronta e dois movimentos de concorrentes ocupando o vácuo (LATAM no Cristo como imagem de fechamento; TIM 55% como régua earned via Human Data/propmark). Hoje é o último dia em que o kit de atribuição do 'mar de leques' entra como notícia do ciclo — e ele ganhou ontem a credencial que faltava: Pedro Sampaio no Top 10 oficial do g1, ou seja, a ação da marca aconteceu dentro de um dos 10 melhores shows da edição pela crítica. O balanço da edição para a Ipiranga se escreve em três linhas: um case único de massa sincronizada com prova visual own (30 mil leques no único sábado esgotado) + um Espaço que virou serviço nos dois extremos do clima (calor→leque, chuva→abrigo) + os 89 anos celebrados dentro do festival; e três aprendizados estruturais para 2028: amplificação acoplada ao gesto físico (a régua TIM não perdoa), medição por termos de momento com rede validada antes do evento, e contratos de influência com entrega e menção em cláusula (46+ posts monitorados, zero menção espontânea à marca). O radar encerra a operação diária nesta edição — as três rotinas serão desativadas após esta publicação, e o histórico das 23 edições fica como base do relatório final.",
+    "dirs": [
+     {
+      "t": "HOJE é binário: o kit de atribuição sai até 12h como notícia, ou o case vira retrospectiva disputando espaço com a semana nova do mercado",
+      "s": "A janela 14–15/09 fecha hoje e segue vazia — nenhum balanço de ativações publicado. O kit ganhou o gancho que faltava (Pedro Sampaio no Top 10 do g1): a primeira linha agora é 'a ação da Ipiranga aconteceu num dos 10 melhores shows da edição — 30 mil leques sincronizados no único sábado esgotado'. Disparar para Promoview, Meio e Mensagem, Mundo do Marketing e propmark com follow-up telefônico; depois de amanhã, o mesmo material vale menos.",
+      "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+     },
+     {
+      "t": "Aprendizado nº 1 (earned): presença física não vira share of voice — todo gesto de massa em 2028 nasce com máquina de amplificação acoplada",
+      "s": "TIM: 55% das menções entre patrocinadores com infraestrutura de utilidade e pauta constante; Ipiranga: o maior gesto físico coordenado da edição e ausência no recorte público de listening. A conclusão de planejamento não é 'a ação falhou' — é que ação física e conversa medida são entregas separadas, e a segunda precisa de plano próprio (creators briefados ANTES do gesto, corte oficial distribuído em minutos, termo de busca próprio, seeding para portais de música). No dossiê 2028, amplificação entra como linha de investimento obrigatória de cada ação, não como acabamento.",
+      "u": "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+     },
+     {
+      "t": "Aprendizado nº 2 (medição): termos de momento > hashtag guarda-chuva, e rede validada antes do evento — a régua de 2028 se desenha agora",
+      "s": "A #rockinrio ficou parada em 5,7 mi o festival inteiro enquanto 'mar de leques' e 'cavalinho' carregavam a conversa; Google Trends BR fechou a edição com 6 dias de fetch bloqueado pela camada de permissão da rotina agendada. Para 2028: dashboard de termos de momento por show (artista + ação + gíria do dia), fontes com fetch de teste validado antes do evento, e a régua earned (Human Data ou equivalente) contratada pela agência desde o dia 1 — para nunca mais depender do recorte publicado por terceiros.",
+      "u": "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+     },
+     {
+      "t": "Aprendizado nº 3 (influência): 46+ posts dos perfis do plano, zero menção espontânea — em 2028, entrega e menção entram em cláusula",
+      "s": "A medição da aba Embaixadores fecha a edição com o dado que vira política: os 5 perfis do planejamento publicaram volume alto sobre o festival (46+ posts na semana 1) e nenhuma menção à marca até a última coleta. Custo de oportunidade calculável. Recomendação para contratos 2028: entregas mínimas por dia de festival, menção/tag obrigatória em cláusula, briefing das ações de massa com antecedência (o embaixador no gramado com o leque é a ponte entre o gesto físico e o feed) e monitoramento diário desde o dia 1 — como o radar fez, mas com contrato que permita cobrar.",
+      "u": "https://www.promoview.com.br/cobertura-rock-in-rio/"
+     },
+     {
+      "t": "Renovação 2028: dossiê com dois capítulos na mesa do cliente antes do fim de setembro — case 2026 fechado em números + proposta ancorada no Rock in Run",
+      "s": "A organização confirmou 2028 ainda no palco e publicou o produto do evento-teste (corrida 5/10 km com chegada na Cidade do Rock): cotas serão vendidas cedo. Capítulo 1: o case 2026 contra a régua pública (X% das 266 mil experiências de marca; mar de leques no Top 10 do g1; Espaço como serviço no calor e na chuva; 89 anos no festival). Capítulo 2: a jornada do corredor como território Ipiranga (AmPm no percurso, KMV do treino ao pódio, energia e frota) + a rede de postos como mídia de fechamento (benchmark LATAM/Cristo). Chegar antes de o mercado precificar é a entrega da agência neste mês.",
+      "u": "https://maquinadoesporte.com.br/running/rock-in-rio-adere-ao-sportainment-e-tera-corrida-de-rua-em-2028/"
+     }
+    ],
+    "acion": [
+     "Até 12h de HOJE: disparar o kit de atribuição atualizado com o gancho do Top 10 ('a ação da Ipiranga aconteceu num dos 10 melhores shows da edição, pelo g1') para Promoview, Meio e Mensagem, Mundo do Marketing e propmark, com follow-up telefônico — última janela em que o material entra como notícia do ciclo RiR 2026.",
+     "Hoje: fechar o one-pager de balanço interno contra a régua pública — números own (fluxo do Espaço em 7 dias, leques e pochetes, recargas, transações KMV/AmPm) como fração das 266 mil experiências de marca e dos 700 mil de público, com a série calor→leque, chuva→abrigo como narrativa.",
+     "Esta semana: exportar o histórico das 23 edições do radar como capítulo de medição do relatório final — incluindo a curva congelada da #rockinrio (5,7 mi, 03→13/09), os 6 dias de bloqueio do Google Trends e a régua TIM 55%, que fundamentam os aprendizados nº 1 e 2.",
+     "Esta semana: debrief de embaixadores com a base da aba (posts, marcas citadas, zero menção à Ipiranga) e redação da recomendação de contratos 2028 — entregas mínimas, menção em cláusula, briefing prévio das ações de massa.",
+     "Até 30/09: dossiê de renovação 2028 na mesa do cliente — case 2026 em números + proposta Rock in Run (jornada do corredor: AmPm, KMV, energia) + recomendação 'rede como mídia' para o fechamento (benchmark LATAM/Cristo).",
+     "Pós-publicação (operacional): desativar as três rotinas agendadas do radar (9h, 10h e 20h) — a edição final está no ar e o histórico preservado em RADAR.editions[]."
+    ]
+   },
+   "sources": [
+    [
+     "Whiplash — G1 põe rock e metal como grandes vencedores do Top 10 de shows do Rock in Rio (14/09)",
+     "https://whiplash.net/materias/news_667/382900-rockinrio2026.html"
+    ],
+    [
+     "Terra — Balanço Rock in Rio 2026: os melhores e os piores shows do festival (14/09)",
+     "https://www.terra.com.br/diversao/musica/rock-in-rio/balanco-rock-in-rio-2026-os-melhores-e-os-piores-shows-do-festival,4a4d1ffbba949179bfcf2650bd416966v690jlth.html"
+    ],
+    [
+     "Exame — Quais foram os melhores e os piores shows do Rock in Rio 2026? (14/09)",
+     "https://exame.com/pop/quais-foram-os-melhores-e-os-piores-shows-do-rock-in-rio-2026/"
+    ],
+    [
+     "propmark — O que realmente moveu a conversa sobre os primeiros dias de Rock in Rio 2026? (11/09; Human Data)",
+     "https://propmark.com.br/mercado/o-que-realmente-moveu-a-conversa-sobre-os-primeiros-dias-de-rock-in-rio-2026/"
+    ],
+    [
+     "propmark — Latam ilumina Cristo Redentor com nova assinatura global da marca (14/09)",
+     "https://propmark.com.br/anunciantes/latam-ilumina-cristo-redentor-com-nova-assinatura-global-da-marca/"
+    ],
+    [
+     "Aeroin — Marcando o fim do Rock in Rio, LATAM coloca suas cores e assinatura no Cristo Redentor (14/09)",
+     "https://aeroin.net/marcando-o-fim-do-rock-in-rio-latam-coloca-suas-cores-e-sua-assinatura-de-marca-no-cristo-redentor/"
+    ],
+    [
+     "Billboard Brasil — Rock in Rio confirma Rock in Run para 2028 e abre porta para volta do K-pop (13/09)",
+     "https://billboard.com.br/rock-in-rio-2028-rock-in-run-corrida-k-pop/"
+    ],
+    [
+     "Máquina do Esporte — Rock in Rio adere ao 'sportainment' e terá corrida de rua em 2028 (14/09)",
+     "https://maquinadoesporte.com.br/running/rock-in-rio-adere-ao-sportainment-e-tera-corrida-de-rua-em-2028/"
+    ],
+    [
+     "Aurora Cultural — Coreografia com 30 mil leques dita o ritmo de Pedro Sampaio no festival (12/09)",
+     "https://auroracultural.com/noticias/musica/rock-in-rio/coreografia-com-30-mil-leques-dita-o-ritmo-de-pedro-sampaio-no-festival/"
+    ],
+    [
+     "Promoview — Rock in Rio 2026: Promoview premia 11 marcas por ativações (13/09; vigente como única referência)",
+     "https://www.promoview.com.br/reconhecimento-promoview-rock-in-rio-2026-marcas-2/"
+    ],
+    [
+     "Promoview — página de cobertura do Rock in Rio (varredura de 15/09, sem balanço publicado)",
+     "https://www.promoview.com.br/cobertura-rock-in-rio/"
+    ],
+    [
+     "Jornal de Brasília — Rock in Rio 2026 reúne 700 mil pessoas em sete dias; edição 2028 confirmada (13/09; moldura oficial)",
+     "https://jornaldebrasilia.com.br/viva/musica/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/"
+    ]
+   ],
+   "influencia": {
+    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
+    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
+    "creators": [
+     {
+      "handle": "@divasuburbana",
+      "nome": "Desirré Andrade",
+      "status": "ativo",
+      "posts": 41,
+      "citouIpiranga": false,
+      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
+     },
+     {
+      "handle": "@jeffmattias",
+      "nome": "Jeff Mattias",
+      "status": "parado",
+      "posts": 4,
+      "citouIpiranga": false,
+      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
+     },
+     {
+      "handle": "@vittorfernando",
+      "nome": "Vittor Fernando",
+      "status": "1 post",
+      "posts": 1,
+      "citouIpiranga": false,
+      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
+     },
+     {
+      "handle": "@cassialourencogomes",
+      "nome": "Cássia Lourenço",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
+     },
+     {
+      "handle": "@camilatrianda",
+      "nome": "Camila Trianda",
+      "status": "silencioso",
+      "posts": 0,
+      "citouIpiranga": false,
+      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
+     }
+    ],
+    "posts": [
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+      "likes": 1769,
+      "coments": 46,
+      "shares": 26,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+      "likes": 2337,
+      "coments": 17,
+      "shares": 71,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+     },
+     {
+      "date": "08/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+      "likes": 1703,
+      "coments": 24,
+      "shares": 83,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+      "likes": 1258,
+      "coments": 20,
+      "shares": 35,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+      "likes": 1126,
+      "coments": 24,
+      "shares": 15,
+      "marcas": [
+       "@portalpopline"
+      ],
+      "collab": "@portalpopline",
+      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+      "likes": 4809,
+      "coments": 188,
+      "shares": 215,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+      "likes": 1121,
+      "coments": 28,
+      "shares": 17,
+      "marcas": [
+       "@chillibeansoficial"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@vittorfernando",
+      "tipo": "Feed",
+      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+      "likes": null,
+      "coments": 54,
+      "shares": 11,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+      "likes": 505,
+      "coments": 13,
+      "shares": 38,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+      "likes": 1783,
+      "coments": 78,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+      "likes": 1840,
+      "coments": 15,
+      "shares": 77,
+      "marcas": [
+       "@calvinharrisbrasil"
+      ],
+      "collab": "@calvinharrisbrasil",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+      "likes": 1641,
+      "coments": 11,
+      "shares": 43,
+      "marcas": [],
+      "collab": "@matheuscarvalh.o",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+      "likes": 2644,
+      "coments": 45,
+      "shares": 142,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+     },
+     {
+      "date": "07/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+      "likes": 2629,
+      "coments": 63,
+      "shares": 31,
+      "marcas": [
+       "@itau",
+       "@pabllovittar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+      "likes": 2954,
+      "coments": 40,
+      "shares": 73,
+      "marcas": [
+       "@ifoodbrasil"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+      "likes": 31000,
+      "coments": 473,
+      "shares": 3000,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Esse é o significado?' — momento de show do dia 3",
+      "likes": 21400,
+      "coments": 390,
+      "shares": 1700,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+      "likes": 2430,
+      "coments": 62,
+      "shares": 16,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — clima/chegada no dia 3",
+      "likes": 772,
+      "coments": 15,
+      "shares": 10,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+      "likes": 2372,
+      "coments": 34,
+      "shares": 49,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+      "likes": 597,
+      "coments": 11,
+      "shares": 11,
+      "marcas": [
+       "@rockinriolisboa"
+      ],
+      "collab": "@rockinriolisboa",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+      "likes": 2502,
+      "coments": 98,
+      "shares": 44,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+      "likes": 973,
+      "coments": 39,
+      "shares": 12,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+      "likes": 745,
+      "coments": 146,
+      "shares": 15,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+     },
+     {
+      "date": "06/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+      "likes": 6239,
+      "coments": 136,
+      "shares": 330,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+      "likes": 2389,
+      "coments": 81,
+      "shares": 7,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Feed",
+      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+      "likes": 1828,
+      "coments": 55,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+      "likes": 61300,
+      "coments": 3500,
+      "shares": 3500,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+      "likes": 330,
+      "coments": 23,
+      "shares": 15,
+      "marcas": [
+       "@parquebondinho",
+       "Pão de Açúcar"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+     },
+     {
+      "date": "05/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+      "likes": 5100,
+      "coments": 228,
+      "shares": 57,
+      "marcas": [],
+      "collab": "@migueelmartinezzz",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+      "likes": null,
+      "coments": 33,
+      "shares": 37,
+      "marcas": [],
+      "collab": "@erijakson + 4 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+      "likes": 4158,
+      "coments": 56,
+      "shares": 54,
+      "marcas": [
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+      "likes": 2300,
+      "coments": 149,
+      "shares": 13,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+      "likes": 455,
+      "coments": 20,
+      "shares": 16,
+      "marcas": [
+       "Parmê"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+      "likes": 3826,
+      "coments": 1640,
+      "shares": 82,
+      "marcas": [
+       "@metro_rio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+     },
+     {
+      "date": "04/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+      "likes": 4177,
+      "coments": 91,
+      "shares": 30,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+      "likes": 9550,
+      "coments": 168,
+      "shares": 79,
+      "marcas": [
+       "@ifoodbrasil",
+       "@itau"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Feed",
+      "tema": "Guia de comidas da Cidade do Rock",
+      "likes": 2891,
+      "coments": 72,
+      "shares": 51,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+      "likes": 690,
+      "coments": 50,
+      "shares": 12,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+     },
+     {
+      "date": "03/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "New Dance Order — dica de fluxo/saída",
+      "likes": 809,
+      "coments": 45,
+      "shares": 14,
+      "marcas": [],
+      "collab": "2 perfis",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "COMEÇOU ♥️ — chegada ao festival",
+      "likes": 6143,
+      "coments": 96,
+      "shares": 268,
+      "marcas": [
+       "@rockinrio"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Comfort Zone: como e onde é",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "@erijakson",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "O Rock in Rio está pronto!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Adorei essa ideia!!!",
+      "likes": null,
+      "coments": null,
+      "shares": null,
+      "marcas": [],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+     },
+     {
+      "date": "02/09",
+      "handle": "@jeffmattias",
+      "tipo": "Reel",
+      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+      "likes": 2882,
+      "coments": 49,
+      "shares": 37,
+      "marcas": [],
+      "collab": "4 perfis",
+      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+     },
+     {
+      "date": "01/09",
+      "handle": "@divasuburbana",
+      "tipo": "Reel",
+      "tema": "Beats Pink Lemonade confirmada — looks",
+      "likes": 1800,
+      "coments": null,
+      "shares": null,
+      "marcas": [
+       "Beats"
+      ],
+      "collab": "",
+      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+     }
+    ],
+    "alerts": [
+     {
+      "tone": "neg",
+      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
+      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
+      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
+     },
+     {
+      "tone": "neg",
+      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
+      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
+      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
+     },
+     {
+      "tone": "pos",
+      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
+      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
+     }
+    ],
+    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
+   }
+  },
   {
    "date": "14/09/2026",
    "dateISO": "2026-09-14",
