@@ -1,8 +1,8 @@
 window.RADAR = {
  "meta": {
-  "version": 44,
-  "updatedAt": "15/09/2026, 20h05 (BRT)",
-  "updatedISO": "2026-09-15",
+  "version": 45,
+  "updatedAt": "17/09/2026, 16h31 (BRT)",
+  "updatedISO": "2026-09-17T16:34:17-03:00",
   "nextUpdate": "radar encerrado — edição final fechada na atualização da noite de 15/09/2026; rotinas de 9h, 10h e 20h desativadas",
   "festivalStart": "2026-09-04",
   "festivalDays": [
@@ -1113,667 +1113,1158 @@ window.RADAR = {
     ]
    ],
    "influencia": {
-    "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
-    "updatedFrom": "coleta de 08/09 às 10h00 via perfis logados (Claude para Chrome)",
-    "headline": "Semana 1 fechada: 46 publicações, 5 marcas com entrega nos perfis do plano — e nenhuma menção à Ipiranga. O @vittorfernando quebrou o silêncio no último dia (voltou de Londres e postou do Rio) e a Chilli Beans entrou na lista de parceiras da @divasuburbana.",
-    "creators": [
-     {
-      "handle": "@divasuburbana",
-      "nome": "Desirré Andrade",
-      "status": "ativo",
-      "posts": 41,
-      "citouIpiranga": false,
-      "resumo": "41 publicações em 7 dias — 7 novas desde ontem, cobrindo Calvin Harris, Elton John e Dua Lipa. Fechou a semana 1 com 5 marcas presentes no perfil (iFood, Itaú, MetrôRio, Parque Bondinho e agora Chilli Beans, citada como parceira recorrente). Sem citar a Ipiranga."
-     },
-     {
-      "handle": "@jeffmattias",
-      "nome": "Jeff Mattias",
-      "status": "parado",
-      "posts": 4,
-      "citouIpiranga": false,
-      "resumo": "Nenhum post novo de RiR desde 05/09. Voltou integralmente para reacts de TV (MasterChef, Estrelas da Casa, Dança dos Famosos). Encerra a semana 1 com 4 publicações do festival."
-     },
-     {
-      "handle": "@vittorfernando",
-      "nome": "Vittor Fernando",
-      "status": "1 post",
-      "posts": 1,
-      "citouIpiranga": false,
-      "resumo": "Quebrou o silêncio no último dia: voltou de Londres, postou do Rio de Janeiro com a legenda '🎸 2026' e capa de chuva. Sem marcas tageadas e com o contador de curtidas oculto. É o sinal de que ele está disponível para a semana 2."
-     },
-     {
-      "handle": "@cassialourencogomes",
-      "nome": "Cássia Lourenço",
-      "status": "silencioso",
-      "posts": 0,
-      "citouIpiranga": false,
-      "resumo": "Fecha a semana 1 com zero publicações sobre RiR. Postou ontem conteúdo próprio ('só biscoitando, segundou')."
-     },
-     {
-      "handle": "@camilatrianda",
-      "nome": "Camila Trianda",
-      "status": "silencioso",
-      "posts": 0,
-      "citouIpiranga": false,
-      "resumo": "Fecha a semana 1 com zero publicações sobre RiR, mesmo estando no Rio — o último post é de praia, com parceria de outra marca."
-     }
-    ],
-    "posts": [
-     {
-      "date": "08/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
-      "likes": 1769,
-      "coments": 46,
-      "shares": 26,
-      "marcas": [],
-      "collab": "@erijakson",
-      "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
-     },
-     {
-      "date": "08/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
-      "likes": 2337,
-      "coments": 17,
-      "shares": 71,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
-     },
-     {
-      "date": "08/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
-      "likes": 1703,
-      "coments": 24,
-      "shares": 83,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
-      "likes": 1258,
-      "coments": 20,
-      "shares": 35,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
-      "likes": 1126,
-      "coments": 24,
-      "shares": 15,
-      "marcas": [
-       "@portalpopline"
-      ],
-      "collab": "@portalpopline",
-      "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
-      "likes": 4809,
-      "coments": 188,
-      "shares": 215,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
-      "likes": 1121,
-      "coments": 28,
-      "shares": 17,
-      "marcas": [
-       "@chillibeansoficial"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@vittorfernando",
-      "tipo": "Feed",
-      "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
-      "likes": null,
-      "coments": 54,
-      "shares": 11,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
-      "likes": 505,
-      "coments": 13,
-      "shares": 38,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
-      "likes": 1783,
-      "coments": 78,
-      "shares": 15,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
-      "likes": 1840,
-      "coments": 15,
-      "shares": 77,
-      "marcas": [
-       "@calvinharrisbrasil"
-      ],
-      "collab": "@calvinharrisbrasil",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
-      "likes": 1641,
-      "coments": 11,
-      "shares": 43,
-      "marcas": [],
-      "collab": "@matheuscarvalh.o",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
-      "likes": 2644,
-      "coments": 45,
-      "shares": 142,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
-     },
-     {
-      "date": "07/09",
-      "handle": "@divasuburbana",
-      "tipo": "Feed",
-      "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
-      "likes": 2629,
-      "coments": 63,
-      "shares": 31,
-      "marcas": [
-       "@itau",
-       "@pabllovittar"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
-      "likes": 2954,
-      "coments": 40,
-      "shares": 73,
-      "marcas": [
-       "@ifoodbrasil"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
-      "likes": 31000,
-      "coments": 473,
-      "shares": 3000,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'Esse é o significado?' — momento de show do dia 3",
-      "likes": 21400,
-      "coments": 390,
-      "shares": 1700,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Feed",
-      "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
-      "likes": 2430,
-      "coments": 62,
-      "shares": 16,
-      "marcas": [
-       "@rockinrio"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — clima/chegada no dia 3",
-      "likes": 772,
-      "coments": 15,
-      "shares": 10,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
-      "likes": 2372,
-      "coments": 34,
-      "shares": 49,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
-      "likes": 597,
-      "coments": 11,
-      "shares": 11,
-      "marcas": [
-       "@rockinriolisboa"
-      ],
-      "collab": "@rockinriolisboa",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
-      "likes": 2502,
-      "coments": 98,
-      "shares": 44,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
-      "likes": 973,
-      "coments": 39,
-      "shares": 12,
-      "marcas": [
-       "@itau"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
-      "likes": 745,
-      "coments": 146,
-      "shares": 15,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
-     },
-     {
-      "date": "06/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
-      "likes": 6239,
-      "coments": 136,
-      "shares": 330,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
-     },
-     {
-      "date": "05/09",
-      "handle": "@divasuburbana",
-      "tipo": "Feed",
-      "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
-      "likes": 2389,
-      "coments": 81,
-      "shares": 7,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
-     },
-     {
-      "date": "05/09",
-      "handle": "@jeffmattias",
-      "tipo": "Feed",
-      "tema": "'Dia de Rock bebe' — look/registro do dia 2",
-      "likes": 1828,
-      "coments": 55,
-      "shares": 13,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
-     },
-     {
-      "date": "05/09",
-      "handle": "@jeffmattias",
-      "tipo": "Reel",
-      "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
-      "likes": 61300,
-      "coments": 3500,
-      "shares": 3500,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
-     },
-     {
-      "date": "05/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
-      "likes": 330,
-      "coments": 23,
-      "shares": 15,
-      "marcas": [
-       "@parquebondinho",
-       "Pão de Açúcar"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
-     },
-     {
-      "date": "05/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
-      "likes": 5100,
-      "coments": 228,
-      "shares": 57,
-      "marcas": [],
-      "collab": "@migueelmartinezzz",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
-      "likes": null,
-      "coments": 33,
-      "shares": 37,
-      "marcas": [],
-      "collab": "@erijakson + 4 perfis",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
-      "likes": 4158,
-      "coments": 56,
-      "shares": 54,
-      "marcas": [
-       "@itau"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@divasuburbana",
-      "tipo": "Feed",
-      "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
-      "likes": 2300,
-      "coments": 149,
-      "shares": 13,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
-      "likes": 455,
-      "coments": 20,
-      "shares": 16,
-      "marcas": [
-       "Parmê"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
-      "likes": 3826,
-      "coments": 1640,
-      "shares": 82,
-      "marcas": [
-       "@metro_rio"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
-     },
-     {
-      "date": "04/09",
-      "handle": "@jeffmattias",
-      "tipo": "Reel",
-      "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
-      "likes": 4177,
-      "coments": 91,
-      "shares": 30,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
-     },
-     {
-      "date": "03/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
-      "likes": 9550,
-      "coments": 168,
-      "shares": 79,
-      "marcas": [
-       "@ifoodbrasil",
-       "@itau"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
-     },
-     {
-      "date": "03/09",
-      "handle": "@divasuburbana",
-      "tipo": "Feed",
-      "tema": "Guia de comidas da Cidade do Rock",
-      "likes": 2891,
-      "coments": 72,
-      "shares": 51,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
-     },
-     {
-      "date": "03/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
-      "likes": 690,
-      "coments": 50,
-      "shares": 12,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
-     },
-     {
-      "date": "03/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "New Dance Order — dica de fluxo/saída",
-      "likes": 809,
-      "coments": 45,
-      "shares": 14,
-      "marcas": [],
-      "collab": "2 perfis",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
-     },
-     {
-      "date": "02/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "COMEÇOU ♥️ — chegada ao festival",
-      "likes": 6143,
-      "coments": 96,
-      "shares": 268,
-      "marcas": [
-       "@rockinrio"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
-     },
-     {
-      "date": "02/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Comfort Zone: como e onde é",
-      "likes": null,
-      "coments": null,
-      "shares": null,
-      "marcas": [],
-      "collab": "@erijakson",
-      "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
-     },
-     {
-      "date": "02/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "O Rock in Rio está pronto!",
-      "likes": null,
-      "coments": null,
-      "shares": null,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
-     },
-     {
-      "date": "02/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Adorei essa ideia!!!",
-      "likes": null,
-      "coments": null,
-      "shares": null,
-      "marcas": [],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
-     },
-     {
-      "date": "02/09",
-      "handle": "@jeffmattias",
-      "tipo": "Reel",
-      "tema": "Rock in Rio 2026 vai começar, agora é oficial",
-      "likes": 2882,
-      "coments": 49,
-      "shares": 37,
-      "marcas": [],
-      "collab": "4 perfis",
-      "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
-     },
-     {
-      "date": "01/09",
-      "handle": "@divasuburbana",
-      "tipo": "Reel",
-      "tema": "Beats Pink Lemonade confirmada — looks",
-      "likes": 1800,
-      "coments": null,
-      "shares": null,
-      "marcas": [
-       "Beats"
-      ],
-      "collab": "",
-      "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
-     }
-    ],
-    "alerts": [
-     {
-      "tone": "neg",
-      "t": "🚨 Semana 1 encerrada: 46 posts, 5 marcas, zero Ipiranga",
-      "s": "Balanço dos 4 dias: <b>46 publicações</b> sobre o festival nos perfis do plano e <b>5 marcas com entrega</b> dentro deles — iFood + Itaú (minicâmera), MetrôRio (mobilidade), Parque Bondinho, Chilli Beans e o Itaú de novo por experiência. A Ipiranga não aparece em nenhuma publicação, nenhuma legenda e nenhum comentário. Restam <b>11, 12 e 13/09</b> — três dias para converter o que foi contratado."
-     },
-     {
-      "tone": "pos",
-      "t": "✅ @vittorfernando quebrou o silêncio — e está no Rio",
-      "s": "Depois de 7 dias em Londres cobrindo a turnê da Ariana Grande, ele postou ontem <b>do Rio de Janeiro</b>, com a legenda '🎸 2026' e capa de chuva na foto. É a 1ª publicação dele ligada ao festival e o único dos 3 creators silenciosos que deu sinal de disponibilidade. Se há entrega contratada com ele, a semana 2 é agora — e ele chega sem nenhuma marca tageada, ou seja, com espaço livre."
-     },
-     {
-      "tone": "neg",
-      "t": "🚨 A Chilli Beans virou 'a marca de todos os shows' dela",
-      "s": "No post de ontem a @divasuburbana escreveu que <b>'assim como em TODOS os shows, @chillibeansoficial esteve comigo'</b>. Não é um publi pontual: é uma marca instalada como presença recorrente no ritual dela. É exatamente o lugar que a Ipiranga poderia ocupar com pochete e leque — item que acompanha a creator em todo festival — e que hoje está ocupado por outra categoria."
-     },
-     {
-      "tone": "pos",
-      "t": "✅ A tirolesa mostrou o modelo: experiência gera post sem briefing",
-      "s": "'<b>Uma lenda no palco e outra lenda na tirolesa</b>' — a creator publicou espontaneamente a atração, sem contrato, junto com o @portalpopline. Somado ao 'obrigada @itau' pelo encontro com a Pabllo Vittar, o padrão da semana 1 fica claro: <b>o que os creators publicam de graça é experiência vivida, não mensagem de marca</b>. A entrega da semana 2 deveria ser um convite ao Espaço Ipiranga, não um roteiro."
-     },
-     {
-      "tone": "pos",
-      "t": "✅ Curva de audiência: o pico é sempre a noite de show",
-      "s": "Encerramento da semana 1 com Calvin Harris (<b>4,8 mil curtidas, 188 comentários, 215 shares</b>) e Elton John/Dua Lipa na madrugada (2,3 mil e 1,7 mil). Somado ao recorde de sábado (31 mil curtidas, 3 mil shares), a leitura é consistente nos 4 dias: <b>publicar durante o show rende de 3 a 10× mais que publicar na véspera</b>. Vale travar isso no cronograma dos dias 11, 12 e 13."
-     }
-    ],
-    "note": "Coleta de 08/09 às 10h00 nos 5 perfis logados. Métricas lidas na própria publicação. Contador de curtidas oculto pelo autor em 2 posts (@vittorfernando 07/09 e o collab do @erijakson de 04/09) e não exposto em 4 posts de 02/09 e no post Beats (01/09): campos em branco. Marcas = perfis marcados na legenda + marcas nomeadas no texto + marca que comentou no post; 'collab' quando é publicação conjunta."
-   }
+ "window": "Publicações sobre Rock in Rio a partir de 01/09/2026",
+ "updatedFrom": "coleta de 17/09 às 16h31 via perfis logados (Claude para Chrome)",
+ "headline": "Festival encerrado em 14/09: 40 publicações novas desde a coleta de 08/09 — o Itaú assinou a semana 2 do @jeffmattias (#ItaúnoRockinRio2026) e ganhou agradecimento público da @divasuburbana; a Ipiranga fecha as duas semanas do RiR com zero menções nos 5 perfis (86 posts na janela).",
+ "creators": [
+  {
+   "handle": "@divasuburbana",
+   "nome": "Desirré Andrade",
+   "status": "ativo",
+   "posts": 73,
+   "citouIpiranga": false,
+   "resumo": "32 publicações novas desde 08/09, cobrindo toda a semana 2: Stray Kids, Ne-Yo, J Balvin, Jão, Ivete Sangalo, Zara Larsson e Halsey. Melhor entrega do período: Zara cantando 'Midnight Sun' (22 mil likes, 678 shares). Agradeceu publicamente o Itaú no encontro com Jão ('OBRIGADA @itau') e colaborou com Rádio Globo, RiR Lisboa e Portal PopLine. Fechou o festival com 73 posts — e nenhuma menção à Ipiranga."
+  },
+  {
+   "handle": "@jeffmattias",
+   "nome": "Jeff Mattias",
+   "status": "ativo",
+   "posts": 10,
+   "citouIpiranga": false,
+   "resumo": "Acordou na semana 2: 6 posts novos, com os dois maiores do período (react da Anitta pós-RiR, 27 mil likes; Zara Larsson, 22 mil). Fez o fim de semana como convidado do Itaú — abertura do Alok, K-pop e despedida com a hashtag de campanha #ItaúnoRockinRio2026 — depois de estrear na área VIP a convite da Natura (08/09). Desde 15/09 voltou aos reacts de TV (A Fazenda 18)."
+  },
+  {
+   "handle": "@vittorfernando",
+   "nome": "Vittor Fernando",
+   "status": "3 posts",
+   "posts": 3,
+   "citouIpiranga": false,
+   "resumo": "Entregou 2 posts na semana 2: 'that's rock in rio' (com a rede CAL) e bastidor com os Soulidified ao lado da Warner Music no dia do K-pop. Todos com curtidas ocultas pelo próprio perfil. Depois do festival, voltou a publis de outras marcas (Cinépolis)."
+  },
+  {
+   "handle": "@cassialourencogomes",
+   "nome": "Cássia Lourenço",
+   "status": "silencioso",
+   "posts": 0,
+   "citouIpiranga": false,
+   "resumo": "Zerou o festival: nenhuma publicação sobre RiR nas duas semanas. Segue muito ativa comercialmente — anunciou em 17/09 que é a nova embaixadora da Philips (@philipsaudioevideo) e fez publis de SHEIN, Rider e Oakley na mesma semana."
+  },
+  {
+   "handle": "@camilatrianda",
+   "nome": "Camila Trianda",
+   "status": "silencioso",
+   "posts": 0,
+   "citouIpiranga": false,
+   "resumo": "Zerou o festival: nenhuma publicação sobre RiR. Último post em 14/09 (conteúdo de casal e gastronomia carioca com @sermota); sem publicar há 3 dias."
+  }
+ ],
+ "posts": [
+  {
+   "date": "15/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Show da Halsey no festival — 'muito mais personalidade que na GP Week' (#rockinrio #halsey)",
+   "likes": 666,
+   "coments": 22,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdUjU0esrLh/"
+  },
+  {
+   "date": "15/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'2 continentes, 1 festival' — balanço RiR Lisboa + Brasil, 'Que venha 2028!' (curtidas ocultas no perfil parceiro)",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "@welkermaciel",
+   "url": "https://www.instagram.com/welkermaciel/reel/DdT_DrtxpkZ/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Zara Larsson canta 'Midnight Sun' nas alturas — melhor post do período",
+   "likes": 22000,
+   "coments": 129,
+   "shares": 678,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdQMTZatSKz/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "Show da Zara Larsson — 'foi para gays e mulheres, FOI TUDO' (#rir)",
+   "likes": 22000,
+   "coments": 213,
+   "shares": 360,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/DdQPH_zNWbd/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@jeffmattias",
+   "tipo": "Feed",
+   "tema": "Despedida: 'Último dia perfeito de #RockInRio com @itau, até 2028' + #ItaúnoRockinRio2026",
+   "likes": 1644,
+   "coments": 32,
+   "shares": null,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/p/DdR8vIVj1uR/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "Post-balanço emocional: 'trabalhar com o meu festival favorito' — retrospectiva desde 2022",
+   "likes": 5148,
+   "coments": 212,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/DdR8l7wCVtK/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Áudio viral relembrando o dia do Soulidified (#soulidified #rockinrio)",
+   "likes": 370,
+   "coments": 14,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdSVjFktFij/"
+  },
+  {
+   "date": "14/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'É literalmente MÁGICO viver a música MÁGICO' — Jão ao vivo",
+   "likes": 237,
+   "coments": 4,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdSCrzRp27o/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Ivete Sangalo na chuva — 'não tem chuva que tire a energia' (sem legenda; coautoria com portal)",
+   "likes": 6982,
+   "coments": 204,
+   "shares": 359,
+   "marcas": [],
+   "collab": "@portalpopline",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdPagZismx5/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "'Trends fofas no dia da Zara' (#rockinrio2026)",
+   "likes": 4103,
+   "coments": 31,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/DdPSdQtGvPK/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Nossa diva sueca' — chegada de Zara Larsson",
+   "likes": 5854,
+   "coments": 60,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdQFYMPN7qe/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'DIA DE ZARA ONE PILOTS — TWENTY LARSSON': público personalizado para os dois headliners",
+   "likes": 1852,
+   "coments": 24,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdPJR-4MKbP/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'BRASIL' — Zara Larsson (#zaralarsson #rockinrio)",
+   "likes": 1440,
+   "coments": 13,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdQbN89s3k0/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Ivete Sangalo 'monumento histórico do Brasil' (#rockinrio2026)",
+   "likes": 1318,
+   "coments": 48,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdPg25hMdJy/"
+  },
+  {
+   "date": "13/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Dennis em Lisboa e no Rio — post do perfil oficial do RiR Lisboa com ela",
+   "likes": 721,
+   "coments": 16,
+   "shares": null,
+   "marcas": [],
+   "collab": "@rockinriolisboa",
+   "url": "https://www.instagram.com/rockinriolisboa/reel/DdPwHDjqCO6/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@jeffmattias",
+   "tipo": "Feed",
+   "tema": "'Primeira vez do K-pop no @rockinrio foi icônico com @itau' — Stray Kids",
+   "likes": 2332,
+   "coments": 20,
+   "shares": null,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/p/DdMpq46ib17/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Stray Kids no Palco Mundo (sem legenda, coautoria) — 2º maior post do período",
+   "likes": 11900,
+   "coments": 188,
+   "shares": 693,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdLKlDdNU2h/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@vittorfernando",
+   "tipo": "Reel",
+   "tema": "'that's rock in rio 🎸🇧🇷' — primeiro conteúdo dele dentro do festival (curtidas ocultas)",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [
+    "@calnetwork"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/vittorfernando/reel/DdM7jteRgyi/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Pedro leva Melody para 'Jetski' no show do J Balvin",
+   "likes": 1480,
+   "coments": 34,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdNF2SEsk2n/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Throwback Pedro Sampaio: Lisboa e Brasil no mesmo ano",
+   "likes": 1564,
+   "coments": 18,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdM-tyrMpQu/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'O funk deixou a música perfeita pra dançar' (#rockinrio)",
+   "likes": 3374,
+   "coments": 38,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdM2AChslSs/"
+  },
+  {
+   "date": "12/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Que sensação boa é ouvir AURORA' — Jão ao vivo (#jao #rockinrio)",
+   "likes": 2010,
+   "coments": 20,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdLiGTSMh_S/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "Abertura do Alok no Palco Mundo com show de drones — 'obg @itau pelo convite'",
+   "likes": 13000,
+   "coments": 224,
+   "shares": 302,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/DdKyS59tyOG/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "Encontro com Jão no Pavilhão Itaú — 'OBRIGADA @itau ⭐'",
+   "likes": 3143,
+   "coments": 83,
+   "shares": null,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/DdLEcaZNI94/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@vittorfernando",
+   "tipo": "Reel",
+   "tema": "'vem no jamal' — bastidor com os Soulidified e a Warner Music no dia do K-pop (curtidas ocultas)",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [
+    "@warnermusicbr"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/vittorfernando/reel/DdKy4G5Rspj/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Diva carismática é diva brasileira' — Soulidified no palco",
+   "likes": 7273,
+   "coments": 135,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdKjfOrs-3o/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'K-POP IN RIO — o Rock in Rio tá lotado de stays'",
+   "likes": 5780,
+   "coments": 85,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdKL-3usHbT/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'É dia de K-pop no Rock in Rio' — Stray Kids (#straykids)",
+   "likes": 3942,
+   "coments": 38,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdKCAR7sZBi/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "1º show, 1º Rock in Rio, 1º show de K-pop — reação de fã estreante",
+   "likes": 828,
+   "coments": 20,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdKmoTOsCXS/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Melhores amizades vivendo o RiR (curtidas ocultas no perfil parceiro)",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "@welkermaciel",
+   "url": "https://www.instagram.com/welkermaciel/reel/DdKk6oGxShM/"
+  },
+  {
+   "date": "11/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Rádio Globo pergunta qual foi o show favorito da 4ª edição dela",
+   "likes": 994,
+   "coments": 23,
+   "shares": null,
+   "marcas": [],
+   "collab": "@radio.globo",
+   "url": "https://www.instagram.com/radio.globo/reel/DdK8iVwNQba/"
+  },
+  {
+   "date": "10/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Ne-Yo canta 'Beautiful Monster' — 'música que eu sonhava ver ao vivo'",
+   "likes": 1006,
+   "coments": 36,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdIPHgsNobG/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "React: Anitta detonando os participantes do Estrelas da Casa após o show no RiR — maior post do período",
+   "likes": 27000,
+   "coments": 597,
+   "shares": 397,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/DdERGbAivD9/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Anúncio: 'VAI TER JAO NO ROCK IN RIO' — show no Pavilhão Itaú após o Palco Mundo",
+   "likes": 5045,
+   "coments": 206,
+   "shares": null,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdEYxIUsqt1/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Passarela montada para o dia 11 — 'ARRASA STRAY KIDS'",
+   "likes": 3779,
+   "coments": 152,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdFmhE6t4Rz/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Dia 11 foi um dos dias mais especiais do Rock in Rio dos últimos anos'",
+   "likes": 3229,
+   "coments": 206,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdEyAEBskfj/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Fãs de pop e kpop: chegou a nossa vez de ser feliz na Cidade do Rock' (curtidas ocultas no perfil parceiro)",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "@erijakson",
+   "url": "https://www.instagram.com/erijakson/reel/DdELYMGRtTv/"
+  },
+  {
+   "date": "09/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Encerramento com Black Eyed Peas (#blackeyedpeas #rockinrio)",
+   "likes": 364,
+   "coments": 5,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdFcAKNMmER/"
+  },
+  {
+   "date": "08/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "1ª vez na área VIP do RiR a convite da Natura — 'chame mais, chame sempre' (#NaturaNoRockInRio)",
+   "likes": 4711,
+   "coments": 167,
+   "shares": null,
+   "marcas": [
+    "@naturabroficial"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/DdB_HbrRciF/"
+  },
+  {
+   "date": "08/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Eu sabia que viver intensamente ia ter um preço na chuva' (#rockinrio2026)",
+   "likes": 1444,
+   "coments": 50,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdDMvT5xqWq/"
+  },
+  {
+   "date": "08/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — balanço do último dia da semana 1; comentários com histórias de estreia no festival",
+   "likes": 1769,
+   "coments": 46,
+   "shares": 26,
+   "marcas": [],
+   "collab": "@erijakson",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdA3hwXsWkE/"
+  },
+  {
+   "date": "08/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'REPRESENTAMOS POR AQUI SIM DUA LIPA' — Elton John e Dua Lipa no encerramento",
+   "likes": 2337,
+   "coments": 17,
+   "shares": 71,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdA1nxessi5/"
+  },
+  {
+   "date": "08/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'O pessoal cantando e emocionado por aqui' — Elton John",
+   "likes": 1703,
+   "coments": 24,
+   "shares": 83,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdAqzR8Q2oJ/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'FOFÍSSIMO!' — momento do público no dia 4",
+   "likes": 1258,
+   "coments": 20,
+   "shares": 35,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdAnWpbNIao/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Uma lenda no palco e outra lenda na TIROLESA' — ativação de experiência virando conteúdo espontâneo",
+   "likes": 1126,
+   "coments": 24,
+   "shares": 15,
+   "marcas": [
+    "@portalpopline"
+   ],
+   "collab": "@portalpopline",
+   "url": "https://www.instagram.com/divasuburbana/reel/DdAcvo6MVkq/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'O show do Calvin Harris foi bom DEMAIS' — melhor post do dia 4",
+   "likes": 4809,
+   "coments": 188,
+   "shares": 215,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc_3t3Cs7LW/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Look do dia com óculos @chillibeansoficial — parceria citada como recorrente ('assim como em TODOS os shows')",
+   "likes": 1121,
+   "coments": 28,
+   "shares": 17,
+   "marcas": [
+    "@chillibeansoficial"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc_wtILMI9_/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@vittorfernando",
+   "tipo": "Feed",
+   "tema": "'🎸 2026' — 1ª publicação dele sobre o festival: voltou de Londres e postou do Rio de Janeiro",
+   "likes": null,
+   "coments": 54,
+   "shares": 11,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/vittorfernando/p/Dc_rKqLET35/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Black Eyed Peas, você moldou a minha adolescência' — encerramento do dia 3",
+   "likes": 505,
+   "coments": 13,
+   "shares": 38,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc_gT7ysZVs/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — balanço do dia de chuva; comentário mais curtido é crítico ('DETESTEI a experiência de ir ao RiR com chuva', 94 curtidas)",
+   "likes": 1783,
+   "coments": 78,
+   "shares": 15,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc-dHY3MmZb/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Pista de dança na chuva no show do Calvin Harris — publicação conjunta com o fã-clube da marca do artista",
+   "likes": 1840,
+   "coments": 15,
+   "shares": 77,
+   "marcas": [
+    "@calvinharrisbrasil"
+   ],
+   "collab": "@calvinharrisbrasil",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc-YlqoME94/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'O dinheiro a gente recupera… essa experiência, não' — Calvin Harris",
+   "likes": 1641,
+   "coments": 11,
+   "shares": 43,
+   "marcas": [],
+   "collab": "@matheuscarvalh.o",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc-LDjguaDm/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — momento nostalgia do dia 3 (Ne-Yo)",
+   "likes": 2644,
+   "coments": 45,
+   "shares": 142,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc-KAwMt8mM/"
+  },
+  {
+   "date": "07/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "'Eu e a maioral né? Te amo @pabllovittar — OBRIGADA @itau' — encontro com a artista viabilizado pelo Itaú",
+   "likes": 2629,
+   "coments": 63,
+   "shares": 31,
+   "marcas": [
+    "@itau",
+    "@pabllovittar"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/Dc-I_hHNwXb/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — momento de show; @ifoodbrasil comentou no post ('#iFoodNoRockinRio2026')",
+   "likes": 2954,
+   "coments": 40,
+   "shares": 73,
+   "marcas": [
+    "@ifoodbrasil"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc93LLjN-MN/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'FINALMENTE VIVEMOS ESSE HIT AO VIVO!!' — maior post da janela: 31 mil curtidas e 3 mil compartilhamentos",
+   "likes": 31000,
+   "coments": 473,
+   "shares": 3000,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc9vYsjs9CB/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Esse é o significado?' — momento de show do dia 3",
+   "likes": 21400,
+   "coments": 390,
+   "shares": 1700,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc9oeBoMuUh/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "'LETS GOOO' — dia 3 com Ne-Yo, Nelly e Black Eyed Peas",
+   "likes": 2430,
+   "coments": 62,
+   "shares": 16,
+   "marcas": [
+    "@rockinrio"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/Dc9ByLdFLis/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — clima/chegada no dia 3",
+   "likes": 772,
+   "coments": 15,
+   "shares": 10,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc9WRQAsIdK/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'A GENTE TÁ PREPARADO, CHUVAAAA!' — encarando a chuva no dia 3",
+   "likes": 2372,
+   "coments": 34,
+   "shares": 49,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc9CfwEMkIu/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Tour pela Cidade do Rock de Lisboa (Parque Tejo) — publicação conjunta com o perfil do festival",
+   "likes": 597,
+   "coments": 11,
+   "shares": 11,
+   "marcas": [
+    "@rockinriolisboa"
+   ],
+   "collab": "@rockinriolisboa",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc9ArYfR09g/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Sem legenda — chuva no dia 3; comentários no tom 'com ou sem chuva a gente vai'",
+   "likes": 2502,
+   "coments": 98,
+   "shares": 44,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc8pyI-galw/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Ativação/experiência na Cidade do Rock — @itau comentou no post ('#ItaúnoRockinRio2026') e o público pergunta como agendar",
+   "likes": 973,
+   "coments": 39,
+   "shares": 12,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc7tT2Rtf7R/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'Deixa aqui o seu feedback' — caixa de opinião sobre o dia 2",
+   "likes": 745,
+   "coments": 146,
+   "shares": 15,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc7rHf2NH-y/"
+  },
+  {
+   "date": "06/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "'NINGUÉM ME TIRA DO PALCO HOJE' — recorde de compartilhamentos da janela",
+   "likes": 6239,
+   "coments": 136,
+   "shares": 330,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc7jBe6tRGZ/"
+  },
+  {
+   "date": "05/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "'Vc piscou e já passou o segundo dia de Rock in Rio'",
+   "likes": 2389,
+   "coments": 81,
+   "shares": 7,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/Dc7fQafjbYa/"
+  },
+  {
+   "date": "05/09",
+   "handle": "@jeffmattias",
+   "tipo": "Feed",
+   "tema": "'Dia de Rock bebe' — look/registro do dia 2",
+   "likes": 1828,
+   "coments": 55,
+   "shares": 13,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/p/Dc7XyaKjTK_/"
+  },
+  {
+   "date": "05/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "React sobre episódio de homofobia envolvendo @jvgoncalves__, publicado com #rockinrio — maior post da janela",
+   "likes": 61300,
+   "coments": 3500,
+   "shares": 3500,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/Dc6oACCpfSq/"
+  },
+  {
+   "date": "05/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "#publicidade Parque Bondinho (Pão de Açúcar) — programação especial e DJ no sunset nos dias de RiR",
+   "likes": 330,
+   "coments": 23,
+   "shares": 15,
+   "marcas": [
+    "@parquebondinho",
+    "Pão de Açúcar"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc6YvU7tLhZ/"
+  },
+  {
+   "date": "05/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Serviço: como VOLTAR do Rock in Rio de BRT (bilhete expresso R$29, pagamento pelo Jaé)",
+   "likes": 5100,
+   "coments": 228,
+   "shares": 57,
+   "marcas": [],
+   "collab": "@migueelmartinezzz",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc5D0LbNjrQ/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Humor: 'Pov: seu grupo de amigos se preparando pro RiR 2026'",
+   "likes": null,
+   "coments": 33,
+   "shares": 37,
+   "marcas": [],
+   "collab": "@erijakson + 4 perfis",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc4og1bRPOS/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Brindes e ativações da Cidade do Rock — comentários perguntam fila, mirante do Itaú e minicâmera",
+   "likes": 4158,
+   "coments": 56,
+   "shares": 54,
+   "marcas": [
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc4WyP4JB0b/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "'PRIMEIRO DIA DE ROCK IN RIO!' — look de abertura",
+   "likes": 2300,
+   "coments": 149,
+   "shares": 13,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/Dc4DLMAFHne/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Serviço: pizza da Parmê na Cidade do Rock (R$39,90, sabores e preços)",
+   "likes": 455,
+   "coments": 20,
+   "shares": 16,
+   "marcas": [
+    "Parmê"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc333UcRpU6/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "#Publi @metro_rio — como chegar: metrô 24h, BRT Expresso R$29 pelo Jaé, Jardim Oceânico",
+   "likes": 3826,
+   "coments": 1640,
+   "shares": 82,
+   "marcas": [
+    "@metro_rio"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc3qYkatqgD/"
+  },
+  {
+   "date": "04/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "Humor/looks: 'Primeiro dia de Rock in Rio 2026… acho que errei o look'",
+   "likes": 4177,
+   "coments": 91,
+   "shares": 30,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/jeffmattias/reel/Dc4It2YJLxw/"
+  },
+  {
+   "date": "03/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "#publi Brinde minicâmera iFood + Itaú (#iFoodNoRockinRio2026)",
+   "likes": 9550,
+   "coments": 168,
+   "shares": 79,
+   "marcas": [
+    "@ifoodbrasil",
+    "@itau"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc1_yvRMfbT/"
+  },
+  {
+   "date": "03/09",
+   "handle": "@divasuburbana",
+   "tipo": "Feed",
+   "tema": "Guia de comidas da Cidade do Rock",
+   "likes": 2891,
+   "coments": 72,
+   "shares": 51,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/Dc1El1YoCNN/"
+  },
+  {
+   "date": "03/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Dicas finais de véspera — respostas ao público (companhia, ponto de encontro, brindes)",
+   "likes": 690,
+   "coments": 50,
+   "shares": 12,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc2joYatVSs/"
+  },
+  {
+   "date": "03/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "New Dance Order — dica de fluxo/saída",
+   "likes": 809,
+   "coments": 45,
+   "shares": 14,
+   "marcas": [],
+   "collab": "2 perfis",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dc05rD8MesR/"
+  },
+  {
+   "date": "02/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "COMEÇOU ♥️ — chegada ao festival",
+   "likes": 6143,
+   "coments": 96,
+   "shares": 268,
+   "marcas": [
+    "@rockinrio"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/DczYZZbstIh/"
+  },
+  {
+   "date": "02/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Comfort Zone: como e onde é",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "@erijakson",
+   "url": "https://www.instagram.com/divasuburbana/reel/DczA1jYK2OM/"
+  },
+  {
+   "date": "02/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "O Rock in Rio está pronto!",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/Dcy6cmMM7Tt/"
+  },
+  {
+   "date": "02/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Adorei essa ideia!!!",
+   "likes": null,
+   "coments": null,
+   "shares": null,
+   "marcas": [],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/reel/DczhYN6Mjt0/"
+  },
+  {
+   "date": "02/09",
+   "handle": "@jeffmattias",
+   "tipo": "Reel",
+   "tema": "Rock in Rio 2026 vai começar, agora é oficial",
+   "likes": 2882,
+   "coments": 49,
+   "shares": 37,
+   "marcas": [],
+   "collab": "4 perfis",
+   "url": "https://www.instagram.com/jeffmattias/p/DczZkUqJa27/"
+  },
+  {
+   "date": "01/09",
+   "handle": "@divasuburbana",
+   "tipo": "Reel",
+   "tema": "Beats Pink Lemonade confirmada — looks",
+   "likes": 1800,
+   "coments": null,
+   "shares": null,
+   "marcas": [
+    "Beats"
+   ],
+   "collab": "",
+   "url": "https://www.instagram.com/divasuburbana/p/DcxMpKpNTv6/"
+  }
+ ],
+ "alerts": [
+  {
+   "tone": "neg",
+   "t": "🚨 Itaú fechou o funil completo: convite, hashtag de campanha e 'obrigada' público",
+   "s": "O @jeffmattias fez a semana 2 inteira como convidado do Itaú — abertura do Alok (<b>13 mil likes</b>), K-pop com Stray Kids e despedida com a hashtag <b>#ItaúnoRockinRio2026</b> — e a @divasuburbana agradeceu publicamente (<b>'OBRIGADA @itau ⭐'</b>) no encontro com Jão no Pavilhão Itaú. Dois dos cinco embaixadores do plano saíram do festival associados ao banco. A Ipiranga não aparece em nenhuma das <b>86 publicações</b> da janela."
+  },
+  {
+   "tone": "neg",
+   "t": "🚨 Cássia e Camila zeraram o festival — e a Cássia anunciou hoje a Philips",
+   "s": "As duas fecharam o RiR sem nenhum post sobre o festival. A @cassialourencogomes anunciou <b>hoje (17/09)</b> que é a nova <b>embaixadora da Philips</b>, com publis de SHEIN, Rider e Oakley na mesma semana — agenda comercial cheia, só que sem RiR. A @camilatrianda não publica desde 14/09. Se havia entrega contratada com elas para o festival, ela não aconteceu."
+  },
+  {
+   "tone": "pos",
+   "t": "✅ Jeff entregou os 2 maiores posts do período — e o K-pop puxou a semana 2",
+   "s": "React da Anitta pós-RiR (<b>27 mil likes, 397 shares</b>) e show da Zara Larsson (<b>22 mil likes</b>) lideraram. Na @divasuburbana, Zara 'Midnight Sun' (<b>22 mil likes, 678 shares</b>) e Stray Kids no Palco Mundo (<b>11,9 mil likes, 693 shares</b>) foram os campeões — pop feminino e K-pop foram o motor de engajamento da semana."
+  },
+  {
+   "tone": "pos",
+   "t": "✅ Vittor entregou dentro do festival; janela agora é pós-evento",
+   "s": "O @vittorfernando publicou <b>'that's rock in rio'</b> e bastidor com os Soulidified — primeiro conteúdo dele de dentro da Cidade do Rock, sem marca do plano tageada. Com o festival encerrado em <b>14/09</b> ('até 2028', nas despedidas), a última janela natural de associação é o conteúdo de balanço/pós-evento que os perfis ainda estão publicando (diva postou recap dia 15, Jeff em 14)."
+  }
+ ],
+ "note": "Festival encerrado em 14/09 (próxima edição: 2028). Rodada cobre 08–17/09; likes/comentários e datas via metadados dos posts; shares levantados nos 6 posts de maior engajamento (demais exibem '—'). Contadores do @vittorfernando e dos posts em coautoria hospedados em perfis parceiros ficam ocultos pelo Instagram. 4 reels sem legenda da @divasuburbana ficaram fora por não permitirem confirmar vínculo com o festival; paginação do Instagram limitou a conferência fina da noite de 08/09 no perfil dela."
+}
   },
   {
    "date": "14/09/2026",
